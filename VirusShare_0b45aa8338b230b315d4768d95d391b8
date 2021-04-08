@@ -1,0 +1,777 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/3332739511-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
+<meta content='Viajando por Indonesia' name='TITLE'/>
+<meta content='Viajando por Indonesia' name='DESCRIPTION'/>
+<meta content='Indonesia,Sumatra,Sulawesi,Tana Toraja,viaje,viajar,mochilero,mochila,Blog,viajes,aventura,indonesio,recomendaciones,visado,vacunas' name='KEYWORDS'/>
+<meta content='Daniel Ballesteros' name='AUTHOR'/>
+<meta content='Mon, 31 Dec 2054 00:00:01 PST' http-equiv='EXPIRES'/>
+<meta content='iso-8859-1' http-equiv='CHARSET'/>
+<meta content='Español' http-equiv='CONTENT-LANGUAGE'/>
+<meta content='Documento' http-equiv='VW96.OBJECT TYPE'/>
+<meta content='General' name='RATING'/>
+<meta content='index,follow' name='ROBOTS'/>
+<meta content='2 days' name='REVISIT-AFTER'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='http://viajandoporindonesia.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://viajandoporindonesia.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Viajando por Indonesia - Atom" href="http://viajandoporindonesia.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Viajando por Indonesia - RSS" href="http://viajandoporindonesia.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Viajando por Indonesia - Atom" href="https://www.blogger.com/feeds/7885958407701111165/posts/default" />
+<link rel="me" href="https://www.blogger.com/profile/14065311296314037760" />
+<link rel="openid.server" href="https://www.blogger.com/openid-server.g" />
+<link rel="openid.delegate" href="http://viajandoporindonesia.blogspot.com/" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='http://viajandoporindonesia.blogspot.com/' property='og:url'/>
+<meta content='Viajando por Indonesia' property='og:title'/>
+<meta content='' property='og:description'/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>Viajando por Indonesia</title>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Theme Name: Japan Style
+Theme URI: http://themes.gooddesignweb.com/
+Description: Japan-style Wordpress Theme by Good Design Web (http://blog.gooddesignweb.com)
+Version: 1.2
+Author: Good Design Web
+Author URI: http://blog.gooddesignweb.com/
+Tags: fixed width, two columns, right sidebar, valid XHTML, valid CSS
+Converted to blogger template by FalconHive.com
+Theme URI: http://www.falconhive.com/2008/12/blogger-template-japan-style.html
+Version: 1.2
+Date: 02 December 2008
+Author URI: http://www.falconhive.com
+----------------------------------------------- */
+#navbar-iframe {
+height:0px;
+visibility:hidden;
+display:none;
+}
+/* Reset
+-------------------------------------------------------------------*/
+* { padding: 0; margin: 0; }
+ul li, ol li { list-style: none; list-style-position: inside; }
+ol ol, ul ul, ol ul, ul ol { margin-left: 20px; margin-bottom: 0; }
+img { border: none; }
+/* Body
+-------------------------------------------------------------------*/
+body {
+margin: 0 auto;
+font: 12px/18px Verdana, Helvetica, Arial, Geneva, sans-serif;
+color: #333;
+background: #DED5BA url(http://1.bp.blogspot.com/_kMUpUqMmduA/STr1V0RlTjI/AAAAAAAAAVM/EIg4_SzjPis/s1600/bg.jpg) no-repeat center top;
+}
+*:first-child+html body {background: #DED5BA url(http://1.bp.blogspot.com/_kMUpUqMmduA/STr1V0RlTjI/AAAAAAAAAVM/EIg4_SzjPis/s1600/bg.jpg) no-repeat center -8px;}
+* html body {background: #DED5BA url(http://1.bp.blogspot.com/_kMUpUqMmduA/STr1V0RlTjI/AAAAAAAAAVM/EIg4_SzjPis/s1600/bg.jpg) no-repeat center -8px;}
+h1, h2, h3, h4, h5, h6 { font-family: "Trebuchet MS", Helvetica, Arial, Geneva, Sans-Serif; color: #414d4c; }
+h1 { font-size: 22px; line-height: 26px; margin-bottom: 10px; }
+h2 { font-size: 12px; line-height: 24px; margin-bottom: 7px; font-weight: normal; }
+h3 { font-size: 18px; line-height: 22px; margin-bottom: 5px; }
+h4 { font-size: 16px; line-height: 20px; margin-bottom: 5px; }
+h5 { font-size: 14px; line-height: 18px; margin-bottom: 5px; }
+h6 { font-size: 12px; line-height: 16px; margin-bottom: 5px; }
+h1 span { color: #999; }
+a { color: #3b5a4a; }
+a:hover { color: #3b5a4a; }
+a:visited { color: #3b5a4a; }
+p { margin-bottom: 10px; }
+input, textarea { font: 12px Verdana, Helvetica, Arial, Geneva, sans-serif; }
+blockquote {
+font: italic 14px/22px Georgia, Serif;
+padding: 5px 10px;
+margin-bottom: 20px;
+background: #e4ede2;
+}
+/* Header
+-------------------------------------------------------------------*/
+#header {
+width: 960px;
+height: 300px;
+margin: 0 auto;
+background: url(http://3.bp.blogspot.com/_kMUpUqMmduA/STr1XIgCU2I/AAAAAAAAAVk/ggjKs94ir1Q/s1600/header_bg.jpg) no-repeat center;
+position: relative;
+}
+#header h1 {
+width: 230px;
+position: absolute;
+top: 80px;
+left: 160px;
+font: 20px Verdana;
+padding-top: 10px;
+margin-bottom: 0;
+color: #fff;
+}
+#header h1 a {
+color: #333;
+text-decoration: none;
+}
+#header span {
+position: absolute;
+top: 195px;
+left: 150px;
+padding-left: 10px;
+font-size: 12px;
+color: #333;
+}
+/* Container
+-------------------------------------------------------------------*/
+#wrapper {
+width: 900px;
+overflow: hidden;
+background: url(http://1.bp.blogspot.com/_kMUpUqMmduA/STr1WnKOTeI/AAAAAAAAAVU/f1dtQO5D1us/s1600/container_bg.jpg) repeat-y;
+margin: 0 auto;
+}
+/* Navigation
+-------------------------------------------------------------------*/
+#nav {
+width: 800px;
+height: 45px;
+margin-left: 30px;
+position: relative;
+top: 225px;
+}
+#nav ul {
+margin-left: 10px;
+position: absolute;
+bottom: -1px;
+overflow: hidden;
+height: 45px;
+}
+#nav ul li {
+float: left;
+margin-right: 3px;
+padding-left: 3px;
+font-weight: bold;
+}
+#nav ul li.current_page_item {
+width: 122px;
+height: 45px;
+}
+#nav ul li a {
+width: 122px;
+height: 45px;
+background: url(http://3.bp.blogspot.com/_kMUpUqMmduA/STr1YEAG5-I/AAAAAAAAAV8/r_AavKIJ_f4/s1600/nav_bg.jpg) no-repeat;
+display: block;
+text-decoration: none;
+color: #333;
+line-height: 45px;
+text-align: center;
+}
+#nav ul li a:hover { color: #555; }
+#nav ul li.current_page_item a { background: url(http://3.bp.blogspot.com/_kMUpUqMmduA/STr1YEAG5-I/AAAAAAAAAV8/r_AavKIJ_f4/s1600/nav_bg.jpg) no-repeat; color: #ff0000; }
+/* Content
+-------------------------------------------------------------------*/
+#content {
+width: 600px;
+float: left;
+padding: 15px;
+}
+#content .post { margin-bottom: 40px; }
+#content .post p { margin-bottom: 20px; }
+#content .post h3 a { text-decoration: none; font-size: 20px; padding-left: 20px; }
+#content .post-list li { list-style: none; }
+#content .post .post-info {
+clear: both;
+font-size: 11px;
+color: #777;
+padding: 15px 5px 5px 5px;
+margin-bottom: 20px;
+text-align: right;
+background: url(http://1.bp.blogspot.com/_kMUpUqMmduA/STr1X0stUrI/AAAAAAAAAV0/dE-TrmdKkts/s1600/meta_bg.gif) top center no-repeat;
+}
+#content .post .post-info a { color: #333; text-decoration:none; }
+#content .post .post-info a:hover { color: #555; text-decoration:none; }
+#content #pages { text-align: center; }
+#content #pages a { font: bold 20px "Trebuchet MS"; color: #414d4c; text-decoration: none; }
+#content #pages a:hover { color: #1e2726; }
+#content ul, ol, dl { margin-bottom: 20px; }
+#content ul {
+list-style: disc;
+list-style-position: inside;
+}
+#content ol {
+list-style: decimal;
+list-style-position: inside;
+}
+#content dl dt {
+font-weight: bold;
+}
+#content dl dd {
+font-style: italic;
+margin: 0 0 5px 20px;
+color: #555;
+}
+.aligncenter { margin-left: auto; margin-right: auto; }
+.alignleft { float: left; margin: 5px 15px 10px 0; }
+.alignright { float: right; margin: 5px 0 10px 15px; }
+/* Sidebar
+-------------------------------------------------------------------*/
+#sidebar {
+width: 235px;
+float: right;
+font-size: 11px;
+margin: 0 10px 10px 0;
+color: #555;
+}
+#sidebar h2 {
+font: normal 18px Verdana, Arial, Sans-Serif;
+color: #444;
+background: url(http://2.bp.blogspot.com/_kMUpUqMmduA/STr1Yg3jkUI/AAAAAAAAAWk/4dU5rQEYCgU/s1600/sidetitle_bg.gif) no-repeat;
+padding-left: 23px;
+}
+#sidebar a { color: #38463e; text-decoration: none; }
+#sidebar a:hover { color: #38463e; }
+#sidebar ul {
+width: 205px;
+padding: 15px;
+border-bottom: 1px solid #bfccbf;
+overflow: hidden;
+color: #555;
+}
+#sidebar li {
+background: url(http://3.bp.blogspot.com/_kMUpUqMmduA/STr1VjKA3sI/AAAAAAAAAU8/1336n5XAfZA/s1600/arrow.gif) no-repeat 2px 8px;
+padding-left: 12px;
+}
+#sidebar a:hover { color: #777; }
+#ArchiveList {
+width: 205px;
+padding: 15px;
+border-bottom: 1px solid #bfccbf;
+overflow: hidden;
+color: #555;
+}
+/* Search
+-------------------------------------------------------------------*/
+#search {}
+#search input { border: 0; }
+#search #s {
+width: 150px;
+height: 26px;
+padding: 3px 0 4px 5px;
+margin-right: -4px;
+vertical-align: top;
+line-height: 0;
+font: normal 12px Verdana;
+vertical-align: top;
+color: #333;
+background: url(http://2.bp.blogspot.com/_kMUpUqMmduA/STr1YZugVsI/AAAAAAAAAWM/2eTyFCESph8/s1600/search_bg.jpg) no-repeat;
+}
+#search #searchsubmit {
+width: 56px;
+height: 26px;
+text-align: center;
+background: url(http://3.bp.blogspot.com/_kMUpUqMmduA/STr1YVeRyAI/AAAAAAAAAWU/ituZwlDJx5U/s1600/searchbt_bg.jpg) no-repeat;
+font-weight: bold;
+}
+.bt{
+cursor: pointer;
+}
+/* Comments
+-------------------------------------------------------------------*/
+.comments-title {
+text-align: center;
+font: bold 17px "Trebuchet MS", Helvetica, Arial, Geneva;
+color: #414d4c;
+}
+#comments .comment {
+background: #E7E8EB;
+margin-bottom: 10px;
+overflow: hidden;
+width: 600px;
+padding-bottom: 5px;
+}
+#comments .comment .comment-avatar {
+float: left;
+width: 50px;
+padding: 5px 7px;
+}
+#comments .comment .comment-content {
+float: left;
+padding: 10px 15px;
+margin: 5px 5px 0 0;
+width: 500px;
+background: #F7F8F9;
+}
+#comments .comment .comment-content a { color: #444; }
+#comments .comment .comment-info {
+font-size: 11px;
+color: #777;
+margin-bottom: 5px;
+}
+#comments .comment .comment-info span {
+font: bold 16px "Trebuchet MS", Helvetica, Arial, Geneva;
+padding-right: 10px;
+margin-bottom: 5px;
+}
+#comments .comment .comment-info a {
+color: #444;
+text-decoration: none;
+}
+/* Comment Form
+-------------------------------------------------------------------*/
+#commentform {
+background: #F7F8F9;
+border: 5px solid #E7E8EB;
+padding: 10px;
+color: #555;
+}
+#commentform p { margin-bottom: 7px; }
+#commentform textarea {
+width: 565px;
+border: 1px solid #aaa;
+height: 120px;
+}
+#commentform input.text {
+width: 150px;
+border: 1px solid #aaa;
+margin-right: 5px;
+padding: 3px 3px;
+}
+#commentform input#submit {
+width: 148px;
+height: 30px;
+background: url(http://4.bp.blogspot.com/_kMUpUqMmduA/STr1Y3gwv3I/AAAAAAAAAWs/81eg7rIVYa8/s1600/submit_bg.gif) no-repeat;
+text-align: center;
+border: none;
+}
+/* Footer
+-------------------------------------------------------------------*/
+#footer {
+width: 960px;
+height: 295px;
+margin: 0 auto;
+background: url(http://4.bp.blogspot.com/_kMUpUqMmduA/STr1XKuvqrI/AAAAAAAAAVc/GQg3sKFj7hk/s1600/footer_bg.jpg) no-repeat;
+position: relative;
+}
+.rss {
+float: right;
+width: 200px;
+height: 73px;
+}
+#footer-inner {
+clear: both;
+text-align: center;
+width: 900px;
+margin: 0 auto;
+padding-top: 10px;
+}
+#footer p {
+font-size: 11px;
+margin: 0;
+}
+#footer a { color: #ff0000; }
+#blog-pager-newer-link{padding-left:20px;float:left}
+#blog-pager-older-link{padding-right:20px;float:right}
+#blog-pager{text-align:center}
+
+--></style><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7885958407701111165&amp;zx=e36c86bc-f1ff-4b0c-804f-a61c222aaa0c' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7885958407701111165&amp;zx=e36c86bc-f1ff-4b0c-804f-a61c222aaa0c' rel='stylesheet'/></noscript>
+</head>
+<body>
+<div class='navbar section' id='navbar'><div class='widget Navbar' data-version='1' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d7885958407701111165\x26blogName\x3dViajando+por+Indonesia\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dBLUE\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttp://viajandoporindonesia.blogspot.com/search\x26blogLocale\x3des\x26v\x3d2\x26homepageUrl\x3dhttp://viajandoporindonesia.blogspot.com/\x26vt\x3d-6512753634482393556',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<!-- Header -->
+<div id='header'>
+<!-- Blogtitle -->
+<h1><a href='http://viajandoporindonesia.blogspot.com/'>Viajando por Indonesia</a></h1>
+<h2><span>Blog de nuestro viaje por Indonesia</span></h2>
+<!-- /Blogtitle -->
+<!-- Menu -->
+<div id='nav'>
+<ul>
+<li><a href='http://viajandoporindonesia.blogspot.com/'>Inicio</a></li>
+<li><a href='http://viajandoporindonesia.blogspot.com/feeds/posts/default'>Posts RSS</a></li>
+<li><a href='http://viajandoporindonesia.blogspot.com/feeds/comments/default'>Comments RSS</a></li>
+<li><a href='mailto:danibn78@yahoo.es' title='danibn78@yahoo.es'>email</a></li>
+</ul>
+</div>
+<!-- /Menu -->
+</div>
+<!--/Header-->
+<!-- Wrapper -->
+<div id='wrapper'>
+<!-- Content -->
+<div id='content'>
+<div class='content1 section' id='content1'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts'>
+<!--Can't find substitution for tag [adStart]-->
+<div class='post' id='post'>
+<div class='title'>
+<a name='6548699536220194269'></a>
+<span class='title'>
+<h3><a href='http://viajandoporindonesia.blogspot.com/2009/10/itinerario-final.html'>Itinerario final</a></h3>
+</span>
+</div>
+<div class='entry'>
+<div style="text-align: justify;">   Finalmente ya estamos de vuelta... Indonesia nos ha dejado muy buen sabor de boca. Es un <span class="blsp-spelling-corrected" id="SPELLING_ERROR_0">país</span> muy poco explotado para el turismo, al menos en las zonas en la que estuvimos, y eso aunque tiene sus inconvenientes (carreteras y hoteles precarios entre otras instalaciones) sobre todo es una ventaja ya que nos ha permitido ver una cultura en su estado puro.<br /><br />   La gente de indonesia es excepcional. Siempre dispuestos a echarte una mano de forma incondicional. Puesto que no están muy acostumbrados al turismo no lo hacen esperando sacar algo de <span class="blsp-spelling-corrected" id="SPELLING_ERROR_1">ti</span> sino que su ayuda es sincera. Un ejemplo: en <span class="blsp-spelling-error" id="SPELLING_ERROR_2">Jogyakarta</span> fuimos a visitar un templo que estaba cerrado. Preguntamos a un hombre en el <span class="blsp-spelling-error" id="SPELLING_ERROR_3">mercadillo</span> callejero y dejó su puesto y se vino con nosotros, colándonos por la parte de atrás. Después de estarse casi una hora con <span class="blsp-spelling-corrected" id="SPELLING_ERROR_4">nosotros</span> y dejar su negocio desatendido, le quisimos dar una propina y no aceptó. Nos dijo que él nos lo enseñaba porque vivía allí y quería que lo conociéramos pero no quería nada a cambio.<br /><br />   En zonas como <span class="blsp-spelling-error" id="SPELLING_ERROR_5">Sulawesi</span> todo el mundo te va saludando con una sonrisa en la boca y con un "<span class="blsp-spelling-error" id="SPELLING_ERROR_6">Hello</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_7">mister</span>!" No había dicho tantos <span class="blsp-spelling-error" id="SPELLING_ERROR_8">hello</span> juntos desde que vinimos de China... De verdad, aunque sea un tópico lo mejor que nos encontramos en el <span class="blsp-spelling-corrected" id="SPELLING_ERROR_9">país</span> fue la gente.<br /><br />   De sitios para ver, pues decir que la selva de <span class="blsp-spelling-error" id="SPELLING_ERROR_10">Sumatra</span> es espectacular. Pudimos hacer un <span class="blsp-spelling-error" id="SPELLING_ERROR_11">treking</span> viendo orangutanes en libertad. Además <span class="blsp-spelling-error" id="SPELLING_ERROR_12">Berastagi</span> me sorprendió bastante, ya que pudimos <span class="blsp-spelling-corrected" id="SPELLING_ERROR_13">experimentar</span> la vida auténtica en Indonesia. Los templos de <span class="blsp-spelling-error" id="SPELLING_ERROR_14">Borobudur</span> y <span class="blsp-spelling-error" id="SPELLING_ERROR_15">Prambanan</span> en <span class="blsp-spelling-error" id="SPELLING_ERROR_16">Jogyakarta</span> son una maravilla. Pero sin duda lo que más nos llamó la atención fue <span class="blsp-spelling-error" id="SPELLING_ERROR_17">Tana</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_18">Toraja</span> en <span class="blsp-spelling-error" id="SPELLING_ERROR_19">Sulawesi</span>, una cultura que gira en torno al <span class="blsp-spelling-error" id="SPELLING_ERROR_20">entarramiento</span>. Allí pudimos acudir a un funeral y la experiencia fue inolvidable. Es <span class="blsp-spelling-corrected" id="SPELLING_ERROR_21">increíble</span> las tradiciones que tiene la gente que vive en este lugar tan remoto del planeta. Después de <span class="blsp-spelling-error" id="SPELLING_ERROR_22">Tana</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_23">Toraja</span> visitamos <span class="blsp-spelling-error" id="SPELLING_ERROR_24">Bira</span> para pasar unos <span class="blsp-spelling-corrected" id="SPELLING_ERROR_25">días</span> de playa. Aunque las instalaciones eran precarias la playa era espectacular., de las más bonitas que hemos visto. Y desde aquí volvimos a la <span class="blsp-spelling-error" id="SPELLING_ERROR_26">civilización</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_27">via</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_28">Kuala</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_29">Lumpur</span>: mega-centros comerciales, rascacielos como Las <span class="blsp-spelling-error" id="SPELLING_ERROR_30">Petronas</span>, etc.<br /><br />    También tengo que contar que sufrimos un percance de salud en el camino. En <span class="blsp-spelling-error" id="SPELLING_ERROR_31">Jogyakarta</span> le picó a Susana por la noche algo en la pierna, como si fuera un mosquito. Salimos de viaje hacia <span class="blsp-spelling-error" id="SPELLING_ERROR_32">Tana</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_33">Toraja</span> y cuando llegamos allí después de un <span class="blsp-spelling-corrected" id="SPELLING_ERROR_34">día</span> de viaje, Susana no podía andar. Tenía la pierna totalmente inflamada desde el <span class="blsp-spelling-corrected" id="SPELLING_ERROR_35">glúteo</span> a la rodilla y un agujero negro de 3cm y medio. Allí visitamos al doctor <span class="blsp-spelling-error" id="SPELLING_ERROR_36">Marsuki</span> y en unas condiciones muy precarias nos atendió bastante bien. Nos dijo que el veneno que tenía era como de una <span class="blsp-spelling-corrected" id="SPELLING_ERROR_37">serpiente</span>, aunque no era una serpiente porque no tenía la marca y se Susana se hubiera enterado cuando le picó. Nos <span class="blsp-spelling-corrected" id="SPELLING_ERROR_38">dio</span> <span class="blsp-spelling-corrected" id="SPELLING_ERROR_39">antibióticos</span> y nos dijo que de momento no <span class="blsp-spelling-corrected" id="SPELLING_ERROR_40">fuéramos</span> al hospital (que nos pillaba a 12 horas en coche) sino que le <span class="blsp-spelling-corrected" id="SPELLING_ERROR_41">visitáramos</span> todos los días y que él la iba a tratar. Como no tenía fiebre así hicimos. A los dos días le empezó a bajar la inflamación y a supurar la herida. El doctor <span class="blsp-spelling-error" id="SPELLING_ERROR_42">Marsuki</span> nos <span class="blsp-spelling-corrected" id="SPELLING_ERROR_43">dio</span> <span class="blsp-spelling-corrected" id="SPELLING_ERROR_44">antibióticos</span> para el <span class="blsp-spelling-error" id="SPELLING_ERROR_45">resto</span> del viaje y aguantamos hasta Madrid. Las condiciones sanitarias en <span class="blsp-spelling-error" id="SPELLING_ERROR_46">Sulawesi</span> son muy precarias, pero se desvivieron por <span class="blsp-spelling-error" id="SPELLING_ERROR_47">atendernos</span> y en todo momento estuvimos bien cuidados. Tendríais que ver cómo era la consulta del médico... pero ante todo &#161;gracias doctor <span class="blsp-spelling-error" id="SPELLING_ERROR_48">Marsuki</span>! Eso sí, cuando llegamos a Madrid fuimos al hospital y aquello parecía un capítulo de <span class="blsp-spelling-error" id="SPELLING_ERROR_49">house</span>: un montón de doctores mirando que era eso que tenía en la pierna y que traía de Indonesia. En el hospital, finalmente tuvieron que quitarle la infección con un bisturí en un <span class="blsp-spelling-corrected" id="SPELLING_ERROR_50">quirófano</span> y la consecuencia fueron 15 <span class="blsp-spelling-corrected" id="SPELLING_ERROR_51">días</span> sin poder andar y una cicatriz en forma de circulo de 3.5cm. En fin, gajes de la vida del viajero... Pero bueno, Susana ya está bien y eso sí, cada vez que lo cuenta no <span class="blsp-spelling-corrected" id="SPELLING_ERROR_52">veáis</span> como alucina la gente.<br /><br />   Como conclusión del viaje, solamente decir que Indonesia nos ha fascinado. Pero es tan grande que todavía nos quedarían al menos cuatro viajes más para conocer todo lo que nos dejamos atrás.<br /><br />   El itinerario final que realizamos fue el siguiente:<br /></div>31-<span class="blsp-spelling-error" id="SPELLING_ERROR_53">jul</span>      Madrid (17:10) - Londres (18:35)<br />01-<span class="blsp-spelling-error" id="SPELLING_ERROR_54">ago</span>    Londres (18:10) - <span class="blsp-spelling-error" id="SPELLING_ERROR_55">Kuala</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_56">Lumpur</span><br />02-<span class="blsp-spelling-error" id="SPELLING_ERROR_57">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_58">Kuala</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_59">Lumpur</span> (14:10) - <span class="blsp-spelling-error" id="SPELLING_ERROR_60">Medan</span> (16:55) (noche <span class="blsp-spelling-error" id="SPELLING_ERROR_61">Medan</span>)<br />03-<span class="blsp-spelling-error" id="SPELLING_ERROR_62">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_63">Medan</span> - <span class="blsp-spelling-error" id="SPELLING_ERROR_64">Bukit</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_65">Lawang</span> (6h)<br />04-<span class="blsp-spelling-error" id="SPELLING_ERROR_66">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_67">Gunung</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_68">Leuser</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_69">National</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_70">Park</span> : <span class="blsp-spelling-error" id="SPELLING_ERROR_71">treking</span><br />05-<span class="blsp-spelling-error" id="SPELLING_ERROR_72">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_73">Gunung</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_74">Leuser</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_75">National</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_76">Park</span> : <span class="blsp-spelling-error" id="SPELLING_ERROR_77">treking</span><br />06-<span class="blsp-spelling-error" id="SPELLING_ERROR_78">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_79">Bukit</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_80">Lawang</span> - <span class="blsp-spelling-error" id="SPELLING_ERROR_81">Berastagi</span> (5h)<br />07-<span class="blsp-spelling-error" id="SPELLING_ERROR_82">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_83">Berastagi</span><br />08-<span class="blsp-spelling-error" id="SPELLING_ERROR_84">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_85">Berastagi</span> (aldeas <span class="blsp-spelling-error" id="SPELLING_ERROR_86">Batak</span>: <span class="blsp-spelling-error" id="SPELLING_ERROR_87">Lingga</span>, <span class="blsp-spelling-error" id="SPELLING_ERROR_88">Dokam</span>, <span class="blsp-spelling-error" id="SPELLING_ERROR_89">Sipiso</span>-Piso, Tumba del rey) - <span class="blsp-spelling-error" id="SPELLING_ERROR_90">Danau</span> Toba(6h)<br />09-<span class="blsp-spelling-error" id="SPELLING_ERROR_91">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_92">Danau</span> Toba<br />10-<span class="blsp-spelling-error" id="SPELLING_ERROR_93">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_94">Danau</span> Toba<br />11-<span class="blsp-spelling-error" id="SPELLING_ERROR_95">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_96">Danau</span> Toba - <span class="blsp-spelling-error" id="SPELLING_ERROR_97">Medan</span> (5h) - Vuelo <span class="blsp-spelling-error" id="SPELLING_ERROR_98">Jakarta</span><br />12-<span class="blsp-spelling-error" id="SPELLING_ERROR_99">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_100">Jakarta</span> - Vuelo a <span class="blsp-spelling-error" id="SPELLING_ERROR_101">Jogyakarta</span><br />13-<span class="blsp-spelling-error" id="SPELLING_ERROR_102">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_103">Jogyakarta</span> (<span class="blsp-spelling-error" id="SPELLING_ERROR_104">Borobudur</span> - <span class="blsp-spelling-error" id="SPELLING_ERROR_105">Prambanan</span>)<br />14-<span class="blsp-spelling-error" id="SPELLING_ERROR_106">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_107">Jogyakarta</span><br />15-<span class="blsp-spelling-error" id="SPELLING_ERROR_108">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_109">Jogyakarta</span><br />16-<span class="blsp-spelling-error" id="SPELLING_ERROR_110">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_111">Jogyakarta</span> - Vuelo <span class="blsp-spelling-error" id="SPELLING_ERROR_112">Makassar</span>  - <span class="blsp-spelling-error" id="SPELLING_ERROR_113">Tana</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_114">Toraja</span> (12h)              <br />17-<span class="blsp-spelling-error" id="SPELLING_ERROR_115">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_116">Tana</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_117">Toraja</span><br />18-<span class="blsp-spelling-error" id="SPELLING_ERROR_118">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_119">Tana</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_120">Toraja</span><br />19-<span class="blsp-spelling-error" id="SPELLING_ERROR_121">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_122">Tana</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_123">Toraja</span><br />20-<span class="blsp-spelling-error" id="SPELLING_ERROR_124">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_125">Tana</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_126">Toraja</span> - <span class="blsp-spelling-error" id="SPELLING_ERROR_127">Autobus</span> nocturno a <span class="blsp-spelling-error" id="SPELLING_ERROR_128">Makassar</span><br />21-<span class="blsp-spelling-error" id="SPELLING_ERROR_129">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_130">Makassar</span> - <span class="blsp-spelling-error" id="SPELLING_ERROR_131">Bira</span> (4:30h)                <br />22-<span class="blsp-spelling-error" id="SPELLING_ERROR_132">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_133">Bira</span><br />23-<span class="blsp-spelling-error" id="SPELLING_ERROR_134">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_135">Bira</span><br />24-<span class="blsp-spelling-error" id="SPELLING_ERROR_136">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_137">Bira</span> - <span class="blsp-spelling-error" id="SPELLING_ERROR_138">Makassar</span><br />25-<span class="blsp-spelling-error" id="SPELLING_ERROR_139">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_140">Makassar</span><br />26-<span class="blsp-spelling-error" id="SPELLING_ERROR_141">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_142">Makassar</span> - <span class="blsp-spelling-error" id="SPELLING_ERROR_143">Kuala</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_144">Lumpur</span><br />27-<span class="blsp-spelling-error" id="SPELLING_ERROR_145">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_146">Kuala</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_147">Lumpur</span><br />28-<span class="blsp-spelling-error" id="SPELLING_ERROR_148">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_149">Kuala</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_150">Lumpur</span><br />29-<span class="blsp-spelling-error" id="SPELLING_ERROR_151">ago</span>    <span class="blsp-spelling-error" id="SPELLING_ERROR_152">Kuala</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_153">Lumpur</span> (9:50) - Londres (16:50) --- Londres (19:00) - Madrid (22:30)
+</div>
+<div class='post-info'>
+19:47 |
+  Category:   |
+  
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7885958407701111165&postID=6548699536220194269' onclick=''>
+0
+comentarios
+</a>
+</div>
+</div>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+</span>
+<div class='post' id='post'>
+<div class='title'>
+<a name='4760904161721562283'></a>
+<span class='title'>
+<h3><a href='http://viajandoporindonesia.blogspot.com/2009/08/desde-kuala-lumpur.html'>Desde Kuala Lumpur</a></h3>
+</span>
+</div>
+<div class='entry'>
+<div style="text-align: justify;">   Por fin hemos vuelto a la civilazacion y estamos pasando los ultimos dias de las vacaciones en Kuala Lumpur, Malasia. Aprovechamos la semana anterior para ir a la playa de Bira en el sur de Sulawesi. La playa es una pasada, arena blanca y agua cristalina, de las mas bonitas que hemos estado,  pero eso si, las infraestructuras eran bastante precarias. Ya os ensenyaremos las fotos a la vuelta.<br /><br />   En Kuala Lumpur hemos aprovechado para visitar la ciudad y como no ver las torres Petronas. Impresionantes. Tambien, como era de esperar, han caido algunas compras. Esto es el paraiso de los centros comerciales y las tiendas (muy peligroso para la tarjeta de credito).<br /><br />   Nos vemos dentro de poco.<br /><br /></div>    Besos
+</div>
+<div class='post-info'>
+11:52 |
+  Category:   |
+  
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7885958407701111165&postID=4760904161721562283' onclick=''>
+0
+comentarios
+</a>
+</div>
+</div>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+</span>
+<div class='post' id='post'>
+<div class='title'>
+<a name='5728108218206483473'></a>
+<span class='title'>
+<h3><a href='http://viajandoporindonesia.blogspot.com/2009/08/desde-tana-toraja.html'>Desde Tana Toraja</a></h3>
+</span>
+</div>
+<div class='entry'>
+<div style="text-align: justify;">Hola<br /><br />   Estamos en Tana Toraja, en el centro de Sulawesi. Estos dias los hemos estado dedicando a ver paisajes espectaculares y pueblos muy antiguos. Aqui son animistas y le dan mucha importancia a los enterramientos. Hemos tenido la oportunidad de ir a una ceremonia funeraria. Cuando alguien muere la familia ahorra dinero para hacer un gran funeral al que invitan a todo el pueblo y sacrifican cerdos y bufalos a mansalva. Muchas veces tienen que tener al muerto (aqui llamado tomate) en la casa 2 años o incluso mas hasta que tienen dinero suficiente para el funeral. Nos tiramos el dia entero en el funeral y fue muy interesante. Aqui si podemos decir: Cuate, aqui hay tomate!!<br /><br />   Tambien hemos visto multitud de tumbas en cuevas, en montañas e incluso a los niños pequeños los entierran dentro de arboles.<br /><br />   Esta noche ya nos vamos para la playa en un autobus supuestamente amplio. Ya veremos... porque aqui llegamos en un coche para 7 personas en el que nos metimos 11, por una carretera  infernal durante 10 horas. Toda una experiencia irrepetible.<br /><br />  Disfrutaremos descansando los ultimos dias de playa. Os dejamos las ultimas fotos.<br /><br />   Besos<br /><br />Mercado de las aves:<br /></div><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0MOzEWsXI/AAAAAAAAGGM/NFrGWFLN7ZQ/s1600-h/IMG_6217.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371963378889044338" src="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0MOzEWsXI/AAAAAAAAGGM/NFrGWFLN7ZQ/s320/IMG_6217.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_LdD2QsbgZOs/So0Ly9QkLKI/AAAAAAAAGGE/OlQpIcyRJBw/s1600-h/IMG_6245.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371962900588276898" src="http://3.bp.blogspot.com/_LdD2QsbgZOs/So0Ly9QkLKI/AAAAAAAAGGE/OlQpIcyRJBw/s320/IMG_6245.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a>En un Tuc Tuc (pobre hombre lo que suda!!):<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_LdD2QsbgZOs/So0LyVdD6iI/AAAAAAAAGF8/qC50nlL0INw/s1600-h/IMG_6259.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371962889903270434" src="http://4.bp.blogspot.com/_LdD2QsbgZOs/So0LyVdD6iI/AAAAAAAAGF8/qC50nlL0INw/s320/IMG_6259.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a>En Tana Toraja:<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_LdD2QsbgZOs/So0Lx-lZOEI/AAAAAAAAGF0/Qq-WF3vLe_8/s1600-h/IMG_6270.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371962883764205634" src="http://4.bp.blogspot.com/_LdD2QsbgZOs/So0Lx-lZOEI/AAAAAAAAGF0/Qq-WF3vLe_8/s320/IMG_6270.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 214px; height: 320px;" /></a>Rasurando la cena:<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_LdD2QsbgZOs/So0LxQTFqSI/AAAAAAAAGFs/opkHVo3rRvE/s1600-h/IMG_6322.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371962871339395362" src="http://2.bp.blogspot.com/_LdD2QsbgZOs/So0LxQTFqSI/AAAAAAAAGFs/opkHVo3rRvE/s320/IMG_6322.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a>El tomate (muerto) del funeral:<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0LxKOFZxI/AAAAAAAAGFk/EEHvKZBI36g/s1600-h/IMG_6324.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371962869707794194" src="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0LxKOFZxI/AAAAAAAAGFk/EEHvKZBI36g/s320/IMG_6324.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a>Las dolientes, masticando tabaco:<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_LdD2QsbgZOs/So0LB2RnF1I/AAAAAAAAGFc/hZLISjCpQ1E/s1600-h/IMG_6325.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371962056900024146" src="http://2.bp.blogspot.com/_LdD2QsbgZOs/So0LB2RnF1I/AAAAAAAAGFc/hZLISjCpQ1E/s320/IMG_6325.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_LdD2QsbgZOs/So0LBdjyy4I/AAAAAAAAGFU/iCjb02gJsqE/s1600-h/IMG_6341.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371962050265402242" src="http://3.bp.blogspot.com/_LdD2QsbgZOs/So0LBdjyy4I/AAAAAAAAGFU/iCjb02gJsqE/s320/IMG_6341.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_LdD2QsbgZOs/So0LBKNfvvI/AAAAAAAAGFM/1qQtI9Kmkko/s1600-h/IMG_6372.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371962045071605490" src="http://3.bp.blogspot.com/_LdD2QsbgZOs/So0LBKNfvvI/AAAAAAAAGFM/1qQtI9Kmkko/s320/IMG_6372.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 214px; height: 320px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_LdD2QsbgZOs/So0LAvDE5QI/AAAAAAAAGFE/me1RBGbm64o/s1600-h/IMG_6388.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371962037780145410" src="http://2.bp.blogspot.com/_LdD2QsbgZOs/So0LAvDE5QI/AAAAAAAAGFE/me1RBGbm64o/s320/IMG_6388.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_LdD2QsbgZOs/So0LAEmeyTI/AAAAAAAAGE8/rfWJsjSpExo/s1600-h/IMG_6399.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371962026385918258" src="http://2.bp.blogspot.com/_LdD2QsbgZOs/So0LAEmeyTI/AAAAAAAAGE8/rfWJsjSpExo/s320/IMG_6399.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0KS9_6fcI/AAAAAAAAGE0/yOgjuwn97-w/s1600-h/IMG_6417.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371961251519430082" src="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0KS9_6fcI/AAAAAAAAGE0/yOgjuwn97-w/s320/IMG_6417.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0KSVhUdpI/AAAAAAAAGEs/VNjoxoymHN0/s1600-h/IMG_6431.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371961240653690514" src="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0KSVhUdpI/AAAAAAAAGEs/VNjoxoymHN0/s320/IMG_6431.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0KR0IeOGI/AAAAAAAAGEk/5IESA3EUnzM/s1600-h/IMG_6444.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371961231691102306" src="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0KR0IeOGI/AAAAAAAAGEk/5IESA3EUnzM/s320/IMG_6444.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 214px; height: 320px;" /></a>Pelea de bufalos en el funeral:<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_LdD2QsbgZOs/So0KRVkNT3I/AAAAAAAAGEc/jBQLig2e9SU/s1600-h/IMG_6448.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371961223485935474" src="http://2.bp.blogspot.com/_LdD2QsbgZOs/So0KRVkNT3I/AAAAAAAAGEc/jBQLig2e9SU/s320/IMG_6448.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_LdD2QsbgZOs/So0KRM7Wi5I/AAAAAAAAGEU/5vFvbc-4VCA/s1600-h/IMG_6469.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371961221167090578" src="http://2.bp.blogspot.com/_LdD2QsbgZOs/So0KRM7Wi5I/AAAAAAAAGEU/5vFvbc-4VCA/s320/IMG_6469.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0JTvajyOI/AAAAAAAAGEM/eSXAVRR5tcc/s1600-h/IMG_6480.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371960165272897762" src="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0JTvajyOI/AAAAAAAAGEM/eSXAVRR5tcc/s320/IMG_6480.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_LdD2QsbgZOs/So0JTYO3TNI/AAAAAAAAGEE/4klsvn7KrLs/s1600-h/IMG_6541.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371960159049829586" src="http://4.bp.blogspot.com/_LdD2QsbgZOs/So0JTYO3TNI/AAAAAAAAGEE/4klsvn7KrLs/s320/IMG_6541.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0JS-DWcMI/AAAAAAAAGD8/FWeZHm1FnLc/s1600-h/IMG_6547.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371960152022216898" src="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0JS-DWcMI/AAAAAAAAGD8/FWeZHm1FnLc/s320/IMG_6547.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0JSUf8mlI/AAAAAAAAGD0/xj1_Kxjbhlo/s1600-h/IMG_6580.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371960140867869266" src="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0JSUf8mlI/AAAAAAAAGD0/xj1_Kxjbhlo/s320/IMG_6580.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a>Ataudes colgando de la montaña:<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_LdD2QsbgZOs/So0JSKBA3JI/AAAAAAAAGDs/rCl2Pwwys98/s1600-h/IMG_6620.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371960138053770386" src="http://4.bp.blogspot.com/_LdD2QsbgZOs/So0JSKBA3JI/AAAAAAAAGDs/rCl2Pwwys98/s320/IMG_6620.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a>Arbol en el que entierran a los bebes:<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0Ich13xpI/AAAAAAAAGDk/-Ts1cYLyvMA/s1600-h/IMG_6637.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371959216736552594" src="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0Ich13xpI/AAAAAAAAGDk/-Ts1cYLyvMA/s320/IMG_6637.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 214px; height: 320px;" /></a>Tumbas en la montaña con Tau Tau (imagenes que representan al muerto):<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_LdD2QsbgZOs/So0Icf-xnfI/AAAAAAAAGDc/Dl-dvSjfpRs/s1600-h/IMG_6647.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371959216237026802" src="http://2.bp.blogspot.com/_LdD2QsbgZOs/So0Icf-xnfI/AAAAAAAAGDc/Dl-dvSjfpRs/s320/IMG_6647.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_LdD2QsbgZOs/So0Ib4QpGjI/AAAAAAAAGDU/ErDS_732sRM/s1600-h/IMG_6665.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371959205574548018" src="http://4.bp.blogspot.com/_LdD2QsbgZOs/So0Ib4QpGjI/AAAAAAAAGDU/ErDS_732sRM/s320/IMG_6665.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 214px; height: 320px;" /></a>Enterramiento en cuevas:<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_LdD2QsbgZOs/So0IbfTaSBI/AAAAAAAAGDM/QN4wIY-sohs/s1600-h/IMG_6684.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371959198875273234" src="http://3.bp.blogspot.com/_LdD2QsbgZOs/So0IbfTaSBI/AAAAAAAAGDM/QN4wIY-sohs/s320/IMG_6684.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0Ia2paN-I/AAAAAAAAGDE/zIeMvu3xJrY/s1600-h/IMG_6688.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5371959187961690082" src="http://1.bp.blogspot.com/_LdD2QsbgZOs/So0Ia2paN-I/AAAAAAAAGDE/zIeMvu3xJrY/s320/IMG_6688.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 214px; height: 320px;" /></a>
+</div>
+<div class='post-info'>
+10:21 |
+  Category:   |
+  
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7885958407701111165&postID=5728108218206483473' onclick=''>
+1 comentarios
+</a>
+</div>
+</div>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+</span>
+<div class='post' id='post'>
+<div class='title'>
+<a name='7199545039348150608'></a>
+<span class='title'>
+<h3><a href='http://viajandoporindonesia.blogspot.com/2009/08/desde-yogyakarta.html'>Desde Yogyakarta</a></h3>
+</span>
+</div>
+<div class='entry'>
+Hola<br /><br />Despues de un monton de dias sin podernos conectar, por fin hemos conseguido un sitio con Internet. Nos despedimos de Java rumbo a Sulawesi.<br /><br />Durante estos dias hemos estado en Yakarta y en Jogyakarta, en Java. Lo de Yakarta una odiesa, ya que perdimos un vuelo y casi nos toca dormir en el aeropuerto. En Jogyakarta hemos aprovechado para ver el Borobudur (el mayor templo budista de Asia) y el Prambanam (un templo induhista) y como no, ha habido tiempo para las compras... ufff.... creo que solo se nos han quedado 2 tiendas por entrar de los 3.000.000 que hay aqui. Ha sido mas cansado que el treking por la jungla.<br /><br />Mañana cogemos un vuelo a Sulawesi. Si hay internet os iremos contando las novedades. De momento disfrutad de las ultimas fotos.<br /><br />Besos<br /><br />Subida al volcan Sybayak en Berastagui:<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_LdD2QsbgZOs/Soa4OaLBglI/AAAAAAAAGC8/i-c5dx24tEE/s1600-h/IMG_5639.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370182163369132626" src="http://3.bp.blogspot.com/_LdD2QsbgZOs/Soa4OaLBglI/AAAAAAAAGC8/i-c5dx24tEE/s320/IMG_5639.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_LdD2QsbgZOs/Soa4N_YPzlI/AAAAAAAAGC0/IcmmNoGifvY/s1600-h/IMG_5663.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370182156176838226" src="http://3.bp.blogspot.com/_LdD2QsbgZOs/Soa4N_YPzlI/AAAAAAAAGC0/IcmmNoGifvY/s320/IMG_5663.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 214px; height: 320px;" /></a>Bañito en piscina de aguas volcanicas (pestazo de azufre!!):<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_LdD2QsbgZOs/Soa4NvLr6MI/AAAAAAAAGCs/oY07Jer5mHA/s1600-h/IMG_5711.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370182151829186754" src="http://2.bp.blogspot.com/_LdD2QsbgZOs/Soa4NvLr6MI/AAAAAAAAGCs/oY07Jer5mHA/s320/IMG_5711.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br />Aldeas Batak y Lago Toba:<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_LdD2QsbgZOs/Soa4NPdMB2I/AAAAAAAAGCk/GCUEa2rcl-s/s1600-h/IMG_5751.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370182143312660322" src="http://1.bp.blogspot.com/_LdD2QsbgZOs/Soa4NPdMB2I/AAAAAAAAGCk/GCUEa2rcl-s/s320/IMG_5751.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_LdD2QsbgZOs/Soa4M5RJcnI/AAAAAAAAGCc/MQ0p2GBkELM/s1600-h/IMG_5764.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370182137356579442" src="http://1.bp.blogspot.com/_LdD2QsbgZOs/Soa4M5RJcnI/AAAAAAAAGCc/MQ0p2GBkELM/s320/IMG_5764.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 214px; height: 320px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_LdD2QsbgZOs/Soa32KN4A1I/AAAAAAAAGCU/4KYr0GAyb6M/s1600-h/IMG_5770.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370181746769265490" src="http://1.bp.blogspot.com/_LdD2QsbgZOs/Soa32KN4A1I/AAAAAAAAGCU/4KYr0GAyb6M/s320/IMG_5770.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_LdD2QsbgZOs/Soa31rZ1JpI/AAAAAAAAGCM/Hfs9vnyMh_A/s1600-h/IMG_5800.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370181738497910418" src="http://4.bp.blogspot.com/_LdD2QsbgZOs/Soa31rZ1JpI/AAAAAAAAGCM/Hfs9vnyMh_A/s320/IMG_5800.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_LdD2QsbgZOs/Soa31EZm8zI/AAAAAAAAGCE/qwbDrOEzR-o/s1600-h/IMG_5804.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370181728027996978" src="http://3.bp.blogspot.com/_LdD2QsbgZOs/Soa31EZm8zI/AAAAAAAAGCE/qwbDrOEzR-o/s320/IMG_5804.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_LdD2QsbgZOs/Soa302MgluI/AAAAAAAAGB8/z8XlqVgxygI/s1600-h/IMG_5807.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370181724214957794" src="http://4.bp.blogspot.com/_LdD2QsbgZOs/Soa302MgluI/AAAAAAAAGB8/z8XlqVgxygI/s320/IMG_5807.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_LdD2QsbgZOs/Soa30QcB34I/AAAAAAAAGB0/PEUR28aATuc/s1600-h/IMG_5817.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370181714079506306" src="http://3.bp.blogspot.com/_LdD2QsbgZOs/Soa30QcB34I/AAAAAAAAGB0/PEUR28aATuc/s320/IMG_5817.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 214px; height: 320px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_LdD2QsbgZOs/Soa3fprUaxI/AAAAAAAAGBs/CIGOJfNJx4w/s1600-h/IMG_5826.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370181360077269778" src="http://3.bp.blogspot.com/_LdD2QsbgZOs/Soa3fprUaxI/AAAAAAAAGBs/CIGOJfNJx4w/s320/IMG_5826.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 214px; height: 320px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_LdD2QsbgZOs/Soa3fA2t9HI/AAAAAAAAGBk/tmJ8Yg-H6AU/s1600-h/IMG_5831.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370181349119226994" src="http://2.bp.blogspot.com/_LdD2QsbgZOs/Soa3fA2t9HI/AAAAAAAAGBk/tmJ8Yg-H6AU/s320/IMG_5831.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_LdD2QsbgZOs/Soa3e_9GivI/AAAAAAAAGBc/YTV3e8PptcA/s1600-h/IMG_5890.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370181348877568754" src="http://2.bp.blogspot.com/_LdD2QsbgZOs/Soa3e_9GivI/AAAAAAAAGBc/YTV3e8PptcA/s320/IMG_5890.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_LdD2QsbgZOs/Soa3eQVXHxI/AAAAAAAAGBU/oH2Hrd0UWh4/s1600-h/IMG_5944.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370181336094416658" src="http://1.bp.blogspot.com/_LdD2QsbgZOs/Soa3eQVXHxI/AAAAAAAAGBU/oH2Hrd0UWh4/s320/IMG_5944.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 214px; height: 320px;" /></a><br />Templos de Borobudur y Prambanam en Yogyakarta:<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_LdD2QsbgZOs/Soa3eCX2LLI/AAAAAAAAGBM/XuiZfV_A3-M/s1600-h/IMG_6016.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370181332346743986" src="http://3.bp.blogspot.com/_LdD2QsbgZOs/Soa3eCX2LLI/AAAAAAAAGBM/XuiZfV_A3-M/s320/IMG_6016.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_LdD2QsbgZOs/Soa3A6v0HMI/AAAAAAAAGBE/YWtRF-r7PW0/s1600-h/IMG_6023.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370180832083582146" src="http://4.bp.blogspot.com/_LdD2QsbgZOs/Soa3A6v0HMI/AAAAAAAAGBE/YWtRF-r7PW0/s320/IMG_6023.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_LdD2QsbgZOs/Soa3AUtEciI/AAAAAAAAGA8/Smt6_bxyTB4/s1600-h/IMG_6043.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370180821871522338" src="http://2.bp.blogspot.com/_LdD2QsbgZOs/Soa3AUtEciI/AAAAAAAAGA8/Smt6_bxyTB4/s320/IMG_6043.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 214px; height: 320px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_LdD2QsbgZOs/Soa2_7gHJ0I/AAAAAAAAGA0/0CBxFs4170g/s1600-h/IMG_6073.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370180815106287426" src="http://3.bp.blogspot.com/_LdD2QsbgZOs/Soa2_7gHJ0I/AAAAAAAAGA0/0CBxFs4170g/s320/IMG_6073.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br />Acoso a las rubias en los templos:<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_LdD2QsbgZOs/Soa2_dT5y7I/AAAAAAAAGAs/YZw-V-z-i9k/s1600-h/IMG_6086.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370180807002016690" src="http://3.bp.blogspot.com/_LdD2QsbgZOs/Soa2_dT5y7I/AAAAAAAAGAs/YZw-V-z-i9k/s320/IMG_6086.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_LdD2QsbgZOs/Soa2-3_H8VI/AAAAAAAAGAk/Aw-SW7M1aWY/s1600-h/IMG_6096.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370180796982751570" src="http://3.bp.blogspot.com/_LdD2QsbgZOs/Soa2-3_H8VI/AAAAAAAAGAk/Aw-SW7M1aWY/s320/IMG_6096.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_LdD2QsbgZOs/Soa2Zwnc3iI/AAAAAAAAGAc/1oM_AWfdryc/s1600-h/IMG_6109.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370180159349251618" src="http://4.bp.blogspot.com/_LdD2QsbgZOs/Soa2Zwnc3iI/AAAAAAAAGAc/1oM_AWfdryc/s320/IMG_6109.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_LdD2QsbgZOs/Soa2ZaRcVtI/AAAAAAAAGAU/BjhIetA9pTs/s1600-h/IMG_6129.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370180153351362258" src="http://2.bp.blogspot.com/_LdD2QsbgZOs/Soa2ZaRcVtI/AAAAAAAAGAU/BjhIetA9pTs/s320/IMG_6129.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 214px; height: 320px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_LdD2QsbgZOs/Soa2X0I2leI/AAAAAAAAGAM/7CpUvsliRLI/s1600-h/IMG_6175.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370180125934917090" src="http://2.bp.blogspot.com/_LdD2QsbgZOs/Soa2X0I2leI/AAAAAAAAGAM/7CpUvsliRLI/s320/IMG_6175.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br />Salida del cole:<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_LdD2QsbgZOs/Soa2XPlH8NI/AAAAAAAAGAE/BS_CTnda0Pc/s1600-h/IMG_6199.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370180116121383122" src="http://4.bp.blogspot.com/_LdD2QsbgZOs/Soa2XPlH8NI/AAAAAAAAGAE/BS_CTnda0Pc/s320/IMG_6199.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_LdD2QsbgZOs/Soa2WuWKi8I/AAAAAAAAF_8/bxzqnlePoUs/s1600-h/IMG_6201.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5370180107200269250" src="http://1.bp.blogspot.com/_LdD2QsbgZOs/Soa2WuWKi8I/AAAAAAAAF_8/bxzqnlePoUs/s320/IMG_6201.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 320px; height: 214px;" /></a><br /><div style="text-align: justify;"> <br /></div>
+</div>
+<div class='post-info'>
+15:18 |
+  Category:   |
+  
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7885958407701111165&postID=7199545039348150608' onclick=''>
+6
+comentarios
+</a>
+</div>
+</div>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+</span>
+<!--Can't find substitution for tag [adEnd]-->
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://viajandoporindonesia.blogspot.com/search?updated-max=2009-08-15T15:18:00%2B02:00&amp;max-results=5' id='Blog1_blog-pager-older-link' title='Entradas antiguas'>Entradas antiguas</a>
+</span>
+</div>
+</div></div>
+<!-- Navigation -->
+<div class='pages'>
+<div class='alignleft'></div>
+<div class='alignright'></div>
+</div>
+<!-- /Navigation -->
+</div>
+<!-- /Content -->
+<!-- Sidebar -->
+<div id='sidebar'>
+<div id='search'>
+<form action='/search' id='searchform' method='get'>
+<p><input id='s' name='q' onclick='value=""' type='text' value='Buscar...'/>
+<input class='bt' id='searchsubmit' type='submit' value='GO'/></p>
+</form>
+</div>
+<div class='sidebar1 section' id='sidebar1'><div class='widget Image' data-version='1' id='Image1'>
+<h2>Nosotros</h2>
+<div class='widget-content'>
+<img alt='Nosotros' height='123' id='Image1_img' src='http://1.bp.blogspot.com/_LdD2QsbgZOs/SbQFSKEiIbI/AAAAAAAAEXc/CQmZkZ3HSKw/S150/nosotros3.jpg' width='150'/>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7885958407701111165&widgetType=Image&widgetId=Image1&action=editWidget&sectionId=sidebar1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image1"));' target='configImage1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' data-version='1' id='Image2'>
+<h2>...y Paco y Laura</h2>
+<div class='widget-content'>
+<img alt='...y Paco y Laura' height='117' id='Image2_img' src='http://4.bp.blogspot.com/_LdD2QsbgZOs/ScTr7Vc0XeI/AAAAAAAAEZ0/x-GRN_2T8yM/S150/Paco+y+Laura.jpg' width='150'/>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7885958407701111165&widgetType=Image&widgetId=Image2&action=editWidget&sectionId=sidebar1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image2"));' target='configImage2' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget LinkList' data-version='1' id='LinkList1'>
+<h2>Preparativos</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://viajandoporindonesia.blogspot.com/2009/03/selamat-pagi-selamat-siang-selamat.html'>Selamat Pagi - Selamat Siang - Selamat Malam</a></li>
+<li><a href='http://viajandoporindonesia.blogspot.com/2009/03/las-vacunas.html'>Las vacunas</a></li>
+<li><a href='http://viajandoporindonesia.blogspot.com/2009/04/el-vuelo.html'>El vuelo</a></li>
+<li><a href='http://viajandoporindonesia.blogspot.com/2009/06/el-visado_02.html'>El visado</a></li>
+<li><a href='http://viajandoporindonesia.blogspot.com/2009/07/el-seguro.html'>El seguro</a></li>
+<li><a href='http://viajandoporindonesia.blogspot.com/2009/07/itinerario-previsto.html'>El itinerario previsto</a></li>
+<li><a href='http://viajandoporindonesia.blogspot.com/2009/07/manana-nos-vamos.html'>Mañana nos vamos</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7885958407701111165&widgetType=LinkList&widgetId=LinkList1&action=editWidget&sectionId=sidebar1' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList1"));' target='configLinkList1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget LinkList' data-version='1' id='LinkList3'>
+<h2>Nuestro viaje</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://viajandoporindonesia.blogspot.com/2009/10/itinerario-final.html'>Itinerario final</a></li>
+<li><a href='http://picasaweb.google.com/danibn78/BukitLawangSumatra#'>Fotos Bukit Lawang</a></li>
+<li><a href='http://picasaweb.google.com/danibn78/BerastagiSumatra#'>Fotos Berastagi</a></li>
+<li><a href='http://picasaweb.google.com/danibn78/AldeasBatakLagoTobaSumatra#'>Fotos aldeas Batak - Lago Toba</a></li>
+<li><a href='http://picasaweb.google.com/danibn78/JogyakartaJava#'>Fotos Jogyakarta</a></li>
+<li><a href='http://picasaweb.google.com/danibn78/TanaTorajaSulawesi#'>Fotos Tana Toraja</a></li>
+<li><a href='http://picasaweb.google.com/danibn78/PlayaDeBiraSulawesi#'>Fotos Bira</a></li>
+<li><a href='http://picasaweb.google.com/danibn78/KualaLumpurMalasya#'>Fotos Kuala Lumpur</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7885958407701111165&widgetType=LinkList&widgetId=LinkList3&action=editWidget&sectionId=sidebar1' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList3"));' target='configLinkList3' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget LinkList' data-version='1' id='LinkList2'>
+<h2>Mensajes desde Indonesia</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://viajandoporindonesia.blogspot.com/2009/08/desde-berastagui.html'>Desde Berastagi</a></li>
+<li><a href='http://viajandoporindonesia.blogspot.com/2009/08/desde-lago-toba.html'>Desde Lago Toba</a></li>
+<li><a href='http://viajandoporindonesia.blogspot.com/2009/08/desde-yogyakarta.html'>Desde Yogyakarta</a></li>
+<li><a href='http://viajandoporindonesia.blogspot.com/2009/08/desde-tana-toraja.html'>Desde Tana Toraja</a></li>
+<li><a href='http://viajandoporindonesia.blogspot.com/2009/08/desde-kuala-lumpur.html'>Desde Kuala Lumpur</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7885958407701111165&widgetType=LinkList&widgetId=LinkList2&action=editWidget&sectionId=sidebar1' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList2"));' target='configLinkList2' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML1'>
+<h2 class='title'>Nos quedan...</h2>
+<div class='widget-content'>
+<table border="0" width="206px" background="http://lh6.ggpht.com/_LdD2QsbgZOs/Sb-WdmXwJkI/AAAAAAAAEYk/seJpVgTIYiw/FondoCuentaAtras.jpg" height="40px" align="center">
+
+<script>
+function calcula()
+{
+hoy = new Date()
+hasta = new Date("Jul 31, 2009 17:10") // Cambiar aquí el valor de la fecha y hora elegida.
+DD = (hasta - hoy) / 86400000
+hh = (DD - Math.floor(DD)) * 24
+mm = (hh - Math.floor(hh)) * 60
+ss = (mm - Math.floor(mm)) * 60
+document.getElementById('hora').innerHTML = Math.floor(DD) + "  dias, " + Math.floor(hh) + " horas, " + Math.floor(mm) + " min y " + Math.floor(ss) + " sg <br> para nuestro viaje"
+if (hasta < hoy)
+{
+document.getElementById('hora').innerHTML = "0 dias, 0 horas, 0 min y 0 sg<br> &#161;&#161;Estamos en  Indonesia!!"
+cleartimeout(tictac)
+}
+else tictac = setTimeout("calcula()",1000)
+}
+</script>
+
+<tr>
+<td>
+<center><div id="hora"><script>calcula()</script></div></center>
+</td>
+</tr>
+</table>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7885958407701111165&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));' target='configHTML1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+<div class='widget BlogList' data-version='1' id='BlogList1'>
+<h2 class='title'>Mi lista de blogs</h2>
+<div class='widget-content'>
+<div class='blog-list-container' id='BlogList1_container'>
+<ul id='BlogList1_blogs'>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/L-poRym9-Cc1N4mdu_88qSj27nxsS_1PpzrkEcNAXwCht4-XsDLrhbSLvl-5aRFSc5hQhzKweumelQDOQGqA3kewmCgkzpz8DU4VE84=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://viajandoporlaosyfilipinas.blogspot.com/' target='_blank'>
+Viajando por Laos y Filipinas</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/VoiLo1fVrzIXs-bMa-m9YH-_YzyxFmgsZNrpCv9UJIrjPbxzCh7mbRDbDJm2qtJ2JJX4CTnxLlHDiSEZ-Z20E7uShwfFNg=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://viajandoporvietnam.blogspot.com/' target='_blank'>
+Viajando por Vietnam</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/ZL0gO9vN8RR-QDH0fTIveJV0RqVKmfZcoTrgIrpWq5ojNA07J0nlovAvZsjvxxgCyeMCFHBC8UjTNRTu2-aOgRo1dZe4=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://viajeachinaytibet.blogspot.com/' target='_blank'>
+Viaje a China y Tibet</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7885958407701111165&widgetType=BlogList&widgetId=BlogList1&action=editWidget&sectionId=sidebar1' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogList1"));' target='configBlogList1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div>
+</div></div>
+</div>
+<!-- /Sidebar -->
+</div>
+<!-- /Wrapper -->
+<!-- Footer -->
+<div id='footer'>
+<div class='rss'>
+<a href='http://viajandoporindonesia.blogspot.com/feeds/posts/default' id='feed'><img alt='rss' src='http://1.bp.blogspot.com/_kMUpUqMmduA/STr1YDRs0zI/AAAAAAAAAWE/HDQw_rUAjpo/s1600/rss.jpg'/></a>
+</div>
+<div id='footer-inner'>
+<p></p>
+<p></p>
+</div>
+</div>
+<!-- /Footer -->
+<script src='https://apis.google.com/js/plusone.js' type='text/javascript'></script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2060351197-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY60rY2RnfCGvoFaTzCG237pIHPXxw:1513199885367';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7885958407701111165','//viajandoporindonesia.blogspot.com/','7885958407701111165');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7885958407701111165', 'title': 'Viajando por Indonesia', 'url': 'http://viajandoporindonesia.blogspot.com/', 'canonicalUrl': 'http://viajandoporindonesia.blogspot.com/', 'homepageUrl': 'http://viajandoporindonesia.blogspot.com/', 'searchUrl': 'http://viajandoporindonesia.blogspot.com/search', 'canonicalHomepageUrl': 'http://viajandoporindonesia.blogspot.com/', 'blogspotFaviconUrl': 'http://viajandoporindonesia.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'es', 'localeUnderscoreDelimited': 'es', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Viajando por Indonesia - Atom\x22 href\x3d\x22http://viajandoporindonesia.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Viajando por Indonesia - RSS\x22 href\x3d\x22http://viajandoporindonesia.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Viajando por Indonesia - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/7885958407701111165/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/14065311296314037760\x22 /\x3e\n', 'openIdOpTag': '\x3clink rel\x3d\x22openid.server\x22 href\x3d\x22https://www.blogger.com/openid-server.g\x22 /\x3e\n\x3clink rel\x3d\x22openid.delegate\x22 href\x3d\x22http://viajandoporindonesia.blogspot.com/\x22 /\x3e\n', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/a5ac1a6a2bfacc9c', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sharing': {'platforms': [{'name': 'Obtener enlace', 'key': 'link', 'shareMessage': 'Obtener enlace', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Compartir en Facebook', 'target': 'facebook'}, {'name': 'Escribe un blog', 'key': 'blogThis', 'shareMessage': 'Escribe un blog', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Compartir en Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Compartir en Pinterest', 'target': 'pinterest'}, {'name': 'Google+', 'key': 'googlePlus', 'shareMessage': 'Compartir en Google+', 'target': 'googleplus'}, {'name': 'Correo electrónico', 'key': 'email', 'shareMessage': 'Correo electrónico', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27es\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Leer más', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Viajando por Indonesia'}}, {'name': 'features', 'data': {'lazy_images': 'false', 'unsupported_browser_message': 'false', 'sharing_get_link_dialog': 'false', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Editar', 'linkCopiedToClipboard': 'El enlace se ha copiado en el Portapapeles.', 'ok': 'Aceptar', 'postLink': 'Enlace de la entrada'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Personalizado', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Viajando por Indonesia', 'description': '', 'url': 'http://viajandoporindonesia.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'content1', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'useNgc': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/927391878-lbx__es.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image1', 'sidebar1', null, document.getElementById('Image1'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image2', 'sidebar1', null, document.getElementById('Image2'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'sidebar1', null, document.getElementById('LinkList1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList3', 'sidebar1', null, document.getElementById('LinkList3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList2', 'sidebar1', null, document.getElementById('LinkList2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar1', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogListView', new _WidgetInfo('BlogList1', 'sidebar1', null, document.getElementById('BlogList1'), {'numItemsToShow': 0, 'totalItems': 3}, 'displayModeFull'));
+</script>
+</body></html>

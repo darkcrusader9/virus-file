@@ -1,0 +1,964 @@
+
+ 
+
+
+ 
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de-de" lang="de-de" >
+<head>
+	<base href="http://zur-zaubernuss.de/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Meerschweinchen, Ridgeback, Kamm, Rassemeerscheinchenzucht, kammlos, Zaubernuss, Berlin, Zucht, Ridgebackstandard, Ridgebackgenetik, Wurf, Abgabetiere, Abgabebedingungen, Haltung, Gehege, Außenhaltung" />
+	<meta name="description" content="kleine aber feine Rassemeerschweinchenzucht" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Zur Zaubernuss - Home</title>
+	<link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="http://zur-zaubernuss.de/component/search/?layout=blog&amp;id=87&amp;Itemid=435&amp;format=opensearch" rel="search" title="Suchen Zur Zaubernuss" type="application/opensearchdescription+xml" />
+	<link href="/templates/joomlage0065-energise/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link rel="stylesheet" href="/plugins/editors/jckeditor/typography/typography2.php" type="text/css" />
+	<link rel="stylesheet" href="/plugins/system/imagesizer/lbscripts/slimbox/slimbox.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="/modules/mod_AutsonSlideShow/css/skitter.css" type="text/css" />
+	<style type="text/css">
+div.mod_search63 input[type="search"]{ width:auto; }
+	</style>
+	<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+	<script src="/media/system/js/core.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+	<script src="/plugins/system/imagesizer/lbscripts/slimbox/slimbox.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js" type="text/javascript"></script>
+	<script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});</script>
+
+   
+
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="/templates/joomlage0065-energise/css/reset.css" type="text/css" />
+<link rel="stylesheet" href="/templates/joomlage0065-energise/css/typo.css" type="text/css" />
+<link rel="stylesheet" href="/templates/joomlage0065-energise/css/template.css" type="text/css" />
+<link rel="stylesheet" href="/templates/joomlage0065-energise/css/nexus.css" type="text/css" />
+<link rel="stylesheet" href="/templates/joomlage0065-energise/css/style3.css" type="text/css" />
+
+
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid Sans" />
+<style type="text/css">body{font-family:Droid Sans }</style>
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Dancing Script" />
+<style type="text/css">h2{font-family:Dancing Script }</style>
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Dancing Script" />
+<style type="text/css">.module h3, .module_menu h3{font-family:Dancing Script }</style>
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Comfortaa" />
+<style type="text/css">#hornav{font-family:Comfortaa }</style>
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Dancing Script" />
+<style type="text/css">h1.logo-text a{font-family:Dancing Script }</style>
+
+
+
+<style type="text/css">
+/*--Set Logo Image position and locate logo image file--*/ 
+#logo{left:200px}
+#logo{top:35px}
+
+h1.logo a {background: url(templates/<?php echo joomlage0065-energise?>/images/logo.png) no-repeat; z-index:1;}
+
+/*--End Set Logo Image position and locate logo image file--*/ 
+
+/*--Body font size--*/
+body{font-size: 13px}
+
+/*--Content Link Color--*/
+#content_full a, #content_remainder a{color: #8a2d00 }
+#content_full a:hover, #content_remainder a:hover{color: #bf3f00 }
+
+/*--Text Colors for Module Heads and Article titles--*/ 
+#content_full h2, #content_full h2 a:link, #content_full h2 a:visited, #content_full .content_header, #content_full .articleHead, #content_remainder h2, #content_remainder h2 a:link, #content_remainder h2 a:visited, #content_remainder .content_header, #content_remainder .articleHead{color: #616161 }
+.module h3, .module_menu h3 {color: #616161 }
+
+/*--Text Colors for Module Heads and Article titles--*/ 
+h2, h2 a:link, h2 a:visited, .content_header, .articleHead {color: #616161 }
+.module h3, .module_menu h3 {color: #616161 }
+
+
+/*--Text Colors for Logo and Slogan--*/ 
+h1.logo-text a {color: #f0f0f0 }
+p.site-slogan {color: #f0f0f0 }
+
+/*--Hornav Ul text color and dropdown background color--*/
+#hornav ul li a{color: #ffffff }
+#subMenusContainer ul, #subMenusContainer ol{background-color: #1d140b }
+
+/*--Start Style Side Column and Content Layout Divs--*/
+/*--Get Side Column widths from Parameters--*/
+#sidecol_a {width: 25% }
+#sidecol_b {width: 25% }
+
+/*--Check and see what modules are toggled on/off then take away columns width, margin and border values from overall width*/
+
+/*Style Side Column A, Side Column B and Content Divs layout*/
+	#sidecol_a {float:left;}
+	#sidecol_b {float:left;}
+	#content_remainder {float:left;}
+
+/*Style Content, Side Column A, Side Column B Divs layout*/	
+/*--End Style Side Column and Content Layout Divs--*/
+
+/*--Load Custom Css Styling--*/
+h3{
+   font-family:Dancing Script; 
+   font-size:175%; 
+   font-weight:normal;
+    padding-top: 15px;
+}
+h4{
+ padding-top: 10px;
+}
+
+
+p.site-slogan {/*font-family:Dancing Script;*/
+font-size:120%;
+margin-top:12px;}
+</style>
+
+   <style type="text/css">
+    /* #Mobile (Landscape) */
+    @media only screen and (max-width: 767px) {#container_top_modules{display:none !important;}}
+    </style>
+
+	<style type="text/css">
+    /* #Mobile (Landscape) */
+    @media only screen and (max-width: 767px) {#sidecol_a{display:none !important;}}
+    </style>
+
+	<style type="text/css">
+    /* #Mobile (Landscape) */
+    @media only screen and (max-width: 767px) {#sidecol_b{display:none !important;}}
+    </style>
+
+	<style type="text/css">
+    /* #Mobile (Landscape) */
+    @media only screen and (max-width: 767px) {#container_bottom_modules{display:none !important}}
+    </style>
+
+
+	<style type="text/css">
+    /* #Mobile (Landscape) */
+    @media only screen and (max-width: 767px) {#socialmedia_mobile{display:none !important;}}
+    </style>
+
+
+<!-- Hornav Dropdown -->
+<script type="text/javascript" src="/templates/joomlage0065-energise/js/dropdown.js" charset="utf-8"></script>
+<script type="text/javascript" >
+window.addEvent('domready', function() {
+	var myMenu = new MenuMatic();
+});
+</script>
+
+<!-- Hornav Mobile (converts menu into select list) -->
+<script type="text/javascript" src="/templates/joomlage0065-energise/js/mobile/selectnav.min.js" charset="utf-8"></script>
+<script>selectnav('mobile');</script>
+<script type="text/javascript" >
+window.addEvent('domready', function() {
+selectnav('mobile', {
+label: '--- Main Menu ---',
+nested: true,
+indent: '-'
+});
+}) 
+</script>
+
+<!-- Equalize Top1 Module Heights -->
+<script type="text/javascript" src="/templates/joomlage0065-energise/js/equalizer.js" charset="utf-8"></script>
+<script type="text/javascript" >
+window.addEvent('domready', function () {
+	var columnizer = new Equalizer('.top-1 .module').equalize('height');
+	});
+</script>
+
+<!-- Equalize Top2 Module Heights -->
+<script type="text/javascript" >
+window.addEvent('domready', function () {
+	var columnizer = new Equalizer('.top-2 .module').equalize('height');
+	});
+</script>
+
+<!-- Equalize Contenttop Module Heights -->
+<script type="text/javascript" >
+window.addEvent('domready', function () {
+	var columnizer = new Equalizer('.contenttop .module').equalize('height');
+	});
+</script>
+
+<!-- Equalize Contentbottom Module Heights -->
+<script type="text/javascript" >
+window.addEvent('domready', function () {
+	var columnizer = new Equalizer('.contentbottom .module').equalize('height');
+	});
+</script>
+
+<!-- Equalize Bottom1 Module Heights -->
+<script type="text/javascript" >
+window.addEvent('domready', function () {
+	var columnizer = new Equalizer('.bottom-1 .module').equalize('height');
+	});
+</script>
+
+<!-- Equalize Bottom2 Module Heights -->
+<script type="text/javascript" >
+window.addEvent('domready', function () {
+	var columnizer = new Equalizer('.bottom-2 .module').equalize('height');
+	});
+</script>
+
+<!-- Equalize Base1 Module Heights -->
+<script type="text/javascript" >
+window.addEvent('domready', function () {
+	var columnizer = new Equalizer('.base-1 .module').equalize('height');
+	});
+</script>
+
+<!-- Equalize Base2 Module Heights -->
+<script type="text/javascript" >
+window.addEvent('domready', function () {
+	var columnizer = new Equalizer('.base-2 .module').equalize('height');
+	});
+</script>
+
+
+
+
+
+   
+
+<!--[if IE 9]>
+<link rel="stylesheet" href="/templates/joomlage0065-energise/css/ie9.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if IE 8]>
+<link rel="stylesheet" href="/templates/joomlage0065-energise/css/ie8.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if IE 7]>
+<link rel="stylesheet" href="/templates/joomlage0065-energise/css/ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if IE 6]>
+<script type="text/javascript" src="/templates/joomlage0065-energise/js/fix-png-ie6.js"></script>
+<link rel="stylesheet" href="/templates/joomlage0065-energise/css/ie6.css" rel="stylesheet" type="text/css" />
+<script src="/templates/joomlage0065-energise/js/ie6/warning.js"></script><script>window.onload=function(){e("/templates/joomlage0065-energise/js/ie6/")}</script>
+<![endif]-->
+
+</head>
+
+
+<body> 
+<div id="container_header" class="container"><div class="wrapper960">
+<div id ="header" class="block_holder">
+
+<div id="hornav">
+    
+<ul class="menu" id="moomenu">
+<li class="item-476 deeper parent"><a href="/zucht" >Unsere Zucht</a><ul><li class="item-478"><a href="/zucht/zaubernuss" >zur Zaubernuss</a></li><li class="item-477"><a href="/zucht/philosophie" >Philosophie</a></li><li class="item-474"><a href="/zucht/ueber-uns" >Über uns</a></li><li class="item-483"><a href="/zucht/haltung" >Haltung</a></li><li class="item-484"><a href="/zucht/fuetterung" >Fütterung</a></li></ul></li><li class="item-471 deeper parent"><a href="/schweinchen" >Schweinchen</a><ul><li class="item-479"><a href="/schweinchen/zuchttiere" >Zuchttiere</a></li><li class="item-480"><a href="/schweinchen/wurfplanung" >Wurfplanung</a></li><li class="item-481"><a href="/schweinchen/zwerge" >Zwerge</a></li><li class="item-482"><a href="/schweinchen/liebhaber" >Liebhaber &amp; Rentner</a></li></ul></li><li class="item-485 deeper parent"><a href="/abgabe" >Abgabe</a><ul><li class="item-487"><a href="/abgabe/abgabebedingungen" >Abgabebedingungen</a></li><li class="item-486"><a href="/abgabe/abgabetiere" >Abgabetiere</a></li><li class="item-488"><a href="/abgabe/kastration" >Gründe für Kastration</a></li><li class="item-489"><a href="/abgabe/service" >Service / Tierarzt</a></li></ul></li><li class="item-490 deeper parent"><a href="/ridgeback" >Das Ridgeback</a><ul><li class="item-491"><a href="/ridgeback/standard" >Der Standard</a></li><li class="item-492"><a href="/ridgeback/genetik" >Genetik</a></li><li class="item-493"><a href="/ridgeback/zuchtpraxis" >Zuchtpraxis</a></li></ul></li><li class="item-525 deeper parent"><a href="/das-rex" >Das Rex</a><ul><li class="item-526"><a href="/das-rex/rex-standard" >Der Standard</a></li><li class="item-527"><a href="/das-rex/rex-genetik" >Genetik</a></li><li class="item-528"><a href="/das-rex/rex-zuchtpraxis" >Zuchtpraxis</a></li></ul></li><li class="item-499"><a href="/kontakt" >Kontakt</a></li></ul>
+</div>
+
+<div class="clear"></div>  
+	<div id="header_items">
+        <div id="socialmedia">
+            <ul id="navigation">
+                                                    <li class="nav_facebook"><a href="http://www.facebook.com/zurzaubernuss" title="Facebook"></a></li>
+                                                                                                </ul>
+    </div>	
+    
+
+    <div id="search">
+        <div class="search mod_search63">
+	<form action="/" method="post" class="form-inline">
+		<label for="mod-search-searchword" class="element-invisible">Suchen ...</label> <input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="search" size="20" placeholder="Suchen ..." />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="435" />
+	</form>
+</div>
+    </div>
+ 
+<div id="logo">
+    <div class="logo_container">		
+        
+        <h1 class="logo-text"> <a href="/index.php" title=""><span>
+          "zur Zaubernuss"          </span></a> </h1>
+            <p class="site-slogan">kleine und feine Rassemeerschweinchenzucht</p>
+            </div>
+</div>
+<div class="clear"></div>
+</div>
+
+</div>
+</div></div>
+
+<div id="container_social_mobile" class="container"><div class="wrapper960">
+<div id ="social_mobile" class="block_holder">  
+	<div id="header_items">
+        <div id="socialmedia_mobile">
+            <ul id="navigation">
+                                                    <li class="nav_facebook"><a href="http://www.facebook.com/zurzaubernuss" title="Facebook"></a></li>
+                                                                                                </ul>
+    </div>	
+
+    <div id="mobile_search">
+        <div class="search mod_search63">
+	<form action="/" method="post" class="form-inline">
+		<label for="mod-search-searchword" class="element-invisible">Suchen ...</label> <input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="search" size="20" placeholder="Suchen ..." />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="435" />
+	</form>
+</div>
+    </div>
+
+
+</div>
+
+</div>
+</div></div>
+
+<div id="container_logo_mobile" class="container"><div class="wrapper960">
+<div id ="logo_mobile" class="block_holder">
+      
+	    </div>
+<div class="clear"></div></div></div>
+
+<div id="container_hornav_mobile" class="container"><div class="wrapper960">
+<div id ="hornav_mobile" class="block_holder">
+    
+<ul class="menu" id="mobile">
+<li class="item-476 deeper parent"><a href="/zucht" >Unsere Zucht</a><ul><li class="item-478"><a href="/zucht/zaubernuss" >zur Zaubernuss</a></li><li class="item-477"><a href="/zucht/philosophie" >Philosophie</a></li><li class="item-474"><a href="/zucht/ueber-uns" >Über uns</a></li><li class="item-483"><a href="/zucht/haltung" >Haltung</a></li><li class="item-484"><a href="/zucht/fuetterung" >Fütterung</a></li></ul></li><li class="item-471 deeper parent"><a href="/schweinchen" >Schweinchen</a><ul><li class="item-479"><a href="/schweinchen/zuchttiere" >Zuchttiere</a></li><li class="item-480"><a href="/schweinchen/wurfplanung" >Wurfplanung</a></li><li class="item-481"><a href="/schweinchen/zwerge" >Zwerge</a></li><li class="item-482"><a href="/schweinchen/liebhaber" >Liebhaber &amp; Rentner</a></li></ul></li><li class="item-485 deeper parent"><a href="/abgabe" >Abgabe</a><ul><li class="item-487"><a href="/abgabe/abgabebedingungen" >Abgabebedingungen</a></li><li class="item-486"><a href="/abgabe/abgabetiere" >Abgabetiere</a></li><li class="item-488"><a href="/abgabe/kastration" >Gründe für Kastration</a></li><li class="item-489"><a href="/abgabe/service" >Service / Tierarzt</a></li></ul></li><li class="item-490 deeper parent"><a href="/ridgeback" >Das Ridgeback</a><ul><li class="item-491"><a href="/ridgeback/standard" >Der Standard</a></li><li class="item-492"><a href="/ridgeback/genetik" >Genetik</a></li><li class="item-493"><a href="/ridgeback/zuchtpraxis" >Zuchtpraxis</a></li></ul></li><li class="item-525 deeper parent"><a href="/das-rex" >Das Rex</a><ul><li class="item-526"><a href="/das-rex/rex-standard" >Der Standard</a></li><li class="item-527"><a href="/das-rex/rex-genetik" >Genetik</a></li><li class="item-528"><a href="/das-rex/rex-zuchtpraxis" >Zuchtpraxis</a></li></ul></li><li class="item-499"><a href="/kontakt" >Kontakt</a></li></ul>
+</div>
+<div class="clear"></div> 
+
+
+
+
+</div></div>
+
+<div id="container_splash_mobile" class="container"><div class="wrapper960">
+    <div id ="splashimage_mobile" class="block_holder">
+          
+                <img src=/templates/joomlage0065-energise/images/splashimage_mobile.png alt='default_mobilesplash' />
+       
+                    </div>
+    <div class="clear"></div>
+</div></div>
+
+
+<div id="container_slideshow" class="container"><div class="wrapper960">
+
+<div id ="slideshow" class="block_holder">
+
+						<div id="showcase">
+					<div id="showcase_padding">
+						
+<style type="text/css" >
+
+.box_skitter_large92 {width:960px;height:340px;}
+
+
+.box_skitter_small {width:200px;height:200px;}
+
+.box_skitter {border:0px solid #000000; background:#ffffff}
+.label_skitter h5
+{
+padding-left: 10px ;
+
+}
+.label_skitter h5,.label_skitter h5 a{
+
+margin:0;
+
+
+font-family: CaviarDreamsBold !important;
+
+
+font-size:22px !important;
+
+font-weight:normal !important; 
+
+text-decoration:none !important;
+
+padding-right: 5px ;
+
+padding-bottom:0px ;
+
+padding-top:5px ;
+
+color:#ffffff !important;
+
+line-height:27px !important;
+
+display: block !important;
+text-align:left !important;
+
+}
+
+.label_skitter p{
+
+letter-spacing: 0.4px !important;
+
+line-height:15px !important;
+
+margin:0 !important;
+
+
+font-family: Arial, Helvetica, sans-serif !important;
+
+
+font-size:10px !important;
+
+padding-left: 10px ;
+
+padding-right: 5px ;
+
+padding-bottom:2px ;
+
+padding-top:0px ;
+
+color:#ffffff !important;
+
+z-index:10 !important;
+
+display: block !important;
+text-align:left !important;
+
+
+}
+
+
+
+
+
+</style>
+
+
+<script src="http://zur-zaubernuss.de/modules/mod_AutsonSlideShow/js/jquery-1.5.2.min.js" type="text/javascript"></script>
+
+
+<script src="http://zur-zaubernuss.de/modules/mod_AutsonSlideShow/js/jquery.easing.1.3.js" type="text/javascript"></script>
+
+<script src="http://zur-zaubernuss.de/modules/mod_AutsonSlideShow/js/jquery.animate-colors-min.js" type="text/javascript"></script>
+
+<script src="http://zur-zaubernuss.de/modules/mod_AutsonSlideShow/js/jquery.skitter.min.js" type="text/javascript"></script>
+
+<script type='text/javascript'>
+
+var ass92 = jQuery.noConflict();
+
+ass92(document).ready(function(){
+
+ass92('.box_skitter_large92').skitter(
+
+{
+
+dots: false,
+
+fullscreen: false,
+
+label: true,
+
+interval:4000,
+
+navigation:true,
+
+label:true, 
+
+numbers:false,
+
+hideTools:true,
+
+thumbs: false,
+
+velocity:0.5,
+
+animation: "fade",
+numbers_align:'left',
+
+
+animateNumberOut: {backgroundColor:'#333333', color:'#ffffff'},
+
+animateNumberOver: {backgroundColor:'#000000', color:'#ffffff'},
+
+animateNumberActive: {backgroundColor:'#cc3333', color:'#ffffff'}
+
+}
+
+);
+
+});	
+
+</script>
+<div class="joomla_ass" align="center" >
+
+
+<div class="border_box">
+
+<div class="box_skitter box_skitter_large92" >
+
+<div id="showcase_overlay"></div>
+
+<ul>
+
+            <li><img src="/images/slideshow/nala_orelie_960x340.jpg" class="fade"  /></li><li><img src="/images/slideshow/zaubernuss_c_960x340.jpg" class="fade"  /></li><li><img src="/images/slideshow/robinson_carlchen_s1.jpg" class="fade"  /></li><li><img src="/images/slideshow/quinto_960x340.jpg" class="fade"  /></li>
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+
+<!-- 						<div id="showcase_base"></div> -->
+					</div>
+				</div>
+		
+<div class="clear"></div>
+</div></div></div>
+
+
+
+<div id="container_main" class="container"><div class="wrapper960">
+<!--Setting up Layout for MainContent and Side Columns. Check to see if modules are enabled or disabled in the sidecolumns-->
+
+<div id ="main" class="block_holder">
+
+<!--Side Columns Layout-->                          
+       
+    
+<!--End Side Columns Layout-->
+
+<!--Find Content width and show component area-->
+<div id="content_full" class="side_margins">
+
+<!--Modules ContentTop-->
+            
+<!--End Modules ContentTop-->
+
+ 	<div class="maincontent">
+            <div class="message">
+                                    <div id="system-message-container">
+	</div>
+
+                            </div>
+        <div class="blog" itemscope itemtype="https://schema.org/Blog">
+	
+	
+	
+	
+	
+				<div class="items-leading clearfix">
+							<div class="leading-0"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Die Zwerge sind da !									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<div style="margin-left: 10px; margin-right: 10px;">
+<p style="text-align: justify;"><a class="linkthumb modal" target="_blank" title="Wurf vom 19.08.2016" rel="lightbox[id_106]" href="/cache/c/dcef59ede0476a4aed6bfbfeaf6acb8e.JPG"><img class="frame-1 thumb" style="float: left; margin-left: 0px; margin-right: 10px;" src="/cache/a/9a90937c0b351ea57bb89b98c92edf67.JPG" alt="Wurf vom 19.08.2016" width="264" height="120" /></a><a class="linkthumb modal" target="_blank" title="Wurf vom 22.08.2016" rel="lightbox[id_106]" href="/cache/8/e80265efb6a46c46e6971753b990ed42.JPG"><img class="frame-1 thumb" style="float: right; margin-left: 10px; margin-right: 0px;" src="/cache/5/e511f960ae51475281e7285c97baaaf4.JPG" alt="Wurf vom 22.08.2016" width="236" height="120" /></a></p>
+<p style="text-align: justify;">Nach langer Babypause sind nun gleich zwei Würfe zur Welt gekommen. :D Am 19.08. hat Nana ihre Babys von Cenit bekommen. Den hübschen Vierlingen geht es sehr gut. Leider hat es ein Bub nicht geschafft. Drei Tage später überraschte mich Belle am Morgen mit einem schicken Duo in creme-weiß p.e. Es sind ein Bub und ein Mädchen. Ein weiteres Mädchen wurde leider nicht ausgepackt. Nana und Belle teilen sich die Aufzucht und alle Sechs wuseln schon fleißig durchs Gehege.
+<p style="text-align: right;">23.08.2016</p>
+</div>
+<div class="clear">&nbsp;</div>
+
+
+
+				</div>
+											<div class="leading-1"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Endlich wieder online									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<div style="margin-left: 10px; margin-right: 10px;">
+<p style="text-align: justify;"><a class="linkthumb modal" target="_blank" title="Odine und Colour" rel="lightbox[id_105]" href="/cache/d/cd373292f6d0bf49959bdd2a8d27d828.JPG"><img src="/cache/3/63e06f09e47100926a8b2e79d392b186.JPG" alt="Odine und Colour" width="160" height="120" class="frame-1 thumb" style="margin-left: 0px; margin-right: 10px; float: left;" /></a><a class="linkthumb modal" target="_blank" title="Nana tr&auml;chtig" rel="lightbox[id_105]" href="/cache/6/a601d0654cac872e64f6232ee0938bdb.JPG"><img src="/cache/1/21577cf10c3fd04d783ac5f08e8f6a1b.JPG" alt="Nana tr&auml;chtig" width="160" height="120" class="frame-1 thumb" style="margin-left: 0px; margin-right: 10px; float: left;" /></a></p>
+<p style="text-align: justify;">Nachdem eine Malware die Homepage lahmgelegt hatte, war sie jetzt einige Monate offline, weil wir keine Zeit gefunden haben, die Fehler zu suchen. Nun werden wir so nach und nach viele Seiten komplett &uuml;berarbeiten und auf den neuesten Stand bringen. Hier nun alles Wichtige in K&uuml;rze:</p>
+<p style="text-align: justify;">Im letzten Jahr kamen hier 2 W&uuml;rfe zur Welt. Der Ridgebackbub Cenit hat nun bereits die ersten zwei M&auml;dchen gedeckt. Seine Mama Nana (Bild rechts) ist bereits hochtr&auml;chtig und hat in 2 Wochen Termin. Au&szlig;erdem blieben auch die beiden Glatthaar Rextr&auml;ger M&auml;dchen Odine und Oona in meiner Zucht. Odine wurde von meinem neuen Rexbock Mango bereits gedeckt. Oona sitzt mit ihm zusammen. Erwartet wird creme-wei&szlig;er und buff-wei&szlig;er Nachwuchs. Ebenfalls hochtr&auml;chtig ist Rexm&auml;dchen Belle die als Erstes zu Mango durfte. Hier kommen wei&szlig;e und creme-wei&szlig;e Babys.</p>
+<p style="text-align: justify;">Es sind einige neue Zuchttiere eingezogen, unter anderem ein Ridgebackbub in goldagouti, ein Rexbub in creme-wei&szlig; p.e., ein Glatthaarm&auml;dchen in schwarz und ein Rexm&auml;dchen in safran-wei&szlig;. Die Seite der Zuchttiere wird nach und nach erg&auml;nzt und geordnet.</p>
+<p style="text-align: justify;">Der Bau des Geheges mit gro&szlig;er Schutzh&uuml;tte liegt aufgrund unseres Hausbaus, des Umzugs und einiger Abrissarbeiten momentan auf Eis. Die Voliere musste allerdings mit Abriss unseres alten Hauses entfernt werden. Daher leben sie nun &uuml;bergangsweise in einem hellen Schuppen -die gemischte Gruppe auf dem Boden und die Jungs auf Etagen.</p>
+<p style="text-align: right;">06.08.2016</p>
+</div>
+
+
+
+				</div>
+											<div class="leading-2"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Cuy Tiny zieht ein, neue Rex-Infoseiten und neue Abgabebilder									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<div style="margin-left: 10px; margin-right: 10px;">
+<p style="text-align: justify;"><a class="linkthumb modal" target="_blank" title="Tiny" rel="lightbox[id_103]" href="/cache/4/f4706e4d620d39ff10e83d2a4a3f0703.JPG"><img class="frame-1 thumb" style="float: right; margin-left: 10px; margin-right: 0px;" src="/cache/f/ef4faa5f72328b99f11c8f48ebc6d739.JPG" alt="Tiny" width="125" height="120" /></a><a class="linkthumb modal" target="_blank" title="Ferdi" rel="lightbox[id_103]" href="/cache/8/c89d6addb60cfe87504bf17c647909e1.JPG"><img class="frame-1 thumb" style="float: right; margin-left: 10px; margin-right: 0px;" src="/cache/3/8350329d0234ef12b6f60687588384a5.JPG" alt="Ferdi" width="125" height="120" /></a></p>
+<p style="text-align: justify;">Völlig überraschend ist unser erstes Cuy <a href="/schweinchen/liebhaber#tiny">Tiny</a> hier eingezogen. Daniel hat sich sofort in ihn verliebt und so hat ihn die ganze Familie Sonntag abgeholt. In der Gruppe fühlte er sich gleich zuhause; Wombat und Rudi haben ihn sofort akzeptiert. Mal sehen, wie er sich macht.</p>
+<p style="text-align: justify;">Wir haben das schöne Wetter genutzt und neue Fotos von Abgabekastrat <a href="/abgabe/abgabetiere#ferdi">Ferdi</a> gemacht. Der quirlige kleine Kerl sucht noch sein Traumzuhause, ob in einer Jungs-WG oder mit Mädels ist egal. Dagegen hat Fritzi ein schönes Heim bei zwei gleichaltrigen Mädchen und mit viel Platz gefunden. Viel Freude mit ihm!</p>
+<p style="text-align: justify;"> Unser Nachwuchsmädchen Nana wird nun doch für einen Wurf bei uns bleiben. Danach darf sie gerne umziehen und auch jetzt schon für nächstes Jahr angefragt werden.</p>
+<p style="text-align: justify;">Neben den <a href="/ridgeback">Ridgebackseiten</a> gibt es nun auch allgemeine Infos über den <a href="/das-rex/rex-standard">Standard</a>, die <a href="/das-rex/rex-genetik">Genetik</a> und die <a href="/das-rex/rex-zuchtpraxis">Zuchtpraxis</a> zum Rexmeerschweinchen. Diese werden aber noch nach und nach vervollständigt.</p>
+<p style="text-align: right;">20.01.2015</p>
+</div>
+<div class="clear"> </div>
+
+
+
+				</div>
+											<div class="leading-3"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Frohes Fest und guten Rutsch !									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<div style="margin-right: 10px; margin-left: 10px;">
+<p><a class="linkthumb modal" target="_blank" title="Frohe Weihnachten" rel="lightbox[id_100]" href="/cache/8/88fff6966d238c77afadf293986ffd9d.JPG"><img class="frame-1 thumb" style="float: left; margin-left: 0px; margin-right: 10px;" src="/cache/3/2310c304ffd4e6d9582e53bd705022cb.JPG" alt="Frohe Weihnachten" width="108" height="120" /></a>Die Meerschweinchenrassezucht "zur Zaubernuss" wünscht allen Besuchern unserer Homepage ruhige und besinnliche Weihnachten, einen fleißigen Weihnachtsmann ;) und einen guten Rutsch ins neue Jahr. Wir hoffen, dass 2015 ein schönes, abwechslungsreiches und spannendes Jahr wird, alle wohlauf sind und bleiben und dass sich natürlich auch in unserer Zucht kleine Erfolge einstellen. Mal sehen, was uns erwartet...</p>
+<p style="text-align: right;">22.12.2014</p>
+</div>
+<div class="clear">&nbsp;</div>
+
+
+
+				</div>
+											<div class="leading-4"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Aktualisierung der Homepage									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<div style="margin-left: 10px; margin-right: 10px;">
+<p style="text-align: justify;"><a class="linkthumb modal" target="_blank" title="Fritzi" rel="lightbox[id_99]" href="/cache/7/f7ec0cd41e080abcf0a8608418b23cb7.JPG"><img class="frame-1 thumb" style="float: left; margin-left: 0px; margin-right: 10px;" src="/cache/a/ba8a8a4f2d7695a7cbe17ca272602cf2.JPG" alt="Fritzi" width="90" height="120" /></a><a class="linkthumb modal" target="_blank" title="Wurf vom 12.09.2014" rel="lightbox[id_99]" href="/cache/0/308f78b8f22ba07cb057513d69160b31.JPG"><img class="frame-1 thumb" style="float: right; margin-left: 10px; margin-right: 0px;" src="/cache/a/1ac945797010dd4423321d791e584f12.JPG" alt="Wurf vom 12.09.2014" width="160" height="120" /></a></p>
+<p style="text-align: justify;">Endlich haben wir es geschafft, unsere HP zu aktualisieren. Inzwischen sind die Babys von Nanuh 3 Monate alt (2 Mädchen und 2 Jungs in solid goldagouti, ein Bub hat's leider nicht geschafft). Auf der Wurfseite findet ihr alle Einzelheiten zu den Zwergen. Schade, dass kein Ridgeback dabei ist. Mädel "Nana" steht aus dem Wurf zur Abgabe.&nbsp;</p>
+<p style="text-align: justify;">Rosettenkastrat "Fritzi" haben wir wegen Haltungsaufgabe zurück genommen. Er ist ein ehemaliges Nottier und hat sich gut hier eingelebt. Der dreieinhalbjährige Buntschimmel sucht nun ein neues Zuhause. Gerne zusammen mit Nana. Alles weitere findet ihr unter Abgabetiere.</p>
+<p style="text-align: right;">21.12.2014</p>
+</div>
+<div class="clear">&nbsp;</div>
+
+
+
+				</div>
+											<div class="leading-5"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Babybauch :-)									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<div style="margin-left: 10px; margin-right: 10px;">
+<p style="text-align: justify;"><a class="linkthumb modal" target="_blank" title="Nanuh" rel="lightbox[id_98]" href="/cache/8/3874c250e6e393e1ac65711122678de4.JPG"><img class="frame-1 thumb" style="float: right; margin-left: 10px; margin-right: 0px;" src="/cache/9/69470a5462c5e2588384e49f4a637f24.JPG" alt="Nanuh" width="90" height="120" /></a></p>
+<p style="text-align: justify;">Noch zwei Wochen, dann wird <a href="/schweinchen/zuchttiere#nanuh">Nanuhs</a> <a href="/schweinchen/wurfplanung">Nachwuchs</a> erwartet. Ich tendiere zu zwei Babies, die ich heute strampeln gefühlt habe. Bei ihr ist es gar nicht so einfach, aber ich denke, sie liegen im rechten Gebährmutterhorn. Die linke Seite ist leer.</p>
+<p style="text-align: justify;">Wir sind schon sehr gespannt auf die Zwerge und hoffen natürlich auf Ridgebacks!</p>
+<p style="text-align: right;">30.08.2014</p>
+</div>
+<div class="clear"> </div>
+
+
+
+				</div>
+											<div class="leading-6"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Brunstverpaarung Nanuh &amp; Carlchen !									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<div style="margin-left: 10px; margin-right: 10px;">
+<p style="text-align: justify;"><a class="linkthumb modal" target="_blank" title="Nanuh" rel="lightbox[id_97]" href="/cache/8/d8c4f103c27925a72e7753576ddcaf7f.JPG"><img class="frame-1 thumb" style="float: left; margin-left: 0px; margin-right: 10px;" src="/cache/2/6287b27a888df667da929872a371f372.JPG" alt="Nanuh" width="160" height="120" /></a><a class="linkthumb modal" target="_blank" title="Carlchen" rel="lightbox[id_97]" href="/cache/c/4c0acf322265824aef3bf67c47d33108.JPG"><img class="frame-1 thumb" style="float: left; margin-left: 0px; margin-right: 10px;" src="/cache/2/720506ff40a2db296c5d1e92287a3bc5.JPG" alt="Carlchen" width="160" height="120" /></a></p>
+<p style="text-align: justify;">Heute (am 07.07.) ist <a href="/schweinchen/zuchttiere#nanuh">Nanuh</a> brünstig und <a href="/schweinchen/zuchttiere#carlchen">Carlchen</a> hat sie hoffenltich auch <a href="/schweinchen/wurfplanung">erfolgreich gedeckt</a>. Den Nachwuchs erwarten wir dann ca. Mitte September. Wir hoffen auf gesunde Babies, vorzugsweise Ridgebacks, aber auch Glatthaar und eventuell Rosettenmixe sind möglich. Wir sind sehr gespannt auf die ersten Zaubernuss-Zwerge!!! :-)</p>
+<p style="text-align: right;">07.07.2014</p>
+</div>
+<div class="clear"> </div>
+
+
+
+				</div>
+											<div class="leading-7"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Zwei Mädels als Start für die Rexzucht !									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<div style="margin-left: 10px; margin-right: 10px;">
+<p style="text-align: justify;"><a class="linkthumb modal" target="_blank" title="Nala" rel="lightbox[id_96]" href="/cache/1/61382acdbcb1511a62b7ea5fcf22b6e3.JPG"><img class="frame-1 thumb" style="float: left; margin-left: 0px; margin-right: 10px;" src="/cache/2/72bf59496050f01883750380da843b4d.JPG" alt="Nala" width="90" height="120" /></a><a class="linkthumb modal" target="_blank" title="Orelie" rel="lightbox[id_96]" href="/cache/3/23d3eb09da5bcd751e5dbce969165985.JPG"><img class="frame-1 thumb" style="float: right; margin-left: 10px; margin-right: 0px;" src="/cache/b/0b14ee2f3d84d5be0d47926fc2b24946.JPG" alt="Orelie" width="160" height="120" /></a></p>
+<p style="text-align: justify;">Die beiden jungen Damen sind aus der Zucht von Karsten Völkening zu uns gezogen, um unser Zuchtziel -Rexe in creme-weiß p.e.- zu unterstützen. <a href="/schweinchen/zuchttiere#nala">Nala</a> (links) ist die mutigere und frechere der Beiden und ist schnell aufgetaut. Im Gegensatz dazu wartet <a href="/schweinchen/zuchttiere#orelie">Orelie</a> (rechts) lieber erst mal ab und ist die Ruhigere der Zwei. Die Hübschen sind buff-weiß und haben sich gut in die Gruppe eingefügt.</p>
+<p style="text-align: right;">22.06.2014</p>
+</div>
+<div class="clear"> </div>
+
+
+
+				</div>
+											<div class="leading-8"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Zwei hübsche Neuzugänge !									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<div style="margin-left: 10px; margin-right: 10px;">
+<p style="text-align: justify;"><a class="linkthumb modal" target="_blank" title="Nanuh" rel="lightbox[id_95]" href="/cache/8/98883c5d2d542943606e19ca03f46cdc.JPG"><img class="frame-1 thumb" style="float: left; margin-left: 0px; margin-right: 10px;" src="/cache/d/4d4fdf4aa361ff96e4f3055e4b10fb2a.JPG" alt="Nanuh" width="90" height="120" /></a><a class="linkthumb modal" target="_blank" title="Fame" rel="lightbox[id_95]" href="/cache/e/1e8d2ba2f727b7be97dd11fd6696e9ff.jpg"><img class="frame-1 thumb" style="float: left; margin-left: 0px; margin-right: 10px;" src="/cache/f/2f8dfabd457913a268ae7511b81ad83a.jpg" alt="Fame" width="160" height="120" /></a>Endlich ist das erste Zuchtmädel <a href="/schweinchen/zuchttiere#nanuh">Nanuh</a> für die Ridgebacks eingezogen - ein Glatthaar in solid goldagouti! Es hat lange gedauert bis ich ein Mädchen ohne Trägereigenschaften gefunden habe. Als wir Nanuh abgeholt haben, konnten wir nicht an der kleinen Fame vorbeigehen. Ein Himalaya sollte schon immer mal einziehen.<br /> Außerdem ist bei meiner Züchterfreundin Anna Barth ein toller Ridgebackwurf zur Welt gekommen. Ein kleines Mädchen ist schon für mich reserviert. Wir freuen uns schon auf die kleine Maus in sable. :-)</p>
+<p style="text-align: right;">15.03.2014</p>
+</div>
+<div class="clear"> </div>
+
+
+
+				</div>
+											<div class="leading-9"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Frohe Weihnachten und einen guten Rutsch !									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<div style="margin-right: 10px; margin-left: 10px;">
+<p><a class="linkthumb modal" target="_blank" title="Frohe Weihnachten" rel="lightbox[id_94]" href="/cache/f/2f1df6ade5896ce8142f64252b60a9fc.JPG"><img class="frame-1 thumb" style="float: left; margin-left: 0px; margin-right: 10px;" src="/cache/6/16e1c3d0a94c54ef1024b198995247e3.JPG" alt="Frohe Weihnachten" width="160" height="120" /></a>Wir wünschen euch ruhige und besinnliche Feiertage und einen fleißgen Weihnachtsmann! Rutscht gut ins neue Jahr 2014.</p>
+<p style="text-align: right;">24.12.2013</p>
+</div>
+<div class="clear"> </div>
+
+
+
+				</div>
+											<div class="leading-10"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Unsere Zuchtseite geht online !									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<div style="margin-left: 10px; margin-right: 10px;">
+<p>Nach zahlreichen Stunden schweißtreibender Arbeit ist es nun soweit. Unsere Zuchtseite geht online! Ist sie nicht toll geworden? Natürlich fehlt noch der ein oder andere Inhalt, der aber schnellstmöglich ergänzt wird. Rom wurde schließlich auch nicht an einem Tag erbaut ;-)</p>
+<p style="text-align: right;">30.11.2013</p>
+</div>
+<div class="clear"> </div>
+
+
+
+				</div>
+											<div class="leading-11"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Ridgeback Bock Carlchen zieht ein !									</h2>
+			
+											</div>
+	
+
+
+
+
+
+
+
+<div style="margin-left: 10px; margin-right: 10px;">
+<p><a class="linkthumb modal" target="_blank" title="Carlchen" rel="lightbox[id_91]" href="/cache/b/9b0d48977e81d764c61359940f2fa342.JPG"><img class="frame-1 thumb" style="float: left; margin-left: 0px; margin-right: 10px;" src="/cache/f/2fc6d3b6d6c8cb87c036c2204b10dc2c.JPG" alt="Carlchen" width="160" height="120" /></a><a href="/schweinchen/zuchttiere#carlchen">Carlchen</a>, unser neuer Ridgeback Bock, ist eingezogen. Die Vergesellschaftung mit Sweet Devil lief ohne Probleme ab. Beide fressen schon nebeneinander und akzeptieren sich :-)</p>
+<p style="text-align: right;">07.10.2013</p>
+</div>
+<div class="clear"> </div>
+
+
+
+				</div>
+									</div><!-- end items-leading -->
+	
+	
+	
+	
+		</div>
+
+	</div>
+
+<!--Modules ContentBottom-->
+            
+<!--End Modules ContentBottom-->
+
+</div>
+<div class="clear"></div>
+<!--End Content width and show component area-->
+           
+            
+
+</div>
+<div class="clear"></div></div></div>
+
+
+<div id="container_base" class="container"><div class="wrapper960">
+
+<div id ="base" class="block_holder">
+
+									
+				
+									
+
+<div class="clear"></div>
+	
+	<div id="copyright" class="module_margin"><div class="block_holder_margin">
+		 <p>(c) 2014 zur Zaubernuss</p>
+	</div></div>
+	
+    <div id="footermenu" class="block_holder"><div class="module_margin">
+         
+<ul class="menu">
+<li class="item-435 current active"><a href="/" >Home</a></li><li class="item-498"><a href="/impressum" >Impressum</a></li></ul>
+         <div class="clear"></div>
+    </div></div>
+	
+<div class="clear"></div>
+</div></div></div>
+
+
+
+<noscript><!-- free version of imagesizer - do not remove this link --><a title="Webdesign mit Joomla!" href="http://www.redim.de/">Webdesign Joomla!</a></noscript>
+</body> 
+</html>

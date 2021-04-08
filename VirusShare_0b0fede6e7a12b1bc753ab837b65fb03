@@ -1,0 +1,46 @@
+<!--
+	top.location="http://www.outdoor.bloggamente.net/?fp=M3%2FU%2BQKZNB16tiDnwn%2Fr2SpotF48989kt2sLi2iM%2BXVPZZQpu6Mjq%2Bbn71c1ptaFQa5Nupkh8W1E3QcIaYgqSA%3D%3D&prvtof=8Dk2VMnjpDUZpUYGI4GFbG4OgfJSvdGzR5aHoTJwnWA%3D&poru=H0uTbhgTmR4RAOjyhDLRm%2BdxhvQGAlRHVA%2F8VLODhGJmttf%2FsOO4y9t5DL%2FRjiN%2BRIBNlMtYVIUv3WamsvUUww%3D%3D&cifr=1&";
+	/*
+-->
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_LXOyODK7JEN2f+bMbnB9gUM12QNwyXtKbsM6Yjk1nS17YEwr1jSIPYYTSC+dS4RfvGy3/xj5C/kq95SM3ZyZFg=="><head>
+				  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+				  <meta name="viewport" content="width=device-width"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><script type="text/javascript">
+	<!--
+	dimensionUpdated = 0;
+	function applyFrameKiller()
+	{
+		if(window.top != self)
+		{
+			cHeight = 0;
+			if( typeof( window.innerHeight ) != 'undefined' ) {
+			//Non-IE
+			cHeight = window.innerHeight;
+			dimensionUpdated = 1;
+			} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight )  ) {
+			//IE 6+ in 'standards compliant mode'
+			cHeight = document.documentElement.clientHeight;
+			dimensionUpdated = 1;
+			} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+			//IE 4 compatible
+			cHeight = document.body.clientHeight;
+			dimensionUpdated = 1;
+			}
+			if( cHeight <= 250 && dimensionUpdated == 1)
+			{
+				window.top.location = "http://www.outdoor.bloggamente.net/?fp=M3%2FU%2BQKZNB16tiDnwn%2Fr2SpotF48989kt2sLi2iM%2BXVPZZQpu6Mjq%2Bbn71c1ptaFQa5Nupkh8W1E3QcIaYgqSA%3D%3D&prvtof=mafyO4VTY8%2FT1q3DY59NDgJLAwmWn7Z%2Bg0bcvC%2F4728%3D&poru=otehmOZnYpGdfetnZEYhXar91SxzbfxuUC%2BbPORrA9RGj1RuIK43%2FVkrik0VqzSoi4q1XyZ4QdzVY5IZiosDVQ%3D%3D&cifr=1&";
+			}
+		}
+	}
+
+	applyFrameKiller();
+	// -->
+</script><script type='text/javascript'>try{document.cookie = 'fjccheck=1';}catch(exception){}</script></head><frameset rows="100%,*" frameborder="no" border="0" framespacing="0">
+	<frame src="http://www.outdoor.bloggamente.net/?fp=M3%2FU%2BQKZNB16tiDnwn%2Fr2SpotF48989kt2sLi2iM%2BXVPZZQpu6Mjq%2Bbn71c1ptaFQa5Nupkh8W1E3QcIaYgqSA%3D%3D&prvtof=jZjGdyarCAoAQVSuiF%2FDoGw79URMLOtB7q87kuWpCik%3D&poru=ouwoT1NGuDSXPEINOaMGFettX6B7aGYTwrHob25dqQOWttrub5Foh0X%2BgzXONrYgou0Xmy12NBmTPwpk2Vz9mQ%3D%3D&">
+</frameset>
+<noframes>
+	<body bgcolor="#ffffff" text="#000000">
+	<a href="http://www.outdoor.bloggamente.net/?fp=M3%2FU%2BQKZNB16tiDnwn%2Fr2SpotF48989kt2sLi2iM%2BXVPZZQpu6Mjq%2Bbn71c1ptaFQa5Nupkh8W1E3QcIaYgqSA%3D%3D&prvtof=mOGWHq578YkDnQYjMeumVdfOnlPTiyeycaSSFbeMB0k%3D&poru=bqdnWQ2%2BZtE5Em1pPpa6eUq24QLmjW2TAUT31NTp5AFH79yER0EODpW5q%2FVpU%2BkUkI%2Fx0jt8GGRsePeBKIvYuA%3D%3D&">Click here to proceed</a>.
+	</body>
+</noframes></html><!--
+*/
+-->

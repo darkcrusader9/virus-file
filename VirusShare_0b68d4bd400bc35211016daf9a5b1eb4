@@ -1,0 +1,922 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<title>都坊娱乐城导航_都坊娱乐城网址_商铺网</title>
+<meta http-equiv="mobile-agent" content="format=xhtml; url=http://m.shangpu518.com/index.php?moduleid=5&catid=6"> 
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.shangpu518.com/index.php?moduleid=5&catid=6">
+<meta name="generator" content="shangpu518 - www.shangpu518.com"/>
+<link rel="shortcut icon" type="image/x-icon" href="http://www.shangpu518.com/favicon.ico"/>
+<link rel="bookmark" type="image/x-icon" href="http://www.shangpu518.com/favicon.ico"/>
+<link rel="archives" title="商铺网" href="http://www.shangpu518.com/archiver/"/>
+<link rel="stylesheet" type="text/css" href="http://www.shangpu518.com/skin/default/style.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.shangpu518.com/skin/default/sell.css"/><!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.shangpu518.com/skin/default/ie6.css"/>
+<![endif]-->
+<script type="text/javascript">window.onerror=function(){return true;}</script><script type="text/javascript" src="http://www.shangpu518.com/lang/zh-cn/lang.js"></script>
+<script type="text/javascript" src="http://www.shangpu518.com/file/script/config.js"></script>
+<script type="text/javascript" src="http://www.shangpu518.com/file/script/jquery.js"></script>
+<script type="text/javascript" src="http://www.shangpu518.com/file/script/common.js"></script>
+<script type="text/javascript" src="http://www.shangpu518.com/file/script/page.js"></script>
+<script type="text/javascript">
+var searchid = 5;
+</script>
+<script src="/tg.js" type="text/javascript"></script>
+</head>
+<body>
+<div class="head" id="head">
+<div class="head_m">
+<div class="f_r" id="destoon_member"></div>
+<div class="head_l">
+<ul>
+<li class="h_fav"><script type="text/javascript">addFav('收藏本页');</script></li>
+<li class="h_wap"><a href="http://m.shangpu518.com/mobile.php">手机版</a>&nbsp;</li><li class="h_cart"><a href="http://www.shangpu518.com/mall/cart.php" rel="nofollow">购物车</a>(<span class="head_t" id="destoon_cart">0</span>)</li></ul>
+</div>
+</div>
+</div>
+<div class="m head_s" id="destoon_space"></div>
+<div class="m"><div id="search_tips" style="display:none;"></div></div>
+<div class="m">
+<div id="search_module" style="display:none;" onmouseout="Dh('search_module');" onmouseover="Ds('search_module');">
+<a href="javascript:void(0);" onclick="setModule('16','商城')">商城</a><a href="javascript:void(0);" onclick="setModule('5','供应')">供应</a><a href="javascript:void(0);" onclick="setModule('6','求购')">求购</a><a href="javascript:void(0);" onclick="setModule('4','公司')">公司</a><a href="javascript:void(0);" onclick="setModule('17','团购')">团购</a><a href="javascript:void(0);" onclick="setModule('7','行情')">行情</a><a href="javascript:void(0);" onclick="setModule('8','展会')">展会</a><a href="javascript:void(0);" onclick="setModule('21','资讯')">资讯</a><a href="javascript:void(0);" onclick="setModule('22','招商')">招商</a><a href="javascript:void(0);" onclick="setModule('13','品牌')">品牌</a><a href="javascript:void(0);" onclick="setModule('9','人才')">人才</a><a href="javascript:void(0);" onclick="setModule('10','知道')">知道</a><a href="javascript:void(0);" onclick="setModule('11','专题')">专题</a><a href="javascript:void(0);" onclick="setModule('12','图库')">图库</a><a href="javascript:void(0);" onclick="setModule('14','视频')">视频</a><a href="javascript:void(0);" onclick="setModule('15','下载')">下载</a><a href="javascript:void(0);" onclick="setModule('23','杂谈天下')">杂谈天下</a><a href="javascript:void(0);" onclick="setModule('24','悦图')">悦图</a><a href="javascript:void(0);" onclick="setModule('26','好看')">好看</a></div>
+</div>
+<div class="m">
+<div class="logo f_l"><a href="http://www.shangpu518.com/"><img src="http://www.shangpu518.com/file/upload/201403/05/12-59-27-68-1.jpg" alt="商铺网"/></a></div>
+<form id="destoon_search" action="http://www.shangpu518.com/sell/search.php" onsubmit="return Dsearch(1);">
+<input type="hidden" name="moduleid" value="5" id="destoon_moduleid"/>
+<input type="hidden" name="spread" value="0" id="destoon_spread"/>
+<div class="head_search" onmouseover="this.className='head_search_on';" onmouseout="this.className='head_search';">
+<div>
+<input name="kw" id="destoon_kw" type="text" class="search_i" value="请输入关键词" onfocus="if(this.value=='请输入关键词') this.value='';" onkeyup="STip(this.value);" autocomplete="off" x-webkit-speech speech/><input type="text" id="destoon_select" class="search_m" value="供应" readonly onfocus="this.blur();" onclick="$('#search_module').fadeIn('fast');"/><input type="submit" value=" " class="search_s"/>
+</div>
+</div>
+</form>
+<div class="head_search_kw f_l"><a href="" onclick="Dsearch_top();return false;"><strong>标王</strong></a> 
+<a href="" onclick="Dsearch_adv();return false;"><strong>热搜：</strong></a>
+<span id="destoon_word"><a href="http://www.shangpu518.com/sell/search.php?kw=%E5%85%BD%E8%8D%AF" class="b" rel="nofollow">兽药</a>&nbsp; <a href="http://www.shangpu518.com/sell/search.php?kw=%E6%B4%9B%E9%98%B3%E5%B8%82%E5%85%BD%E8%8D%AF%E5%8E%82" class="b" rel="nofollow">洛阳市兽药厂</a>&nbsp; <a href="http://www.shangpu518.com/sell/search.php?kw=%E5%87%BF%E5%B2%A9%E6%9C%BA" class="b" rel="nofollow">凿岩机</a>&nbsp; <a href="http://www.shangpu518.com/sell/search.php?kw=%E6%97%8B%E8%BD%AC%E6%8E%A5%E5%A4%B4" class="b" rel="nofollow">旋转接头</a>&nbsp; <a href="http://www.shangpu518.com/sell/search.php?kw=%E5%8C%85%E8%A3%85%E6%9C%BA" class="b" rel="nofollow">包装机</a>&nbsp; <a href="http://www.shangpu518.com/sell/search.php?kw=%E9%83%91%E5%B7%9E" class="b" rel="nofollow">郑州</a>&nbsp; <a href="http://www.shangpu518.com/sell/search.php?kw=%E7%AE%A1%E4%BB%B6" class="b" rel="nofollow">管件</a>&nbsp; <a href="http://www.shangpu518.com/sell/search.php?kw=%E5%AE%B6%E5%85%B7" class="b" rel="nofollow">家具</a>&nbsp; <a href="http://www.shangpu518.com/sell/search.php?kw=%E9%98%B2%E4%BC%AA" class="b" rel="nofollow">防伪</a>&nbsp; <a href="http://www.shangpu518.com/sell/search.php?kw=%E6%91%A9%E6%93%A6%E7%A3%A8%E6%8D%9F" class="b" rel="nofollow">摩擦磨损</a>&nbsp; </span></div>
+</div>
+<div class="m">
+<div class="menu">
+<ul><li><a href="http://www.shangpu518.com/"><span>首页</span></a></li><li><a href="http://www.shangpu518.com/mall/"><span>商城</span></a></li><li class="menuon"><a href="http://www.shangpu518.com/sell/"><span>供应</span></a></li><li><a href="http://www.shangpu518.com/buy/"><span>求购</span></a></li><li><a href="http://www.shangpu518.com/company/"><span>公司</span></a></li><li><a href="http://www.shangpu518.com/group/"><span>团购</span></a></li><li><a href="http://www.shangpu518.com/quote/"><span>行情</span></a></li><li><a href="http://www.shangpu518.com/exhibit/"><span>展会</span></a></li><li><a href="http://www.shangpu518.com/news/"><span>资讯</span></a></li><li><a href="http://www.shangpu518.com/invest/"><span>招商</span></a></li><li><a href="http://www.shangpu518.com/brand/"><span>品牌</span></a></li><li><a href="http://www.shangpu518.com/job/"><span>人才</span></a></li><li><a href="http://www.shangpu518.com/know/"><span>知道</span></a></li><li><a href="http://www.shangpu518.com/special/"><span>专题</span></a></li><li><a href="http://www.shangpu518.com/photo/"><span>图库</span></a></li><li><a href="http://www.shangpu518.com/video/"><span>视频</span></a></li><li><a href="http://www.shangpu518.com/down/"><span>下载</span></a></li><li><a href="http://www.shangpu518.com/zatan/"><span>杂谈天下</span></a></li><li><a href="http://www.shangpu518.com/yuetu/"><span>悦图</span></a></li><li><a href="http://news.shangpu518.com"><span>商讯</span></a></li><li><a href="http://www.shangpu518.com/haokan/"><span>好看</span></a></li></ul>
+</div>
+</div>
+<div class="m b10">&nbsp;</div>
+<div class="m">
+
+
+</div>
+<div class="m b10">&nbsp;</div><script type="text/javascript">var sh = 'http://www.shangpu518.com/sell/search.php?catid=6';</script>
+<div class="m">
+<div class="m_l_1 f_l">
+<div class="left_box">
+<div class="pos">当前位置: <a href="http://www.shangpu518.com/">首页</a> &raquo; <a href="http://www.shangpu518.com/sell/list659/">都坊娱乐城</a></div>
+<div class="category">
+<p><img src="http://www.shangpu518.com/skin/default/image/arrow.gif" width="17" height="12" alt=""/> <strong>按行业浏览</strong></p>
+<div>
+<table width="100%" cellpadding="3">
+<tr><td><a href="http://www.shangpu518.com/sell/list/471/">库存服装</a> <span class="f_gray px10">(1)</span></td>
+<td><a href="http://www.shangpu518.com/sell/list/877/">服装加工</a> <span class="f_gray px10">(1)</span></td>
+<td><a href="http://www.shangpu518.com/sell/list/1029/">女装</a> <span class="f_gray px10">(7)</span></td>
+<td><a href="http://www.shangpu518.com/sell/list/1032/">男装</a> <span class="f_gray px10">(1)</span></td>
+<td><a href="http://www.shangpu518.com/sell/list/1035/">童装、婴幼儿服装</a> <span class="f_gray px10">(1)</span></td>
+</tr><tr><td><a href="http://www.shangpu518.com/sell/list/1038/">内衣</a> <span class="f_gray px10">(9)</span></td>
+<td><a href="http://www.shangpu518.com/sell/list/1041/">运动服</a> <span class="f_gray px10">(3)</span></td>
+<td><a href="http://www.shangpu518.com/sell/list/1044/">情侣装、亲子装、孕妇装</a> <span class="f_gray px10">(2)</span></td>
+<td><a href="http://www.shangpu518.com/sell/list/1047/">制服工作服、校服、表演服</a> <span class="f_gray px10">(6)</span></td>
+<td><a href="http://www.shangpu518.com/sell/list/1050/">外贸服装</a> <span class="f_gray px10">(0)</span></td>
+</tr><tr><td><a href="http://www.shangpu518.com/sell/list/1053/">服装代理加盟</a> <span class="f_gray px10">(1)</span></td>
+<td><a href="http://www.shangpu518.com/sell/list/1056/">服装展示道具</a> <span class="f_gray px10">(1)</span></td>
+</table>
+</div>
+</div>
+<div class="b10">&nbsp;</div>
+<div class="type">
+<a href="http://www.shangpu518.com/sell/list/6/" class="type_1">全部</a>
+<a href="javascript:Go('http://www.shangpu518.com/sell/index-htm-typeid-0-catid-6.html');" class="type_2">供应</a>
+<a href="javascript:Go('http://www.shangpu518.com/sell/index-htm-typeid-1-catid-6.html');" class="type_2">提供服务</a>
+<a href="javascript:Go('http://www.shangpu518.com/sell/index-htm-typeid-2-catid-6.html');" class="type_2">供应二手</a>
+<a href="javascript:Go('http://www.shangpu518.com/sell/index-htm-typeid-3-catid-6.html');" class="type_2">提供加工</a>
+<a href="javascript:Go('http://www.shangpu518.com/sell/index-htm-typeid-4-catid-6.html');" class="type_2">提供合作</a>
+<a href="javascript:Go('http://www.shangpu518.com/sell/index-htm-typeid-5-catid-6.html');" class="type_2">库存</a>
+</div>
+<div class="b10 c_b">&nbsp;</div>
+<form method="post">
+<div class="sell_tip" id="sell_tip" style="display:none;" title="双击关闭" ondblclick="Dh(this.id);">
+<div>
+<p>您可以</p>
+<input type="submit" value="对比选中" onclick="this.form.action='http://www.shangpu518.com/sell/compare.php';" class="btn_1" onmouseover="this.className='btn_2'" onmouseout="this.className='btn_1'"/> 或 
+<input type="submit" value="批量询价" onclick="this.form.action='http://www.shangpu518.com/sell/inquiry.php';" class="btn_1" onmouseover="this.className='btn_2'" onmouseout="this.className='btn_1'"/>
+</div>
+</div>
+<div class="img_tip" id="img_tip" style="display:none;">&nbsp;</div>
+<div class="tool">
+<table>
+<tr height="30">
+<td width="25" align="center"><input type="checkbox" onclick="checkall(this.form);"/></td>
+<td>
+<input type="submit" value="对比选中" onclick="this.form.action='http://www.shangpu518.com/sell/compare.php';" class="btn_1" onmouseover="this.className='btn_2'" onmouseout="this.className='btn_1'"/>&nbsp;
+<input type="submit" value="批量询价" onclick="this.form.action='http://www.shangpu518.com/sell/inquiry.php';" class="btn_1" onmouseover="this.className='btn_2'" onmouseout="this.className='btn_1'"/>
+</td>
+<td align="right">
+<input type="checkbox" onclick="Go(sh+'&price=1');"/>标价&nbsp;
+<input type="checkbox" onclick="Go(sh+'&thumb=1');"/>图片&nbsp;
+<input type="checkbox" onclick="Go(sh+'&vip=1');"/>VIP&nbsp;
+
+
+<select onchange="Go(sh+'&day='+this.value)">
+<option value="0">更新时间</option>
+<option value="1">1天内</option>
+<option value="3">3天内</option>
+<option value="7">7天内</option>
+<option value="15">15天内</option>
+<option value="30">30天内</option>
+</select>&nbsp;
+<select onchange="Go(sh+'&order='+this.value)">
+<option value="0">显示顺序</option>
+<option value="2">价格由高到低</option>
+<option value="3">价格由低到高</option>
+<option value="4">VIP级别由高到低</option>
+<option value="5">VIP级别由低到高</option>
+<option value="6">供货量由高到低</option>
+<option value="7">供货量由低到高</option>
+<option value="8">起订量由高到低</option>
+<option value="9">起订量由低到高</option>
+</select>&nbsp;
+<img src="http://www.shangpu518.com/skin/default/image/list_txt.gif" width="16" height="16" alt="文字列表" align="absmiddle" class="c_p" onclick="Go(sh+'&list=2');"/>&nbsp;
+<img src="http://www.shangpu518.com/skin/default/image/list_img.gif" width="16" height="16" alt="图片列表" align="absmiddle" class="c_p" onclick="Go(sh+'&list=1');"/>&nbsp;
+<img src="http://www.shangpu518.com/skin/default/image/list_mix_on.gif" width="16" height="16" alt="图文列表" align="absmiddle" class="c_p" onclick="Go(sh+'&list=0');"/>&nbsp;
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu158.jpg" width="80" height="80" alt="苍南某鞋企，近10年来，企业的老板将其在鞋机制造上赚来的钱全部用于买房，北至黑龙江，南到海南，处处有房产，而主业这块10年无发展。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">美国劳工部8月3日表示，6月份全美失业率升至9.2%。</strong></a></li>
+<li class="f_gray">　　雅戈尔另外一个绿色高端品牌———汉麻世家，则采用拥有原创知识产权的汉麻纤维面料，具有吸湿透气、除臭抑菌、抗辐射等功能，更让热爱生活，追求自然的都市人贴近自然、感受自然。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[陕西省/咸阳市
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+亿威运动器材有限公司&nbsp;
+<span class="f_gray">
+官方认证</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">076.00</strong>/套</span><br/>
+5套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu1251.jpg" width="80" height="80" alt="在过去三十年的快速发展中，中国皮革产业创造了世界皮革生产大国的骄人业绩。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">小企业应诉也是有必要的。</strong></a></li>
+<li class="f_gray">　　这次选择方仕国际轻纺城主要看重的是市场软硬件设施和对外贸易出口的平台。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[河南省/焦作市
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+都坊娱乐城&nbsp;
+<span class="f_gray">
+官方认证</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">322.00</strong>/套</span><br/>
+6套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu759.jpg" width="80" height="80" alt="统计显示，实际汇率每升值1个百分点，江苏的机电出口约下降0.63个百分点，纺织服装出口约下降1.47个百分点；人民币实际汇率波动率每增加1个百分点，江苏的机电出口将下降0.02个百分点，纺织服装出口将会下降0.04个百分点。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">美邦2012年一季度末应付账款为9.5亿元，较2011年末净增3.5亿元；而公司账上存货仅从2011年末的25.6亿元降至23.17亿元，净减少2.4亿元。</strong></a></li>
+<li class="f_gray">　　面对铺天盖地的离职询问，吴声发出“一声叹息”。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[黑龙江省/哈尔滨市
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+鑫佳联吸塑&nbsp;
+<span class="f_gray">
+未核实</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">168.00</strong>/套</span><br/>
+5套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu1125.jpg" width="80" height="80" alt="来自某奢侈品网站的内部人士告诉《中国经济周刊》记者，电商的进货渠道多种多样，既有“阳关大道”也有“灰色快捷通道”，更有买手公司这样的第三方力量。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">上市助企业扩张，行业整合或加快</strong></a></li>
+<li class="f_gray">　　孟加拉国向德国的出口接近15.0亿欧元，同比下降了4.8%。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[云南省/迪庆藏族自治州
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+唐龙姿加歌服装&nbsp;
+<span class="f_gray">
+</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">889.00</strong>/套</span><br/>
+8套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu320.jpg" width="80" height="80" alt="据道氏公司的说法，这种新树脂柔软度高，手感好，还可降低噪音。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">本届采购节举办了“风·潮’购物嘉年华”“工业旅游体验行”“时尚之都庆典晚会”和“中国女鞋之都武侯皮革城开业庆典”等系列主题活动，吸引了众多鞋革行业同行和市民的参与，搭建起了制造商、经销商、消费者三方沟通的桥梁。</strong></a></li>
+<li class="f_gray">　　这21个工业园区将包括服装园区、针织品园区、丝绸园区、纺纱及织布园区、地毯园区、纺机园区以及涵盖医用纺织品在内的产业用纺织品园区。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[湖南省/长沙市
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+都坊娱乐城&nbsp;
+<span class="f_gray">
+官方认证</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">675.00</strong>/套</span><br/>
+8套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu510.jpg" width="80" height="80" alt="要想让人服气，那得有真本事。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">公司还通过内部报刊、电视、网络等多种手段，让员工能充分表达自己的意见，保证员工的切身利益。</strong></a></li>
+<li class="f_gray">　　可以采取横向联合的方式，改变低、小、散的现状，形成产业集群和行业集群，龙头企业可以凭借自身的优势来整合行业；在具备了抗风险能力后，中小企业可以进一步在联合的基础上走向升级，打造自己的品牌。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[山东省/泰安市
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+太平洋电机厂&nbsp;
+<span class="f_gray">
+</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">424.00</strong>/套</span><br/>
+7套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu222.jpg" width="80" height="80" alt="服饰展区同样“星光熠熠”。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">化纤行业逐步实现装置的短流程和大型化。</strong></a></li>
+<li class="f_gray">　　但考虑本次列检所涉及之业者家数众多，目前仅有约800家业者申请登记，为避免造成多数业者之冲击，经与相关单位研商后，决定延后实施。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[甘肃省/金昌市
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+都坊娱乐城&nbsp;
+<span class="f_gray">
+</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">916.00</strong>/套</span><br/>
+4套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu405.jpg" width="80" height="80" alt="今年初，美运鞋业全年生产计划就已经排满，上半年的销售额超过了去年全年，预计今年外贸出口将达2580万美元。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">领导HALTI成功的人是Juhani Hyo kyvaara，他于1972年建立了自己的公司。</strong></a></li>
+<li class="f_gray">　　近年来，节能降耗，清洁生产是我们的主攻目标，我们一共实施了17项清洁生产方案，顺利通过了审核。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[广东省/汕尾市
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+伊人飘影&nbsp;
+<span class="f_gray">
+官方认证</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">663.00</strong>/套</span><br/>
+1套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu632.jpg" width="80" height="80" alt="1985年3月此广告开始在全国上演，结果当年“空中飞人乔丹鞋”的销售额就达到了1.3亿美元。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">欢迎届时莅临STOLL展台! 或浏览网站</strong></a></li>
+<li class="f_gray">　　但是，它的轮岗幅度过大，也带来不利影响。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[浙江省/舟山市
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+华成不锈钢管有限公司&nbsp;
+<span class="f_gray">
+未核实</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">412.00</strong>/套</span><br/>
+7套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu1355.jpg" width="80" height="80" alt="为了引发线上到线下的消费，网站包括店铺地址列表，网上购物通道和网络分享链接，浏览者可以通过链接和朋友们分享这个网站。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">欧盟的最终妥协得益于政府、企业、律师团以及行业中介组织在应诉中的通力合作。</strong></a></li>
+<li class="f_gray">　　例如其中的致癌芳香胺增加了“4-氨基偶氮苯”，总数达到24种，芳香胺的限量值必须小于20毫克/公斤。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[云南省/思茅市
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+明铁工贸&nbsp;
+<span class="f_gray">
+官方认证</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">109.00</strong>/套</span><br/>
+0套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu643.jpg" width="80" height="80" alt="数据显示，达芙妮2009年销售成本26.25亿港元，全年毛利率55%，相比2008年的52.7%增长了2.3个百分点。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">从1995年正式建厂到年产值3亿元，裘永清只用了不到13年的时间。</strong></a></li>
+<li class="f_gray">　　和周围许多纺机企业相比，鸿基科技的人才结构是令人羡慕的，拥有本科以上专业技术人才占员工总数的20%以上。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[河南省/开封市
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+鼎峰合成革有限公司&nbsp;
+<span class="f_gray">
+未核实</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">802.00</strong>/套</span><br/>
+7套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu341.jpg" width="80" height="80" alt="记者了解到，一位客户服务经理已经三次去印度出差，一方面为了客户做好售后服务，另一方面也增长了很多见识，提升了业务能力。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">进入新时代，皮衣消费群体发生“代际替换”，越来越多的年轻人加入到皮衣消费群体，我们需要企业家、设计者、市场一起来共同创造市场，引导多元化的消费。</strong></a></li>
+<li class="f_gray">　　棉纺织品需求回升较慢，利润损失；然而，棉花价格下跌有助于复苏，但将受到投入成本或外汇走势进一步波动的影响。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[湖南省/湘潭市
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+都坊娱乐城&nbsp;
+<span class="f_gray">
+未核实</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">297.00</strong>/套</span><br/>
+3套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu844.jpg" width="80" height="80" alt="据365纱线网了解，这21个纺织产业园是由印度部长级项目审查委员会在考查了全国55家产业园区之后推荐出来的。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">中美洲与墨西哥自由贸易协议预定于本年10月17日及18日在墨西哥TuxtlaGutierrez举行之元首高峰会议签署。</strong></a></li>
+<li class="f_gray">　　一位质量教导员对我说，参赛的工人很早就开始准备了，大家都想在操运会上一展身手。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[山东省/泰安市
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+都坊娱乐城&nbsp;
+<span class="f_gray">
+</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">452.00</strong>/套</span><br/>
+9套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu588.jpg" width="80" height="80" alt="华都纺织印染有限公司的一位负责人昨日对记者说，从上半年开始，棉纱价格就一直不稳定，有时候货源也很紧，以60支纱为例，年初每吨不到3万，现在涨到每吨4.2万元左右，而且还在涨，企业利润空间越来越小。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">目前，该县服装行业共有省著名品牌18个、省著名商标25个，产品远销亚洲、南北美洲、欧洲等地的50多个国家和地区，成功进入韩国、日本、德国等发达国家市场，年出口产品交货值50亿元。</strong></a></li>
+<li class="f_gray">　　公司上下都感到了由于信息传递不及时给工作带来的困难，有的甚至是损失。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[湖北省/荆门市
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+荣国友模具加工&nbsp;
+<span class="f_gray">
+</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">255.00</strong>/套</span><br/>
+2套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu1265.jpg" width="80" height="80" alt="在日本，家用机的普及率是70%；在韩国，家用机的普及率是130%。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">继5月22日专题新闻播报本展会之后，日前千家网络媒体和官方网站同步公布了第十届上海加盟展的档期：定于2011年12月9-11在上海光大会展中心举行。</strong></a></li>
+<li class="f_gray">　　关注2011上海加盟展。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[云南省/昆明市
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+永弘鑫服装厂&nbsp;
+<span class="f_gray">
+官方认证</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">014.00</strong>/套</span><br/>
+8套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu476.jpg" width="80" height="80" alt="不过该人士称，由于新规范实施的问题，如今一些按旧规范的库存品成了有“保质期”的产品，打折卖场若要“吃进”这些库存，亦会面临一定的政策风险。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">正因为创始人的逐步退出，自本世纪初开始，佐丹奴的股权变得相当分散，多由基金持有，管理层并非主要股东。</strong></a></li>
+<li class="f_gray">　　2009年，李宁在中国市场成功超越阿迪达斯，成为了市场第二。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[浙江省/丽水市
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+康永军服装加工&nbsp;
+<span class="f_gray">
+未核实</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">939.00</strong>/套</span><br/>
+7套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu1153.jpg" width="80" height="80" alt="12月5日下午，新中国60年山东百家领袖品牌颁奖盛典暨山东省首届品牌高峰论坛在济南举行。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">同期间，次大运动用品采购集团Sport 2000之会员营收降幅则低得多，仅有-0.9%，据该采购集团总经理Andreas Rudolf解释，去年德国运动用品专卖业营收之得以大幅攀增，主要系因南非举办世足杯比赛，因此今年销售表现显得较差，尽管今年德国亦举办女子世足杯比赛，然此一活动带来之买气显然不足。</strong></a></li>
+<li class="f_gray">　　此前，德国专业杂志TextilWirtschaft已预见此一发展，而曾预估，今年6月德国运动纺织品销售将仅达去年同期10-15%，果不其然，据运动连锁店SportScheck指出，今年该公司营业额仅及去年同月之10%。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[湖南省/长沙市
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+天福原电子科技有限公司&nbsp;
+<span class="f_gray">
+</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">270.00</strong>/套</span><br/>
+4套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu787.jpg" width="80" height="80" alt="Baard还表示就业率下降已经成为困扰南非政府亟须解决的社会问题，服装业协会提出的新计划将力图保持目前行业雇佣劳务关系，通过采取更为合理的劳资计酬模式有助于南非服装业力压莱索托和斯威士兰，促使南非服装业得到有效恢复。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">江苏省教育厅和服装节组委会办公室将继续主办全省的服装院校校服设计大赛，江苏大唐纺织科技有限公司将继续给予支持，本次主题为“花·young”，3月1日已经全面启动。</strong></a></li>
+<li class="f_gray">　　2010年1月1日起，中国－东盟自贸区协定将实施第4批正常商品降税，双方90%以上的商品将实施零关税，中国-东盟自贸区将全面实现货物贸易自由化。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[宁夏/固原地区
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+都坊娱乐城&nbsp;
+<span class="f_gray">
+官方认证</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">333.00</strong>/套</span><br/>
+6套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu1258.jpg" width="80" height="80" alt="据介绍，除太平鸟时装走秀外，服博会组委会还将在世博园宁波滕头馆举办流行趋势发布、新品发布等活动。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">代理商和最终客户组成一个庞大的体系帮助自己扩大市场份额，王总觉得在这个阶段，企业高层营销管理人员就必须由业务型转变成管理型；管理方式必须由结果管理转变成过程管理；企业的管理也必须由粗放式管理转为精细化、规范化管理，从精细化管理要效益。</strong></a></li>
+<li class="f_gray">　　张艺谋在导演开幕式，也抓住了几个重要的环节，环环相扣：“击缶最后10秒”、“欢迎焰火”、“大脚印的历史足迹”、“奥运五环”、“历史画卷”、“活字印刷术”、“太极”、“主体歌”等组成了梦幻一般的奥运会开幕式。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[甘肃省/平凉地区
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+都坊娱乐城&nbsp;
+<span class="f_gray">
+官方认证</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">737.00</strong>/套</span><br/>
+8套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu616.jpg" width="80" height="80" alt="导演组对每个重点环节严格审核，每个阶段都有“扣人心弦”的演出，成为“张老板”精细化控制的热点。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">当前，孚日集团飞速发展的形势对技术人才的需求异常迫切，为提高管理能力，适应当前对高层次专业技术人才的需要，集团根据人才发展战略，组织了第一批赴东华大学深造的团队。</strong></a></li>
+<li class="f_gray">　　为了保持健美，很多美国人打起了板球、骑上了自行车，这使各种特制的运动鞋需求量猛增。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[青海省/海北藏族自治州
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+陈翠连蔬菜仓库&nbsp;
+<span class="f_gray">
+未核实</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">228.00</strong>/套</span><br/>
+6套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="list" id="item_4398">
+<table>
+<tr align="center">
+<td width="25">&nbsp;<input type="checkbox" id="check_4398" name="itemid[]" value="4398" onclick="sell_tip(this, 4398);"/> </td>
+<td width="90"><div><a href="http://www.shangpu518.com/sell/list660" target="_blank"><img src="http://www.shangpu518.com/sell/shangmaoimg/xiangmu407.jpg" width="80" height="80" alt="从1980年以来，耐克公司就是一直没有签下真正的大牌篮球明星，所以他们是赶忙诚意的，因为他们现在极需一艘“旗舰”，帮他们的产品在篮球场上站稳脚跟。" /></a></div></td>
+<td width="10"> </td>
+<td align="left">
+<ul>
+<li><a href="http://www.shangpu518.com/sell/list660" target="_blank"><strong class="px14">据了解，这是七年来优衣库品牌在日本销量的最大降幅。</strong></a></li>
+<li class="f_gray">　　2011年的“双十一”以博洋家纺为首的家纺电子商务大出风头，创下了家纺单店日销破四千万的骄人成绩，博洋家纺的数据给每一个家纺企业的电子商务无疑注射了一剂强心针。</li>
+<li><span class="f_r px11">2015-12-23 20:11&nbsp;&nbsp;</span>[黑龙江省/齐齐哈尔市
+]</li>
+<li>
+<span class="f_r f_gray">
+<a href="#" target="_blank" rel="nofollow"><img src="#" title="点击交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/web-off.gif';"/></a>&nbsp;<a href="#" target="_blank" rel="nofollow"><img src="http://wpa.qq.com/pa?p=1:1058620830:4" title="点击QQ交谈/留言" alt="" align="absmiddle" onerror="this.src=DTPath+'file/image/qq-off.gif';" onload="if(this.width==77){this.src=DTPath+'file/image/qq-off.gif';}else if(this.width==23){this.src=DTPath+'file/image/qq.gif';}"/></a>&nbsp;</span>
+宁德核电有限公司&nbsp;
+<span class="f_gray">
+</span>
+</li>
+</ul>
+</td>
+<td width="10"> </td>
+<td width="100"> 
+<span class="f_red"><strong class="px14">906.00</strong>/套</span><br/>
+4套起订<br/>
+<img src="http://www.shangpu518.com/skin/default/image/inquiry.gif" alt="询价" class="iq_btn" onclick="Go('#');"/>
+</td>
+</tr>
+</table>
+</div>
+<table>
+<tr height="30">
+<td width="25"></td>
+<td>
+<input type="submit" value="对比选中" onclick="this.form.action='http://www.shangpu518.com/sell/compare.php';" class="btn_1" onmouseover="this.className='btn_2'" onmouseout="this.className='btn_1'"/>&nbsp;
+<input type="submit" value="批量询价" onclick="this.form.action='http://www.shangpu518.com/sell/inquiry.php';" class="btn_1" onmouseover="this.className='btn_2'" onmouseout="this.className='btn_1'"/>
+</td>
+</tr>
+</table>
+</div>
+</form>
+<br/>
+</div>
+</div>
+<div class="m_n f_l">&nbsp;</div>
+<div class="m_r_1 f_l">
+<div class="sponsor"></div>
+<div class="box_head"><div><strong>本周搜索排行</strong></div></div>
+<div class="box_body">
+<div class="rank_list">
+<ul>
+<li title="搜索12次 约18条结果"><span class="f_r px11 f_gray">&nbsp;18条</span><a href="http://www.shangpu518.com/sell/search.php?kw=%E5%85%BD%E8%8D%AF" rel="nofollow">兽药</a></li>
+<li title="搜索11次 约9条结果"><span class="f_r px11 f_gray">&nbsp;9条</span><a href="http://www.shangpu518.com/sell/search.php?kw=%E5%87%BF%E5%B2%A9%E6%9C%BA" rel="nofollow">凿岩机</a></li>
+<li title="搜索11次 约9条结果"><span class="f_r px11 f_gray">&nbsp;9条</span><a href="http://www.shangpu518.com/sell/search.php?kw=%E6%B4%9B%E9%98%B3%E5%B8%82%E5%85%BD%E8%8D%AF%E5%8E%82" rel="nofollow">洛阳市兽药厂</a></li>
+<li title="搜索11次 约90条结果"><span class="f_r px11 f_gray">&nbsp;90条</span><a href="http://www.shangpu518.com/sell/search.php?kw=%E5%8C%85%E8%A3%85%E6%9C%BA" rel="nofollow">包装机</a></li>
+<li title="搜索10次 约11条结果"><span class="f_r px11 f_gray">&nbsp;11条</span><a href="http://www.shangpu518.com/sell/search.php?kw=%E7%AE%A1%E4%BB%B6" rel="nofollow">管件</a></li>
+<li title="搜索10次 约10条结果"><span class="f_r px11 f_gray">&nbsp;10条</span><a href="http://www.shangpu518.com/sell/search.php?kw=%E6%97%8B%E8%BD%AC%E6%8E%A5%E5%A4%B4" rel="nofollow">旋转接头</a></li>
+<li title="搜索9次 约39条结果"><span class="f_r px11 f_gray">&nbsp;39条</span><a href="http://www.shangpu518.com/sell/search.php?kw=%E9%83%91%E5%B7%9E" rel="nofollow">郑州</a></li>
+<li title="搜索7次 约26条结果"><span class="f_r px11 f_gray">&nbsp;26条</span><a href="http://www.shangpu518.com/sell/search.php?kw=%E5%AE%B6%E5%85%B7" rel="nofollow">家具</a></li>
+<li title="搜索4次 约2条结果"><span class="f_r px11 f_gray">&nbsp;2条</span><a href="http://www.shangpu518.com/sell/search.php?kw=%E6%91%A9%E6%93%A6%E7%A3%A8%E6%8D%9F" rel="nofollow">摩擦磨损</a></li>
+<li title="搜索3次 约23条结果"><span class="f_r px11 f_gray">&nbsp;23条</span><a href="http://www.shangpu518.com/sell/search.php?kw=%E9%98%B2%E4%BC%AA" rel="nofollow">防伪</a></li>
+</ul></div>
+</div>
+<div class="b10">&nbsp;</div>
+<div class="box_head"><div><strong>按地区浏览</strong></div></div>
+<div class="box_body">
+<table width="100%" cellpadding="3">
+<tr><td><a href="http://www.shangpu518.com/sell/search.php?areaid=1&catid=6" rel="nofollow">北京</a></td>
+<td><a href="http://www.shangpu518.com/sell/search.php?areaid=2&catid=6" rel="nofollow">上海</a></td>
+</tr><tr><td><a href="http://www.shangpu518.com/sell/search.php?areaid=3&catid=6" rel="nofollow">天津</a></td>
+<td><a href="http://www.shangpu518.com/sell/search.php?areaid=4&catid=6" rel="nofollow">重庆</a></td>
+</tr><tr><td><a href="http://www.shangpu518.com/sell/search.php?areaid=5&catid=6" rel="nofollow">河北</a></td>
+<td><a href="http://www.shangpu518.com/sell/search.php?areaid=6&catid=6" rel="nofollow">山西</a></td>
+</tr><tr><td><a href="http://www.shangpu518.com/sell/search.php?areaid=7&catid=6" rel="nofollow">内蒙古</a></td>
+<td><a href="http://www.shangpu518.com/sell/search.php?areaid=8&catid=6" rel="nofollow">辽宁</a></td>
+</tr><tr><td><a href="http://www.shangpu518.com/sell/search.php?areaid=9&catid=6" rel="nofollow">吉林</a></td>
+<td><a href="http://www.shangpu518.com/sell/search.php?areaid=10&catid=6" rel="nofollow">黑龙江</a></td>
+</tr><tr><td><a href="http://www.shangpu518.com/sell/search.php?areaid=11&catid=6" rel="nofollow">江苏</a></td>
+<td><a href="http://www.shangpu518.com/sell/search.php?areaid=12&catid=6" rel="nofollow">浙江</a></td>
+</tr><tr><td><a href="http://www.shangpu518.com/sell/search.php?areaid=13&catid=6" rel="nofollow">安徽</a></td>
+<td><a href="http://www.shangpu518.com/sell/search.php?areaid=14&catid=6" rel="nofollow">福建</a></td>
+</tr><tr><td><a href="http://www.shangpu518.com/sell/search.php?areaid=15&catid=6" rel="nofollow">江西</a></td>
+<td><a href="http://www.shangpu518.com/sell/search.php?areaid=16&catid=6" rel="nofollow">山东</a></td>
+</tr><tr><td><a href="http://www.shangpu518.com/sell/search.php?areaid=17&catid=6" rel="nofollow">河南</a></td>
+<td><a href="http://www.shangpu518.com/sell/search.php?areaid=18&catid=6" rel="nofollow">湖北</a></td>
+</tr><tr><td><a href="http://www.shangpu518.com/sell/search.php?areaid=19&catid=6" rel="nofollow">湖南</a></td>
+<td><a href="http://www.shangpu518.com/sell/search.php?areaid=20&catid=6" rel="nofollow">广东</a></td>
+</tr><tr><td><a href="http://www.shangpu518.com/sell/search.php?areaid=21&catid=6" rel="nofollow">广西</a></td>
+<td><a href="http://www.shangpu518.com/sell/search.php?areaid=22&catid=6" rel="nofollow">海南</a></td>
+</tr><tr><td><a href="http://www.shangpu518.com/sell/search.php?areaid=23&catid=6" rel="nofollow">四川</a></td>
+<td><a href="http://www.shangpu518.com/sell/search.php?areaid=24&catid=6" rel="nofollow">贵州</a></td>
+</tr><tr><td><a href="http://www.shangpu518.com/sell/search.php?areaid=25&catid=6" rel="nofollow">云南</a></td>
+<td><a href="http://www.shangpu518.com/sell/search.php?areaid=26&catid=6" rel="nofollow">西藏</a></td>
+</tr><tr><td><a href="http://www.shangpu518.com/sell/search.php?areaid=27&catid=6" rel="nofollow">陕西</a></td>
+<td><a href="http://www.shangpu518.com/sell/search.php?areaid=28&catid=6" rel="nofollow">甘肃</a></td>
+</tr><tr><td><a href="http://www.shangpu518.com/sell/search.php?areaid=29&catid=6" rel="nofollow">青海</a></td>
+<td><a href="http://www.shangpu518.com/sell/search.php?areaid=30&catid=6" rel="nofollow">宁夏</a></td>
+</tr><tr><td><a href="http://www.shangpu518.com/sell/search.php?areaid=31&catid=6" rel="nofollow">新疆</a></td>
+<td><a href="http://www.shangpu518.com/sell/search.php?areaid=32&catid=6" rel="nofollow">台湾</a></td>
+</tr><tr><td><a href="http://www.shangpu518.com/sell/search.php?areaid=33&catid=6" rel="nofollow">香港</a></td>
+<td><a href="http://www.shangpu518.com/sell/search.php?areaid=34&catid=6" rel="nofollow">澳门</a></td>
+</tr></table>
+</div>
+</div>
+</div>
+<div class="m">
+
+</div>
+<div class="m">
+<div class="b10">&nbsp;</div>
+<div class="foot_page">
+<a href="http://www.shangpu518.com/">网站首页</a>
+| <a href="http://www.shangpu518.com/about/index.html">关于我们</a> 
+| <a href="http://www.shangpu518.com/about/contact.html">联系方式</a> 
+| <a href="http://www.shangpu518.com/about/agreement.html">使用协议</a> 
+| <a href="http://www.shangpu518.com/about/copyright.html">版权隐私</a> 
+| <a href="http://www.shangpu518.com/sitemap/">网站地图</a>
+| <a href="http://www.shangpu518.com/spread/">排名推广</a>
+ | <a href="http://www.shangpu518.com/ad/">广告服务</a> | <a href="http://www.shangpu518.com/gift/">积分换礼</a> | <a href="http://www.shangpu518.com/guestbook/">网站留言</a> | <a href="http://www.shangpu518.com/feed/">RSS订阅</a></div>
+</div>
+<div class="m">
+<div class="foot">
+<div id="copyright">(c)2013-2015 <a href="http://www.shangpu518.com">商铺网</a><a href="http://www.shangpu518.com">www.shangpu518.com</a> All Rights Reserved 技术支持：<a href="http://www.maoyiw.com">大贸网</a> <script language="javascript" type="text/javascript" src="http://js.users.51.la/18673333.js"></script></div>
+
+</div>
+</div>
+<div id="back2top" class="back2top"><a href="javascript:void(0);" title="返回顶部">&nbsp;</a></div>
+<script type="text/javascript">
+var destoon_userid = 0;
+var destoon_username = '';
+var destoon_message = 0;
+var destoon_chat = 0;
+var destoon_cart = substr_count(get_cookie('cart'), ',');
+var destoon_member = '';
+destoon_member += '欢迎，<span class="f_red">客人</span> | <a href="http://www.shangpu518.com/member/login.php">请登录</a> | <a href="http://www.shangpu518.com/member/register.php">免费注册</a> | <a href="http://www.shangpu518.com/member/send.php">忘记密码?</a>';
+$('#destoon_member').html(destoon_member);
+$('#destoon_cart').html(destoon_cart ? '<strong>'+destoon_cart+'</strong>' : 0);
+$('#back2top').click(function() {
+$("html, body").animate({scrollTop:0}, 200);
+});
+</script>
+
+
+                                                                                            
+</body>
+</html>

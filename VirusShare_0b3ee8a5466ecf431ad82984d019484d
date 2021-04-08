@@ -1,0 +1,1355 @@
+<!DOCTYPE html>
+<html class='v2' dir='ltr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/3213516723-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<meta content='width=1100' name='viewport'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='http://relicsofmymind.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://relicsofmymind.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Health Skin - Atom" href="http://relicsofmymind.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Health Skin - RSS" href="http://relicsofmymind.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Health Skin - Atom" href="https://www.blogger.com/feeds/3299246229963230917/posts/default" />
+<link rel="openid.server" href="https://www.blogger.com/openid-server.g" />
+<link rel="openid.delegate" href="http://relicsofmymind.blogspot.com/" />
+<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/771816573-ieretrofit.js"></script>
+<![endif]-->
+<meta content='http://relicsofmymind.blogspot.com/' property='og:url'/>
+<meta content='Health Skin' property='og:title'/>
+<meta content='' property='og:description'/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>Health Skin</title>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Simple
+Designer: Blogger
+URL:      www.blogger.com
+----------------------------------------------- */
+
+/* Content
+----------------------------------------------- */
+body {
+font: normal normal 12px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #000000;
+background: #cf1700 url(//themes.googleusercontent.com/image?id=1ukMEHopPUnLDJS4O6wg2H4Gk38asE8TYWgTfpdntUo5nJW_C-x1SUN2NgwQPLVEyR627) no-repeat fixed top center /* Credit: RedHelga (http://www.istockphoto.com/googleimages.php?id=5591923&platform=blogger) */;
+padding: 0 40px 40px 40px;
+}
+html body .region-inner {
+min-width: 0;
+max-width: 100%;
+width: auto;
+}
+h2 {
+font-size: 22px;
+}
+a:link {
+text-decoration:none;
+color: #c92510;
+}
+a:visited {
+text-decoration:none;
+color: #868686;
+}
+a:hover {
+text-decoration:underline;
+color: #fc4000;
+}
+.body-fauxcolumn-outer .fauxcolumn-inner {
+background: transparent none repeat scroll top left;
+_background-image: none;
+}
+.body-fauxcolumn-outer .cap-top {
+position: absolute;
+z-index: 1;
+height: 400px;
+width: 100%;
+}
+.body-fauxcolumn-outer .cap-top .cap-left {
+width: 100%;
+background: transparent none repeat-x scroll top left;
+_background-image: none;
+}
+.content-outer {
+-moz-box-shadow: 0 0 40px rgba(0, 0, 0, .15);
+-webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .15);
+-goog-ms-box-shadow: 0 0 10px #333333;
+box-shadow: 0 0 40px rgba(0, 0, 0, .15);
+margin-bottom: 1px;
+}
+.content-inner {
+padding: 10px 10px;
+}
+.content-inner {
+background-color: #ffffff;
+}
+/* Header
+----------------------------------------------- */
+.header-outer {
+background: #c92510 url(//www.blogblog.com/1kt/simple/gradients_light.png) repeat-x scroll 0 -400px;
+_background-image: none;
+}
+.Header h1 {
+font: normal normal 60px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #ffffff;
+text-shadow: 1px 2px 3px rgba(0, 0, 0, .2);
+}
+.Header h1 a {
+color: #ffffff;
+}
+.Header .description {
+font-size: 140%;
+color: #ffffff;
+}
+.header-inner .Header .titlewrapper {
+padding: 22px 30px;
+}
+.header-inner .Header .descriptionwrapper {
+padding: 0 30px;
+}
+/* Tabs
+----------------------------------------------- */
+.tabs-inner .section:first-child {
+border-top: 0 solid #ededed;
+}
+.tabs-inner .section:first-child ul {
+margin-top: -0;
+border-top: 0 solid #ededed;
+border-left: 0 solid #ededed;
+border-right: 0 solid #ededed;
+}
+.tabs-inner .widget ul {
+background: #f4f4f4 url(https://resources.blogblog.com/blogblog/data/1kt/simple/gradients_light.png) repeat-x scroll 0 -800px;
+_background-image: none;
+border-bottom: 1px solid #ededed;
+margin-top: 0;
+margin-left: -30px;
+margin-right: -30px;
+}
+.tabs-inner .widget li a {
+display: inline-block;
+padding: .6em 1em;
+font: normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #989898;
+border-left: 1px solid #ffffff;
+border-right: 1px solid #ededed;
+}
+.tabs-inner .widget li:first-child a {
+border-left: none;
+}
+.tabs-inner .widget li.selected a, .tabs-inner .widget li a:hover {
+color: #000000;
+background-color: #ededed;
+text-decoration: none;
+}
+/* Columns
+----------------------------------------------- */
+.main-outer {
+border-top: 0 solid #ededed;
+}
+.fauxcolumn-left-outer .fauxcolumn-inner {
+border-right: 1px solid #ededed;
+}
+.fauxcolumn-right-outer .fauxcolumn-inner {
+border-left: 1px solid #ededed;
+}
+/* Headings
+----------------------------------------------- */
+div.widget > h2,
+div.widget h2.title {
+margin: 0 0 1em 0;
+font: normal bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #000000;
+}
+/* Widgets
+----------------------------------------------- */
+.widget .zippy {
+color: #989898;
+text-shadow: 2px 2px 1px rgba(0, 0, 0, .1);
+}
+.widget .popular-posts ul {
+list-style: none;
+}
+/* Posts
+----------------------------------------------- */
+h2.date-header {
+font: normal bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+}
+.date-header span {
+background-color: transparent;
+color: #000000;
+padding: inherit;
+letter-spacing: inherit;
+margin: inherit;
+}
+.main-inner {
+padding-top: 30px;
+padding-bottom: 30px;
+}
+.main-inner .column-center-inner {
+padding: 0 15px;
+}
+.main-inner .column-center-inner .section {
+margin: 0 15px;
+}
+.post {
+margin: 0 0 25px 0;
+}
+h3.post-title, .comments h4 {
+font: normal normal 22px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+margin: .75em 0 0;
+}
+.post-body {
+font-size: 110%;
+line-height: 1.4;
+position: relative;
+}
+.post-body img, .post-body .tr-caption-container, .Profile img, .Image img,
+.BlogList .item-thumbnail img {
+padding: 2px;
+background: #ffffff;
+border: 1px solid #ededed;
+-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+-webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+}
+.post-body img, .post-body .tr-caption-container {
+padding: 5px;
+}
+.post-body .tr-caption-container {
+color: #000000;
+}
+.post-body .tr-caption-container img {
+padding: 0;
+background: transparent;
+border: none;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+}
+.post-header {
+margin: 0 0 1.5em;
+line-height: 1.6;
+font-size: 90%;
+}
+.post-footer {
+margin: 20px -2px 0;
+padding: 5px 10px;
+color: #646464;
+background-color: #f8f8f8;
+border-bottom: 1px solid #ededed;
+line-height: 1.6;
+font-size: 90%;
+}
+#comments .comment-author {
+padding-top: 1.5em;
+border-top: 1px solid #ededed;
+background-position: 0 1.5em;
+}
+#comments .comment-author:first-child {
+padding-top: 0;
+border-top: none;
+}
+.avatar-image-container {
+margin: .2em 0 0;
+}
+#comments .avatar-image-container img {
+border: 1px solid #ededed;
+}
+/* Comments
+----------------------------------------------- */
+.comments .comments-content .icon.blog-author {
+background-repeat: no-repeat;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
+}
+.comments .comments-content .loadmore a {
+border-top: 1px solid #989898;
+border-bottom: 1px solid #989898;
+}
+.comments .comment-thread.inline-thread {
+background-color: #f8f8f8;
+}
+.comments .continue {
+border-top: 2px solid #989898;
+}
+/* Accents
+---------------------------------------------- */
+.section-columns td.columns-cell {
+border-left: 1px solid #ededed;
+}
+.blog-pager {
+background: transparent none no-repeat scroll top center;
+}
+.blog-pager-older-link, .home-link,
+.blog-pager-newer-link {
+background-color: #ffffff;
+padding: 5px;
+}
+.footer-outer {
+border-top: 0 dashed #bbbbbb;
+}
+/* Mobile
+----------------------------------------------- */
+body.mobile  {
+background-size: auto;
+}
+.mobile .body-fauxcolumn-outer {
+background: transparent none repeat scroll top left;
+}
+.mobile .body-fauxcolumn-outer .cap-top {
+background-size: 100% auto;
+}
+.mobile .content-outer {
+-webkit-box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+}
+.mobile .tabs-inner .widget ul {
+margin-left: 0;
+margin-right: 0;
+}
+.mobile .post {
+margin: 0;
+}
+.mobile .main-inner .column-center-inner .section {
+margin: 0;
+}
+.mobile .date-header span {
+padding: 0.1em 10px;
+margin: 0 -10px;
+}
+.mobile h3.post-title {
+margin: 0;
+}
+.mobile .blog-pager {
+background: transparent none no-repeat scroll top center;
+}
+.mobile .footer-outer {
+border-top: none;
+}
+.mobile .main-inner, .mobile .footer-inner {
+background-color: #ffffff;
+}
+.mobile-index-contents {
+color: #000000;
+}
+.mobile-link-button {
+background-color: #c92510;
+}
+.mobile-link-button a:link, .mobile-link-button a:visited {
+color: #ffffff;
+}
+.mobile .tabs-inner .section:first-child {
+border-top: none;
+}
+.mobile .tabs-inner .PageList .widget-content {
+background-color: #ededed;
+color: #000000;
+border-top: 1px solid #ededed;
+border-bottom: 1px solid #ededed;
+}
+.mobile .tabs-inner .PageList .widget-content .pagelist-arrow {
+border-left: 1px solid #ededed;
+}
+
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+body {
+min-width: 960px;
+}
+.content-outer, .content-fauxcolumn-outer, .region-inner {
+min-width: 960px;
+max-width: 960px;
+_width: 960px;
+}
+.main-inner .columns {
+padding-left: 0px;
+padding-right: 310px;
+}
+.main-inner .fauxcolumn-center-outer {
+left: 0px;
+right: 310px;
+/* IE6 does not respect left and right together */
+_width: expression(this.parentNode.offsetWidth -
+parseInt("0px") -
+parseInt("310px") + 'px');
+}
+.main-inner .fauxcolumn-left-outer {
+width: 0px;
+}
+.main-inner .fauxcolumn-right-outer {
+width: 310px;
+}
+.main-inner .column-left-outer {
+width: 0px;
+right: 100%;
+margin-left: -0px;
+}
+.main-inner .column-right-outer {
+width: 310px;
+margin-right: -310px;
+}
+#layout {
+min-width: 0;
+}
+#layout .content-outer {
+min-width: 0;
+width: 800px;
+}
+#layout .region-inner {
+min-width: 0;
+width: auto;
+}
+body#layout div.add_widget {
+padding: 8px;
+}
+body#layout div.add_widget a {
+margin-left: 32px;
+}
+--></style>
+<style>
+    body {background-image:url(\/\/themes.googleusercontent.com\/image?id=1ukMEHopPUnLDJS4O6wg2H4Gk38asE8TYWgTfpdntUo5nJW_C-x1SUN2NgwQPLVEyR627);}
+    
+@media (max-width: 200px) { body {background-image:url(\/\/themes.googleusercontent.com\/image?id=1ukMEHopPUnLDJS4O6wg2H4Gk38asE8TYWgTfpdntUo5nJW_C-x1SUN2NgwQPLVEyR627&options=w200);}}
+@media (max-width: 400px) and (min-width: 201px) { body {background-image:url(\/\/themes.googleusercontent.com\/image?id=1ukMEHopPUnLDJS4O6wg2H4Gk38asE8TYWgTfpdntUo5nJW_C-x1SUN2NgwQPLVEyR627&options=w400);}}
+@media (max-width: 800px) and (min-width: 401px) { body {background-image:url(\/\/themes.googleusercontent.com\/image?id=1ukMEHopPUnLDJS4O6wg2H4Gk38asE8TYWgTfpdntUo5nJW_C-x1SUN2NgwQPLVEyR627&options=w800);}}
+@media (max-width: 1200px) and (min-width: 801px) { body {background-image:url(\/\/themes.googleusercontent.com\/image?id=1ukMEHopPUnLDJS4O6wg2H4Gk38asE8TYWgTfpdntUo5nJW_C-x1SUN2NgwQPLVEyR627&options=w1200);}}
+/* Last tag covers anything over one higher than the previous max-size cap. */
+@media (min-width: 1201px) { body {background-image:url(\/\/themes.googleusercontent.com\/image?id=1ukMEHopPUnLDJS4O6wg2H4Gk38asE8TYWgTfpdntUo5nJW_C-x1SUN2NgwQPLVEyR627&options=w1600);}}
+  </style>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=3299246229963230917&amp;zx=3b165d96-e226-4b7c-82c9-2fbed8e2e487' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=3299246229963230917&amp;zx=3b165d96-e226-4b7c-82c9-2fbed8e2e487' rel='stylesheet'/></noscript>
+</head>
+<body class='loading variant-bold'>
+<div class='navbar section' id='navbar' name='Navbar'><div class='widget Navbar' data-version='1' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d3299246229963230917\x26blogName\x3dHealth+Skin\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dBLUE\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttp://relicsofmymind.blogspot.com/search\x26blogLocale\x3din\x26v\x3d2\x26homepageUrl\x3dhttp://relicsofmymind.blogspot.com/\x26vt\x3d5748323909766723518',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div itemscope='itemscope' itemtype='http://schema.org/Blog' style='display: none;'>
+<meta content='Health Skin' itemprop='name'/>
+</div>
+<div class='body-fauxcolumns'>
+<div class='fauxcolumn-outer body-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content'>
+<div class='content-fauxcolumns'>
+<div class='fauxcolumn-outer content-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content-outer'>
+<div class='content-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left content-fauxborder-left'>
+<div class='fauxborder-right content-fauxborder-right'></div>
+<div class='content-inner'>
+<header>
+<div class='header-outer'>
+<div class='header-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left header-fauxborder-left'>
+<div class='fauxborder-right header-fauxborder-right'></div>
+<div class='region-inner header-inner'>
+<div class='header section' id='header' name='Tajuk'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title'>
+Health Skin
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>
+</span></p>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='header-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</header>
+<div class='tabs-outer'>
+<div class='tabs-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left tabs-fauxborder-left'>
+<div class='fauxborder-right tabs-fauxborder-right'></div>
+<div class='region-inner tabs-inner'>
+<div class='tabs no-items section' id='crosscol' name='Seluruh Kolom'></div>
+<div class='tabs no-items section' id='crosscol-overflow' name='Cross-Column 2'></div>
+</div>
+</div>
+<div class='tabs-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='main-outer'>
+<div class='main-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left main-fauxborder-left'>
+<div class='fauxborder-right main-fauxborder-right'></div>
+<div class='region-inner main-inner'>
+<div class='columns fauxcolumns'>
+<div class='fauxcolumn-outer fauxcolumn-center-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-left-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-right-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<!-- corrects IE6 width calculation -->
+<div class='columns-inner'>
+<div class='column-center-outer'>
+<div class='column-center-inner'>
+<div class='main section' id='main' name='Utama'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Minggu, 26 Mei 2013</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://1.bp.blogspot.com/-fkYWEjP4Lsk/UaGz0gzUbaI/AAAAAAAAAFc/lSGj8cHzeog/s320/mainskincare1_600x450.jpg' itemprop='image_url'/>
+<meta content='3299246229963230917' itemprop='blogId'/>
+<meta content='4667457659263578316' itemprop='postId'/>
+<a name='4667457659263578316'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://relicsofmymind.blogspot.com/2013/05/5-healthy-skin-tips-how-to-get-glowing.html'>5 Healthy Skin Tips - How To Get Glowing Skin Without Spending Big Bucks On Cosmetic Products</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-4667457659263578316' itemprop='description articleBody'>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-fkYWEjP4Lsk/UaGz0gzUbaI/AAAAAAAAAFc/lSGj8cHzeog/s1600/mainskincare1_600x450.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="240" src="http://1.bp.blogspot.com/-fkYWEjP4Lsk/UaGz0gzUbaI/AAAAAAAAAFc/lSGj8cHzeog/s320/mainskincare1_600x450.jpg" width="320" /></a></div>
+Many people are looking for healthy skin tips to get glowing skin. If people can get healthy skin without spending money then all the better because we spend so much on cosmetic products.<br /><br />The cosmetic industry is a multi-billion dollar industry and celebrities get paid mega bucks to endorse this product and that. However if you want healthy skin you can achieve it without forking out on expensive cosmetic products. Here are our skin health tips you can carry out today.<br /><br /><b>Allow Me To Share Our Five Healthy Skin Tips</b><br /><br /><i>Diet Is Important To Skin Health</i><br /><br />The skin is the largest organ of the body and needs to be maintained like any other body part. This starts with a good diet that gives the skin the nourishment it needs. The type of foods that you should consider include flaxseed, olive oil, nuts, salmon and avocados because they contain a balanced amount of good fatty acids.<br /><br />You should also consider foods that contain vitamin C and E as they contain antioxidants. Antioxidants help protect the skin from the damage of the sun and free radicals. This means eating plenty of vegetables such as dark leafy greens, broccoli, cauliflower and Brussels sprouts.<br /><br />As a bonus many vegetables also contain vitamin B which forms the basis of skin cells plus vitamin A which maintains their health.<br /><br /><i>Water, Water And Oh More Water</i><br /><br />You need to drink efficient amounts of water to help your skin keep its elasticity (the skin naturally loses elasticity as it gets older). Drinking water promotes circulation, digestion and absorption. These are all vital functions in the prevention of acne and other unsightly skin disorders. It is recommended that you drink eight 8 oz glasses of water a day.<br /><br />Oh and please note that tea, coffee and soft drinks do not count (please stay away from sugary carbonated drinks if you want healthy skin).<br /><br /><i>Get Enough Sleep</i><br /><br />One of my key healthy skin tips is to get enough sleep. If you do not get an adequate amount of sleep it leads to dark circles under the eyes plus it will increase your stress levels. Stress isn't conducive to skin health leading to acne, eczema, rosacea, cold sores and blisters. It is recommended that you get between 7-8 hours sleep per night.<br /><br /><i>The Vices That Need To Be Cut Out</i><br /><br />I'm sorry but booze and smoking will age your skin very quickly. Alcohol dehydrates the skin and also dilates the blood vessels leading to a bruised reddish appearance under your eyes. Booze will cause the skin to lose its plump, firm and glowing appearance.<br /><br />As for smoking it is very, very bad for your skin health. If you do smoke; then the best of all healthy skin tips I can give you is put that cigarette out now. Smoking will make your skin look older and actively promote wrinkles. It makes the blood vessels constrict which deprives your skin of oxygen.<br /><br />Smoking also reduces collagen and elastin which promotes youthful looking skin. Here is a frightening fact for you; people who smoke have 5 times the wrinkles of those who don't. With every inhalation you kill over 100,000 skin cells.......scary huh!<br /><br /><i>Get Off Your Bottom People</i><br /><br />The last of our healthy skin tips is to exercise. The reason being is that when you workout (simple as going for a bracing walk) you increase the oxygen supply to the skin. Your skin will become flushed leaving you with a healthy glow. Your skin contains toxins and exercise opens up pores and makes you sweat allowing your body to expel those toxins from the body.<br /><br />In Conclusion<br /><br />These are all healthy skin tips that can really make a difference. You don't have to implement them all at once and make a drastic change to your lifestyle overnight.<br /><br />You can implement one of these at a time and overtime your skin will look firmer, healthier and you will get your glow back. Take action today and healthy skin can be yours soon.<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Diposting oleh
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://plus.google.com/100709659054288107977' itemprop='url'/>
+<a class='g-profile' href='https://plus.google.com/100709659054288107977' rel='author' title='author profile'>
+<span itemprop='name'>bab salam</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+di
+<meta content='http://relicsofmymind.blogspot.com/2013/05/5-healthy-skin-tips-how-to-get-glowing.html' itemprop='url'/>
+<a class='timestamp-link' href='http://relicsofmymind.blogspot.com/2013/05/5-healthy-skin-tips-how-to-get-glowing.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2013-05-26T00:04:00-07:00'>00.04</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://relicsofmymind.blogspot.com/2013/05/5-healthy-skin-tips-how-to-get-glowing.html#comment-form' onclick=''>
+13 komentar:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-362534450'>
+<a href='https://www.blogger.com/post-edit.g?blogID=3299246229963230917&postID=4667457659263578316&from=pencil' title='Edit Entri'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=4667457659263578316&target=email' target='_blank' title='Kirimkan Ini lewat Email'><span class='share-button-link-text'>Kirimkan Ini lewat Email</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=4667457659263578316&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=4667457659263578316&target=twitter' target='_blank' title='Berbagi ke Twitter'><span class='share-button-link-text'>Berbagi ke Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=4667457659263578316&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Berbagi ke Facebook'><span class='share-button-link-text'>Berbagi ke Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=4667457659263578316&target=pinterest' target='_blank' title='Bagikan ke Pinterest'><span class='share-button-link-text'>Bagikan ke Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://relicsofmymind.blogspot.com/2013/05/5-healthy-skin-tips-how-to-get-glowing.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Sabtu, 25 Mei 2013</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='3299246229963230917' itemprop='blogId'/>
+<meta content='1921128017803765762' itemprop='postId'/>
+<a name='1921128017803765762'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://relicsofmymind.blogspot.com/2013/05/healthy-skin-from-gut.html'>Healthy Skin From the Gut</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-1921128017803765762' itemprop='description articleBody'>
+<div style="text-align: justify;">
+Healthy skin and digestive health are related. How?<br /><br />The lining of the digestive tract is similar to your outer skin in that it interacts with the outside environment. Its lining comes into constant contact with food and other things that you consume from the outside world.<br /><br />We often look in the mirror and notice when our skin seems dry, oily, blemished, or just plain irritated. Although we can't look into a mirror to see our digestive health, the gut gives us regular clues about what is going on in there. Bloating, gas, constipation, and nervous stomach pangs are all indications that your digestion is asking for some extra T.L.C.<br /><br />Bloating, gas, and constipation are all measures of how long waste matter from food and drink has been hanging around in the large intestine. Just like we wouldn't want anything greasy to hang around on the skin for fear of acne popping up there, we also don't want food matter to sit idly in the digestive tract.<br /><br />Irritation and inflammation that can come about from stagnant digestion easily spreads to the skin because the two systems are connected. You want to take care of the digestive lining with similar care that you would the skin to prevent unnecessary irritation to both.<br /><br />Just as you wash your face daily, the digestive lining likes being washed with water and other beverages that are hydrating. Beverages containing high amounts of sugar will have the opposite effect in drawing water out of the gut lining.<br /><br />Something else you do for your skin is exfoliate it so that old skin cells don't sit around and prevent fresh skin cells from surfacing (often leading to blemishes). Your digestive lining likes regular exfoliation as well, with digestive fiber. Adding fibrous fruits and vegetables to your diet can help food and old gut cells move along to allow the gut lining to breathe. It's as simple as eating an apple or a carrot a day.<br /><br />Finally, there is that big S word that affects both the skin and digestion in ways we don't want. STRESS. Stress increases a hormone from the adrenal glands called cortisol that puts your body in a state of high alert. High alert is the opposite of relaxing, and what the skin and digestion crave is a more restful and restorative environment. Just think how much better skin looks after a great night of sleep.<br /><br />When the digestion is stressed out, it will perform its job less efficiently, leading to more waste matter sitting around and more opportunity for irritation and inflammation to spread to the rest of the body (including the skin). For this reason, it's important to check in with stress levels regularly and ask, "Am I doing too much?" or, "Am I worrying too much?"<br /><br />When you take care of your digestive health, your whole body, including your skin, will thank you for it!<br /><br />Health Constellations is a fun and interactive website that offers free tools and other services to help you improve your health. We help you connect the dots between your chronic health symptoms so you can achieve long-lasting health to look and feel better.<br /></div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Diposting oleh
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://plus.google.com/100709659054288107977' itemprop='url'/>
+<a class='g-profile' href='https://plus.google.com/100709659054288107977' rel='author' title='author profile'>
+<span itemprop='name'>bab salam</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+di
+<meta content='http://relicsofmymind.blogspot.com/2013/05/healthy-skin-from-gut.html' itemprop='url'/>
+<a class='timestamp-link' href='http://relicsofmymind.blogspot.com/2013/05/healthy-skin-from-gut.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2013-05-25T23:59:00-07:00'>23.59</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://relicsofmymind.blogspot.com/2013/05/healthy-skin-from-gut.html#comment-form' onclick=''>
+3 komentar:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-362534450'>
+<a href='https://www.blogger.com/post-edit.g?blogID=3299246229963230917&postID=1921128017803765762&from=pencil' title='Edit Entri'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=1921128017803765762&target=email' target='_blank' title='Kirimkan Ini lewat Email'><span class='share-button-link-text'>Kirimkan Ini lewat Email</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=1921128017803765762&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=1921128017803765762&target=twitter' target='_blank' title='Berbagi ke Twitter'><span class='share-button-link-text'>Berbagi ke Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=1921128017803765762&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Berbagi ke Facebook'><span class='share-button-link-text'>Berbagi ke Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=1921128017803765762&target=pinterest' target='_blank' title='Bagikan ke Pinterest'><span class='share-button-link-text'>Bagikan ke Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://relicsofmymind.blogspot.com/2013/05/healthy-skin-from-gut.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='3299246229963230917' itemprop='blogId'/>
+<meta content='8639757199396302726' itemprop='postId'/>
+<a name='8639757199396302726'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://relicsofmymind.blogspot.com/2013/05/healthy-skin-tips-for-looking-young.html'>Healthy Skin Tips For Looking Young</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8639757199396302726' itemprop='description articleBody'>
+<div style="text-align: justify;">
+Healthy skin tips for yourself and the family are on the increase and you maybe overwhelmed by so many but which ones are most effective and really work?<br /><br />One helpful tip is to use a handful of natural rolled oats and mix with a little warm water then scrub gently on the skin. Then simply rinse off and pat dry leaving you feeling exfoliated, clean and smooth!<br /><br />You can easy check to see how dry your skin is by using just the tip of your fingernail to scratch a small area on your body. If you find that you are left with a dry white mark then you need to hydrate yourself by drinking more water or eating food that contains high levels of water such as melons for example.<br /><br />Moisturize daily, this goes for men as well! Replacing lost moisture is vital to keep yourself looking radiant and a healthy supple glow. Apply some grape seed oil when you have showered or bathed as it's more easier for the body to absorb quickly and help to retain moisture<br /><br />Why not try improving your skin tone and pigmentation by cutting a potato in half and rubbing on the skin? yet another simple cheap effective tip!<br /><br />Do you get dry hands? especially winter time? try some olive oil directly on the hands or a little coconut oil to help keep those hands supple and hydrated on those cold winter days.<br /><br />Try squeezing some fresh lemon in a cup of hot water and drink to help flush out toxins and purify your body on the inside. This also helps the surface of the skin that are prone to flare up if you have a sensitive skin type and also contains vitamin C to help fight away colds and boost the immune system.<br /><br />As you can see there are so many tips you can use, but this is just a small amount freely available on the Internet that can help in giving you a more youthful complexion.<br /><br />Please be aware there are also many techniques that also do more harm than good and take caution if you subscribe to websites that offer a program or system and only join if it has valid testimonials and has a good feedback or comes highly recommended with excellent safe results!<br /><br />I believe in helping you to achieve a safe, helpful, informative service with products that work!<br /><br />Healthy skin tips is just the start of looking younger and vibrant there are many useful online programs and systems that actually work too! And I hope I can help you in looking younger step by step!<br /><br />If you want to know more helpful tips and products available that I have researched not many people know about that really do work and to receive a free guide on "Simple Steps To Look Younger" Please Visit: - http://www.SimpleStepsToLookYoung.com<br /><br /></div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Diposting oleh
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://plus.google.com/100709659054288107977' itemprop='url'/>
+<a class='g-profile' href='https://plus.google.com/100709659054288107977' rel='author' title='author profile'>
+<span itemprop='name'>bab salam</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+di
+<meta content='http://relicsofmymind.blogspot.com/2013/05/healthy-skin-tips-for-looking-young.html' itemprop='url'/>
+<a class='timestamp-link' href='http://relicsofmymind.blogspot.com/2013/05/healthy-skin-tips-for-looking-young.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2013-05-25T23:56:00-07:00'>23.56</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://relicsofmymind.blogspot.com/2013/05/healthy-skin-tips-for-looking-young.html#comment-form' onclick=''>
+2 komentar:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-362534450'>
+<a href='https://www.blogger.com/post-edit.g?blogID=3299246229963230917&postID=8639757199396302726&from=pencil' title='Edit Entri'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=8639757199396302726&target=email' target='_blank' title='Kirimkan Ini lewat Email'><span class='share-button-link-text'>Kirimkan Ini lewat Email</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=8639757199396302726&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=8639757199396302726&target=twitter' target='_blank' title='Berbagi ke Twitter'><span class='share-button-link-text'>Berbagi ke Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=8639757199396302726&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Berbagi ke Facebook'><span class='share-button-link-text'>Berbagi ke Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=8639757199396302726&target=pinterest' target='_blank' title='Bagikan ke Pinterest'><span class='share-button-link-text'>Bagikan ke Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://relicsofmymind.blogspot.com/2013/05/healthy-skin-tips-for-looking-young.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Jumat, 14 September 2012</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='3299246229963230917' itemprop='blogId'/>
+<meta content='3692981252530761338' itemprop='postId'/>
+<a name='3692981252530761338'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://relicsofmymind.blogspot.com/2012/09/ways-to-relieve-foot-pain.html'>Ways to Relieve Foot Pain</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-3692981252530761338' itemprop='description articleBody'>
+<div style="text-align: justify;">Foot pain can have a variety of causes and there are many factors involved that contribute to different types of foot pain you can suffer.<br /><br />The principal cause of painful feet is footwear, particularly women's shoes that do not fit properly causing calluses, corns and bunions. If you are wearing heels make sure that they are not greater than about an inch in height.<br /><br />Many female patients suffer with a condition called metatarsalgia which is a pressure neuroma typically of the third and fourth metatarsal nerves. Friction on these nerves wears away the outer sheath exposing the nerve which then becomes extremely painful on walking.<br /><br />Again this is normally a footwear related condition and the only why to relieve the pain is to use flatter shoes with additional cushioning insoles or to opt for a surgical procedure to cut the nerve.<br /><br />Weight is significant factor because if someone is obese they are putting much more pressure on their joints and feet and therefore it is even more important to find correct fitting footwear, not least to support the arches but also to accommodate any swelling throughout the day.<br /><br />Many overweight people suffer with plantar fascia rightists and heel pain which takes many months to heal. The only way to relieve this kind of pain without resulting to steroid injections, is to wear gel heel cups or orthotic arch supports. The development of diabetes from obesity can also cause major foot care issues if patients go on to develop ulcers which require specialist attention.<br /><br />You can have foot pain from developing calluses and thickened layers of skin that contain corns and this can lead to ulcerations and infections, typically around the toes and forefoot. They form from friction and pressure due to poor fitting footwear which may also form painful blisters. The calluses and corns need to be treated and removed by a chiropodist/podiatrist who will then provide specialist padding and advice to prevent re-occurrence.<br /><br />Bunions can be painful protrusions around the big toe joints whereby the joint itself becomes inflamed and disfigured to the point where big toe deviates from a straight line pointing towards the second toe. This causes a large lump to grow on the big toe joint further exasperate in the problem of finding footwear to accommodate the misshapen foot.<br /><br />Although bunions can be inherited a great proportion of them are caused through narrow fitting shoes that were normally worn in someone's youth. Typically, the only solution is surgery although padding's and gel bunion covers can be used to alleviate the painful symptoms.<br /><br />Natural Ways of Relieving Foot Pain<br /><br /><ul><li>    Have a reflexology or massaging treatment</li></ul><ul><li>    Use a foot spa with jets and essential oils</li></ul><ul><li>    Use a foot massager to improve circulation</li></ul><ul><li>    Wear and over the counter orthotic arch support</li></ul><ul><li>    Buy a good-quality foot cream and applied daily</li></ul><br />You can also try using the ointment capsaicin to relieve foot pain as it has the same active ingredient that is in hot peppers. It helps relieve the burning sensation felt, particularly in diabetic patients but can also be used by other individuals suffering with, for example, Achilles tendon pain or runners foot.<br /><br />Trying to break in new shoes can also cause a lot of discomfort. It's always best to build up your wear time especially if they are running shoes or walking boots which may result in stretching of the calf muscles. Getting your feet measured correctly in the first place is a great tip as many people fail to do this as they get older and don't realise that their feet are either swelling or spreading at the forefoot.<br /><br />Many shoe shops now have automated measuring equipment to give a much more accurate picture of the size and shape of your foot under weight bearing, particularly when considering the depth of the shoe at the toe box. If you're going to shop for shoes a good tip is to do it in the afternoon when your feet will tend to be larger at this time of day.<br /><br />For more specialist information on how to relieve pain it is always a good idea to talk to your doctor or podiatrist. They have a wealth of information on foot care and foot health issues when it comes to relieving foot pain.<br /><br />Mark Daws is a mobile Chiropodist/Podiatrist in the UK, registered with the Health &amp; Care Professions Council, with over 12 years' experience in the industry. He owns and writes for the website Mobile Chiropodist.co.uk about all kinds of foot health problems. Click here for more tips on foot pain relief and please feel free to comment on or "Like" me on my Facebook page by clicking here, where I have much more information and tips on foot care issues.</div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Diposting oleh
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://plus.google.com/112020265690752741772' itemprop='url'/>
+<a class='g-profile' href='https://plus.google.com/112020265690752741772' rel='author' title='author profile'>
+<span itemprop='name'>bab salam</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+di
+<meta content='http://relicsofmymind.blogspot.com/2012/09/ways-to-relieve-foot-pain.html' itemprop='url'/>
+<a class='timestamp-link' href='http://relicsofmymind.blogspot.com/2012/09/ways-to-relieve-foot-pain.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2012-09-14T11:24:00-07:00'>11.24</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://relicsofmymind.blogspot.com/2012/09/ways-to-relieve-foot-pain.html#comment-form' onclick=''>
+6 komentar:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1512131988'>
+<a href='https://www.blogger.com/post-edit.g?blogID=3299246229963230917&postID=3692981252530761338&from=pencil' title='Edit Entri'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=3692981252530761338&target=email' target='_blank' title='Kirimkan Ini lewat Email'><span class='share-button-link-text'>Kirimkan Ini lewat Email</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=3692981252530761338&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=3692981252530761338&target=twitter' target='_blank' title='Berbagi ke Twitter'><span class='share-button-link-text'>Berbagi ke Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=3692981252530761338&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Berbagi ke Facebook'><span class='share-button-link-text'>Berbagi ke Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=3692981252530761338&target=pinterest' target='_blank' title='Bagikan ke Pinterest'><span class='share-button-link-text'>Bagikan ke Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://relicsofmymind.blogspot.com/2012/09/ways-to-relieve-foot-pain.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Label:
+<a href='http://relicsofmymind.blogspot.com/search/label/Ways%20to%20Relieve%20Foot%20Pain' rel='tag'>Ways to Relieve Foot Pain</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='3299246229963230917' itemprop='blogId'/>
+<meta content='5971962065245144897' itemprop='postId'/>
+<a name='5971962065245144897'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://relicsofmymind.blogspot.com/2012/09/fallen-arches-tarsal-tunnel-syndrome.html'>Fallen Arches, Tarsal Tunnel Syndrome, Bunions, and More: Adrenal Fatigue As a Predisposing Factor</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5971962065245144897' itemprop='description articleBody'>
+<div style="text-align: justify;">Fallen arches, commonly known as pes planus, is when the arch of the foot contacts the ground as a person stands. THE major muscle responsible for holding up the arch is the posterior tibialis muscle and it receives "instructions" to hold up the arch from the brain via the spinal cord, fifth lumbar nerve root (low back), the sciatic nerve, and finally through the tarsal tunnel as the tibial n. Ergo, any misalignment in the low back can "pinch" the nerve supply and cause the muscle to fail.<br /><br />Falling arches can be problematic for several reasons...<br /><br />First of all, added stress on the foot stretches the ligaments, permanently altering the body's foundation toward increased pronation (rolling inward). This, in turn, alters ankle, knee, and hip mechanics to do the same. As the hips turn in, (usually more on one side than the other) the pelvis tilts more toward one side. When the hips are not level, the spinal column must twist and bend to accommodate the change all the way up to the head. Basically, flat feet can be a predisposing, complicating, and causative factor for musculoskeletal pain anywhere from head to toe.<br /><br />In particular, once the arch collapses, the tarsal tunnel can narrow and affect the nerves traveling to and from the foot, causing further weakness and paresthesia (tingling). Even if the arch holds out, the foot will still over pronate, putting the weight of the body on the inside of the foot rather than the bottom. This can often lead to bunions or a hallux valgus deformation of the big toe.<br /><br />Sometimes, individuals are born with flat feet, but flat feet can also develop due to lifestyle. Clinical observation has shown that the posterior tibialis muscle becomes inhibited by excessive stress. Stress can be mental-emotional, chemical-nutritional, structural (any previous injury/illness), or thermal. The adrenals are responsible for stress hormone production, and just like muscles, they get fatigued. We can't turn off stress, but we can control how we manage it. In the field of applied kinesiology, managing these cases has a multi-pronged approach based on the four types of stress:<br /><br />1. Reduce mental-emotional stress (or improve coping strategies). This may include counseling, meditation, breathing exercises, exercise in general, etc.<br /><br />2. Improve biochemistry by treating infections and removing toxins (cologne, perfume, scented lotions, potpourri, paints, solvents, heavy metals, etc.). It is also important to increase the intake of vitamin cofactors A, C, E, Zn, B3, B5, and folic acid.<br /><br />3. Assess the stuctural integrity mentioned earlier. This is best performed by a professional applied kinesiologist chiropractor. Spinal and extremity adjusting, foot taping, acupuncture, and orthotics may be required.<br /><br />4. Reduce any possible thermal stresses. This is rare, but shouldn't be overlooked, especially in extreme climates or during seasonal fluctuations.<br /><br />For a thorough and preventive approach, get evaluated by a professional applied kinesiologist. This individual is trained to test the involved muscles and rule out other contributing factors. Visit the International College of Applied Kinesiology online to locate a nearby professional.<br /><br />Dr. David Renner is a Chiropractor and board certified diplomate in applied kinesiology. He owns and operates Kinesis Healthcare in Glen Ellyn, Illinois. For more information on this Glen Ellyn Chiropractor visit http://www.kinesishealthcare.com</div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Diposting oleh
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://plus.google.com/112020265690752741772' itemprop='url'/>
+<a class='g-profile' href='https://plus.google.com/112020265690752741772' rel='author' title='author profile'>
+<span itemprop='name'>bab salam</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+di
+<meta content='http://relicsofmymind.blogspot.com/2012/09/fallen-arches-tarsal-tunnel-syndrome.html' itemprop='url'/>
+<a class='timestamp-link' href='http://relicsofmymind.blogspot.com/2012/09/fallen-arches-tarsal-tunnel-syndrome.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2012-09-14T11:23:00-07:00'>11.23</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://relicsofmymind.blogspot.com/2012/09/fallen-arches-tarsal-tunnel-syndrome.html#comment-form' onclick=''>
+2 komentar:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1512131988'>
+<a href='https://www.blogger.com/post-edit.g?blogID=3299246229963230917&postID=5971962065245144897&from=pencil' title='Edit Entri'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=5971962065245144897&target=email' target='_blank' title='Kirimkan Ini lewat Email'><span class='share-button-link-text'>Kirimkan Ini lewat Email</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=5971962065245144897&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=5971962065245144897&target=twitter' target='_blank' title='Berbagi ke Twitter'><span class='share-button-link-text'>Berbagi ke Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=5971962065245144897&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Berbagi ke Facebook'><span class='share-button-link-text'>Berbagi ke Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=5971962065245144897&target=pinterest' target='_blank' title='Bagikan ke Pinterest'><span class='share-button-link-text'>Bagikan ke Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://relicsofmymind.blogspot.com/2012/09/fallen-arches-tarsal-tunnel-syndrome.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Label:
+<a href='http://relicsofmymind.blogspot.com/search/label/Adrenal%20Fatigue%20As%20a%20Predisposing%20Factor' rel='tag'>Adrenal Fatigue As a Predisposing Factor</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='3299246229963230917' itemprop='blogId'/>
+<meta content='7249923472223031235' itemprop='postId'/>
+<a name='7249923472223031235'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://relicsofmymind.blogspot.com/2012/09/signs-and-symptoms-of-painful-heels.html'>Signs And Symptoms Of Painful Heels</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-7249923472223031235' itemprop='description articleBody'>
+<div style="text-align: justify;">The first signs of a painful heel normally occur after some form of exercise or injury, although its onset can be gradual if it is due to standing on your feet for long periods of time or a gradual weight gain.<br /><br />It is characterised by the intense pain felt when first standing after sitting for long periods of time or after rising in the morning. This pain generally subsides over time but can re-occur throughout the day.<br /><br />The term heel pain refers only to people who generally suffer with severe pain at the bottom or at the back of the heel. It occurs because of some kind of impact pressure of the tissues surrounding the heel bone called the Calcanium or from the ligaments and tendons that attach themselves to it.<br /><br />Plantar fasciitis is the most common form of a painful heel. The plantar fascia ligament joins the toes to the heel via the main arch of the foot and if this is torn in someway at the heel it will give rise to heel pain.<br /><br />These micro-tears at the heel can occur at any age, from younger sports people to more senior overweight persons. However, it is increasingly seen in those overweight as the additional burden is placed on the plantar fascia ligament after a heavy heel strike when walking or running which eventually tears.<br /><br />Other possible causes are rheumatoid arthritis or gout. If they occur along the plantar fascia area then they will also cause painful heels.<br /><br />Several of the common causes are listed below:<br /><br /><ul><li>    Weight gain and Obesity</li></ul><ul><li>    Over Exercise</li></ul><ul><li>    Walking in unsuitable footwear such as high heels</li></ul><ul><li>    Standing for long periods of time</li></ul><br />How to Treat Painful Heels<br /><br />There are many simple exercises available to exercise and stretch the plantar fascia muscle such as wall push-ups and stair stretches. Massaging and reflexology may also help the pain as well a warm foot bath with essential oils.<br /><br />Plantar fascia night splints are also an excellent idea and will help keep the plantar fascia ligament stretched overnight so it is not as painful in the morning. Part of the problem is that this ligament relaxes during sleep and so is much more painful under tension when first walked on in the morning.<br /><br />Changing your footwear or insoles to ones that are more supportive for the arch is one of the best ways you can help yourself, but if the discomfort continues you may need to visit your doctor or chiropodist/podiatrist for further diagnosis and treatment. They may recommend a course of steroid injections into the heel or prescribe a custom orthotic.<br /><br />The best way to relieve painful heels however is probably just to buy a heel cup made of silicon gel with a softer in a part where the heel is most painful. These will fit in most footwear and available from most chemists and pharmacists. You can read more about how heel cups can help painful heels and calcaneal bursitis by visiting my blog.<br /><br />Your painful heels should subside with time, however, it normally takes about 6 to 9 months to rectify completely depending on the amount of damage done in the first place so you probably need to tailor your exercise to accommodate the level of pain. Keep your jogging and walking to a minimum until you have sought a solution or further advice.<br /><br />Mark Daws is a mobile Chiropodist/Podiatrist in the UK, registered with the Health &amp; Care Professions Council, with over 12 years' experience in the industry. He owns and writes for the website Mobile Chiropodist.co.uk about all kinds of foot health problems. Click here for more tips on painful heels and please feel free to comment on or "Like" me on my facebook page, where I have much more information and tips on foot care issues.</div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Diposting oleh
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://plus.google.com/112020265690752741772' itemprop='url'/>
+<a class='g-profile' href='https://plus.google.com/112020265690752741772' rel='author' title='author profile'>
+<span itemprop='name'>bab salam</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+di
+<meta content='http://relicsofmymind.blogspot.com/2012/09/signs-and-symptoms-of-painful-heels.html' itemprop='url'/>
+<a class='timestamp-link' href='http://relicsofmymind.blogspot.com/2012/09/signs-and-symptoms-of-painful-heels.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2012-09-14T11:22:00-07:00'>11.22</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://relicsofmymind.blogspot.com/2012/09/signs-and-symptoms-of-painful-heels.html#comment-form' onclick=''>
+4 komentar:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1512131988'>
+<a href='https://www.blogger.com/post-edit.g?blogID=3299246229963230917&postID=7249923472223031235&from=pencil' title='Edit Entri'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=7249923472223031235&target=email' target='_blank' title='Kirimkan Ini lewat Email'><span class='share-button-link-text'>Kirimkan Ini lewat Email</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=7249923472223031235&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=7249923472223031235&target=twitter' target='_blank' title='Berbagi ke Twitter'><span class='share-button-link-text'>Berbagi ke Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=7249923472223031235&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Berbagi ke Facebook'><span class='share-button-link-text'>Berbagi ke Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=7249923472223031235&target=pinterest' target='_blank' title='Bagikan ke Pinterest'><span class='share-button-link-text'>Bagikan ke Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://relicsofmymind.blogspot.com/2012/09/signs-and-symptoms-of-painful-heels.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Label:
+<a href='http://relicsofmymind.blogspot.com/search/label/Signs%20And%20Symptoms%20Of%20Painful%20Heels' rel='tag'>Signs And Symptoms Of Painful Heels</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='3299246229963230917' itemprop='blogId'/>
+<meta content='2729505525470534195' itemprop='postId'/>
+<a name='2729505525470534195'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://relicsofmymind.blogspot.com/2012/09/how-to-heal-your-cracked-heels.html'>How To Heal Your Cracked Heels</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-2729505525470534195' itemprop='description articleBody'>
+<div style="text-align: justify;">Did you know that the average person walks about 4500 miles in their lifetime? This means we take millions of steps and subsequently pound our heels with every stride. So it's no wonder many of us suffer with heel problems from time to time, particularly if we do not look after them and one of the most common complaints that many of us will have to endure is cracked heels.<br /><br />Known as heel fissures by podiatrists, cracked heels are splits in the upper part of the skin (called the epidermis) surrounding the heel margin and is generally due to the drying out of the heel from wearing open backed footwear.<br /><br />It can be exasperated by heel calluses and may be painful and/or bleed if the fissures are deep enough to enter the deeper skin structures (called the dermis).<br /><br />They can be a variety of causes for cracked heels some of which are listed below:<br /><br /><ul><li>    Being overweight</li></ul><ul><li>    Having diabetes will cause drying of the skin and heels</li></ul><ul><li>    Zinc Deficiency</li></ul><ul><li>    Standing for long periods in unsuitable footwear</li></ul><ul><li>    Constantly wearing open backed shoes</li></ul><ul><li>    Omega 3 Deficiency</li></ul><ul><li>    Suffering from dry skin conditions such as Anhidrosis</li></ul><ul><li>    Having eczema or psoriasis</li></ul><br />Being obese can compound the problem of dry heels as the excess pressure put on the heel margin may lead them to crack more seriously. Diabetes is a problem because it damages the nerve endings, particularly in the extremities such as the feet, which in turn can interfere with the function of the sweat glands. This inevitably leads to the drying out of the foot, sometimes leading to Anhidrosis, which is a severe drying of the skin.<br /><br />Other skin complaints such as eczema and psoriasis or the use of certain medications can also lead to dry heels and skin so it is important to recognise what's going on early enough to prevent the condition deteriorating.<br /><br />So how do you cure your cracked heels once you realise you have them? Here are a few tips to help you:<br /><br />Make sure you clean and dry your feet correctly every day. If they are severely cracked and possibly bleeding, it is a good idea to soak your feet in a bowl (or foot spa) of warm water with a tablespoonful of salt for 15 to 20 minutes each day. You can also put some essential oils into the water, such as tea tree oil which acts as an antiseptic, to help prevent infection.<br /><br />Depending on the seriousness of the cracking and if there are any calluses present, you may want to exfoliate and file the heels down with a good quality heel file or pumice stone. Never try to use a blade on your own heels to remove calluses particularly if they are deeply fissured because you may cut yourself badly which may lead to more serious problems. It is always best to seek the advice of your podiatrist who will safely pare down your heels with a scalpel and remove most if not all of the fissures.<br /><br />Once they are washed and dried, it is important to moisturise them with a good quality emollient. If you only have minor cracked heels then a simple hand or body lotion can be applied to your feet.One of the quickest ways to resolve them is to wear plastic bags or cling film over your feet in bed at night after creaming them. The plastic acts like the covering for burns patients.<br /><br />If the cracking is more pronounced, then you may need a specialist over-the-counter moisturiser such as Flexitol Heel Balm or CCS foot care cream, which contains a high amount of synthetic urea, known for its dry skin properties. They also have a CCS+ lotion which contains over 50% urea for more serious cracked and thickened (callused) heels.<br /><br />If you would prefer some more natural home remedies for cracked heels then here are some heel 'recipes' you might be interested in:<br /><br /><ul><li>    Exfoliate with the help of strawberries and olive (or almond) oil. Mix 6 to 8 crushed strawberries with around two tablespoons full of almond or olive oil and a teaspoon of salt (table or sea salt). Apply the mixture as you would any exfoliate and leave for 15 minutes before washing off. Massaging the mixture in will also help with blood circulation.</li></ul><ul><li>    Apply and mixture of 1 teaspoon full of Vaseline with the extract from one whole lemon mixed together and applied to the cracked areas of your heels. Apply daily until the cracks resolve. Try applying a mixture of glycerine and rosewater on a daily basis will also help</li></ul><ul><li>    Try 100g of coconut oil with 3 teaspoons full of camphor and 3 tablespoons of melted paraffin wax. This will act similar to a waxed based aqueous cream like E45. Leave on overnight by using a pair of bed socks and wash off in the morning before applying a moisturising lotion.</li></ul><br />It is the juices and oils in these preparations that will help hasten the healing process of the cracks and fissures as they act as an emollient for your skin. However, before using any preparation, please be aware of any allergic reactions that may occur and always ask advice of a medical professional before embarking on self-treatment for your dry and cracked heels.<br /><br />Mark Daws is a mobile Chiropodist/Podiatrist in the UK, registered with the Health &amp; Care Professions Council, with over 12 years' experience in the industry. He owns and writes for the website Mobile Chiropodist.co.uk about all kinds of foot health problems. Click here for more tips on healing cracked heels and please feel free to comment on or "Like" me on my facebook page by clicking MobileChiropodist, where I have much more information and tips on foot care issues.</div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Diposting oleh
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://plus.google.com/112020265690752741772' itemprop='url'/>
+<a class='g-profile' href='https://plus.google.com/112020265690752741772' rel='author' title='author profile'>
+<span itemprop='name'>bab salam</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+di
+<meta content='http://relicsofmymind.blogspot.com/2012/09/how-to-heal-your-cracked-heels.html' itemprop='url'/>
+<a class='timestamp-link' href='http://relicsofmymind.blogspot.com/2012/09/how-to-heal-your-cracked-heels.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2012-09-14T11:20:00-07:00'>11.20</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://relicsofmymind.blogspot.com/2012/09/how-to-heal-your-cracked-heels.html#comment-form' onclick=''>
+6 komentar:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1512131988'>
+<a href='https://www.blogger.com/post-edit.g?blogID=3299246229963230917&postID=2729505525470534195&from=pencil' title='Edit Entri'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=2729505525470534195&target=email' target='_blank' title='Kirimkan Ini lewat Email'><span class='share-button-link-text'>Kirimkan Ini lewat Email</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=2729505525470534195&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=2729505525470534195&target=twitter' target='_blank' title='Berbagi ke Twitter'><span class='share-button-link-text'>Berbagi ke Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=2729505525470534195&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Berbagi ke Facebook'><span class='share-button-link-text'>Berbagi ke Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=3299246229963230917&postID=2729505525470534195&target=pinterest' target='_blank' title='Bagikan ke Pinterest'><span class='share-button-link-text'>Bagikan ke Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://relicsofmymind.blogspot.com/2012/09/how-to-heal-your-cracked-heels.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Label:
+<a href='http://relicsofmymind.blogspot.com/search/label/How%20To%20Heal%20Your%20Cracked%20Heels' rel='tag'>How To Heal Your Cracked Heels</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://relicsofmymind.blogspot.com/search?updated-max=2012-09-14T11:20:00-07:00&amp;max-results=7' id='Blog1_blog-pager-older-link' title='Postingan Lama'>Postingan Lama</a>
+</span>
+<a class='home-link' href='http://relicsofmymind.blogspot.com/'>Beranda</a>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+<div class='feed-links'>
+Langganan:
+<a class='feed-link' href='http://relicsofmymind.blogspot.com/feeds/posts/default' target='_blank' type='application/atom+xml'>Postingan (Atom)</a>
+</div>
+</div>
+<script type='text/javascript'>
+    window.___gcfg = { 'lang': 'id' };
+  </script>
+</div></div>
+</div>
+</div>
+<div class='column-left-outer'>
+<div class='column-left-inner'>
+<aside>
+</aside>
+</div>
+</div>
+<div class='column-right-outer'>
+<div class='column-right-inner'>
+<aside>
+<div class='sidebar section' id='sidebar-right-1'><div class='widget HTML' data-version='1' id='HTML1'>
+<h2 class='title'>blogroll</h2>
+<div class='widget-content'>
+<li><a href="http://www.binghamtondwiattorney.com/" target="_blank">DWI Attorney Binghamton</a></li>
+
+<li><a href="http://happyfeet.net/index.php" target="_blank">plantar fasciitis insoles</a></li>
+
+<li><a href="http://www.yogamatcleaner.com/" target="_blank">yoga mat cleaner</a></li>
+
+<li><a href="http://www.automaticwirestrippers.com" target="_blank">wire stripping machines</a></li>
+
+<li><a href="http://www.musicforasong.com" target="_blank">how to write music</a></li>
+
+<li><a href="http://www.rescuetape.nl" target="_blank">silicone res q tape</a></li>
+
+<li><a href="http://www.silicone-tape.com/" target="_blank">self bonding silicone tape</a></li>
+
+<li><a href="http://www.harborproducts.com/rescue-tape" target="_blank">self fusing silicone tape</a></li>
+
+<li><a href="http://www.airproductshealthcare.com" target="_blank">air products health care</a></li>
+
+<li><a href="http://www.boatshowproducts.com/rig-rap" target="_blank">rig rap rig storage</a></li>
+
+<li><a href="http://www.techniice.net/" target="_blank">techni ice replacement</a></li>
+
+<li><a href="http://www.boatcupholders.com/" target="_blank">pontoon boat cup holders</a></li>
+
+<li><a href="http://www.unlockiphone4w.com" target="_blank">unlock iphone 4</a></li>
+
+<li><a href="http://www.electricbicycle.com.au" target="_blank">electric bicycle</a></li>
+
+<li><a href="http://www.windows8activationkeys.com/" 
+target="_blank">Windows 8 Activation Key</a></li>
+
+<li><a href="http://www.nutrientcor.com/top-supplements/index.php" target="_blank">supplement reviews</a></li>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3299246229963230917&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));' target='configHTML1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<h2>Arsip Blog</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://relicsofmymind.blogspot.com/2013/'>
+2013
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://relicsofmymind.blogspot.com/2013/05/'>
+Mei
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+<ul class='posts'>
+<li><a href='http://relicsofmymind.blogspot.com/2013/05/5-healthy-skin-tips-how-to-get-glowing.html'>5 Healthy Skin Tips - How To Get Glowing Skin With...</a></li>
+<li><a href='http://relicsofmymind.blogspot.com/2013/05/healthy-skin-from-gut.html'>Healthy Skin From the Gut</a></li>
+<li><a href='http://relicsofmymind.blogspot.com/2013/05/healthy-skin-tips-for-looking-young.html'>Healthy Skin Tips For Looking Young</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://relicsofmymind.blogspot.com/2012/'>
+2012
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://relicsofmymind.blogspot.com/2012/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3299246229963230917&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target='configBlogArchive1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Profile' data-version='1' id='Profile1'>
+<h2>Mengenai Saya</h2>
+<div class='widget-content'>
+<dl class='profile-datablock'>
+<dt class='profile-data'>
+<a class='profile-name-link g-profile' href='https://plus.google.com/100709659054288107977' rel='author' style='background-image: url(//www.google.com/images/icons/ui/gprofile_button-16.png);'>
+bab salam
+</a>
+<br/>
+<div class='g-follow' data-annotation='bubble' data-height='20' data-href='https://plus.google.com/100709659054288107977'></div>
+</dt>
+</dl>
+<a class='profile-link' href='https://plus.google.com/100709659054288107977' rel='author'>Lihat profil lengkapku</a>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3299246229963230917&widgetType=Profile&widgetId=Profile1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Profile1"));' target='configProfile1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+</aside>
+</div>
+</div>
+</div>
+<div style='clear: both'></div>
+<!-- columns -->
+</div>
+<!-- main -->
+</div>
+</div>
+<div class='main-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<footer>
+<div class='footer-outer'>
+<div class='footer-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left footer-fauxborder-left'>
+<div class='fauxborder-right footer-fauxborder-right'></div>
+<div class='region-inner footer-inner'>
+<div class='foot no-items section' id='footer-1'></div>
+<table border='0' cellpadding='0' cellspacing='0' class='section-columns columns-2'>
+<tbody>
+<tr>
+<td class='first columns-cell'>
+<div class='foot no-items section' id='footer-2-1'></div>
+</td>
+<td class='columns-cell'>
+<div class='foot no-items section' id='footer-2-2'></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- outside of the include in order to lock Attribution widget -->
+<div class='foot section' id='footer-3' name='Footer'><div class='widget Attribution' data-version='1' id='Attribution1'>
+<div class='widget-content' style='text-align: center;'>
+Tema Sederhana. Gambar tema oleh <a href='http://www.istockphoto.com/googleimages.php?id=5591923&platform=blogger&langregion=in' target='_blank'>RedHelga</a>. Diberdayakan oleh <a href='https://www.blogger.com' target='_blank'>Blogger</a>.
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3299246229963230917&widgetType=Attribution&widgetId=Attribution1&action=editWidget&sectionId=footer-3' onclick='return _WidgetManager._PopupConfig(document.getElementById("Attribution1"));' target='configAttribution1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+</div>
+<div class='footer-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</footer>
+<!-- content -->
+</div>
+</div>
+<div class='content-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<script type='text/javascript'>
+    window.setTimeout(function() {
+        document.body.className = document.body.className.replace('loading', '');
+      }, 10);
+  </script>
+<script src='https://apis.google.com/js/plusone.js' type='text/javascript'></script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2060351197-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY7MUC7Na41uE0gaqWmk8O5uMx9UcA:1512812718020';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d3299246229963230917','//relicsofmymind.blogspot.com/','3299246229963230917');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '3299246229963230917', 'title': 'Health Skin', 'url': 'http://relicsofmymind.blogspot.com/', 'canonicalUrl': 'http://relicsofmymind.blogspot.com/', 'homepageUrl': 'http://relicsofmymind.blogspot.com/', 'searchUrl': 'http://relicsofmymind.blogspot.com/search', 'canonicalHomepageUrl': 'http://relicsofmymind.blogspot.com/', 'blogspotFaviconUrl': 'http://relicsofmymind.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'id', 'localeUnderscoreDelimited': 'id', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Health Skin - Atom\x22 href\x3d\x22http://relicsofmymind.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Health Skin - RSS\x22 href\x3d\x22http://relicsofmymind.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Health Skin - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/3299246229963230917/posts/default\x22 /\x3e\n', 'meTag': '', 'openIdOpTag': '\x3clink rel\x3d\x22openid.server\x22 href\x3d\x22https://www.blogger.com/openid-server.g\x22 /\x3e\n\x3clink rel\x3d\x22openid.delegate\x22 href\x3d\x22http://relicsofmymind.blogspot.com/\x22 /\x3e\n', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/771816573-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/0b4a296d20f1ae7d', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sharing': {'platforms': [{'name': 'Dapatkan link', 'key': 'link', 'shareMessage': 'Dapatkan link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Bagikan ke Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Bagikan ke Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Bagikan ke Pinterest', 'target': 'pinterest'}, {'name': 'Google+', 'key': 'googlePlus', 'shareMessage': 'Bagikan ke Google+', 'target': 'googleplus'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27id\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Baca selengkapnya', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Health Skin'}}, {'name': 'features', 'data': {'lazy_images': 'false', 'unsupported_browser_message': 'false', 'sharing_get_link_dialog': 'false', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Tautan disalin ke papan klip!', 'ok': 'Oke', 'postLink': 'Tautan Pos'}}, {'name': 'template', 'data': {'name': 'Simple', 'localizedName': 'Sederhana', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': false, 'variant': 'bold', 'variantId': 'bold'}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Health Skin', 'description': '', 'url': 'http://relicsofmymind.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'useNgc': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/3158004207-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar-right-1', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar-right-1', null, document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Memuat\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar-right-1', null, document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer-3', null, document.getElementById('Attribution1'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>

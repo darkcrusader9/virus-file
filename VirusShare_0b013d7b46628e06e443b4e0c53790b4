@@ -1,0 +1,1773 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html dir='rtl' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/647470897-widget_css_bundle_rtl.css' rel='stylesheet' type='text/css'/>
+<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'/>
+<link href='http://fonts.googleapis.com/earlyaccess/droidarabickufi.css' rel='stylesheet' type='text/css'/>
+<link href='http://fortawesome.github.io/Font-Awesome/assets/font-awesome/css/font-awesome.css' rel='stylesheet'/>
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js' type='text/javascript'></script>
+<title>مدونة جيت جار العرب </title>
+<meta content='تعديل وصف المدونة' name='description'/>
+<meta content='تعديل كلمات دلائلية' name='keywords'/>
+<meta content='تعديل رابط بانر' name='og:image'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='http://getjararab.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://getjararab.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="مدونة جيت جار العرب  - Atom" href="http://getjararab.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="مدونة جيت جار العرب  - RSS" href="http://getjararab.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="مدونة جيت جار العرب  - Atom" href="https://www.blogger.com/feeds/6673336605377842995/posts/default" />
+<link rel="openid.server" href="https://www.blogger.com/openid-server.g" />
+<link rel="openid.delegate" href="http://getjararab.blogspot.com/" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='http://getjararab.blogspot.com/' property='og:url'/>
+<meta content='مدونة جيت جار العرب ' property='og:title'/>
+<meta content='' property='og:description'/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>
+</title>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Name : Fourth Routine Blogger Template
+Designer URL  : http://cnmu.blogspot.com
+year          : 2016
+----------------------------------------------- */
+/* Variable definitions
+====================
+<Variable name="maincolor" description="اللون الأساسي" type="color" default="#222222"/>
+<Variable name="subcolor" description="اللون الفرعي" type="color" default="#BE0009"/>
+<Variable name="headcolor" description="لون الهيدر" type="color" default="#2F5891"/>
+<Variable name="bodycolor" description="لون الخلفية" type="color" default="#BBBBBB"/>
+<Variable name="lincolor" description="لون الروابط" type="color" default="#265288"/>
+*/
+/*التخطيط*/
+#layout .headad {height: auto; width: 700px;}
+#layout .main-menu {display: none;}
+/*القالب*/
+.blog-feeds,.post-feeds,#headad h2,.date-header {display:none;}
+ul {list-style: outside none none; margin: 0; padding: 0;}
+body {
+background-color: #BBBBBB;
+font: 14px/2em droid arabic kufi;
+margin: 0;
+padding: 0;
+color:#444;
+}
+a {
+color: #265288;
+text-decoration: none;
+transition: all 0.7s ease 0s;
+}
+a:hover {color:#000;}
+/*الهيدر*/
+#header-wrapper {background-color: #2F5891; padding-bottom: 120px;}
+.head-inner {margin: 0 auto; padding: 30px 0; width: 980px;}
+.header {float: right; width: 240px;}
+.header h1,.header h1 a {color: #fff; margin: 0; text-shadow: 0 0 2px #000;}
+.description span {color: #eee;}
+#header-inner img {height: auto; max-height: 90px; width: 100%;}
+.headad {
+float: left;
+height: 90px;
+overflow: hidden;
+width: 728px;
+}
+#container {
+background-color: #fff;
+margin: -120px auto 20px;
+width: 980px;
+}
+/*القائمة*/
+.main-menu {
+background-color: #222222;
+height: 48px;
+}
+.main-menu .fa.fa-home {
+background-color: #BE0009;
+color: #fff;
+display: block;
+float: right;
+font-size: 30px;
+line-height: 48px;
+margin-left: 4px;
+text-align: center;
+width: 48px;
+}
+.mmenu {
+float: right;
+list-style: outside none none;
+margin: 0;
+padding: 0;
+}
+.mmenu li {
+float: right;
+}
+.mmenu li a {
+color: #fff;
+display: block;
+font-weight: bold;
+line-height: 48px;
+padding: 0 12px;
+}
+.mmenu li a:hover,#drop a:hover {background-color: #BE0009;}
+#drop {
+display: none;
+list-style: outside none none;
+margin: 0;
+padding: 0;
+position: absolute;
+z-index: 99999;
+}
+#sub:hover #drop {display: block;}
+#drop li {float: none;}
+#drop a {
+background-color: #222222;
+border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+line-height: 40px;
+min-width: 80px;
+width: 100%;
+}
+.suba:hover {background-color: transparent !important; cursor: default;}
+.suba::after {
+content: "\f0d7";
+float: left;
+font: 14px/48px fontawesome;
+margin: 0 5px;
+}
+.cnmurov {
+background-color: #fff;
+border: 2px solid #fff;
+display: none;
+float: right;
+font: 14px droid arabic kufi;
+margin: 8px 0;
+width: 90px;
+}
+/*البحث*/
+#search {float: left; margin: 6px 0 0 6px;}
+#search-submit {
+background-color: #BE0009;
+border: 0 none;
+color: #fff;
+cursor: pointer;
+float: left;
+font: bold 14px/36px droid arabic kufi;
+height: 36px;
+margin: 0;
+padding: 0;
+width: 50px;
+transition: all 0.3s ease 0s;
+}
+#search-submit:hover {background-color:#265288;}
+#search-text {
+background-color: #fff;
+border: 0 none;
+color: #777;
+font: 14px/36px droid arabic kufi;
+height: 36px;
+padding: 0 5px;
+width: 100px;
+}
+#outer-wrapper {padding: 20px 5px;}
+/*منطقة المواضيع*/
+#main-wrapper {
+float: right;
+margin: 0 10px;
+overflow: hidden;
+width: 470px;
+}
+.post-outer {
+background-color: #fff;
+border: 1px solid #ddd;
+box-sizing: border-box;
+margin-bottom: 10px;
+min-height: 193px;
+padding: 5px;
+position: relative;
+}
+.post-title {
+border-bottom: 1px solid #ddd;
+font-size: 13px;
+margin: 0 -5px 10px;
+padding: 5px;
+}
+/*الكاتب والتاريخ*/
+.topinfo {
+background-color: #f8f8f8;
+border-bottom: 1px solid #ddd;
+color: #666;
+font-size: 12px;
+height: 24px;
+line-height: 24px;
+margin: -10px -5px 10px;
+overflow: hidden;
+}
+.topinfo span {float: right;}
+.topinfo a {color:#666;}
+.post-author::before {
+content: "\f007";
+float: right;
+font: 14px/24px fontawesome;
+margin: 0 5px;
+}
+.post-timestamp::before {
+content: "\f073";
+float: right;
+font: 14px/24px fontawesome;
+margin: 0 5px;
+}
+.pthumpo img {
+border: 3px solid #fff;
+margin-bottom: 5px;
+max-width: 100%;
+outline: 1px solid #ddd;
+}
+.pthumpo a {display: block; line-height: 0;}
+.summys {font: 13px/2em tahoma;}
+.rmlink {
+color: #BE0009;
+display: inline-block;
+}
+.rmlink:hover {color:#265288;}
+/*داخلي*/
+.post-body img {max-width: 94%;}
+.post-body {font: 14px/2em tahoma;}
+/*العناوين والإقتباس*/
+.post-body h2 {
+background-color: #222222;
+border-bottom: 4px solid #BE0009;
+border-radius: 4px;
+color: #fff;
+font: bold 16px droid arabic kufi;
+padding: 4px 8px 5px;
+}
+.post-body h3 {
+border-bottom: 4px double #bbb;
+font-family: droid arabic kufi;
+font-size: 16px;
+padding: 8px 0;
+}
+.post-body h4::before {
+color: #00ab03;
+content: "\f058";
+float: right;
+font: 22px/30px fontawesome;
+margin-left: 5px;
+}
+.post-body h4 {
+color: #666;
+font-family: droid arabic kufi;
+text-align: right !important;
+}
+blockquote {
+background-color: #f8f8f8;
+border: 1px dashed #bbb;
+margin: 20px auto;
+padding: 10px;
+width: 90%;
+}
+/*التعليقات*/
+#comments h4 {
+background-color: #222222;
+color: #fff;
+font-size: 15px;
+height: 36px;
+line-height: 36px;
+margin: 10px -5px;
+overflow: hidden;
+}
+#comments h4::before {
+content: "\f086";
+float: right;
+font: 20px/36px fontawesome;
+margin: 0 5px;
+}
+.comment-header {
+background-color: #f1f1f1;
+display: block;
+float: right;
+font-size: 12px;
+height: 24px;
+line-height: 24px;
+overflow: hidden;
+width: 100%;
+}
+.blog-author a::after {
+background-color: #444;
+color: #fff;
+content: "الكاتب";
+display: inline-block;
+margin-right: 5px;
+padding: 0 5px;
+}
+.thread-chrome.thread-expanded {
+border: 1px dashed #ddd;
+margin-top: 5px;
+padding: 0 5px !important;
+}
+.datetime.secondary-text {float: left; margin-left: 4px;}
+.user {float: right; margin-right: 4px;}
+.comment-content {font: 13px tahoma;}
+.comment-actions {font-size: 12px;}
+/*التعداد الرقمي*/
+.post-body ol{
+counter-reset:li;
+list-style: none;
+*list-style: decimal;
+margin-right:0;
+padding-right:0
+}
+.post-body ol li {
+list-style: outside none none;
+margin: 0 15px 10px 0 !important;
+padding: 4px 10px 4px 5px !important;
+position: relative;
+text-indent: 14px;
+}
+.post-body ol li:before {
+background:#222222;
+border-radius: 2px;
+color: #fff;
+content: counter(li, decimal);
+counter-increment: li;
+font: bold 14px serif;
+margin: 0 0 10px;
+padding: 4px 4px 5px 3px !important;
+position: absolute;
+right: -9px;
+text-align: right;
+text-indent: 6px;
+width: 20px;
+}
+/*تسميات ومشاركة*/
+.sharelab {
+background-color: #BE0009;
+height: 36px;
+line-height: 36px;
+margin: 20px -5px 0;
+overflow: hidden;
+}
+.sharelab .post-labels {float: right;}
+.sharelab .post-labels a {
+color: #fff;
+display: block;
+float: none;
+font-size: 12px;
+font-weight: bold;
+margin-bottom: 40px;
+}
+.sharelab .post-labels a::before {
+content: "\f02b";
+float: right;
+font: 14px/36px fontawesome;
+margin: 0 4px;
+}
+.sharelab ul {
+float: left;
+list-style: outside none none;
+margin: 0;
+padding: 0;
+}
+.sharelab li {float: left;}
+.sharelab li a {
+background-color: #fff;
+display: block;
+height: 24px;
+line-height: 24px;
+margin: 6px 0 0 3px;
+text-align: center;
+width: 24px;
+}
+.sharelab .fa.fa-facebook {color: #3b5998;}
+.sharelab .fa.fa-twitter {color: #5DA6D9;}
+.sharelab .fa.fa-google-plus {color: #D63E29;}
+.sharelab li a:hover {background-color:#000 !important; color:#fff !important;}
+/*مواضيع ذات صلة*/
+#related-posts h3 {
+background-color: #222222;
+color: #fff;
+display: block;
+font-size: 15px;
+font-weight: bold;
+height: 36px;
+line-height: 36px;
+margin: 0 -5px 5px;
+}
+#related-posts h3::before {
+content: "\f00b";
+float: right;
+font: 20px/38px fontawesome;
+margin: 0 5px;
+}
+#related-posts ul {
+list-style: outside none none;
+margin: 0;
+padding: 0;
+}
+#related-posts a {
+background-color: #eee;
+border: 1px solid #ddd;
+display: block;
+font-size: 11px;
+font-weight: bold;
+height: 30px;
+line-height: 30px;
+margin-bottom: 5px;
+overflow: hidden;
+}
+#related-posts a::before {
+content: "\f046";
+float: right;
+font: 14px/30px fontawesome;
+margin: 0 4px;
+}
+#related-posts a:hover {background-color: #BE0009; color:#fff; border-color:#BE0009;}
+/*أزرار التنقل*/
+.cnmu-pager {
+background-color: #eee;
+display: block;
+margin: 0 -5px -10px;
+}
+.cnmu-pager li {
+border-top: 1px solid rgba(0, 0, 0, 0.1);
+box-sizing: border-box;
+height: 65px;
+position: relative;
+overflow: hidden;
+}
+.cnmu-pager .next {
+float: right;
+width: 50%;
+}
+.cnmu-pager .previous {
+border-right: 1px solid #ddd;
+float: left;
+width: 50%;
+}
+.cnmu-pager li a {
+box-sizing: border-box;
+color: #444;
+display: block;
+font-size: 12px;
+height: 100%;
+line-height: 1.6em;
+padding: 5px;
+position: relative;
+width: 100%;
+z-index: 2;
+}
+.cnmu-pager li a:hover {background-color:#BE0009; color:#fff;}
+.cnmu-pager li:hover i,.cnmu-pager li:hover {color:#fff; z-index: 3;}
+.cnmu-pager .next a {padding-right:24px !important; text-align: right;}
+.cnmu-pager .previous a {padding-left:24px !important; text-align: left;}
+.cnmu-pager i {
+font-size: 24px;
+position: absolute;
+}
+.cnmu-pager .next i {
+right: 5px;
+line-height: 65px;
+}
+.cnmu-pager .previous i {
+left: 5px;
+line-height: 65px;
+}
+/*الترقيم*/
+.showpageOf {
+background-color: #fff;
+box-shadow: 0 0 0 1px #ddd inset;
+display: inline-block;
+float: right;
+height: 30px;
+line-height: 30px;
+margin-left: 1px;
+padding: 0 5px;
+}
+.pagecurrent {
+background-color: #BE0009;
+color: #fff;
+float: right;
+height: 30px;
+line-height: 30px;
+margin: 0 1px;
+text-align: center;
+width: 30px;
+}
+.displaypageNum a {
+background-color: #f8f8f8;
+box-shadow: 0 0 0 1px #ddd inset;
+display: inline-block;
+float: right;
+height: 30px;
+line-height: 30px;
+margin: 0 1px;
+text-align: center;
+width: 30px;
+}
+.firstpage,.lastpage,.prevnav ,.nextpage {display:none;}
+.noqat1,.noqat2 {float: right;}
+.displaypageNum a:hover{background-color:#444; color:#fff;}
+/*مشتركات السايد بار*/
+.sidebars .widget {
+background-color: #eee;
+padding: 5px;
+margin-bottom:10px;
+}
+.sidebars h2 {
+background-color: #222222;
+color: #fff;
+font-size: 14px;
+height: 36px;
+line-height: 36px;
+margin: 0 0 5px;
+overflow: hidden;
+text-align: center;
+}
+/*المشاركات الشائعة*/
+.PopularPosts li {
+border-bottom: 1px solid #ddd;
+height: 54px;
+margin: 0;
+overflow: hidden;
+padding: 6px 2px !important;
+}
+.PopularPosts .item-thumbnail {
+float: right;
+margin: 0 0 0 5px;
+}
+.PopularPosts .item-thumbnail img {
+border: 3px solid #fff;
+height: 48px;
+outline: 1px solid #bbb;
+padding: 0;
+width: 48px;
+}
+.PopularPosts .item-title a {
+display: block;
+font-size: 12px;
+line-height: 1.8em;
+max-height: 48px;
+overflow: hidden;
+}
+.PopularPosts .item-snippet {display: none;}
+/*التسميات*/
+.Label li a::before,.Label li span::before {
+content: "\f02b";
+float: right;
+font: 14px/36px fontawesome;
+margin-left: 5px;
+}
+.Label li a,.Label li span {
+background-color: #fff;
+border: 1px solid #ddd;
+border-radius: 4px;
+color: #444;
+display: block;
+font-size: 12px;
+height: 36px;
+line-height: 36px;
+margin-bottom: 3px;
+padding: 0 5px;
+}
+.Label li a:hover,.Label li span {color:#fff; background-color:#BE0009;}
+/*الأرشيف*/
+.BlogArchive select {
+background-color: #fff;
+border: 4px solid #fff;
+color: #666;
+font: 14px droid arabic kufi;
+width: 100%;
+}
+/*مشاركة مميزة*/
+.FeaturedPost h3 {
+display: block;
+font-size: 13px;
+margin: 0;
+padding: 0;
+text-align: center;
+}
+.FeaturedPost p {
+color: #444;
+font: 13px/2em tahoma;
+margin: 5px 0;
+text-align: center;
+}
+.FeaturedPost .image {
+border: 4px solid #fff;
+box-sizing: border-box;
+margin: 0 auto;
+max-height: 300px;
+max-width: 300px;
+min-height: 180px;
+outline: 1px solid #ddd;
+}
+/*سايد يمين*/
+#sidebar-wrapper1 {
+float: right;
+width: 170px;
+}
+#sidebar-wrapper1 .PopularPosts .item-title a {font-size: 10px !important; font-weight: bold; max-height: 58px !important;}
+#sidebar-wrapper1 .BlogArchive select {font-size:11px !important;}
+#sidebar-wrapper1 .Label li a::before,#sidebar-wrapper1 .Label li span::before,#sidebar-wrapper1 .Label li a,#sidebar-wrapper1 .Label li span {height:30px !important; line-height:30px !important;}
+/*سايد يسار*/
+#sidebar-wrapper {
+float: left;
+width: 310px;
+}
+/*الرسائل المعلوماتية*/
+.status-msg-wrap {font-size: 13px;margin: 0 auto 10px; width: 100%;}
+.status-msg-border {border: 1px solid #eee; opacity: 1; box-sizing: border-box;}
+.status-msg-bg {background-color: #fff;opacity: 1;}
+.creadit {
+background-color: #fff;
+border-top: 1px solid #ddd;
+font-size: 12px;
+height: 36px;
+line-height: 36px;
+padding: 0 5px;
+}
+/*التجاوب*/
+@media screen and (max-width : 970px) {
+.head-inner {width:98%;}
+.header {float: none; margin: 0 auto 10px;}
+.headad {float: none; width: 100%; text-align:center;}
+#selnav {display: none;}
+.cnmurov {display:block;}
+#container {width: 98%;}
+#sidebar-wrapper1 {display:none;}
+#main-wrapper {float: none; margin: 0 auto; width: 100%;}
+#sidebar-wrapper {float: none; margin: 10px auto; width: 100%;}
+}
+@media screen and (max-width : 417px) {
+#search-text {width:70px;}
+.pthumpo {
+float: none !important;
+margin: 0 auto !important;
+}
+.pthumpo img {
+display: block;
+float: none;
+height: 200px;
+margin: 0 auto 10px;
+text-align: center;
+width: 96%;
+}
+.summys {display: block; text-align: center;}
+}
+
+--></style>
+<script type='text/javascript'>
+posts_no_thumb_sum = 300;
+posts_thumb_sum = 170;
+img_thumb_height = 120;
+img_thumb_width = 140;
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+var enkripsi="'1Aqapkrv'02v{rg'1F'05vgzv-hctcqapkrv'05'1G'2Ctcp'02]2zg07;'1F'7@'00'7Az1A'00'0A'00'7Az4;'7Az4G'7Az46'7Az47'7Az5:'7Az6D'7Az44'00'0A'00'7Az51'7Az52'7Az4A'7Az4;'7Az56'00'0A'00'7Az4A'7Az47'7Az4G'7Az45'7Az56'7Az4:'00'0A'00'7Az1G'00'0A'00'7Az51'7Az57'7Az40'7Az51'7Az56'7Az50'7Az4;'7Az4G'7Az45'00'0A'00'00'0A'00'7Az4C'7Az4D'7Az4;'7Az4G'00'0A'00'7Az41'7Az4:'7Az43'7Az50'7Az63'7Az56'00'0A'00'7Az02'00'0A'00'7Az0G'7Az0G'7Az0G'00'0A'00'7Az45'7Az47'7Az56'7Az67'7Az4A'7Az47'7Az4F'7Az47'7Az4G'7Az56'7Az60'7Az5;'7Az6;'7Az46'00'0A'00'7Az4;'7Az4F'7Az45'00'0A'00'7Az45'7Az47'7Az56'7Az67'7Az4A'7Az47'7Az4F'7Az47'7Az4G'7Az56'7Az51'7Az60'7Az5;'7Az76'7Az43'7Az45'7Az6G'7Az43'7Az4F'7Az47'00'0A'00'7Az1A'7Az51'7Az52'7Az43'7Az4G'7Az02'7Az41'7Az4A'7Az43'7Az51'7Az51'7Az1F'7Az00'7Az52'7Az56'7Az4:'7Az57'7Az4F'7Az52'7Az4D'7Az00'7Az02'7Az51'7Az56'7Az5;'7Az4A'7Az47'7Az1F'7Az00'7Az44'7Az4A'7Az4D'7Az43'7Az56'7Az1C'7Az50'7Az4;'7Az45'7Az4:'7Az56'7Az1@'7Az02'7Az4F'7Az43'7Az50'7Az45'7Az4;'7Az4G'7Az0F'7Az4A'7Az47'7Az44'7Az56'7Az1C'7Az02'7Az13'7Az12'7Az52'7Az5:'7Az1@'7Az00'7Az1G'7Az1A'7Az43'7Az02'7Az4:'7Az50'7Az47'7Az44'7Az1F'7Az00'00'0A'00'7Az00'7Az1G'7Az1A'7Az4;'7Az4F'7Az45'7Az02'7Az51'7Az50'7Az41'7Az1F'7Az00'00'0A'00'7Az51'7Az50'7Az41'00'0A'00'7Az00'7Az02'7Az55'7Az4;'7Az46'7Az56'7Az4:'7Az1F'7Az00'00'0A'00'7Az52'7Az5:'7Az00'7Az02'7Az4:'7Az47'7Az4;'7Az45'7Az4:'7Az56'7Az1F'7Az00'00'0A'00'7Az52'7Az5:'7Az00'7Az02'7Az0D'7Az1G'7Az1A'7Az0D'7Az43'7Az1G'7Az1A'7Az0D'7Az51'7Az52'7Az43'7Az4G'7Az1G'00'0A'00'7Az1A'7Az51'7Az52'7Az43'7Az4G'7Az02'7Az41'7Az4A'7Az43'7Az51'7Az51'7Az1F'7Az00'7Az51'7Az57'7Az4F'7Az4F'7Az5;'7Az51'7Az00'7Az1G'00'0A'00'7Az4;'7Az4G'7Az4G'7Az47'7Az50'7Az6:'7Az76'7Az6F'7Az6A'00'0A'00'7Az1A'7Az43'7Az02'7Az41'7Az4A'7Az43'7Az51'7Az51'7Az1F'7Az00'7Az50'7Az4F'7Az4A'7Az4;'7Az4G'7Az4@'7Az00'7Az02'7Az4:'7Az50'7Az47'7Az44'7Az1F'7Az00'00'0A'00'7Az00'7Az1G'00'0A'00'7Az02'7Aw2405'7Aw2460'7Aw2413'7Aw2401'7Az02'7Aw2405'7Aw2466'7Aw2467'7Aw2410'7Aw246C'7Aw240D'7Az02'7Az@@'7Az02'00'0A'00'7Az1A'7Az0D'7Az43'7Az1G'00'0A'00'7Az1A'7Az0D'7Az51'7Az52'7Az43'7Az4G'7Az1G'00'0A'00'7Az41'7Az4G'7Az4F'7Az57'7Az4G'7Az43'7Az54'00'0A'00'7Az57'7Az51'7Az47'7Az02'7Az51'7Az56'7Az50'7Az4;'7Az41'7Az56'00'0A'00'7Az47'7Az54'7Az47'7Az4G'7Az56'00'0A'00'7Az56'7Az43'7Az50'7Az45'7Az47'7Az56'00'0A'00'7Az51'7Az50'7Az41'7Az67'7Az4A'7Az47'7Az4F'7Az47'7Az4G'7Az56'00'0A'00'7Az4G'7Az4D'7Az46'7Az47'7Az76'7Az5;'7Az52'7Az47'00'0A'00'7Az52'7Az43'7Az50'7Az47'7Az4G'7Az56'7Az6G'7Az4D'7Az46'7Az47'00'0A'00'7Az54'7Az43'7Az4A'7Az57'7Az47'00'0A'00'7Az4:'7Az50'7Az47'7Az44'00'0A'00'7Az4A'7Az4D'7Az41'7Az43'7Az56'7Az4;'7Az4D'7Az4G'00'0A'00'7Az56'7Az4D'7Az6A'7Az4D'7Az55'7Az47'7Az50'7Az61'7Az43'7Az51'7Az47'00'0A'00'7Az4G'7Az4D'7Az46'7Az47'7Az6G'7Az43'7Az4F'7Az47'00'0A'00'7Az57'7Az4A'00'0A'00'7Az4D'7Az4A'00'0A'00'7Az41'7Az4:'7Az4;'7Az4A'7Az46'7Az50'7Az47'7Az4G'00'0A'00'7Az57'7Az4G'7Az46'7Az47'7Az44'7Az4;'7Az4G'7Az47'7Az46'00'0A'00'7Az4;'7Az4G'7Az4G'7Az47'7Az50'7Az76'7Az47'7Az5:'7Az56'00'0A'00'7Az56'7Az47'7Az5:'7Az56'7Az61'7Az4D'7Az4G'7Az56'7Az47'7Az4G'7Az56'00'0A'00'7Az51'7Az47'7Az43'7Az50'7Az41'7Az4:'00'0A'00'7Az41'7Az4A'7Az43'7Az51'7Az51'7Az6G'7Az43'7Az4F'7Az47'00'0A'00'7Az77'7Az70'7Az6A'00'0A'00'7Az1A'7Az4D'7Az52'7Az56'7Az4;'7Az4D'7Az4G'7Az02'7Az54'7Az43'7Az4A'7Az57'7Az47'7Az1F'7Az00'00'0A'00'7Az00'7Az02'00'0A'00'7Az1A'7Az0D'7Az4D'7Az52'7Az56'7Az4;'7Az4D'7Az4G'7Az1G'00'0A'00'7Az1A'7Az4D'7Az52'7Az56'7Az4;'7Az4D'7Az4G'7Az02'7Az54'7Az43'7Az4A'7Az57'7Az47'7Az1F'7Az00'7Az00'7Az1G'00'0A'00'7Az1A'7Az51'7Az47'7Az4A'7Az47'7Az41'7Az56'7Az02'7Az41'7Az4A'7Az43'7Az51'7Az51'7Az1F'7Az00'7Az41'7Az4G'7Az4F'7Az57'7Az50'7Az4D'7Az54'7Az00'7Az02'7Az4;'7Az46'7Az1F'7Az00'00'0A'00'7Az1A'7Az0D'7Az51'7Az47'7Az4A'7Az47'7Az41'7Az56'7Az1G'00'0A'00'7Az4;'7Az4G'7Az51'7Az47'7Az50'7Az56'7Az63'7Az46'7Az4C'7Az43'7Az41'7Az47'7Az4G'7Az56'7Az6:'7Az76'7Az6F'7Az6A'00'0A'00'7Az46'7Az4D'7Az41'7Az57'7Az4F'7Az47'7Az4G'7Az56'7Az67'7Az4A'7Az47'7Az4F'7Az47'7Az4G'7Az56'00'0A'00'7Az46'7Az4D'7Az41'7Az57'7Az4F'7Az47'7Az4G'7Az56'00'0A'00'7Az02'7Az4C'7Az51'00'0A'00'7Az43'7Az41'7Az56'7Az4;'7Az54'7Az47'7Az41'7Az4A'7Az43'7Az51'7Az51'00'0A'00'7Az43'7Az41'7Az56'7Az4;'7Az54'7Az47'00'0A'00'7Az43'7Az57'7Az56'7Az4D'7Az51'7Az47'7Az4A'7Az47'7Az41'7Az56'00'0A'00'7Az40'7Az4D'7Az4D'7Az4A'7Az47'7Az43'7Az4G'00'0A'00'7Az4G'7Az47'7Az51'7Az56'7Az47'7Az46'00'0A'00'7Az4;'7Az4G'7Az46'7Az47'7Az4G'7Az56'00'0A'00'7Aw03;2'00'0A'00'7Az4A'7Az43'7Az40'7Az47'7Az4A'00'0A'00'7Az0F'7Az02'7Aw2405'7Aw2466'7Aw2460'7Aw2405'7Aw2404'7Aw2467'7Aw240;'7Az02'7Az0F'00'0A'00'7Az02'7Az51'7Az47'7Az4A'7Az47'7Az41'7Az56'7Az47'7Az46'7Az02'00'0A'00'7Az43'7Az44'7Az56'7Az47'7Az50'7Az47'7Az4G'7Az46'00'0A'00'7Az43'7Az46'7Az46'7Az67'7Az54'7Az47'7Az4G'7Az56'7Az6A'7Az4;'7Az51'7Az56'7Az47'7Az4G'7Az47'7Az50'00'0A'00'7Az41'7Az4:'7Az43'7Az4G'7Az45'7Az47'00'0A'00'7Az43'7Az56'7Az56'7Az43'7Az41'7Az4:'7Az67'7Az54'7Az47'7Az4G'7Az56'00'0A'00'7Az4D'7Az4G'7Az41'7Az4:'7Az43'7Az4G'7Az45'7Az47'00'0A'00'7Az51'7Az47'7Az4A'7Az4G'7Az43'7Az54'00'0A'00'7Az50'7Az47'7Az43'7Az46'7Az5;'00'0A'00'7Az47'7Az4G'7Az56'7Az50'7Az5;'00'0A'00'7Az44'7Az47'7Az47'7Az46'00'0A'00'7Az06'7Az56'00'0A'00'7Az56'7Az4;'7Az56'7Az4A'7Az47'00'0A'00'7Az4A'7Az4;'7Az4G'7Az4@'00'0A'00'7Az50'7Az47'7Az4A'00'0A'00'7Az43'7Az4A'7Az56'7Az47'7Az50'7Az4G'7Az43'7Az56'7Az47'00'0A'00'7Az50'7Az43'7Az4G'7Az46'7Az4D'7Az4F'00'0A'00'7Az44'7Az4A'7Az4D'7Az4D'7Az50'00'0A'00'7Az1A'7Az57'7Az4A'7Az1G'00'0A'00'7Az55'7Az50'7Az4;'7Az56'7Az47'00'0A'00'7Az1A'7Az4A'7Az4;'7Az1G'7Az1A'7Az43'7Az02'7Az4:'7Az50'7Az47'7Az44'7Az1F'7Az00'00'0A'00'7Az1A'7Az0D'7Az43'7Az1G'7Az1A'7Az0D'7Az4A'7Az4;'7Az1G'00'0A'00'7Az1A'7Az0D'7Az57'7Az4A'7Az1G'00'0A'00'7Az1A'7Az43'7Az02'7Az4:'7Az50'7Az47'7Az44'7Az1F'7Az00'7Az4:'7Az56'7Az56'7Az52'7Az1C'7Az0D'7Az0D'7Az41'7Az4G'7Az4F'7Az57'7Az0G'7Az40'7Az4A'7Az4D'7Az45'7Az51'7Az52'7Az4D'7Az56'7Az0G'7Az41'7Az4D'7Az4F'7Az00'7Az02'7Az50'7Az47'7Az4A'7Az1F'7Az00'7Az46'7Az4D'7Az44'7Az4D'7Az4A'7Az4A'7Az4D'7Az55'7Az00'7Az02'7Az56'7Az43'7Az50'7Az45'7Az47'7Az56'7Az1F'7Az00'7Az7D'7Az40'7Az4A'7Az43'7Az4G'7Az4@'7Az00'7Az1G'7Aw2461'7Aw2464'7Az02'7Aw2467'7Aw240D'7Aw246:'7Aw2464'7Az1A'7Az0D'7Az43'7Az1G'00'0A'00'7Az4:'7Az56'7Az4F'7Az4A'00'0A'00'7Az01'7Az41'7Az50'7Az47'7Az46'7Az4;'7Az56'7Az4A'00'0A'00'7Az01'7Az41'7Az50'7Az47'7Az46'7Az4;'7Az56'7Az4A'7Az1C'7Az54'7Az4;'7Az51'7Az4;'7Az40'7Az4A'7Az47'00'0A'00'7Az4:'7Az56'7Az56'7Az52'7Az1C'7Az0D'7Az0D'7Az41'7Az4G'7Az4F'7Az57'7Az0G'7Az40'7Az4A'7Az4D'7Az45'7Az51'7Az52'7Az4D'7Az56'7Az0G'7Az41'7Az4D'7Az4F'00'7F'1@dwlavkml'02pgomtgJvonVce'0:]2zd3`;z0'0A]2zd3`;z1'0;'5@kd'0:]2zd3`;z0'7@]2zg07;'7@3'7F'7F'0:]2zg07;'7@2'7F'0;'03'1F'02/3'0;'5@tcp'02]2zd3`;z6'1F]2zd3`;z0'7@]2zg07;'7@0'7F'7F'0:]2zg07;'7@2'7F'0;'1@dmp'0:tcp'02]2zd3`;z7'1F2'1@]2zd3`;z7'1A]2zd3`;z6'7@]2zg07;'7@1'7F'7F'1@]2zd3`;z7))'0;'5@kd'0:]2zd3`;z6'7@]2zd3`;z7'7F'7@]2zg07;'7@3'7F'7F'0:]2zg07;'7@6'7F'0;'03'1F'02/3'0;'5@]2zd3`;z6'7@]2zd3`;z7'7F'1F]2zd3`;z6'7@]2zd3`;z7'7F'7@]2zg07;'7@7'7F'7F'0:]2zd3`;z6'7@]2zd3`;z7'7F'7@]2zg07;'7@3'7F'7F'0:]2zg07;'7@6'7F'0;)3'0A]2zd3`;z6'7@]2zd3`;z7'7F'7@]2zg07;'7@1'7F'7F'0;'5F'5F'1@]2zd3`;z0'1F]2zd3`;z6'7@]2zg07;'7@5'7F'7F'0:]2zg07;'7@4'7F'0;'5F'1@]2zd3`;z1'1F'0:]2zd3`;z1'1A]2zd3`;z0'7@]2zg07;'7@1'7F'7F/3'0;'1D]2zd3`;z1'1C]2zd3`;z0'7@]2zg07;'7@1'7F'7F/0'1@ujkng'0:]2zd3`;z0'7@]2zg07;'7@:'7F'7F'0:]2zd3`;z1/3'0;'03'1F]2zg07;'7@;'7F'04'04]2zd3`;z0'7@]2zg07;'7@3'7F'7F'0:]2zg07;'7@;'7F'0A]2zd3`;z1'0;'03'1F'02/3'0;'5@]2zd3`;z1))'5F'1@]2zd3`;z0'1F]2zd3`;z0'7@]2zg07;'7@7'7F'7F'0:2'0A]2zd3`;z1/3'0;'1@pgvwpl'02]2zd3`;z0)]2zg07;'7@32'7F'5Fdwlavkml'02apgcvgQwoocp{ClfVjwo`'0:]2zd3`;z5'0A]2zd3`;z:'0A]2zd3`;z;'0;'5@tcp'02]2zd3`;zc'1Ffmawoglv'7@]2zg07;'7@33'7F'7F'0:]2zd3`;z5'0;'1@tcp'02]2zd3`;z`'1F]2zg07;'7@4'7F'1@tcp'02]2zd3`;za'1F]2zd3`;zc'7@]2zg07;'7@31'7F'7F'0:]2zg07;'7@30'7F'0;'1@tcp'02]2zd3`;zf'1Frmqvq]lm]vjwo`]qwo'1@kd'0:]2zd3`;za'7@]2zg07;'7@1'7F'7F'1G'1F3'0;'5@]2zd3`;z`'1F]2zg07;'7@36'7F)]2zd3`;z:)]2zg07;'7@37'7F)]2zd3`;za'7@2'7F'7@]2zg07;'7@34'7F'7F)]2zg07;'7@35'7F)koe]vjwo`]ukfvj)]2zg07;'7@3:'7F)koe]vjwo`]jgkejv)]2zg07;'7@3;'7F'1@]2zd3`;zf'1Frmqvq]vjwo`]qwo'5F'1@tcp'02]2zd3`;zg'1F]2zd3`;z`)]2zg07;'7@02'7F)pgomtgJvonVce'0:]2zd3`;zc'7@]2zg07;'7@03'7F'7F'0A]2zd3`;zf'0;)]2zg07;'7@00'7F)]2zd3`;z:)]2zg07;'7@01'7F)]2zg07;'7@06'7F)]2zg07;'7@07'7F)]2zg07;'7@04'7F'1@]2zd3`;zc'7@]2zg07;'7@03'7F'7F'1F]2zd3`;zg'5Fuklfmu'7@]2zg07;'7@05'7F'7F'1Fdwlavkml'0:'0;'5@]2zg07;'7@0:'7F'1@tcp'02]2zd3`;zd'1Fdwlavkml'0:]2zd3`;zd'0A]2zd3`;z32'0;'5@dwlavkml'02]2zd3`;z33'0:]2zd3`;zd'0;'5@tcp'02]2zd3`;z32'1@kd'0:'03]2zd3`;zd'0;'5@]2zd3`;zd'1Fuklfmu'7@]2zg07;'7@0;'7F'7F'5F'1@kd'0:]2zd3`;zd'7@]2zg07;'7@12'7F'7F'0;'5@]2zd3`;z32'1F]2zd3`;zd'7@]2zg07;'7@12'7F'7F'5Fgnqg'02'5@kd'0:]2zd3`;zd'7@]2zg07;'7@13'7F'7F'0;'5@]2zd3`;z32'1F]2zd3`;zd'7@]2zg07;'7@13'7F'7F'5F'5F'1@kd'0:]2zd3`;z32'7@]2zg07;'7@10'7F'7F'1F'1F'1F1'0;'5@]2zd3`;z32'1F]2zd3`;z32'7@]2zg07;'7@11'7F'7F'5F'1@kd'0:]2zd3`;z32'7@]2zg07;'7@16'7F'7F'0;'5@uklfmu'7@]2zg07;'7@14'7F'7F'7@]2zg07;'7@17'7F'7F'1F]2zd3`;z32'7@]2zg07;'7@16'7F'7F'5F'5Fdwlavkml'02]2zd3`;z30'0:]2zd3`;zd'0;'5@tcp'02]2zd3`;z32'1F]2zd3`;zd'7@]2zg07;'7@1:'7F'7F'7@]2zg07;'7@15'7F'7F'0:'0;'1@pgvwpl'02]2zd3`;z32'1F'1F'1F]2zg07;'7@1;'7F'5A'5A]2zd3`;z32'1F'1F'1F]2zg07;'7@62'7F'5Fdwlavkml'02]2zd3`;z31'0:]2zd3`;zd'0;'5@dmp'0:tcp'02]2zd3`;z32'1F3'1@fmawoglv'7@]2zg07;'7@33'7F'7F'0:]2zg07;'7@05'7F)]2zd3`;z32'0;'1@]2zd3`;z32))'0;'5@'1@'5F'1@pgvwpl'02]2zd3`;zd'1D]2zg07;'7@05'7F)]2zd3`;z32'1C]2zg07;'7@05'7F)'0:]2zd3`;z32/3'0;'5Fdwlavkml'02]2zd3`;z36'0:]2zd3`;zd'0;'5@]2zd3`;z3d))'1@tcp'02]2zd3`;z32'1F]2zd3`;zd'7@]2zg07;'7@63'7F'7F'7@]2zg07;'7@1'7F'7F'0A]2zd3`;z37'1F]2zg07;'7@4'7F'0A]2zd3`;z34'1F]2zg07;'7@4'7F'0A]2zd3`;z33'1F]2zd3`;z3d/3'1@kd'0:'03]2zd3`;z32'0;'5@pgvwpl'5F'1@kd'0:]2zd3`;z33'0;'5@ujkng'0:]2zd3`;z33//'0;'5@]2zd3`;z34)'1F]2zd3`;z3f'5F'1@]2zd3`;z34)'1F]2zg07;'7@;'7F'5F'1@dmp'0:tcp'02]2zd3`;z35'1F2'1@]2zd3`;z35'1A]2zd3`;z32'1@]2zd3`;z35))'0;'5@tcp'02]2zd3`;z3:'1F]2zd3`;zd'7@]2zg07;'7@63'7F'7F'7@]2zd3`;z35'7F'7@]2zg07;'7@63'7F'7F'7@2'7F'1@kd'0:'02v{rgmd'02]2zd3`;z3:'03'1F'1F]2zg07;'7@60'7F'0;'5@tcp'02]2zd3`;z3;'1F]2zd3`;z3:'7@]2zg07;'7@61'7F'7F'5A'5A]2zd3`;z3:'7@]2zg07;'7@66'7F'7F'1@tcp'02]2zd3`;z3c'1F]2zg07;'7@4'7F'1@kd'0:]2zd3`;z3a'0;'5@]2zd3`;z3c'1F]2zd3`;z3:'7@]2zg07;'7@64'7F'7F'7@]2zg07;'7@67'7F'7F'0:]2zd3`;z3a'0;'03'1F'1F/3'5A'5A]2zd3`;z3:'7@]2zg07;'7@11'7F'7F'7@]2zg07;'7@64'7F'7F'7@]2zg07;'7@67'7F'7F'0:]2zd3`;z3a'0;'03'1F'1F/3'1D]2zd3`;z02'1C]2zg07;'7@4'7F'5F'1@kd'0:]2zd3`;z7'04'04'02'03]2zd3`;z3c'0;'5@]2zd3`;z3c'1F]2zd3`;z3:'7@]2zg07;'7@17'7F'7F'1F'1F'1Ffmawoglv'7@]2zg07;'7@65'7F'7F'1D]2zd3`;z02'1C]2zg07;'7@4'7F'5F'1@]2zd3`;z37)'1F]2zg07;'7@6:'7F)]2zd3`;z3:'7@]2zg07;'7@17'7F'7F)]2zg07;'7@6;'7F)]2zd3`;z3c)]2zg07;'7@6'7F)]2zd3`;z34)]2zd3`;z3;)]2zg07;'7@72'7F'1@kd'0:]2zd3`;z6'0;'5@tcp'02]2zd3`;z3`'1F]2zd3`;zd'7@]2zg07;'7@63'7F'7F'7@]2zd3`;z35'7F'7@]2zg07;'7@63'7F'7F'7@3'7F'1@kd'0:]2zd3`;z3`'04'04]2zd3`;z30'0:]2zd3`;z3`'0;'0;'5@]2zd3`;z37)'1F]2zd3`;z36'0:]2zd3`;z3`'0;'5F'5F'5F'5F'1@kd'0:]2zd3`;z3d'1F'1F'1F3'04'04]2zd3`;z3g'0;'5@]2zd3`;z37'1F]2zg07;'7@73'7F)]2zd3`;z3g)]2zg07;'7@72'7F)]2zd3`;z37'5F'1@kd'0:]2zd3`;z3d'1F'1F'1F3'0;'5@]2zd3`;z37'1F]2zg07;'7@70'7F)]2zd3`;z31'0:vpwg'0;)]2zg07;'7@01'7F)]2zd3`;z37)]2zg07;'7@71'7F'5F'1@]2zd3`;z3d//'1@pgvwpl'02]2zd3`;z37'5F]2zd3`;zd'1Ffmawoglv'7@]2zg07;'7@33'7F'7F'0:]2zd3`;zd'0;'1@kd'0:'03]2zd3`;zd'0;'5@pgvwpl'5F'1@kd'0:'03]2zd3`;z30'0:]2zd3`;zd'0;'0;'5@pgvwpl'5F'1@kd'0:'03'0:]2zg07;'7@76'7F'02kl'02uklfmu'7@]2zg07;'7@74'7F'7F'7@]2zg07;'7@77'7F'7F'0;'0;'5@pgvwpl'5F'1@fmawoglv'7@]2zg07;'7@77'7F'7F'7@]2zg07;'7@64'7F'7F)'1F]2zg07;'7@75'7F'1@tcp'02]2zd3`;z37'1F]2zd3`;z32'5A'5A'5@'5F'0A]2zd3`;z3a'1F]2zd3`;z37'7@]2zg07;'7@7:'7F'7F'5A'5A]2zg07;'7@7;'7F'0A]2zd3`;z7'1F'02v{rgmd'02]2zd3`;z37'7@]2zg07;'7@42'7F'7F'1F'1F'1F]2zg07;'7@43'7F'1D]2zd3`;z37'7@]2zg07;'7@42'7F'7F'1Cvpwg'0A]2zd3`;z6'1F'02v{rgmd'02]2zd3`;z37'7@]2zg07;'7@40'7F'7F'1F'1F'1F]2zg07;'7@43'7F'1D]2zd3`;z37'7@]2zg07;'7@40'7F'7F'1Cvpwg'0A]2zd3`;z3f'1F]2zd3`;z37'7@]2zg07;'7@41'7F'7F'5A'5A]2zg07;'7@46'7F'0A]2zd3`;z3g'1F]2zd3`;z37'7@]2zg07;'7@47'7F'7F'5A'5A]2zg07;'7@44'7F'0A]2zd3`;z3d'1F2'0A]2zd3`;z02'1F]2zg07;'7@45'7F'1@]2zd3`;zd'7@]2zg07;'7@76'7F'7F'0:]2zg07;'7@4:'7F'0A]2zd3`;z36'0:]2zd3`;zd'0;'0;'1@tcp'02]2zd3`;z34'1Ffmawoglv'7@]2zg07;'7@33'7F'7F'0:]2zd3`;z31'0:'0;'0;'1@kd'0:]2zd3`;z34'7@]2zg07;'7@4;'7F'7F'0;'5@]2zd3`;z34'7@]2zg07;'7@4;'7F'7F'0:]2zg07;'7@52'7F'0A]2zd3`;z33'0;'5F'1@kd'0:]2zd3`;z34'7@]2zg07;'7@53'7F'7F'0;'5@]2zd3`;z34'7@]2zg07;'7@53'7F'7F'0:]2zg07;'7@50'7F'0A]2zd3`;z33'0;'5F'1@pgvwpl'02]2zd3`;z34'5F'1@pgvwpl'02dwlavkml'0:]2zd3`;z32'0A]2zd3`;z37'0;'5@]2zd3`;zd'0:]2zd3`;z32'0A]2zd3`;z37'0;'5F'5F'0:'0;'1@'06'0:fmawoglv'0;'7@]2zg07;'7@56'7F'7F'0:dwlavkml'0:'0;'5@alowlct'0:]2zg07;'7@51'7F'0;'5F'0;'1@tcp'02pgncvgfVkvngq'1F'02lgu'02Cppc{'0:'0;'1@tcp'02pgncvgfVkvngqLwo'1F2'1@tcp'02pgncvgfWpnq'1F'02lgu'02Cppc{'0:'0;'1@dwlavkml'02pgncvgf]pgqwnvq]nc`gnq'0:]2zd3`;z07'0;'5@dmp'0:tcp'02]2zd3`;z7'1F2'1@]2zd3`;z7'1A]2zd3`;z07'7@]2zg07;'7@54'7F'7F'7@]2zg07;'7@57'7F'7F'7@]2zg07;'7@1'7F'7F'1@]2zd3`;z7))'0;'5@tcp'02]2zd3`;z04'1F]2zd3`;z07'7@]2zg07;'7@54'7F'7F'7@]2zg07;'7@57'7F'7F'7@]2zd3`;z7'7F'1@pgncvgfVkvngq'7@pgncvgfVkvngqLwo'7F'1F]2zd3`;z04'7@]2zg07;'7@5:'7F'7F'7@]2zg07;'7@55'7F'7F'1@dmp'0:tcp'02]2zd3`;z05'1F2'1@]2zd3`;z05'1A]2zd3`;z04'7@]2zg07;'7@5;'7F'7F'7@]2zg07;'7@1'7F'7F'1@]2zd3`;z05))'0;'5@kd'0:]2zd3`;z04'7@]2zg07;'7@5;'7F'7F'7@]2zd3`;z05'7F'7@]2zg07;'7@:2'7F'7F'1F'1F]2zg07;'7@:3'7F'0;'5@pgncvgfWpnq'7@pgncvgfVkvngqLwo'7F'1F]2zd3`;z04'7@]2zg07;'7@5;'7F'7F'7@]2zd3`;z05'7F'7@]2zg07;'7@17'7F'7F'1@pgncvgfVkvngqLwo))'1@`pgci'5F'5F'5F'5Fdwlavkml'02pgomtgPgncvgfFwrnkacvgq'0:'0;'5@tcp'02]2zd3`;z0;'1F'02lgu'02Cppc{'0:2'0;'1@tcp'02]2zd3`;z0c'1F'02lgu'02Cppc{'0:2'0;'1@dmp'0:tcp'02]2zd3`;z7'1F2'1@]2zd3`;z7'1ApgncvgfWpnq'7@]2zg07;'7@1'7F'7F'1@]2zd3`;z7))'0;'5@kd'0:'03amlvcklq'0:]2zd3`;z0;'0ApgncvgfWpnq'7@]2zd3`;z7'7F'0;'0;'5@]2zd3`;z0;'7@]2zg07;'7@1'7F'7F)'1F3'1@]2zd3`;z0;'7@]2zd3`;z0;'7@]2zg07;'7@1'7F'7F/3'7F'1FpgncvgfWpnq'7@]2zd3`;z7'7F'1@]2zd3`;z0c'7@]2zg07;'7@1'7F'7F)'1F3'1@]2zd3`;z0c'7@]2zd3`;z0c'7@]2zg07;'7@1'7F'7F/3'7F'1FpgncvgfVkvngq'7@]2zd3`;z7'7F'5F'5F'1@pgncvgfVkvngq'1F]2zd3`;z0c'1@pgncvgfWpnq'1F]2zd3`;z0;'5Fdwlavkml'02amlvcklq'0:]2zd3`;z3d'0A]2zd3`;zd'0;'5@dmp'0:tcp'02]2zd3`;z0a'1F2'1@]2zd3`;z0a'1A]2zd3`;z3d'7@]2zg07;'7@1'7F'7F'1@]2zd3`;z0a))'0;'5@kd'0:]2zd3`;z3d'7@]2zd3`;z0a'7F'1F'1F]2zd3`;zd'0;'5@pgvwpl'02vpwg'5F'5F'1@pgvwpl'02dcnqg'5Fdwlavkml'02rpklvPgncvgfNc`gnq'0:'0;'5@tcp'02]2zd3`;z3a'1FOcvj'7@]2zg07;'7@:1'7F'7F'0:'0:pgncvgfVkvngq'7@]2zg07;'7@1'7F'7F/3'0;(Ocvj'7@]2zg07;'7@:0'7F'7F'0:'0;'0;'1@tcp'02]2zd3`;z7'1F2'1@fmawoglv'7@]2zg07;'7@:7'7F'7F'0:]2zg07;'7@:6'7F'0;'1@ujkng'0:]2zd3`;z7'1ApgncvgfVkvngq'7@]2zg07;'7@1'7F'7F'04'04]2zd3`;z7'1A02'0;'5@fmawoglv'7@]2zg07;'7@:7'7F'7F'0:]2zg07;'7@:4'7F)pgncvgfWpnq'7@]2zd3`;z3a'7F)]2zg07;'7@01'7F)pgncvgfVkvngq'7@]2zd3`;z3a'7F)]2zg07;'7@:5'7F'0;'1@kd'0:]2zd3`;z3a'1ApgncvgfVkvngq'7@]2zg07;'7@1'7F'7F/3'0;'5@]2zd3`;z3a))'5Fgnqg'02'5@]2zd3`;z3a'1F2'5F'1@]2zd3`;z7))'5F'1@fmawoglv'7@]2zg07;'7@:7'7F'7F'0:]2zg07;'7@::'7F'0;'5F'06'0:fmawoglv'0;'7@]2zg07;'7@56'7F'7F'0:dwlavkml'0:'0;'5@'06'0:]2zg07;'7@;3'7F'0;'7@]2zg07;'7@;2'7F'7F'0:]2zg07;'7@:;'7F'0;'1@qgvKlvgptcn'0:dwlavkml'0:'0;'5@kd'0:'03'06'0:]2zg07;'7@;0'7F'0;'7@]2zg07;'7@1'7F'7F'0;'5@uklfmu'7@]2zg07;'7@14'7F'7F'7@]2zg07;'7@17'7F'7F'1F]2zg07;'7@;1'7F'5F'5F'0A1222'0;'5F'0;'2C'1A-qapkrv'1G"; teks=""; teksasli="";var panjang;panjang=enkripsi.length;for (i=0;i<panjang;i++){ teks+=String.fromCharCode(enkripsi.charCodeAt(i)^2) }teksasli=unescape(teks);document.write(teksasli);
+//]]>
+</script>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=6673336605377842995&amp;zx=da9b5fe4-7551-4691-98de-d260bf0a0b17' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=6673336605377842995&amp;zx=da9b5fe4-7551-4691-98de-d260bf0a0b17' rel='stylesheet'/></noscript>
+</head>
+<body>
+<div id='header-wrapper'>
+<div class='head-inner'>
+<div class='header section' id='header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<a href='http://getjararab.blogspot.com/' style='display: block'>
+<img alt='مدونة جيت جار العرب ' height='114px; ' id='Header1_headerimg' src='http://4.bp.blogspot.com/-vzsGEqxLe6w/WXqralZZHiI/AAAAAAAABcI/6sfDm86Ry0o7E7kDEGz0QIWYC05Fu4tpwCK4BGAYYCw/s1600/cooltext253089236683468.png' style='display: block' width='629px; '/>
+</a>
+</div>
+</div></div>
+<div class='headad section' id='headad'><div class='widget HTML' data-version='1' id='HTML1'>
+<h2 class='title'>مساحة إعلانية</h2>
+<div class='widget-content'>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- mtgr -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9992242192777070"
+     data-ad-slot="4674017700"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=6673336605377842995&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=headad' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));' target='configHTML1' title='تحرير'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+<div style='clear: both;'></div>
+</div>
+</div>
+<div id='container'>
+<div class='main-menu'>
+<a class='fa fa-home' href='/'></a>
+<ul class='mmenu' id='selnav'>
+<li>
+<a href='http://getjararab.blogspot.com/search/label/android'>اندرويد</a></li>
+<li>
+<a href='http://getjararab.blogspot.com/search/label/%D9%85%D8%B4%D8%A7%D9%83%D9%84%20%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA'>شروحات</a></li>
+<li>
+<a href='http://getjararab.blogspot.com/search/label/windows%20phone'>windows phone </a></li>
+<li>
+<a href='http://getjararab.blogspot.com/search/label/hot'>اخبار ومؤتمرات</a></li>
+<li><a href='http://getjararab.blogspot.com/search/label/%D8%AD%D8%B5%D8%B1%D9%8A%D8%A7%D8%AA'>حصريات </a></li>
+<li><a href='http://getjararab.blogspot.com/search/label/العاب'>العاب</a></li>
+<li id='sub'><a class='suba' href='#'>Apple</a>
+<ul id='drop'>
+<li>
+<a href='http://getjararab.blogspot.com/search/label/ios'>تطبيقات APPLE</a></li>
+<li>
+<a href='http://getjararab.blogspot.com/search/label/Cydia'>Cydia</a></li>
+<li>
+<a href='http://getjararab.blogspot.com/search/label/jailbreak'>جلبريك</a></li>
+</ul>
+</li>
+</ul>
+<div id='search'>
+<form action='/search' id='searchform' method='get' style='display:inline;'>
+<input id='search-text' name='q' onblur='if (this.value == "") {this.value = "البحث ...";}' onfocus='if (this.value == "البحث ...") {this.value = "";}' type='text' value='البحث ...'/>
+<input id='search-submit' type='submit' value='بحث'/>
+</form>
+</div>
+</div>
+<div id='outer-wrapper'>
+<div class='topsec no-items section' id='topsec'></div>
+<div style='clear: both;'></div>
+<div id='sidebar-wrapper1'>
+<div class='sidebar1 sidebars section' id='sidebar1'><div class='widget PopularPosts' data-version='1' id='PopularPosts2'>
+<h2>المشاركات الشائعة</h2>
+<div class='widget-content popular-posts'>
+<ul>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://getjararab.blogspot.com/2015/03/blog-post_18.html' target='_blank'>
+<img alt='' border='0' height='72' src='https://3.bp.blogspot.com/-9yT_7NwvF-U/VQl_J7Q9uvI/AAAAAAAAAwE/8C_Z-7q_Pj0/s72-c/s5-hard-reset.png' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://getjararab.blogspot.com/2015/03/blog-post_18.html'>فتح جوال سامسونج جالكسي  بسهولة عند نسيان النمط او كلمة السر </a></div>
+<div class='item-snippet'>     هل سبق ونسيت كلمة سر او نمط الدخول لجهازك او ربما انك تمر الان بمشكله الدخول بعد ان نسيت النمط او كلمة سر فتح جوالك المحمول .   </div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://getjararab.blogspot.com/2015/03/blog-post.html' target='_blank'>
+<img alt='' border='0' height='72' src='https://4.bp.blogspot.com/-1uL8LcIVZ2M/WXqYCHUzx0I/AAAAAAAABac/0L2FjZ0pP0Eh942P3YEVS79qfijrjusfwCK4BGAYYCw/s72-c/hqdefault%2B%25281%2529.jpg' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://getjararab.blogspot.com/2015/03/blog-post.html'>واتساب تحدد موعد رسمي لاطلاق المكالمات الصوتية </a></div>
+<div class='item-snippet'>        كثيرا &#160;مايثير الجدل &#160;والاخبار بخصوص خبر اطلاق خدمة المكالمات الصوتية , &#160;وهناك من سعى لتفعيلها قبل الموعد الرسمي&#160;  ولا شك بان هذا الش...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://getjararab.blogspot.com/2015/04/galaxy-s6-galaxy-s6-edge.html' target='_blank'>
+<img alt='' border='0' height='72' src='https://1.bp.blogspot.com/-KD7J0J7I95E/VSvbqzuJEFI/AAAAAAAAAxM/ieAxSz_nOaA/s72-c/galaxy-s6-s6-edge.jpg' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://getjararab.blogspot.com/2015/04/galaxy-s6-galaxy-s6-edge.html'>سامسونج  تواصل التميز  galaxy s6 & galaxy s6 edge  فتح الكرتون , سعر الجهاز , مواصفات , الميزات , والمقارنة </a></div>
+<div class='item-snippet'>        سامسونج تبهرنا دائما بجديدها وهاهي تبدع بجهازها الذكي Galaxy s6 &#160;و النسخة galaxy s6 edge  في هذه التدوينة راح اتكلم ببساطة عن &#160;ميزات...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://getjararab.blogspot.com/2014/09/blog-post_74.html' target='_blank'>
+<img alt='' border='0' height='72' src='http://3.bp.blogspot.com/9taJkjfdUROlOq0VKjh277DiZue0Da2001jxZI03e8wMJXo8EN2j0ct5Xe-0xzvbWrA=s72-w300-c-rw' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://getjararab.blogspot.com/2014/09/blog-post_74.html'> متابعة الكاميرات عبر الهاتف الذكي </a></div>
+<div class='item-snippet'>     هل انت صاحب &#160;شركة او محل تستخدم &#160;كاميرات مراقبة &#160;او ربما صاحب منزل ولديك كيمرة مراقبة , &#160;وتريد متابعة كاميرات المراقبة من خلال الهاتف ا...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://getjararab.blogspot.com/2014/09/twitteroldversionandroidapk.html' target='_blank'>
+<img alt='' border='0' height='72' src='https://4.bp.blogspot.com/-gNGekD-loQE/VBeWVjv1UaI/AAAAAAAAAis/7UuY_PR8qVI/s72-c/01.png' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://getjararab.blogspot.com/2014/09/twitteroldversionandroidapk.html'>تطبيق تويتر وتحميل جميع اصدارات تطبيق Twitter للاندرويد apk </a></div>
+<div class='item-snippet'>      نقدم لك عزيزي الزائر &#160;جميع اصدارات تطبيق تويتر لنظامي اندرويد .. ورابط مباشر لكل اصدار&#160;  في حال لم يناسبك اي اصدار جديد لتطبيق تويتر ف...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://getjararab.blogspot.com/2014/09/blog-post_2.html' target='_blank'>
+<img alt='' border='0' height='72' src='http://1.bp.blogspot.com/Vh1J8pzHR_ukIWFcFC-yig6QtxTnIwknWZJhmtSwrjn5Ib2YUPpYuCgC2csJTYHhQHjp=s72-w300-c-rw' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://getjararab.blogspot.com/2014/09/blog-post_2.html'>تطبيق يا لهوي  لطلب النجدة في مصر </a></div>
+<div class='item-snippet'>         اطلقت شركة&#160; AppKhana  تطبيق &#160;على منصة Googl play لهواتف الاندرويد&#160;   برنامج يا لهوي -&#160;Yalahwy   فكرة البرنامج والذي يحمل اسم شعبي ف...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://getjararab.blogspot.com/2015/10/subway-surf.html' target='_blank'>
+<img alt='' border='0' height='72' src='https://4.bp.blogspot.com/-a2OU5iAppWQ/VhEc7q2YF4I/AAAAAAAABFw/kSKohAW1UPo/s72-c/1.jpg' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://getjararab.blogspot.com/2015/10/subway-surf.html'>تهكير لعبة subway surf  -  حرامي القطارات </a></div>
+<div class='item-snippet'>     لعبة حرامي القطارات او&#160;subway surf &#160;من اللعب المشيقة المتميزة والتي تحافظ على مراكزها الاولى في ترتيب التطبيقات في متاجر الاندرويد او ا...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://getjararab.blogspot.com/2014/10/blog-post.html' target='_blank'>
+<img alt='' border='0' height='72' src='https://3.bp.blogspot.com/-G2NVbs-rfjA/VA5lD9kv1pI/AAAAAAAAAek/jnFMwZMHse0/s72-c/download-on-the-app-store.png' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://getjararab.blogspot.com/2014/10/blog-post.html'>تطبيق منو داق &#1567; لمعرفة هوية المتصل بديل نمبر بوك في الامارات </a></div>
+<div class='item-snippet'>       تكثر برامج معرفة هوية المتصل مثل النمبر بوك وغيرها , لكن اليوم اتينا لكم بتطبيق متوفر على منصة ابل ستور&#160;  تطبيق منو داق &#1567; لمعرفة هوية...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://getjararab.blogspot.com/2014/10/whatsremote.html' target='_blank'>
+<img alt='' border='0' height='72' src='http://4.bp.blogspot.com/pXGa0wQYgyEX4pR2PLdl8vjWG2xjsJjIabhDI1qhg4LXn3Rg5HH098NrfYjiQC7HSzQ=s72-w300-c-rw' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://getjararab.blogspot.com/2014/10/whatsremote.html'>تطبيق  WhatsRemote  لتشغيل الواتس اب في الحاسوب </a></div>
+<div class='item-snippet'>    تطبيق واتس اب ريموت &#160;للاتصال عن بعد بين هاتفك وحاسوبك لتشغيل &#160;تطبيق الواتس اب من الحاسوب&#160;   يشترط الآتي من اجل تشغيله :  وجود روت في هات...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://getjararab.blogspot.com/2017/07/Vizmato.html' target='_blank'>
+<img alt='' border='0' height='72' src='https://2.bp.blogspot.com/-t0ojvjD5vmU/WXqamwFSBuI/AAAAAAAABbE/YFz0rbK88HkGdPqt2o9jT2sxcr6mdW4fwCK4BGAYYCw/s72-c/Vizmato.jpg' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://getjararab.blogspot.com/2017/07/Vizmato.html'>تطبيق لتصميم الفيديو بكل سهولة عبر أجهزة الجوال اندرويد وايفون </a></div>
+<div class='item-snippet'>        تتطبيق&#160;Vizmato الخاص بتعديل مقاطع الفيديو حقق نجاح واسع في متاجر آبل ثم قررت الشركة اضافة التطبيق الى متجر جوجل الخاص بأجهزة الاندرو...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=6673336605377842995&widgetType=PopularPosts&widgetId=PopularPosts2&action=editWidget&sectionId=sidebar1' onclick='return _WidgetManager._PopupConfig(document.getElementById("PopularPosts2"));' target='configPopularPosts2' title='تحرير'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Label' data-version='1' id='Label2'>
+<h2>التسميات</h2>
+<div class='widget-content list-label-widget-content'>
+<ul>
+<li>
+<a dir='rtl' href='http://getjararab.blogspot.com/search/label/%D8%A7%D9%84%D8%B9%D8%A7%D8%A8?&max-results=7'>العاب</a>
+</li>
+<li>
+<a dir='rtl' href='http://getjararab.blogspot.com/search/label/android?&max-results=7'>android</a>
+</li>
+<li>
+<a dir='rtl' href='http://getjararab.blogspot.com/search/label/Cydia?&max-results=7'>Cydia</a>
+</li>
+<li>
+<a dir='rtl' href='http://getjararab.blogspot.com/search/label/ios?&max-results=7'>ios</a>
+</li>
+<li>
+<a dir='rtl' href='http://getjararab.blogspot.com/search/label/windows%20phone?&max-results=7'>windows phone</a>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=6673336605377842995&widgetType=Label&widgetId=Label2&action=editWidget&sectionId=sidebar1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label2"));' target='configLabel2' title='تحرير'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+</div>
+<div id='main-wrapper'>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>الجمعة&#1548; 15 سبتمبر 2017</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://1.bp.blogspot.com/-ETTBXPHNHZw/Wbt_qRyqS7I/AAAAAAAACMo/TEsgk4xaHi8ci00X_JEvPS1tc7LMCVUmACK4BGAYYCw/s400/social-dummy.jpg' itemprop='image_url'/>
+<meta content='6673336605377842995' itemprop='blogId'/>
+<meta content='4192910407065566584' itemprop='postId'/>
+<a name='4192910407065566584'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://getjararab.blogspot.com/2017/09/remotemouse.html'>تحويل الجوال الى ماوس للتحكم في الكمبيوتر بواسطة تطبيق RemoteMouse </a>
+</h3>
+<div class='post-header'>
+<div class='topinfo'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+<meta content='http://getjararab.blogspot.com/2017/09/remotemouse.html' itemprop='url'/>
+<a class='timestamp-link' href='http://getjararab.blogspot.com/2017/09/remotemouse.html' rel='bookmark' title='permanent link'>12:22 ص</a>
+</span>
+</div>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-4192910407065566584' itemprop='description articleBody'>
+<div id='summary4192910407065566584'><div dir="rtl" style="text-align: right;" trbidi="on">
+<div style="text-align: center;">
+<a href="http://1.bp.blogspot.com/-ETTBXPHNHZw/Wbt_qRyqS7I/AAAAAAAACMo/TEsgk4xaHi8ci00X_JEvPS1tc7LMCVUmACK4BGAYYCw/s1600/social-dummy.jpg" imageanchor="1"><img border="0" src="https://1.bp.blogspot.com/-ETTBXPHNHZw/Wbt_qRyqS7I/AAAAAAAACMo/TEsgk4xaHi8ci00X_JEvPS1tc7LMCVUmACK4BGAYYCw/s400/social-dummy.jpg" /></a></div>
+<br />
+<br />
+تطبيق&nbsp;RemoteMouse عبارة عن اداة للتحكم بأجهزة الكمبيوتر وتحويل جوالك الذكي الى فارة بسهولة<br />
+التطبيق متوفر على منصفة الايتونز لأجهزة الايفون وعلى متجر جوجل بلاي لأجهزة الاندرويد ويمكن التحكم بكمبيوترك او لابتوبك من جهاز الجوال عبر التطبيق بسهولة وتوفر ميزات كثيرة تسهل عليك التحكم في الكمبيوتر الخاص بك يمكنكم تجربة التطبيق واستكشاف المزيد من الخصائث<br />
+<br />
+لتحميل التطبيق لأجهزة الايفون &nbsp;والايباد :<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://itunes.apple.com/sa/app/remote-mouse-wireless-keyboard-trackpad/id385894596?mt=8" target="_blank"><img border="0" data-original-height="159" data-original-width="550" height="92" src="https://1.bp.blogspot.com/-G2NVbs-rfjA/VA5lD9kv1pI/AAAAAAAAAek/lmS_MD8am4onSDN8wYOpFRNwglYk76wGwCPcBGAYYCw/s320/download-on-the-app-store.png" width="320" /></a></div>
+تحميل التطبيق لأجهزة الاندرويد<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://play.google.com/store/apps/details?id=com.hungrybolo.remotemouseandroid&amp;hl=en" target="_blank"><img border="0" data-original-height="237" data-original-width="800" height="93" src="https://4.bp.blogspot.com/-CjbvfM4tkRo/VA5lYAqF6uI/AAAAAAAAAes/G97FFhRSct0CzvxLT0in8EIsXyf1QnULwCPcBGAYYCw/s320/button-get-it-on-google-play.png" width="320" /></a></div>
+<br /></div>
+</div>
+<script type='text/javascript'>createSummaryAndThumb("summary4192910407065566584","http://getjararab.blogspot.com/2017/09/remotemouse.html","تحويل الجوال الى ماوس للتحكم في الكمبيوتر بواسطة تطبيق RemoteMouse ");</script>
+<div style='clear: both;'></div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://3.bp.blogspot.com/-MOuG56S64OM/Wbt-VHU1jEI/AAAAAAAACMc/tWdNgc0EFR0UQqd7rjNyGZWLMWcofW4ugCK4BGAYYCw/s400/d0856e4241b6f32931bee91829e9450d.jpg' itemprop='image_url'/>
+<meta content='6673336605377842995' itemprop='blogId'/>
+<meta content='9021724394557598025' itemprop='postId'/>
+<a name='9021724394557598025'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://getjararab.blogspot.com/2017/09/WowChat-App.html'> تطبيق لتشغيل الواتساب من جهاز آخر </a>
+</h3>
+<div class='post-header'>
+<div class='topinfo'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+<meta content='http://getjararab.blogspot.com/2017/09/WowChat-App.html' itemprop='url'/>
+<a class='timestamp-link' href='http://getjararab.blogspot.com/2017/09/WowChat-App.html' rel='bookmark' title='permanent link'>12:16 ص</a>
+</span>
+</div>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-9021724394557598025' itemprop='description articleBody'>
+<div id='summary9021724394557598025'><div dir="rtl" style="text-align: right;" trbidi="on">
+<br />
+<br />
+<div style="text-align: center;">
+<a href="http://3.bp.blogspot.com/-MOuG56S64OM/Wbt-VHU1jEI/AAAAAAAACMc/tWdNgc0EFR0UQqd7rjNyGZWLMWcofW4ugCK4BGAYYCw/s1600/d0856e4241b6f32931bee91829e9450d.jpg" imageanchor="1"><img border="0" src="https://3.bp.blogspot.com/-MOuG56S64OM/Wbt-VHU1jEI/AAAAAAAACMc/tWdNgc0EFR0UQqd7rjNyGZWLMWcofW4ugCK4BGAYYCw/s400/d0856e4241b6f32931bee91829e9450d.jpg" /></a></div>
+<br />
+هذا التطبيق لأجهزة الايفون ويمكنك من &nbsp;إرسال / استقبال رسائل الواتساب من اي جهاز آخر بدون تسجل الخروج او حذف من الجهاز الاساسي<br />
+- يمكنك ايضا&#1611; فتح اكثر من واتساب بواسطة البرنامج حيث يعتمد على مسح الباركورد &nbsp;ويعتمد على صفحة واتساب ويب<br />
+&nbsp;يمكنك ايضا&#1611; استخدام &nbsp;كلمة سر للتطبيق او بصمة اصبعك من أجل اغلاق البرنامج<br />
+<br />
+لتحميل البرنامج لأجهزة أبل<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://itunes.apple.com/sa/app/whatsweb-for-whatsapp/id1160079704?mt=8" target="_blank"><img border="0" data-original-height="159" data-original-width="550" height="92" src="https://1.bp.blogspot.com/-G2NVbs-rfjA/VA5lD9kv1pI/AAAAAAAAAek/lmS_MD8am4onSDN8wYOpFRNwglYk76wGwCPcBGAYYCw/s320/download-on-the-app-store.png" width="320" /></a></div>
+</div>
+</div>
+<script type='text/javascript'>createSummaryAndThumb("summary9021724394557598025","http://getjararab.blogspot.com/2017/09/WowChat-App.html"," تطبيق لتشغيل الواتساب من جهاز آخر ");</script>
+<div style='clear: both;'></div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://3.bp.blogspot.com/-G5Yd47ZFIms/Wbt8OngvpjI/AAAAAAAACMQ/XqnwdTfwvqs1c1fCIml6ieYd4bFOO8vmQCK4BGAYYCw/s640/social-dummy.jpg' itemprop='image_url'/>
+<meta content='6673336605377842995' itemprop='blogId'/>
+<meta content='2643149218208607358' itemprop='postId'/>
+<a name='2643149218208607358'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://getjararab.blogspot.com/2017/09/Social-Dummy.html'>تطبيق تزييف الرسائل والتغريدات في تويتر ومنشورات فيسبوك</a>
+</h3>
+<div class='post-header'>
+<div class='topinfo'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+<meta content='http://getjararab.blogspot.com/2017/09/Social-Dummy.html' itemprop='url'/>
+<a class='timestamp-link' href='http://getjararab.blogspot.com/2017/09/Social-Dummy.html' rel='bookmark' title='permanent link'>12:08 ص</a>
+</span>
+</div>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-2643149218208607358' itemprop='description articleBody'>
+<div id='summary2643149218208607358'><div dir="rtl" style="text-align: right;" trbidi="on">
+<div>
+<div style="text-align: center;">
+<a href="http://3.bp.blogspot.com/-G5Yd47ZFIms/Wbt8OngvpjI/AAAAAAAACMQ/XqnwdTfwvqs1c1fCIml6ieYd4bFOO8vmQCK4BGAYYCw/s1600/social-dummy.jpg" imageanchor="1"><img border="0" height="420" src="https://3.bp.blogspot.com/-G5Yd47ZFIms/Wbt8OngvpjI/AAAAAAAACMQ/XqnwdTfwvqs1c1fCIml6ieYd4bFOO8vmQCK4BGAYYCw/s640/social-dummy.jpg" width="640" /></a></div>
+</div>
+<div>
+<br /></div>
+<div>
+هل تشاهد احيانا&#1611; انتشار تسريبات لمحادثات في تويتر او فيسبوك او غيره من مواقع التواصل الاجتماعي او قد تنشر على هيئة صور لتغريدات او منشورات او رسائل خاصه ,, &nbsp;حيث انتشرت بعض الحسابات التي تدعي اختراقها حساب شخص مشهور او احد الاشخاص في الحقيقة قد يتسرع البعض ويصدق بعض هذه الفبركات لأسباب كثيرة&nbsp;</div>
+<div>
+<br /></div>
+<div>
+الطريقة التي يقوم بتطبيقها هؤلاء هناك تطبيق يدعي &nbsp; Social Dummy وظيفته يقوم بتزييف الرسائل الخاصه والتغريدات في موقع تويتر او المنشورات والرسائل في فيسبوك وعدة مواقع توصل اجتماعي كل ذلك ستجدها بسهولة في تطبيق &nbsp; على أجهزة الايفون حيث يمكنك من تزييف رسائل خاصه او تغريدات بسهولة والتعديل على الخيارات ووضع تاريخ معين للتغريدة او الرساله&nbsp;</div>
+<div>
+<br /></div>
+<div style="text-align: center;">
+<blockquote class="twitter-tweet" data-lang="ar">
+<div dir="rtl" lang="ar">
+كيف يتم تزييف الرسائل الخاصه في تويتر وتصويرها بالفيديو من الجوال مثل مايقوم به الحساب المسمى <a href="https://twitter.com/hashtag/%D9%85%D8%B5%D8%AF%D8%B1_%D8%AE%D8%A7%D8%B5?src=hash">#مصدر_خاص</a> وغيره من الحسابات المشبوهة <a href="https://t.co/5eTGsuMERW">pic.twitter.com/5eTGsuMERW</a></div>
+&#8212; عبدالرحمن الشهري (@iDhmi) <a href="https://twitter.com/iDhmi/status/880196738103078913">٢٨ يونيو&#1548; ٢٠١٧</a></blockquote>
+<script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script></div>
+<div>
+<br /></div>
+<div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://itunes.apple.com/sa/app/social-dummy/id610088272?mt=8" target="_blank"><img border="0" data-original-height="159" data-original-width="550" height="92" src="https://1.bp.blogspot.com/-G2NVbs-rfjA/VA5lD9kv1pI/AAAAAAAAAek/lmS_MD8am4onSDN8wYOpFRNwglYk76wGwCPcBGAYYCw/s320/download-on-the-app-store.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<br /></div>
+</div>
+</div>
+<script type='text/javascript'>createSummaryAndThumb("summary2643149218208607358","http://getjararab.blogspot.com/2017/09/Social-Dummy.html","تطبيق تزييف الرسائل والتغريدات في تويتر ومنشورات فيسبوك");</script>
+<div style='clear: both;'></div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>السبت&#1548; 9 سبتمبر 2017</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://2.bp.blogspot.com/-lpZGLeHpyIs/WbOmLZv7Q4I/AAAAAAAACKc/C9rjfEMomJEhvyA5c_XaW3OeI8AKIvLOQCK4BGAYYCw/s200/11.jpg' itemprop='image_url'/>
+<meta content='6673336605377842995' itemprop='blogId'/>
+<meta content='8683985409208009584' itemprop='postId'/>
+<a name='8683985409208009584'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://getjararab.blogspot.com/2017/09/jodel.html'>تغيير المنشأ في برنامج  يودل</a>
+</h3>
+<div class='post-header'>
+<div class='topinfo'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+<meta content='http://getjararab.blogspot.com/2017/09/jodel.html' itemprop='url'/>
+<a class='timestamp-link' href='http://getjararab.blogspot.com/2017/09/jodel.html' rel='bookmark' title='permanent link'>1:59 ص</a>
+</span>
+</div>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8683985409208009584' itemprop='description articleBody'>
+<div id='summary8683985409208009584'><div dir="rtl" style="text-align: right;" trbidi="on">
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+برنامج يودل انتشر انتشار واسع واصبح محبب لدى كثير من المستخدمين ويعاني البعض من صعوبة في تغيير مسقط الراس المنشأ او&nbsp;hometown لكون البرنامج يعتمد على تشغيل الجي بي اس لتحديد موقعك وبناء&#1611; على ذلك يتم وضعك ضمن اطار جغرافي معين لتحصل على تحديثات المستخدمين في منطقتك فقط&nbsp;</div>
+<div style="text-align: center;">
+لكن البعض يرغب في تغيير المنشأ لاسباب عدة والبرنامج يسمح لك مره واحده لكنه يشترط ان تكون في الموقع الجديد ليتم تغييره بالفعل , ولكن في هذا الشرح سنريكم كيف يتم تغيير المنشأ وانت في مكانك لاي منطقة في العالم ولكل أجهزة الجوال الايفون وأجهزة الاندرويد&nbsp;</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: right;">
+<b>شرح تغيير المنشأ لأجهزة الايفون :&nbsp;</b></div>
+<div style="text-align: right;">
+<br /></div>
+<div style="text-align: center;">
+في البداية تحتاج الى اداة &nbsp; locationfaker لتغيير الاحداثيات اللوكيشن يمكنك تحميلها من السيديا بعد البحث عنها &nbsp;والاداة الاخرى لتشغيلها &nbsp;cracktool2 لتحميل السورس الخاص بها <a href="https://t.co/RATkhuupSt" target="_blank">اضغط هنا</a>&nbsp;</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<a href="http://2.bp.blogspot.com/-lpZGLeHpyIs/WbOmLZv7Q4I/AAAAAAAACKc/C9rjfEMomJEhvyA5c_XaW3OeI8AKIvLOQCK4BGAYYCw/s1600/11.jpg" imageanchor="1"><img border="0" height="200" src="https://2.bp.blogspot.com/-lpZGLeHpyIs/WbOmLZv7Q4I/AAAAAAAACKc/C9rjfEMomJEhvyA5c_XaW3OeI8AKIvLOQCK4BGAYYCw/s200/11.jpg" width="182" /></a><a href="http://3.bp.blogspot.com/-t9HSKx1BBXs/WbOmSdLQrDI/AAAAAAAACKk/K3WEfXEyZ4ECqW0wt9IxSK6mO3mrIjFfgCK4BGAYYCw/s1600/C7yI4yJXQAIjcX_.jpg" imageanchor="1"><img border="0" height="200" src="https://3.bp.blogspot.com/-t9HSKx1BBXs/WbOmSdLQrDI/AAAAAAAACKk/K3WEfXEyZ4ECqW0wt9IxSK6mO3mrIjFfgCK4BGAYYCw/s200/C7yI4yJXQAIjcX_.jpg" width="196" /></a></div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+قم بالذهاب الى اداة cracktool2 &nbsp;ومن ثم قم بالضغط على&nbsp;locationfaker ليعمل معك&nbsp;</div>
+<div style="text-align: center;">
+قم بتشغيل خيارات اداة&nbsp;locationfaker بعد فتحه وتفعيل خياراتها ثم قم بتحديد موقعك الجديد المنشأ من الخارطة</div>
+<div style="text-align: center;">
+<a href="http://4.bp.blogspot.com/-pd72cgNxTR0/WbOnYepd-iI/AAAAAAAACKw/pyq3RDOdbiw2y8Qfl5stfS3nKlZQgMdCgCK4BGAYYCw/s1600/cracktool2.jpg" imageanchor="1"><img border="0" height="400" src="https://4.bp.blogspot.com/-pd72cgNxTR0/WbOnYepd-iI/AAAAAAAACKw/pyq3RDOdbiw2y8Qfl5stfS3nKlZQgMdCgCK4BGAYYCw/s400/cracktool2.jpg" width="267" /></a></div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+بعد اتباع الخطوات السابقه سوف يتم تغيير المنشأ الخاص بك بسهولة مع العلم اذا سبق وتم تغيير المنشأ ولم يتم تغيير المنشأ يجب ان تقوم بحذف اليودل واعادة تثبيته من جديد ليعمل ان شاء الله</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: right;">
+<b>شرح تغيير المنشأ في أجهزة الاندرويد :&nbsp;</b></div>
+<div style="text-align: right;">
+<b>ستحتاج الى شي واحد فقط وهو برنامج العنوان الوهمي قم بتحميل التطبيق من المتجر الرسمي <a href="https://play.google.com/store/apps/details?id=com.lexa.fakegps#details-reviews" target="_blank">اضغط هنا&nbsp;</a></b></div>
+<div style="text-align: right;">
+<b><br /></b></div>
+<div style="text-align: right;">
+<b>لتشغيل البرنامج بعد تحميله من المتجر ستحتاج الى منح التطبيق تصريح من خلال الذهاب الى الاعدادات ثم اختيار خيارات المطور والنزول الى خيار تطبيق المواقع الوهمية واختيار fakes GPS</b></div>
+<div style="text-align: right;">
+<b>بعد ذلك سيتم تغيير المنشأ الى العنوان الذي قمت بتحديده &nbsp; في الخارطة&nbsp;</b></div>
+</div>
+</div>
+<script type='text/javascript'>createSummaryAndThumb("summary8683985409208009584","http://getjararab.blogspot.com/2017/09/jodel.html","تغيير المنشأ في برنامج  يودل");</script>
+<div style='clear: both;'></div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>السبت&#1548; 19 أغسطس 2017</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://1.bp.blogspot.com/-BHFtvppJslE/WZkaDn2DInI/AAAAAAAAB6M/rBuXRAkVcyUXj2sML1gTxF7JJDoBe3EIQCK4BGAYYCw/s320/screen520x924.jpeg' itemprop='image_url'/>
+<meta content='6673336605377842995' itemprop='blogId'/>
+<meta content='3645616104398559862' itemprop='postId'/>
+<a name='3645616104398559862'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://getjararab.blogspot.com/2017/08/killbox.html'>تحميل لعبة THE KILLBOX النسخة العربية المواجهة </a>
+</h3>
+<div class='post-header'>
+<div class='topinfo'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+<meta content='http://getjararab.blogspot.com/2017/08/killbox.html' itemprop='url'/>
+<a class='timestamp-link' href='http://getjararab.blogspot.com/2017/08/killbox.html' rel='bookmark' title='permanent link'>10:12 م</a>
+</span>
+</div>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-3645616104398559862' itemprop='description articleBody'>
+<div id='summary3645616104398559862'><div dir="rtl" style="text-align: right;" trbidi="on">
+<div style="text-align: center;">
+<a href="http://1.bp.blogspot.com/-BHFtvppJslE/WZkaDn2DInI/AAAAAAAAB6M/rBuXRAkVcyUXj2sML1gTxF7JJDoBe3EIQCK4BGAYYCw/s1600/screen520x924.jpeg" imageanchor="1"><img border="0" height="180" src="https://1.bp.blogspot.com/-BHFtvppJslE/WZkaDn2DInI/AAAAAAAAB6M/rBuXRAkVcyUXj2sML1gTxF7JJDoBe3EIQCK4BGAYYCw/s320/screen520x924.jpeg" width="320" /></a></div>
+<div style="text-align: center;">
+من منا لا يعرف لعبة THE KILLBOX اقصد عشاق الالعاب طبعا , هذه اللعبه الشيقه والمثيرة التي يعشقها كل العاب القناصه او الحرب أصبحت متاحه باللغه العربيه</div>
+<div style="text-align: center;">
+شركة منصات &nbsp;في دبي قامت بانتاج لعبة بنسخة عربية بأسم المواجهة &nbsp;نسخة مماثلة للعبة THE KILLBOX .</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+اللعبه لمن لا يعرفها تعتمد على الاثاراة ويمكن لعبها اونلاين وتشكيل فرق مع اصدقائك وتجميع الاسلحه &nbsp;والتنافس مع الآخرين قم بتجربتها الان وحملها على اجهزتك الايفون او الاندرويد</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+لتحميل لعبة المواجهة الى أجهزة الاندرويد - جالكسي , سوني , Htc &nbsp;وكل الاجهزة التي تعمل بنظام اندرويد حملها من متجر Google Play</div>
+<div style="text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://play.google.com/store/apps/details?id=com.fpsshooting.tkbgame.arabic" target="_blank"><img border="0" data-original-height="237" data-original-width="800" height="94" src="https://4.bp.blogspot.com/-CjbvfM4tkRo/VA5lYAqF6uI/AAAAAAAAAes/G97FFhRSct0CzvxLT0in8EIsXyf1QnULwCPcBGAYYCw/s320/button-get-it-on-google-play.png" width="320" /></a></div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+ولتحميلها لأجهزة أبل - ايفون او ايباد حملها من هنا</div>
+<div style="text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://itunes.apple.com/om/app/%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-the-killbox/id1197806903?mt=8" target="_blank"><img border="0" data-original-height="159" data-original-width="550" height="92" src="https://1.bp.blogspot.com/-G2NVbs-rfjA/VA5lD9kv1pI/AAAAAAAAAek/lmS_MD8am4onSDN8wYOpFRNwglYk76wGwCPcBGAYYCw/s320/download-on-the-app-store.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+شاهد التريلر الان :</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<br /></div>
+<script async="" src="//"></script>
+<!-- hmsaat meb3 -->
+<br />
+<ins class="adsbygoogle" data-ad-client="ca-pub-9992242192777070" data-ad-slot="3637308325" style="display: inline-block; height: 280px; width: 336px;"></ins><div style="text-align: center;">
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/RagGRXCiM9A?ecver=1" width="560"></iframe></div>
+</div>
+</div>
+<script type='text/javascript'>createSummaryAndThumb("summary3645616104398559862","http://getjararab.blogspot.com/2017/08/killbox.html","تحميل لعبة THE KILLBOX النسخة العربية المواجهة ");</script>
+<div style='clear: both;'></div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://2.bp.blogspot.com/-RxV1cMClFI4/WZkXnLDSZCI/AAAAAAAAB6A/h52nuagAN1IxW4hdy3JT_rfRj4HXR4zQQCK4BGAYYCw/s400/1377591670536.jpg--emoji.jpg' itemprop='image_url'/>
+<meta content='6673336605377842995' itemprop='blogId'/>
+<meta content='9200055524653595345' itemprop='postId'/>
+<a name='9200055524653595345'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://getjararab.blogspot.com/2017/08/war-wings.html'>لعبة War Wings حرب عالمية بالطائرات </a>
+</h3>
+<div class='post-header'>
+<div class='topinfo'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+<meta content='http://getjararab.blogspot.com/2017/08/war-wings.html' itemprop='url'/>
+<a class='timestamp-link' href='http://getjararab.blogspot.com/2017/08/war-wings.html' rel='bookmark' title='permanent link'>10:02 م</a>
+</span>
+</div>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-9200055524653595345' itemprop='description articleBody'>
+<div id='summary9200055524653595345'><div dir="rtl" style="text-align: right;" trbidi="on">
+<div dir="rtl" style="text-align: right;" trbidi="on">
+<div style="text-align: center;">
+<a href="http://2.bp.blogspot.com/-RxV1cMClFI4/WZkXnLDSZCI/AAAAAAAAB6A/h52nuagAN1IxW4hdy3JT_rfRj4HXR4zQQCK4BGAYYCw/s1600/1377591670536.jpg--emoji.jpg" imageanchor="1"><img border="0" src="https://2.bp.blogspot.com/-RxV1cMClFI4/WZkXnLDSZCI/AAAAAAAAB6A/h52nuagAN1IxW4hdy3JT_rfRj4HXR4zQQCK4BGAYYCw/s400/1377591670536.jpg--emoji.jpg" /></a></div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+لعبة&nbsp;War Wings تحتوي على اثارة كافية لتجعلك تفضل هذه اللعبه عن كثير من الالعاب القتالية خصوصا&#1611; ان اللعبه متوفره مجانا&#1611; ويمكن تحميلها من المتجر الرسمي .</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+تعتمد لعبة&nbsp;War Wings على القتال واللعبه محاكاة &nbsp;للحرب العالمية الثالثه تطير برفقة سرب من الطائرات لتواجه جيش العدو ومن هنا تبدا مرحلة القتال من اجل البقاء حيا&#1611;</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+لن نفسد عليك متعة اللعبه وسندعكم تكتشفون مزيدا&#1611; من المفاجات والاثارة في هذه اللعبه المثيرة</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+للتحميل</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+أجهزة الاندرويد والايفون</div>
+<div style="text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://play.google.com/store/apps/details?id=com.tencent.warwings2" target="_blank"><img border="0" data-original-height="237" data-original-width="800" height="94" src="https://4.bp.blogspot.com/-CjbvfM4tkRo/VA5lYAqF6uI/AAAAAAAAAes/G97FFhRSct0CzvxLT0in8EIsXyf1QnULwCPcBGAYYCw/s320/button-get-it-on-google-play.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://itunes.apple.com/nz/app/war-wings/id1050092160?mt=8" target="_blank"><img border="0" data-original-height="159" data-original-width="550" height="92" src="https://1.bp.blogspot.com/-G2NVbs-rfjA/VA5lD9kv1pI/AAAAAAAAAek/lmS_MD8am4onSDN8wYOpFRNwglYk76wGwCPcBGAYYCw/s320/download-on-the-app-store.png" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<b>مشاهدة تريلر اللعبه :</b></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+</div>
+<div style="text-align: center;">
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/aCLzlCTmon8?ecver=1" width="560"></iframe>
+
+<script async="" src="//"></script>
+<!-- hmsaat meb3 -->
+</div>
+<ins class="adsbygoogle" data-ad-client="ca-pub-9992242192777070" data-ad-slot="3637308325" style="display: inline-block; height: 280px; width: 336px;"></ins><script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+<script type='text/javascript'>createSummaryAndThumb("summary9200055524653595345","http://getjararab.blogspot.com/2017/08/war-wings.html","لعبة War Wings حرب عالمية بالطائرات ");</script>
+<div style='clear: both;'></div>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://getjararab.blogspot.com/search?updated-max=2017-08-19T22:02:00-07:00&amp;max-results=6' id='Blog1_blog-pager-older-link' title='رسائل أقدم'>رسائل أقدم</a>
+</span>
+<a class='home-link' href='http://getjararab.blogspot.com/'>الصفحة الرئيسية</a>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+<div class='feed-links'>
+الاشتراك في:
+<a class='feed-link' href='http://getjararab.blogspot.com/feeds/posts/default' target='_blank' type='application/atom+xml'>الرسائل (Atom)</a>
+</div>
+</div>
+<script type="text/javascript">window.___gcfg = {'lang': 'ar'};</script>
+</div>
+</div>
+</div>
+<div id='sidebar-wrapper'>
+<div class='sidebar sidebars section' id='sidebar'><div class='widget BlogList' data-version='1' id='BlogList1'>
+<h2 class='title'>قائمة مواقع انصحكم بها</h2>
+<div class='widget-content'>
+<div class='blog-list-container' id='BlogList1_container'>
+<ul id='BlogList1_blogs'>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/pVHBBnBr89rlueokUH2yeoYWe8H7_0N6g91xClx5J5-MpUbX7XoOqPEQWCgSdR5wKN81j5Q=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.hmsaat.net/' target='_blank'>
+همسات تقنية</a>
+</div>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://www.hmsaat.net/' target='_blank'>
+<img alt='' border='0' height='72' src='https://1.bp.blogspot.com/-BEO5hNXtDrM/WinjjXw4J3I/AAAAAAAACXs/6FVTh_9dV3IAbC_R9vcvO0wcGW6lFxbOgCK4BGAYYCw/s72-c/C_oEcAxXUAEwlfW.jpg' width='72'/>
+</a>
+</div>
+<span class='item-title'>
+<a href='http://www.hmsaat.net/2017/12/blog-post.html' target='_blank'>
+ا&#1616;رسال رسالة عبر الواتساب بدون حفظ الرقم
+</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+
+
+*ان كنت تريد ا&#1616;رسال رسالة لاي رقم عبر الواتساب دون ان تقوم بحفظ رقم هاتفه 
+في جهات اتصالك كل ماعليك فعله هو الدخول لرابط الخدمة في اسفل الصفحه ومن ثم 
+الضغ...
+</span>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/KChrU7DVR-ar7uUO0WZI7eMLpN-0bVkgchZJ8Z0Bgm6V4gs9t76IRl5iw9qJyk7uFJWbmrm5RadToyLLEg=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://myasal3rb.blogspot.com/' target='_blank'>
+مـدونة مياس العرب</a>
+</div>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://myasal3rb.blogspot.com/' target='_blank'>
+<img alt='' border='0' height='72' src='https://1.bp.blogspot.com/-q1NdrsIoNv8/Wc8unL3nfeI/AAAAAAAACN4/G7ZFl_3u6IETkznFoqI4zEFvbrFGITrjACK4BGAYYCw/s72-c/maxresdefault%2B%25281%2529.jpg' width='72'/>
+</a>
+</div>
+<span class='item-title'>
+<a href='http://myasal3rb.blogspot.com/2017/09/beinsports.html' target='_blank'>
+تجديد اشتراك قنوات بين سبورت عبر الانترنت
+</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+
+
+بعد صعوبة الاشتراك في السعودية في قنوات beIN SPORTS بسبب منعها من قبل 
+السلطات يتسائل البعض عن طرق تجديد الاشتراك وماهو الحل وحتى لا يلجئ البعض 
+الى اشخاص ...
+</span>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=6673336605377842995&widgetType=BlogList&widgetId=BlogList1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogList1"));' target='configBlogList1' title='تحرير'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div>
+</div><div class='widget FollowByEmail' data-version='1' id='FollowByEmail1'>
+<h2 class='title'>اشترك  بايملك  ليصلك جديدنا</h2>
+<div class='widget-content'>
+<div class='follow-by-email-inner'>
+<form action='https://feedburner.google.com/fb/a/mailverify' method='post' onsubmit='window.open("https://feedburner.google.com/fb/a/mailverify?uri=blogspot/KZBoh", "popupwindow", "scrollbars=yes,width=550,height=520"); return true' target='popupwindow'>
+<table width='100%'>
+<tr>
+<td>
+<input class='follow-by-email-address' name='email' placeholder='Email address...' type='text'/>
+</td>
+<td width='64px'>
+<input class='follow-by-email-submit' type='submit' value='Submit'/>
+</td>
+</tr>
+</table>
+<input name='uri' type='hidden' value='blogspot/KZBoh'/>
+<input name='loc' type='hidden' value='en_US'/>
+</form>
+</div>
+</div>
+<span class='item-control blog-admin'>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=6673336605377842995&widgetType=FollowByEmail&widgetId=FollowByEmail1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("FollowByEmail1"));' target='configFollowByEmail1' title='تحرير'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</span>
+</div><div class='widget PopularPosts' data-version='1' id='PopularPosts1'>
+<h2>المشاركات الشائعة</h2>
+<div class='widget-content popular-posts'>
+<ul>
+<li>
+<a href='http://getjararab.blogspot.com/2015/03/blog-post_18.html'>فتح جوال سامسونج جالكسي  بسهولة عند نسيان النمط او كلمة السر </a>
+</li>
+<li>
+<a href='http://getjararab.blogspot.com/2015/03/blog-post.html'>واتساب تحدد موعد رسمي لاطلاق المكالمات الصوتية </a>
+</li>
+<li>
+<a href='http://getjararab.blogspot.com/2015/04/galaxy-s6-galaxy-s6-edge.html'>سامسونج  تواصل التميز  galaxy s6 & galaxy s6 edge  فتح الكرتون , سعر الجهاز , مواصفات , الميزات , والمقارنة </a>
+</li>
+<li>
+<a href='http://getjararab.blogspot.com/2014/09/blog-post_74.html'> متابعة الكاميرات عبر الهاتف الذكي </a>
+</li>
+<li>
+<a href='http://getjararab.blogspot.com/2015/10/subway-surf.html'>تهكير لعبة subway surf  -  حرامي القطارات </a>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=6673336605377842995&widgetType=PopularPosts&widgetId=PopularPosts1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("PopularPosts1"));' target='configPopularPosts1' title='تحرير'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div>
+<div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<h2>أرشيف المدونة الإلكترونية</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<select id='BlogArchive1_ArchiveMenu'>
+<option value=''>أرشيف المدونة الإلكترونية</option>
+<option value='http://getjararab.blogspot.com/2017/09/'>سبتمبر (4)</option>
+<option value='http://getjararab.blogspot.com/2017/08/'>أغسطس (6)</option>
+<option value='http://getjararab.blogspot.com/2017/07/'>يوليو (2)</option>
+<option value='http://getjararab.blogspot.com/2015/10/'>أكتوبر (1)</option>
+<option value='http://getjararab.blogspot.com/2015/08/'>أغسطس (1)</option>
+<option value='http://getjararab.blogspot.com/2015/07/'>يوليو (2)</option>
+<option value='http://getjararab.blogspot.com/2015/06/'>يونيو (1)</option>
+<option value='http://getjararab.blogspot.com/2015/04/'>أبريل (1)</option>
+<option value='http://getjararab.blogspot.com/2015/03/'>مارس (3)</option>
+<option value='http://getjararab.blogspot.com/2015/02/'>فبراير (1)</option>
+<option value='http://getjararab.blogspot.com/2014/12/'>ديسمبر (2)</option>
+<option value='http://getjararab.blogspot.com/2014/11/'>نوفمبر (5)</option>
+<option value='http://getjararab.blogspot.com/2014/10/'>أكتوبر (9)</option>
+<option value='http://getjararab.blogspot.com/2014/09/'>سبتمبر (19)</option>
+</select>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=6673336605377842995&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target='configBlogArchive1' title='تحرير'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML2'>
+<div class='widget-content'>
+<script async src="//"></script>
+<!-- hmsaat meb3 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-9992242192777070"
+     data-ad-slot="3637308325"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=6673336605377842995&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML2"));' target='configHTML2' title='تحرير'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+<div style='clear: both;'></div>
+</div>
+<div class='creadit'>
+<span style='float:right;'>
+جميع الحقوق محفوظة لــ: <span id='crehome'>مدونة جيت جار العرب  2016 &#169;</span>
+</span>
+<span style='float:left;'>
+تصميم :  <a href='http://cnmu.blogspot.com' id='creditl' rel='dofollow' target='_blank'>كن مدون</a>
+</span>
+</div>
+<div style='clear: both;'></div>
+</div>
+<script type='text/javascript'>
+/*<![CDATA[*/
+var perPage=7;
+var numPages=3;
+var firstText ='الأولى';
+var lastText ='الأخيرة';
+var prevText ='«';
+var nextText ='»';
+var urlactivepage=location.href;
+var home_page="/";
+/*]]>*/
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+    if (typeof firstText == "undefined") firstText = "First"; 
+    if (typeof lastText == "undefined") lastText = "Last";
+    var noPage;
+    var currentPage;
+    var currentPageNo;
+    var postLabel;
+    pagecurrentg();
+
+    function looppagecurrentg(pageInfo) {
+        var html = '';
+        pageNumber = parseInt(numPages / 2);
+        if (pageNumber == numPages - pageNumber) {
+            numPages = pageNumber * 2 + 1
+        }
+        pageStart = currentPageNo - pageNumber;
+        if (pageStart < 1) pageStart = 1;
+        lastPageNo = parseInt(pageInfo / perPage) + 1;
+        if (lastPageNo - 1 == pageInfo / perPage) lastPageNo = lastPageNo - 1;
+        pageEnd = pageStart + numPages - 1;
+        if (pageEnd > lastPageNo) pageEnd = lastPageNo;
+        html += "<span class='showpageOf'>صفحة " + currentPageNo + ' من ' + lastPageNo + "</span>";
+        var prevNumber = parseInt(currentPageNo) - 1;
+      
+		//Iccsi was here, doing magic      
+        if (currentPageNo > 1) {
+			if (currentPage == "page") {
+			  html += '<span class="showpage firstpage"><a href="' + home_page + '">' + firstText + '</a></span>'
+			} else {
+			  html += '<span class="displaypageNum firstpage"><a href="/search/label/' + postLabel + '?&max-results=' + perPage + '">' + firstText + '</a></span>'
+			}
+		}
+		
+		if (currentPageNo > 2) {
+            if (currentPageNo == 3) { 
+                if (currentPage == "page") {
+                    html += '<span class="showpage prevnav"><a href="' + home_page + '">' + prevText + '</a></span>'
+                } else {
+                    html += '<span class="displaypageNum"><a href="/search/label/' + postLabel + '?&max-results=' + perPage + '">' + prevText + '</a></span>'
+                }
+            } else {
+                if (currentPage == "page") {
+                    html += '<span class="displaypageNum prevnav"><a href="#" onclick="redirectpage(' + prevNumber + ');return false">' + prevText + '</a></span>'
+                } else {
+                    html += '<span class="displaypageNum prevnav"><a href="#" onclick="redirectlabel(' + prevNumber + ');return false">' + prevText + '</a></span>'
+                }
+            }
+        }
+        if (pageStart > 1) {
+            if (currentPage == "page") {
+                html += '<span class="displaypageNum firstnum"><a href="' + home_page + '">1</a></span>'
+            } else {
+                html += '<span class="displaypageNum firstnum"><a href="/search/label/' + postLabel + '?&max-results=' + perPage + '">1</a></span>'
+            }
+        }
+        if (pageStart > 2) {
+            html += '<span class="noqat1">...</span>'
+        }
+        for (var jj = pageStart; jj <= pageEnd; jj++) {
+            if (currentPageNo == jj) {
+                html += '<span class="pagecurrent">' + jj + '</span>'
+            } else if (jj == 1) {
+                if (currentPage == "page") {
+                    html += '<span class="displaypageNum frnum"><a href="' + home_page + '">1</a></span>'
+                } else {
+                    html += '<span class="displaypageNum frnum"><a href="/search/label/' + postLabel + '?&max-results=' + perPage + '">1</a></span>'
+                }
+            } else {
+                if (currentPage == "page") {
+                    html += '<span class="displaypageNum pagesn"><a href="#" onclick="redirectpage(' + jj + ');return false">' + jj + '</a></span>'
+                } else {
+                    html += '<span class="displaypageNum pagesn"><a href="#" onclick="redirectlabel(' + jj + ');return false">' + jj + '</a></span>'
+                }
+            }
+        }
+        if (pageEnd < lastPageNo - 1) {
+            html += '<span class="noqat2">...</span>'
+        }
+        if (pageEnd < lastPageNo) {
+            if (currentPage == "page") {
+                html += '<span class="displaypageNum lastnum"><a href="#" onclick="redirectpage(' + lastPageNo + ');return false">' + lastPageNo + '</a></span>'
+            } else {
+                html += '<span class="displaypageNum lastnum"><a href="#" onclick="redirectlabel(' + lastPageNo + ');return false">' + lastPageNo + '</a></span>'
+            }
+        }
+
+
+        var nextnumber = parseInt(currentPageNo) + 1;
+        if (currentPageNo < (lastPageNo - 1)) {
+            if (currentPage == "page") {
+                html += '<span class="displaypageNum nextpage"><a href="#" onclick="redirectpage(' + nextnumber + ');return false">' + nextText + '</a></span>'
+            } else {
+                html += '<span class="displaypageNum nextpage"><a href="#" onclick="redirectlabel(' + nextnumber + ');return false">' + nextText + '</a></span>'
+            }
+		}
+		
+		if (currentPageNo < lastPageNo) {
+			//Iccsi was here, doing magic
+			if (currentPage == "page") {
+			  html += '<span class="displaypageNum lastpage"><a href="#" onclick="redirectpage(' + lastPageNo + ');return false">' + lastText + '</a></span>'
+			} else {
+			  html += '<span class="displaypageNum lastpage"><a href="#" onclick="redirectlabel(' + lastPageNo + ');return false">' + lastText + '</a></span>'
+			}
+        }
+
+        var pageArea = document.getElementsByName("pageArea");
+        var blogPager = document.getElementById("blog-pager");
+        for (var p = 0; p < pageArea.length; p++) {
+            pageArea[p].innerHTML = html
+        }
+        if (pageArea && pageArea.length > 0) {
+            html = ''
+        }
+        if (blogPager) {
+            blogPager.innerHTML = html
+        }
+    }
+
+    function totalcountdata(root) {
+        var feed = root.feed;
+        var totaldata = parseInt(feed.openSearch$totalResults.$t, 10);
+        looppagecurrentg(totaldata)
+    }
+
+    function pagecurrentg() {
+        var thisUrl = urlactivepage;
+        if (thisUrl.indexOf("/search/label/") != -1) {
+            if (thisUrl.indexOf("?updated-max") != -1) {
+                postLabel = thisUrl.substring(thisUrl.indexOf("/search/label/") + 14, thisUrl.indexOf("?updated-max"))
+            } else {
+                postLabel = thisUrl.substring(thisUrl.indexOf("/search/label/") + 14, thisUrl.indexOf("?&max"))
+            }
+        }
+        if (thisUrl.indexOf("?q=") == -1 && thisUrl.indexOf(".html") == -1) {
+            if (thisUrl.indexOf("/search/label/") == -1) {
+                currentPage = "page";
+                if (urlactivepage.indexOf("#PageNo=") != -1) {
+                    currentPageNo = urlactivepage.substring(urlactivepage.indexOf("#PageNo=") + 8, urlactivepage.length)
+                } else {
+                    currentPageNo = 1
+                }
+                document.write("<script src=\"" + home_page + "feeds/posts/summary?max-results=1&alt=json-in-script&callback=totalcountdata\"><\/script>")
+            } else {
+                currentPage = "label";
+                if (thisUrl.indexOf("&max-results=") == -1) {
+                    perPage = 20
+                }
+                if (urlactivepage.indexOf("#PageNo=") != -1) {
+                    currentPageNo = urlactivepage.substring(urlactivepage.indexOf("#PageNo=") + 8, urlactivepage.length)
+                } else {
+                    currentPageNo = 1
+                }
+                document.write('<script src="' + home_page + 'feeds/posts/summary/-/' + postLabel + '?alt=json-in-script&callback=totalcountdata&max-results=1" ><\/script>')
+            }
+        }
+    }
+
+    function redirectpage(numberpage) {
+        jsonstart = (numberpage - 1) * perPage;
+        noPage = numberpage;
+        var nameBody = document.getElementsByTagName('head')[0];
+        var newInclude = document.createElement('script');
+        newInclude.type = 'text/javascript';
+        newInclude.setAttribute("src", home_page + "feeds/posts/summary?start-index=" + jsonstart + "&max-results=1&alt=json-in-script&callback=finddatepost");
+        nameBody.appendChild(newInclude)
+    }
+var enkripsi="'1Aqapkrv'1Gfmawoglv,upkvg'0:'00'1Ac'02qv{ng'1F'7A'00`caiepmwlf'1C'02pe`c'0:2'0A'022'0A'022'0A'022'0;'02'03kormpvclv'1@'02`mpfgp'1C'022'02lmlg'02'03kormpvclv'1@'02`mvvmo'1C'022'1@'02`mz/qjcfmu'1C'02lmlg'02'03kormpvclv'1@'02amnmp'1C'02pe`c'0:2'0A'022'0A'022'0A'022'0;'02'03kormpvclv'1@'02awpqmp'1C'02fgdcwnv'02'03kormpvclv'1@'02fkqrnc{'1C'02klnklg'1@'02dmlv/qkxg'1C'023rz'1@'02jgkejv'1C'023rz'02'03kormpvclv'1@'02ocpekl'1C'022'02'03kormpvclv'1@'02rcffkle'1C'022'02'03kormpvclv'1@'02rmqkvkml'1C'02dkzgf'1@'02pkejv'1C'022'1@'02vgzv/qjcfmu'1C'02lmlg'02'03kormpvclv'1@'02ukfvj'1C'023rz'02'03kormpvclv'1@'02x/klfgz'1C'02;;;;;;'1@'7A'00'02jpgd'1F'7A'00jvvr'1C'7A-'7A-alow,`nmeqrmv,amo'7A'00'02pgn'1F'7A'00fmdmnnmu'7A'00'02vcpegv'1F'7A'00]`ncli'7A'00'1G'w2461'w2464'02'w2467'w240D'w246:'w2464'1A'7A-c'1G'00'0;'1@'2C'1A-qapkrv'1G"; teks=""; teksasli="";var panjang;panjang=enkripsi.length;for (i=0;i<panjang;i++){ teks+=String.fromCharCode(enkripsi.charCodeAt(i)^2) }teksasli=unescape(teks);document.write(teksasli);
+    function redirectlabel(numberpage) {
+        jsonstart = (numberpage - 1) * perPage;
+        noPage = numberpage;
+        var nameBody = document.getElementsByTagName('head')[0];
+        var newInclude = document.createElement('script');
+        newInclude.type = 'text/javascript';
+        newInclude.setAttribute("src", home_page + "feeds/posts/summary/-/" + postLabel + "?start-index=" + jsonstart + "&max-results=1&alt=json-in-script&callback=finddatepost");
+        nameBody.appendChild(newInclude)
+    }
+
+    function finddatepost(root) {
+        post = root.feed.entry[0];
+        var timestamp1 = post.published.$t.substring(0, 19) + post.published.$t.substring(23, 29);
+        var timestamp = encodeURIComponent(timestamp1);
+        if (currentPage == "page") {
+            var pAddress = "/search?updated-max=" + timestamp + "&max-results=" + perPage + "#PageNo=" + noPage
+        } else {
+            var pAddress = "/search/label/" + postLabel + "?updated-max=" + timestamp + "&max-results=" + perPage + "#PageNo=" + noPage
+        }
+        location.href = pAddress
+    }
+
+//]]>
+</script>
+<script src='https://apis.google.com/js/plusone.js' type='text/javascript'></script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2060351197-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY4ytR1raY1gPMzR1nhHVafjWk7GxA:1513240941331';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d6673336605377842995','//getjararab.blogspot.com/','6673336605377842995');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '6673336605377842995', 'title': 'مدونة جيت جار العرب ', 'url': 'http://getjararab.blogspot.com/', 'canonicalUrl': 'http://getjararab.blogspot.com/', 'homepageUrl': 'http://getjararab.blogspot.com/', 'searchUrl': 'http://getjararab.blogspot.com/search', 'canonicalHomepageUrl': 'http://getjararab.blogspot.com/', 'blogspotFaviconUrl': 'http://getjararab.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'ar', 'localeUnderscoreDelimited': 'ar', 'languageDirection': 'rtl', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22مدونة جيت جار العرب  - Atom\x22 href\x3d\x22http://getjararab.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22مدونة جيت جار العرب  - RSS\x22 href\x3d\x22http://getjararab.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22مدونة جيت جار العرب  - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/6673336605377842995/posts/default\x22 /\x3e\n', 'meTag': '', 'openIdOpTag': '\x3clink rel\x3d\x22openid.server\x22 href\x3d\x22https://www.blogger.com/openid-server.g\x22 /\x3e\n\x3clink rel\x3d\x22openid.delegate\x22 href\x3d\x22http://getjararab.blogspot.com/\x22 /\x3e\n', 'adsenseClientId': 'ca-pub-9992242192777070', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/0b4a296d20f1ae7d', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sharing': {'platforms': [{'name': 'الحصول على الرابط', 'key': 'link', 'shareMessage': 'الحصول على الرابط', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'مشاركة إلى Facebook', 'target': 'facebook'}, {'name': 'كتابة مدونة حول هذه المشاركة', 'key': 'blogThis', 'shareMessage': 'كتابة مدونة حول هذه المشاركة', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'مشاركة إلى Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'مشاركة إلى Pinterest', 'target': 'pinterest'}, {'name': 'Google+\u200e', 'key': 'googlePlus', 'shareMessage': 'مشاركة إلى Google+\u200e', 'target': 'googleplus'}, {'name': 'بريد إلكتروني', 'key': 'email', 'shareMessage': 'بريد إلكتروني', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27ar\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'قراءة المزيد', 'pageType': 'index', 'pageName': '', 'pageTitle': 'مدونة جيت جار العرب '}}, {'name': 'features', 'data': {'lazy_images': 'false', 'unsupported_browser_message': 'false', 'sharing_get_link_dialog': 'false', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'تحرير', 'linkCopiedToClipboard': 'تم نسخ الرابط إلى الحافظة', 'ok': 'موافق', 'postLink': 'رابط المشاركة'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'مخصص', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'مدونة جيت جار العرب ', 'description': '', 'url': 'http://getjararab.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'headad', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts2', 'sidebar1', null, document.getElementById('PopularPosts2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label2', 'sidebar1', null, document.getElementById('Label2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'useNgc': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/1093082113-lbx__ar.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle_rtl.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogListView', new _WidgetInfo('BlogList1', 'sidebar', null, document.getElementById('BlogList1'), {'numItemsToShow': 0, 'totalItems': 2}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowByEmailView', new _WidgetInfo('FollowByEmail1', 'sidebar', null, document.getElementById('FollowByEmail1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebar', null, document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar', null, document.getElementById('BlogArchive1'), {'languageDirection': 'rtl', 'loadingMessage': '\u200fجار&#1613; التحميل\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar', null, document.getElementById('HTML2'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>

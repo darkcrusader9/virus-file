@@ -1,0 +1,46 @@
+<!--
+	top.location="http://ww17.2015price.com/?fp=se%2Bit9xALnuC6ab7xptINA5l1YHSRuERxNAZW491NcarJ8MC0IPqWm5f44nW2VMlAsDaZ63gXyPr9ydhGQqWZA%3D%3D&prvtof=JdoHvQXsnWSuAyjDCotdK5IJV2jHAVoUspZIxGQIkqA%3D&poru=Ix%2Blym20J7TX5oZbZJy0Z0ktbWrKhZxbYq0Wr%2BZypFqdq0FVPHJE%2BsZH5B35Ms4C5DB1SwJxb2TXdbCZfSdsogbv5BQlexXvSHn8lheqqwQ%3D&cifr=1&";
+	/*
+-->
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_mMnlEjm/zGp3Y82Q9MXsUcOKm1yuMiMcZ/W+gTB4YszfBTTb4+30/uzGfIqdGKzqsJMIfTgCiyWYHP4Ky3U8ZQ=="><head>
+				  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+				  <meta name="viewport" content="width=device-width"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><script type="text/javascript">
+	<!--
+	dimensionUpdated = 0;
+	function applyFrameKiller()
+	{
+		if(window.top != self)
+		{
+			cHeight = 0;
+			if( typeof( window.innerHeight ) != 'undefined' ) {
+			//Non-IE
+			cHeight = window.innerHeight;
+			dimensionUpdated = 1;
+			} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight )  ) {
+			//IE 6+ in 'standards compliant mode'
+			cHeight = document.documentElement.clientHeight;
+			dimensionUpdated = 1;
+			} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+			//IE 4 compatible
+			cHeight = document.body.clientHeight;
+			dimensionUpdated = 1;
+			}
+			if( cHeight <= 250 && dimensionUpdated == 1)
+			{
+				window.top.location = "http://ww17.2015price.com/?fp=se%2Bit9xALnuC6ab7xptINA5l1YHSRuERxNAZW491NcarJ8MC0IPqWm5f44nW2VMlAsDaZ63gXyPr9ydhGQqWZA%3D%3D&prvtof=uDiPF78G03SgsM0F%2B92S%2B%2ByOHR7RuKj2Q1icdojXweQ%3D&poru=xAiDCOGoASSiFIU9ZIEVoMfWUiPh8%2F%2Fxjdqh5HdzS%2F7kFwNDwXbZCCUjXa%2BONa048xV9zy6nFRM8GHlkfvH5RgMl2Snjqp%2FXI8wYJsmKJeQ%3D&cifr=1&";
+			}
+		}
+	}
+
+	applyFrameKiller();
+	// -->
+</script><script type='text/javascript'>try{document.cookie = 'fjccheck=1';}catch(exception){}</script></head><frameset rows="100%,*" frameborder="no" border="0" framespacing="0">
+	<frame src="http://ww17.2015price.com/?fp=se%2Bit9xALnuC6ab7xptINA5l1YHSRuERxNAZW491NcarJ8MC0IPqWm5f44nW2VMlAsDaZ63gXyPr9ydhGQqWZA%3D%3D&prvtof=HY%2FurzkTY7n6GlgDG9qaT58a%2FjkJPUBVrXQgMlopfBs%3D&poru=gbvg18QgD7APSeuxwG6DbZpBybSWeiKAeQoK9SBoYvyO5M3qxwbPu46dUOgZ1GpV%2FP39oGs%2Fn0sIlMGT%2BkvwrvHWG7ofkM3Ofz6BqkFqUxk%3D&">
+</frameset>
+<noframes>
+	<body bgcolor="#ffffff" text="#000000">
+	<a href="http://ww17.2015price.com/?fp=se%2Bit9xALnuC6ab7xptINA5l1YHSRuERxNAZW491NcarJ8MC0IPqWm5f44nW2VMlAsDaZ63gXyPr9ydhGQqWZA%3D%3D&prvtof=9cDHFBDFw1yHfC1TGKch1odKli5U%2F%2F58leaoM0WnVRU%3D&poru=wwMdH0njjzIjiF2u56zg4fY1UeW3HkICvzhl2JbCvGwYheWpPTErfZUUciO49vdXzswtmPYthMfvHM6t4QqockoJnx%2FShMUZbrqAB8gxYZo%3D&">Click here to proceed</a>.
+	</body>
+</noframes></html><!--
+*/
+-->

@@ -1,0 +1,188 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Affair Alert - Married Dating and Secret Affairs</title>
+<link rel="shortcut icon" href="http://www.affairalert.com/fav.ico" type="image/x-icon">
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="Copyright" content="AffairAlert.com">
+<meta name="Identifier-URL" content="http://www.AffairAlert.com">
+<meta name="Author" content="AffairAlert.com">
+<meta name="Classification" content="Entertainment">
+<meta name="Rating" content="General">
+<meta name="Reindex-After" content="7 Days">
+<meta name="Robots" content="index, follow">
+<meta http-equiv="Content-Language" content="en-us">
+<link rel="canonical" href="http://www.affairalert.com/" />
+<meta name="description" content="Meet married dating men and women looking for discrete encounters and secret affairs and text dating now at AffairAlert.com">
+<meta name="keywords" content="AffairAlert.com, Affair Alert, Online Dating, Local Singles, Online Dating Site, Free Dating Site, Free Online Dating Site, Sexy Singles, Personals, Matchmaking, Free Personals, Dating Site, Love, Meet Singles, Find Dates, Find Girls, Find Women, Meet Women or Men for Online Affairs." /><link rel="stylesheet" type="text/css" href="files/s9/css/default.css"/>
+<link rel="stylesheet" type="text/css" href="files/jquery.autocomplete.css"/>
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/cupertino/jquery-ui.css">
+<link rel="stylesheet" type="text/css" href="files/octerms_dt.css"/>
+<script type="text/javascript" src="files/s9/scripts/jquery-1.7.min.js"></script>
+<script type="text/javascript" src="files/s9/scripts/main.js"></script>
+<script type="text/javascript" src="files/mailcheck.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="files/jquery.octerms.js"></script>
+</head>
+<body>
+<!-- header-->
+<div id="mainHdr">
+<h1 id="mainLogo">AffairAlert</h1>
+</div>
+<!--end header--> 
+<!--main cont-->
+<div id="mainCont">
+<div class="mctr"> 
+<!--registration-->
+<div id="mainRegi">
+<p class="top fntKamBd">Registration for men will remain open for the next <span id="countDwn" class="c2">00:36:20</span></p>
+<p class="btm c1 fntKam">Attention! This site likely contains sexual pics of local hotties you may recognize!</p>
+</div>
+<!--end registration--> 
+<!--steps-->
+<div id="mainStepsBg" class="fntKam"> 
+<!--steps cont-->
+<div id="mainSteps"> 
+<!--step0-->
+<div id="step0">
+<div class="title1 c2 fntKamBd">Before signing up you must agree to the following rules: </div>
+<div class="stepBg">
+<p class="if">If I see pictures of someone I know I will be discreet to protect their privacy.<br />
+I'll respect the sexual desires of other members.</p>
+<a href="#" id="agreeBtn" class="btn">I Agree</a> </div>
+</div>
+<!--end step0--> 
+<!--multi steps-->
+<div id="multiSteps"> 
+<form method="post" action="?wm_login=mbid12&ps=p&uid=640450782&k=147150&page=join2" id="join_form" name="join_form">
+<input type="hidden" name="Looking_LowAge" value="18">
+<input type="hidden" name="Looking_HighAge" value="39">
+<input type="hidden" name='wm_login' value='mbid12'>
+<input type="hidden" name='sub' value=''>
+<input type="hidden" name='ref_url' value=''>
+<input type="hidden" name='k' value=''>
+<input type="hidden" name='ps' value=''>
+<input type="hidden" name='profile' value=''>
+<input type="hidden" name='from' value='s9'>
+<input type="hidden" name='LookingFor_ID' value='c'>
+<input id="country" name="frmCountry" value="USA" type="hidden" class="country" />
+<input name="Country_ID" value="1" type="hidden" />
+<input type="hidden" name='pstype' value='doi'>
+<input type="hidden" name="BdayAge" id="age" value='26'>
+<input type="hidden" name="location" id="location" value='10011, New York'>
+<input type="hidden" name="inuse" id="inuse" value="?wm_login=mbid12&ps=p&uid=640450782&k=147150&page=login&from=s9">
+<input type="hidden" name="requestuserzipverify" value="yes">
+<!--top-->
+<div class="top"> 
+<!--step1-->
+<div id="step1" class="stepsCont"> <span class="lgNum">1</span> 
+<!--rgt-->
+<div class="rgt">
+<label>I Am A:</label>
+<p> <span class="sel">
+<select name="seek">
+<option value="2|1" selected="selected">Man Seeking Woman </option>
+<option value="1|2" >Woman Seeking Man </option>
+</select>
+</span></p>  
+<p class="disc">By creating a free profile I am 18 yrs +, agree to the <a href="?wm_login=mbid12&ps=p&uid=640450782&k=147150&page=terms&from=s9" target="_blank">terms</a> &amp; agree to the use
+&amp; nature of <a href="#" id="octermsdtup-link" title="Fantasy Cuties">fantasy cuties</a>, who may contact members for entertainment purposes, updates and offers.</p>
+<a href="#" class="btn">Proceed &raquo;</a> </div>
+<!--end rgt--> 
+</div>
+<!--end step1--> 
+<!--step2-->
+<div id="step2" class="stepsCont"> <span class="lgNum">2</span> 
+<!--rgt-->
+<div class="rgt">
+<label>Username: <em>Between 4-15 Characters</em></label>
+<p class="input"> 
+<input class="login_input" type="text" name="Handle" id="name"  min="4"  max="15" maxlength="15" />
+<div id="suggestions" class="ac_results" style="position:absolute;top:107px;left:293px;width:336px;display:none;"></div>
+</p>
+<a href="#" class="btn" id="username_button">Proceed &raquo;</a> </div>
+<!--end rgt--> 
+</div>
+<!--end step2--> 
+<!--step3-->
+<div id="step3" class="stepsCont"> <span class="lgNum">3</span> 
+<!--rgt-->
+<div class="rgt">
+<label>Password: <em>Between 4-15 Characters</em></label>
+<p class="input">
+<input class="login_input" type="password" name="Password" id="password" min="4" max="15" maxlength="15"  />
+</p>
+<a href="#" class="btn" id="password_button">Proceed &raquo;</a> </div>
+<!--end rgt--> 
+</div>
+<!--end step3--> 
+<!--step4-->
+<div id="step4" class="stepsCont"> <span class="lgNum">4</span> 
+<!--rgt-->
+<div class="rgt">
+<label>Email Address <em>Must Be Valid</em></label>
+<p class="input">
+<input type="text" name="eMailAddress" id="email" />
+</p>
+<span class="btn"><input type="submit" value="submit" name="submit" />Proceed &raquo;</span> </div>
+<!--end rgt--> 
+</div>
+<!--end step4--> 
+</div>
+<!--end top-->
+<ul id="navBtns" class="step1">
+<li><span class="cur">1</span></li>
+<li><span>2</span></li>
+<li><span>3</span></li>
+<li><span>4</span></li>
+</ul>
+</form>
+</div>
+<!--end multi steps--> 
+</div>
+</div>
+<!--end steps--> 
+<!--open-->
+<div id="mainOpen" class="fntKamBd">Open Registration &amp; It’s <span class="c2">FREE!</span> </div>
+<!--end open--> 
+<!--footer-->
+<div id="mainFtr">
+<ul>
+<li>&copy 2017 AffairAlert.com&nbsp; All rights reserved </li>
+<li>/ <a href="?wm_login=mbid12&ps=p&uid=640450782&k=147150&page=login&from=s9"><strong style="font-weight: 700; color:#FFF">Member Login</strong></a></li>        
+<li>/ <a href="http://www.trustedassist.com/" rel="nofollow" target="_blank">Customer Service</a></li>
+<li>/ <a href="?wm_login=mbid12&ps=p&uid=640450782&k=147150&page=terms&from=s9">Terms of Service</a></li>
+<li>/ <a href="?wm_login=mbid12&ps=p&uid=640450782&k=147150&page=pp&from=s9">Privacy Policy</a></li>        
+</ul>
+<p><a href="?wm_login=mbid12&ps=p&uid=640450782&k=147150&page=2257&from=s9">18 U.S.C. 2257 RECORD-KEEPING REQUIREMENTS COMPLIANCE STATEMENT</a></p>
+<p><a href="https://epoch.com/billing_support" target="_blank">Paypal Billing Support</a></p>
+</div>
+<!--end footer--> 
+</div>
+</div>
+<!--end main cont-->
+<script language="JavaScript" type="text/javascript">
+function cpaDP() {
+var ifrm = document.createElement("IFRAME");
+ifrm.setAttribute("src", "http://www.securepaths.com/pixel.cgi?s=3062276&p=mbid12&a=147150&c5=&cmp=&org=dzm77lbhaaormoboqvg8&rt=0_clickJS&rf=" + encodeURIComponent(document.referrer) + "&rd=http%3A%2F%2Fwww.affairalert.com%2Ffiles%2Fjquery.autocomplete.css");
+ifrm.style.width = 1 + "px";
+ifrm.style.height = 1 + "px";
+ifrm.frameBorder = 0;
+document.body.appendChild(ifrm);
+}
+cpaDP();
+</script>
+<noscript>
+<img src="http://www.securepaths.com/pixel.cgi?s=3062276&p=mbid12&a=147150&c5=&cmp=&org=dzm77lbhaaormoboqvg8&rt=2_clickIMG&rd=http%3A%2F%2Fwww.affairalert.com%2Ffiles%2Fjquery.autocomplete.css">
+</noscript><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42584415-1', 'affiaralert.com');
+  ga('send', 'pageview');
+
+</script></body>
+</html>

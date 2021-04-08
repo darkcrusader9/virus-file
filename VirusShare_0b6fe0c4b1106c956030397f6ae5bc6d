@@ -1,0 +1,5041 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/3332739511-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
+<link href="//fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='https://sonhandocom-o-nossocasamento.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://sonhandocom-o-nossocasamento.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="S C N C - Atom" href="https://sonhandocom-o-nossocasamento.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="S C N C - RSS" href="https://sonhandocom-o-nossocasamento.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="S C N C - Atom" href="https://www.blogger.com/feeds/7529728584213553704/posts/default" />
+<link rel="openid.server" href="https://www.blogger.com/openid-server.g" />
+<link rel="openid.delegate" href="https://sonhandocom-o-nossocasamento.blogspot.com/" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='https://sonhandocom-o-nossocasamento.blogspot.com/' property='og:url'/>
+<meta content='S C N C' property='og:title'/>
+<meta content='Sonhando Com o Nosso Casamento' property='og:description'/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>S C N C</title>
+<style type='text/css'>@font-face{font-family:'Lobster';font-style:normal;font-weight:400;src:local('Lobster Regular'),local('Lobster-Regular'),url(//fonts.gstatic.com/s/lobster/v20/MWVf-Rwh4GLQVBEwbyI61Q.woff)format('woff');}</style>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Wedding Blog
+Author:   Klodian
+URL:      www.deluxetemplates.net
+Date:     July 2010
+License:  This free Blogger template is licensed under the Creative Commons Attribution 3.0 License, which permits both personal and commercial use. However, to satisfy the 'attribution' clause of the license, you are required to keep the footer links intact which provides due credit to its authors and supporters. For more specific details about the license, you may visit the URL below:
+http://creativecommons.org/licenses/by/3.0
+----------------------------------------------- */
+#navbar-iframe {
+display: none !important;
+}
+/* Variable definitions
+====================
+<Variable name="textcolor" description="Text Color"
+type="color" default="#333">
+<Variable name="linkcolor" description="Link Color"
+type="color" default="#3366cc">
+<Variable name="pagetitlecolor" description="Blog Title Color"
+type="color" default="#fff">
+<Variable name="descriptioncolor" description="Blog Description Color"
+type="color" default="#eee">
+<Variable name="titlecolor" description="Post Title Color"
+type="color" default="#000">
+<Variable name="sidebarcolor" description="Sidebar Title Color"
+type="color" default="#685357">
+<Variable name="sidebartextcolor" description="Sidebar Text Color"
+type="color" default="#666">
+<Variable name="visitedlinkcolor" description="Visited Link Color"
+type="color" default="#3366cc">
+<Variable name="bodyfont" description="Text Font"
+type="font" default="normal normal 110% Arial, Serif">
+<Variable name="headerfont" description="Sidebar Title Font"
+type="font"
+default="italic bold 140%/1.4em 'Georgia',Trebuchet,Arial,Verdana,Sans-serif">
+<Variable name="pagetitlefont" description="Blog Title Font"
+type="font"
+default="300% Lobster,Serif">
+<Variable name="descriptionfont" description="Blog Description Font"
+type="font"
+default="90% 'Georgia',Trebuchet,Arial,Verdana,Sans-serif">
+<Variable name="postfooterfont" description="Post Footer Font"
+type="font"
+default="normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif">
+<Variable name="startSide" description="Side where text starts in blog language"
+type="automatic" default="left">
+<Variable name="endSide" description="Side where text ends in blog language"
+type="automatic" default="right">
+*/
+/* Use this with templates/template-twocol.html */
+body {
+background:url("//1.bp.blogspot.com/_Sd8u52mpBRQ/TD-UnfaStcI/AAAAAAAAAdA/XR3jkEw22ck/s1600/body-bg.png") repeat-x scroll 0 0 #FFFFFF;
+color:#333333;
+font:small Georgia Serif;
+margin:0;
+text-align:center;
+}
+a:link {
+color:#3366cc;
+text-decoration:none;
+}
+a:visited {
+color:#3366cc;
+text-decoration:none;
+}
+a:hover {
+color:#94454E;
+text-decoration:underline;
+}
+a img {
+border-width:0;
+}
+#header-wrapper {
+height:258px;
+margin:0 auto;
+width:960px;
+}
+#header-inner {
+background-position:center center;
+margin-left:auto;
+margin-right:auto;
+}
+#header {
+color:#ffffff;
+text-align:center;
+}
+#header h1 {
+font: 300% Lobster,Serif;
+letter-spacing:0;
+margin:0;
+padding:85px 20px 3px;
+text-shadow:0 1px 0 #000000;
+text-transform:none;
+}
+#header a {
+color:#ffffff;
+text-decoration:none;
+}
+#header a:hover {
+color:#EEEEEE;
+}
+#header .description {
+font: 90% 'Georgia',Trebuchet,Arial,Verdana,Sans-serif;
+color: #eeeeee;
+letter-spacing:0.2em;
+margin:0 5px 5px;
+padding:0 20px 15px;
+text-transform:none;
+}
+#header img {
+margin-left:auto;
+margin-right:auto;
+}
+#outer-wrapper {
+background:url("//4.bp.blogspot.com/_Sd8u52mpBRQ/TD-UmIq2lcI/AAAAAAAAAcg/kwuMI-PMphw/s1600/header-bg.png") no-repeat scroll 0 0 transparent;
+font: normal normal 110% Arial, Serif;
+margin:0 auto;
+text-align:left;
+width:960px;
+}
+#main-wrapper {
+float:right;
+margin-top:20px;
+overflow:hidden;
+width:600px;
+word-wrap:break-word;
+}
+#sidebar-wrapper {
+float:left;
+margin-top:45px;
+overflow:hidden;
+width:340px;
+word-wrap:break-word;
+}
+h2 {
+background:url("//2.bp.blogspot.com/_Sd8u52mpBRQ/TD-Um1VlGRI/AAAAAAAAAcw/TzlIOkwU7wU/s1600/sidebar-h2.png") no-repeat scroll center bottom transparent;
+font:italic bold 140%/1.4em 'Georgia',Trebuchet,Arial,Verdana,Sans-serif;
+color:#685357;
+letter-spacing:0;
+margin:0 0 5px;
+padding-bottom:37px;
+text-align:center;
+text-shadow:0 1px 0 #FFFFFF;
+text-transform:none;
+}
+h2.date-header {
+background:none repeat scroll 0 0 transparent;
+border:medium none;
+font:italic 12px georgia;
+letter-spacing:0;
+margin:0;
+padding:0;
+text-align:left;
+text-transform:none;
+}
+.post {
+margin:0.5em 0 1.5em;
+padding-bottom:1.5em;
+}
+.post h3 {
+color:#000000;
+font-size:160%;
+font-weight:bold;
+line-height:1.4em;
+margin:0.25em 0 0;
+padding:0 0 4px;
+}
+.post h3 a, .post h3 a:visited, .post h3 strong {
+color:#000000;
+display:block;
+font-weight:bold;
+text-decoration:none;
+}
+.post h3 strong, .post h3 a:hover {
+color:#333333;
+}
+.post-body {
+line-height:1.6em;
+margin:0 0 0.75em;
+}
+.post-body blockquote {
+line-height:1.3em;
+}
+.post-footer {
+background:url("//1.bp.blogspot.com/_Sd8u52mpBRQ/TD-UnP4H7FI/AAAAAAAAAc4/uhZT8YcPRJs/s1600/title-img.png") no-repeat scroll left center transparent;
+border:1px solid #E0CED0;
+color:#777777;
+font:normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif;
+letter-spacing:0.1em;
+margin:0.75em 0;
+padding:10px 10px 10px 57px;
+text-transform:uppercase;
+}
+.comment-link {
+margin-left:0.6em;
+}
+.post img, table.tr-caption-container {
+border:4px solid #E0CED0;
+padding:0;
+}
+.tr-caption-container img {
+border:medium none;
+padding:0;
+}
+.post blockquote {
+font:italic 13px georgia;
+margin:1em 20px;
+}
+.post blockquote p {
+margin:0.75em 0;
+}
+#comments h4 {
+color:#666666;
+font-size:14px;
+font-weight:bold;
+letter-spacing:0;
+line-height:1.4em;
+margin:1em 0;
+text-transform:none;
+}
+#comments-block {
+line-height:1.6em;
+margin:1em 0 1.5em;
+}
+#comments-block .comment-author {
+-moz-background-inline-policy:continuous;
+background:none repeat scroll 0 0 #E0CED0;
+border:1px solid #E0CED0;
+font-size:15px;
+font-weight:normal;
+margin-right:20px;
+padding:5px;
+}
+#comments .blogger-comment-icon, .blogger-comment-icon {
+-moz-background-inline-policy:continuous;
+background:none repeat scroll 0 0 #E8DEC4;
+border-color:#E8DEC4;
+border-style:solid;
+border-width:2px 1px 1px;
+line-height:16px;
+padding:5px;
+}
+#comments-block .comment-body {
+border-left:1px solid #E0CED0;
+border-right:1px solid #E0CED0;
+margin-left:0;
+margin-right:20px;
+padding:7px;
+}
+#comments-block .comment-footer {
+border-bottom:1px solid #E0CED0;
+border-left:1px solid #E0CED0;
+border-right:1px solid #E0CED0;
+font-size:11px;
+line-height:1.4em;
+margin:-0.25em 20px 2em 0;
+padding:5px;
+text-transform:none;
+}
+#comments-block .comment-body p {
+margin:0 0 0.75em;
+}
+.deleted-comment {
+color:gray;
+font-style:italic;
+}
+#blog-pager-newer-link {
+float:left;
+}
+#blog-pager-older-link {
+float:right;
+}
+#blog-pager {
+text-align:center;
+}
+.feed-links {
+clear:both;
+line-height:2.5em;
+}
+.sidebar {
+color:#666666;
+line-height:1.5em;
+padding-left:31px;
+padding-right:31px;
+}
+.sidebar ul {
+list-style:none outside none;
+margin:0;
+padding:0;
+}
+.sidebar li {
+border-bottom:1px dotted #CDAFB3;
+line-height:1.5em;
+margin:0;
+padding:2px;
+}
+.sidebar .widget, .main .widget {
+margin:0 0 1.5em;
+}
+.main .Blog {
+border-bottom-width:0;
+}
+.profile-img {
+border:1px solid #CCCCCC;
+float:left;
+margin:0 5px 5px 0;
+padding:4px;
+}
+.profile-data {
+color:#999999;
+font:bold 78%/1.6em 'Trebuchet MS',Trebuchet,Arial,Verdana,Sans-serif;
+letter-spacing:0.1em;
+margin:0;
+text-transform:uppercase;
+}
+.profile-datablock {
+margin:0.5em 0;
+}
+.profile-textblock {
+line-height:1.6em;
+margin:0.5em 0;
+}
+.profile-link {
+font:78% 'Trebuchet MS',Trebuchet,Arial,Verdana,Sans-serif;
+letter-spacing:0.1em;
+text-transform:uppercase;
+}
+#footer {
+clear:both;
+color:#EEEEEE;
+font:11px arial;
+letter-spacing:0;
+margin:0 auto;
+padding-top:33px;
+text-shadow:0 1px 0 #333333;
+text-transform:none;
+width:920px;
+}
+#footer a {
+color:#FFFFFF;
+}
+body#layout #footer {
+display:none;
+}
+body#layout #crosscol-wrapper {
+display:none;
+}
+body#layout #searchbox {
+display:none;
+}
+body#layout #sidebar-wrapper {
+margin-top:0px;
+}
+body#layout #header-wrapper {
+height:70px
+}
+#footer-bg {
+background:url("//1.bp.blogspot.com/_Sd8u52mpBRQ/TD-UlbA2R8I/AAAAAAAAAcY/eaZOqBalvFY/s1600/footer-bg.jpg") repeat scroll 0 0 transparent;
+height:90px;
+margin:0;
+padding:0;
+}
+.feed-links {
+display:none;
+}
+#PageList1 {
+margin-left:500px;
+padding-top:14px;
+width:460px;
+}
+#content-wrapper {
+}
+#wrapper {
+background:url("//2.bp.blogspot.com/_Sd8u52mpBRQ/TD-Uk0yZrSI/AAAAAAAAAcQ/aNQUik1oJE8/s1600/content-bg.png") repeat-y scroll 0 0 transparent;
+margin:37px auto 0;
+width:960px;
+}
+.PageList li a {
+color:#666666;
+font-weight:bold;
+}
+.PageList li.selected a {
+color:#000000;
+font-weight:bold;
+text-decoration:none;
+}
+.fright {
+float:right;
+margin-top:3px;
+text-align:right;
+width:44%;
+}
+.fleft {
+float:left;
+margin-top:2px;
+text-align:left;
+width:42%;
+}
+#searchbox {
+-moz-background-inline-policy:continuous;
+background:url("//2.bp.blogspot.com/_Sd8u52mpBRQ/TD-UmnAqFWI/AAAAAAAAAco/_S3GOW_PXrU/s1600/searchbox.png") no-repeat scroll 0 0 transparent;
+float:left;
+height:43px;
+margin-left:45px;
+margin-top:120px;
+width:260px;
+}
+#searchbox .textfield {
+-moz-background-inline-policy:continuous;
+background:none repeat scroll 0 0 transparent;
+border:0 none;
+float:left;
+height:22px;
+margin:11px 1px 10px 19px;
+width:195px;
+}
+#searchbox .button {
+-moz-background-inline-policy:continuous;
+background:none repeat scroll 0 0 transparent;
+border:0 none;
+cursor:pointer;
+float:left;
+height:30px;
+margin-left:2px;
+margin-top:6px;
+width:30px;
+}
+#sidebar-wrapper .widget-content {
+padding:0 15px;
+}
+#sidebar-wrapper a {
+color:#94454E;
+}
+
+--></style>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7529728584213553704&amp;zx=e3041833-c823-45c8-a22b-daff808c1c20' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7529728584213553704&amp;zx=e3041833-c823-45c8-a22b-daff808c1c20' rel='stylesheet'/></noscript>
+</head>
+<body>
+<div class='navbar section' id='navbar'><div class='widget Navbar' data-version='1' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d7529728584213553704\x26blogName\x3dS+C+N+C\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dBLACK\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://sonhandocom-o-nossocasamento.blogspot.com/search\x26blogLocale\x3dpt_BR\x26v\x3d2\x26homepageUrl\x3dhttps://sonhandocom-o-nossocasamento.blogspot.com/\x26vt\x3d-933558503226985169',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div id='wrapper'>
+<div id='outer-wrapper'><div id='wrap2'>
+<!-- skip links for text browsers -->
+<span id='skiplinks' style='display:none;'>
+<a href='#main'>skip to main </a> |
+      <a href='#sidebar'>skip to sidebar</a>
+</span>
+<div id='crosscol-wrapper' style='text-align:center'>
+<div class='crosscol section' id='crosscol'><div class='widget PageList' data-version='1' id='PageList1'>
+<div class='widget-content'>
+<ul>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7529728584213553704&widgetType=PageList&widgetId=PageList1&action=editWidget&sectionId=crosscol' onclick='return _WidgetManager._PopupConfig(document.getElementById("PageList1"));' target='configPageList1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+</div>
+<div id='header-wrapper'>
+<div class='header section' id='header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title'>
+S C N C
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>Sonhando Com o Nosso Casamento</span></p>
+</div>
+</div>
+</div></div>
+</div>
+<div id='content-wrapper'>
+<div id='searchbox'>
+<form action='/search' id='searchthis' method='get'>
+<div class='content'>
+<input class='textfield' name='q' size='24' type='text' value=''/>
+<input class='button' type='submit' value=''/>
+</div>
+</form>
+</div>
+<div id='main-wrapper'>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+<!--Can't find substitution for tag [defaultAdStart]-->
+
+        <div class="date-outer">
+      
+<h2 class='date-header'><span>sábado, 30 de setembro de 2017</span></h2>
+
+        <div class="date-posts">
+      
+<div class='post-outer'>
+<div class='post hentry'>
+<a name='7243024368787064839'></a>
+<h3 class='post-title entry-title'>
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/2017/09/blog-post.html'>30.09.17 🏠</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content'>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-MMLTB1tnFEQ/WdKkcdOoFqI/AAAAAAAAC4w/hH1moJDyqXgTt5SZX4VonTfOR1CKaZ07QCLcBGAs/s1600/20171001_065925.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1600" height="320" src="https://3.bp.blogspot.com/-MMLTB1tnFEQ/WdKkcdOoFqI/AAAAAAAAC4w/hH1moJDyqXgTt5SZX4VonTfOR1CKaZ07QCLcBGAs/s320/20171001_065925.jpg" width="320" /></a></div>
+<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2017/09/blog-post.html#comment-form' onclick=''>0
+comentários</a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-455476332'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7529728584213553704&postID=7243024368787064839&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+</div>
+<!--Can't find substitution for tag [defaultAdEnd]-->
+<div class='inline-ad'>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-5589647116439982";
+    google_ad_host = "ca-host-pub-1556223355139109";
+    google_ad_host_channel = "L0007";
+    google_ad_slot = "4902977558";
+    google_ad_width = 300;
+    google_ad_height = 250;
+</script>
+<!-- sonhandocom-o-nossocasamento_main_Blog1_300x250_as -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<!--Can't find substitution for tag [adStart]-->
+
+          </div></div>
+        
+
+        <div class="date-outer">
+      
+<h2 class='date-header'><span>sábado, 24 de dezembro de 2016</span></h2>
+
+        <div class="date-posts">
+      
+<div class='post-outer'>
+<div class='post hentry'>
+<a name='3193007986951399365'></a>
+<h3 class='post-title entry-title'>
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/12/24-meses-de-casados-bodas-de-algodao.html'>24 meses de casados | Bodas de Algodão </a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content'>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-3H58yx1_820/WHd-bDd3D2I/AAAAAAAACB4/opzupa45TiwJPjNJngrqJxYapQKqRPtpACLcB/s1600/WhatsApp%2BImage%2B2016-12-26%2Bat%2B13.25.11.jpeg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="356" src="https://3.bp.blogspot.com/-3H58yx1_820/WHd-bDd3D2I/AAAAAAAACB4/opzupa45TiwJPjNJngrqJxYapQKqRPtpACLcB/s640/WhatsApp%2BImage%2B2016-12-26%2Bat%2B13.25.11.jpeg" width="640" /></a></div>
+<div style="text-align: justify;">
+<div style="text-align: center;">
+<span style="background-color: white; color: #333333; font-family: &quot;arial&quot; , serif; font-size: medium;">&#10084; Dezembro/2016&nbsp;</span><span style="background-color: white; color: #333333; font-family: arial, serif; font-size: medium;">&#10084;</span></div>
+</div>
+<div style="text-align: justify;">
+<span style="font-size: large;"><br /></span></div>
+<div style="text-align: center;">
+<span style="font-size: large;">O algodão é u</span><span style="font-size: large;">m material mais resistente que o papel, por isso foi escolhido para representar o segundo ano de casamento.</span></div>
+<div style="text-align: center;">
+<span style="font-size: large;"><br /></span></div>
+<div style="text-align: center;">
+<span style="font-size: large;">&nbsp;Ele&nbsp;</span><span style="font-size: large;">é um</span><span style="font-size: large;">a</span><span style="font-size: large;">&nbsp;mescla entre fragilidade e resistência&nbsp;</span><span style="font-size: large;">que caracteriza&nbsp;</span></div>
+<div style="text-align: center;">
+<span style="font-size: large;">&nbsp; o casamento no período de dois anos.</span></div>
+<div style="text-align: center;">
+<span style="font-size: large;"><br /></span></div>
+<div style="background-color: white; color: #333333; font-family: Arial, serif; font-size: 14.3px; text-align: center;">
+<span style="font-size: medium;"><strong>Feliz Bodas de Algodão</strong></span><br />
+<em><span style="font-size: medium;">20.12.16</span></em></div>
+<div style="background-color: white; color: #333333; font-family: Arial, serif; font-size: 14.3px; text-align: center;">
+</div>
+<div style="background-color: white; color: #333333; font-family: Arial, serif; font-size: 14.3px; text-align: center;">
+</div>
+<div style="background-color: white; color: #333333; font-family: Arial, serif; font-size: 14.3px; text-align: right;">
+<span style="font-size: medium;"><em>#Tilena&nbsp;</em>&#10084;</span></div>
+<div style="text-align: center;">
+<span style="font-size: large;"><br /></span></div>
+<div style="text-align: right;">
+Veja também:&nbsp;<a href="https://sonhandocom-o-nossocasamento.blogspot.com.br/search/label/bodas%20de%20casamento" target="_blank">Bodas de Papel</a></div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/12/24-meses-de-casados-bodas-de-algodao.html#comment-form' onclick=''>0
+comentários</a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-455476332'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7529728584213553704&postID=3193007986951399365&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+Marcadores:
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/bodas%20de%20casamento' rel='tag'>bodas de casamento</a>,
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/casamento%20Milena%20e%20Tiago' rel='tag'>casamento Milena e Tiago</a>,
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/nosso%20casamento' rel='tag'>nosso casamento</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+        <div class="date-outer">
+      
+<h2 class='date-header'><span>segunda-feira, 14 de novembro de 2016</span></h2>
+
+        <div class="date-posts">
+      
+<div class='post-outer'>
+<div class='post hentry'>
+<a name='8511006889563923094'></a>
+<h3 class='post-title entry-title'>
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/11/sofa-problema.html'>Update do Sofá Problema! </a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content'>
+<div style="text-align: center;">
+<a data-ved="0ahUKEwjH6Y3O7KjQAhXKG5AKHaIPA1sQjRwIBw" href="https://www.google.com.br/url?sa=i&amp;rct=j&amp;q=&amp;esrc=s&amp;source=images&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjH6Y3O7KjQAhXKG5AKHaIPA1sQjRwIBw&amp;url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.emojiworld.angryemojis&amp;bvm=bv.138493631,d.Y2I&amp;psig=AFQjCNEihvvS0QHcGYzj4G2TmWLxv8_8lQ&amp;ust=1479233457028218" id="irc_mil" jsaction="mousedown:irc.rl;keydown:irc.rlk;irc.il;" style="border-image: none; border: 0px currentColor; clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img alt="Resultado de imagem para emoji angry" height="200" id="irc_mi" src="https://lh3.googleusercontent.com/9W0kE8BUQOz_52JEbQfbWm7GVksyozq0ctcGtVQpqPIG_9agDCaS5DnwTL3dJ0CRGws=w300" style="margin-top: 47px;" width="200" /></a><span style="font-size: large;">Estou extremamente chateada com a compra que fiz em junho na Lojas Insinuante / Ricardo Eletro&nbsp;</span>(<a href="https://sonhandocom-o-nossocasamento.blogspot.com.br/2016/06/moveis-novos-para-sala.html" target="_blank"><span style="color: red;">aqui</span></a>) <span style="font-size: large;">pois, com aproximadamente um&nbsp;mês de uso o sofá apresentou defeito</span> (<a href="https://sonhandocom-o-nossocasamento.blogspot.com.br/2016/07/resenha-sofa-retratil-new-toquio-jw.html" target="_blank"><span style="color: red;">aqui</span></a>) <span style="font-size: large;">e foi trocado por outro igual</span> (<a href="https://sonhandocom-o-nossocasamento.blogspot.com.br/2016/08/a-saga-do-sofa-com-defeito-acabou.html" target="_blank"><span style="color: red;">aqui</span></a>) <span style="font-size: large;">porém, o sofá novo começou a ter o mesmo problema e dessa vez optamos por cancelar a compra.</span></div>
+<div style="text-align: center;">
+</div>
+<div style="text-align: left;">
+<span style="font-size: large;">Solicitamos cancelamento dia 18.10.2016&nbsp;e até hoje nada!</span><br />
+<span style="font-size: large;"><br /></span>
+<span style="color: red; font-size: large;">Update: Devolvemos o sofá e o dinheiro pago foi restituído pela empresa.</span></div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/11/sofa-problema.html#comment-form' onclick=''>1 comentários</a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-455476332'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7529728584213553704&postID=8511006889563923094&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+Marcadores:
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/casa' rel='tag'>casa</a>,
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/minha%20experi%C3%AAncia' rel='tag'>minha experiência</a>,
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/minha%20humilde%20resid%C3%AAncia' rel='tag'>minha humilde residência</a>,
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/m%C3%B3veis' rel='tag'>móveis</a>,
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/resenha' rel='tag'>resenha</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+        <div class="date-outer">
+      
+<h2 class='date-header'><span>quarta-feira, 17 de agosto de 2016</span></h2>
+
+        <div class="date-posts">
+      
+<div class='post-outer'>
+<div class='post hentry'>
+<a name='4306678513388721024'></a>
+<h3 class='post-title entry-title'>
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/08/a-saga-do-sofa-com-defeito-acabou.html'>A saga do sofá com defeito acabou?</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content'>
+<div abp="91" style="text-align: center;">
+<span abp="92" style="font-size: large;">Gente, nesse post <span style="font-size: small;"><a href="https://sonhandocom-o-nossocasamento.blogspot.com.br/2016/07/resenha-sofa-retratil-new-toquio-jw.html" target="_blank">AQUI</a></span> falei da minha experiência com o </span><span abp="92" style="font-size: large;">Sofá da New Tóquio comprado na Lojas Insinuante / Ricardo Eletro.</span></div>
+<div abp="91" style="text-align: center;">
+<span abp="92" style="font-size: large;"></span>&nbsp;</div>
+<div abp="91" style="text-align: center;">
+<span abp="92" style="font-size: large;">Hoje vim falar que consegui efetuar a trocar, porém na loja não tinha outro produto do meu agrado e acabei trazendo o mesmo sofá só que na cor cinza/grafite.</span></div>
+<div abp="260" class="separator" style="clear: both; text-align: center;">
+<a abp="261" href="https://1.bp.blogspot.com/-TR2x3NtB4uM/V7UBqYqcpjI/AAAAAAAABmk/VQuMTRV4Pig5bX59GBoPRsNLg9Y5Pe__ACLcB/s1600/sofa-retratil-3-lugares-suede-new-toquiojw-125018908.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img abp="262" border="0" height="239" src="https://1.bp.blogspot.com/-TR2x3NtB4uM/V7UBqYqcpjI/AAAAAAAABmk/VQuMTRV4Pig5bX59GBoPRsNLg9Y5Pe__ACLcB/s320/sofa-retratil-3-lugares-suede-new-toquiojw-125018908.jpg" width="320" /></a></div>
+<div abp="260" class="separator" style="clear: both; text-align: center;">
+&nbsp;</div>
+<div abp="260" class="separator" style="clear: both; text-align: left;">
+<span style="font-size: large;">Update 27/09/17: </span><span style="font-size: large;">Após um mês de uso o novo sofá está ótimo, sem problemas! </span></div>
+<div abp="260" class="separator" style="clear: both; text-align: left;">
+&nbsp;</div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/08/a-saga-do-sofa-com-defeito-acabou.html#comment-form' onclick=''>0
+comentários</a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-455476332'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7529728584213553704&postID=4306678513388721024&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+Marcadores:
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/casa' rel='tag'>casa</a>,
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/comprinhas' rel='tag'>comprinhas</a>,
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/minha%20humilde%20resid%C3%AAncia' rel='tag'>minha humilde residência</a>,
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/m%C3%B3veis' rel='tag'>móveis</a>,
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/resenha' rel='tag'>resenha</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+        <div class="date-outer">
+      
+<h2 class='date-header'><span>sexta-feira, 29 de julho de 2016</span></h2>
+
+        <div class="date-posts">
+      
+<div class='post-outer'>
+<div class='post hentry'>
+<a name='1244364489943704549'></a>
+<h3 class='post-title entry-title'>
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/07/resenha-sofa-retratil-new-toquio-jw.html'>Resenha | Sofá Retrátil New Tóquio JW </a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content'>
+<div abp="90" style="text-align: center;">
+<div abp="157">
+<div abp="768">
+<span abp="91" style="font-size: large;">Mês passado nesse post <span abp="92" style="font-size: small;"><a href="https://sonhandocom-o-nossocasamento.blogspot.com.br/2016/06/moveis-novos-para-sala.html" target="_blank">AQUI</a></span>,&nbsp;falei que comprei um home e um sofá para minha casa, porém, com apenas um mês de uso o sofá já apresentou alguns defeitos:</span></div>
+</div>
+</div>
+<div abp="90" style="text-align: center;">
+<div abp="162">
+<div abp="774">
+<span abp="163" style="font-size: large;"></span>&nbsp;</div>
+</div>
+</div>
+<div abp="90" class="separator" style="clear: both; text-align: center;">
+<a abp="777" href="https://1.bp.blogspot.com/-BAmRu1S_7PE/V5vCjy2gcJI/AAAAAAAABjU/7QV6ZXmN_esVtD6dCEIwcPcciBcrqrgJQCLcB/s1600/WP_20160725_15_51_21_Pro.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img abp="324" border="0" height="263" src="https://1.bp.blogspot.com/-BAmRu1S_7PE/V5vCjy2gcJI/AAAAAAAABjU/7QV6ZXmN_esVtD6dCEIwcPcciBcrqrgJQCLcB/s400/WP_20160725_15_51_21_Pro.jpg" width="400" /></a></div>
+<div abp="90" class="separator" style="clear: both; text-align: center;">
+&nbsp;</div>
+<div abp="90" style="text-align: left;">
+<div abp="781">
+<span abp="166" style="font-size: large;">1. Os rodízios não ficam estáveis e deslizam sozinhos para frente;</span></div>
+</div>
+<div abp="90" style="text-align: left;">
+<div abp="784">
+<span abp="172" style="font-size: large;">2. Ao sentar emite ruídos desagradáveis (rangidos);</span></div>
+</div>
+<div abp="90" style="text-align: left;">
+<div abp="787">
+<span abp="176" style="font-size: large;">3. Houve afundamento em um dos assentos;</span></div>
+</div>
+<div abp="90" style="text-align: left;">
+<div abp="790">
+<span abp="791" style="font-size: large;">4. Por fim, encontramos um pedaço de madeira solto, perdido dentro do sofá.</span></div>
+</div>
+<div abp="90" style="text-align: left;">
+<div abp="793">
+<span abp="794" style="font-size: large;"></span>&nbsp;</div>
+<div abp="869" class="separator" style="clear: both; text-align: center;">
+<a abp="870" href="https://3.bp.blogspot.com/-162JMjYN-1k/V5vMe9qEydI/AAAAAAAABjo/8PILgT6OMLkQ-gfqOfjS0zMSMjnunbEqACLcB/s1600/WP_20160729_18_29_50_Pro.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img abp="871" border="0" height="256" src="https://3.bp.blogspot.com/-162JMjYN-1k/V5vMe9qEydI/AAAAAAAABjo/8PILgT6OMLkQ-gfqOfjS0zMSMjnunbEqACLcB/s320/WP_20160729_18_29_50_Pro.jpg" width="320" /></a></div>
+<div abp="793">
+&nbsp;</div>
+<div abp="793">
+&nbsp;</div>
+</div>
+<div abp="90" style="text-align: left;">
+<div abp="796">
+<span abp="325" style="font-size: large;">Como o produto ainda está na garantia legal que é de 90 dias, fui até a loja e solicitei a troca. Com poucos dias a troca </span><span abp="325" style="font-size: large;">foi autorizada, porém a&nbsp;Lojas Insinuante&nbsp;não tem outro sofá do meu agrado em estoque para&nbsp;efetivar a&nbsp;troca, o gerente mandou esperar. </span>&#65279;</div>
+</div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/07/resenha-sofa-retratil-new-toquio-jw.html#comment-form' onclick=''>0
+comentários</a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-455476332'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7529728584213553704&postID=1244364489943704549&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+Marcadores:
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/casa' rel='tag'>casa</a>,
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/m%C3%B3veis' rel='tag'>móveis</a>,
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/resenha' rel='tag'>resenha</a>,
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/sof%C3%A1' rel='tag'>sofá</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+</div>
+
+      </div></div>
+    
+<!--Can't find substitution for tag [adEnd]-->
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/search?updated-max=2016-07-29T14:27:00-07:00&amp;max-results=5' id='Blog1_blog-pager-older-link' title='Postagens mais antigas'>Postagens mais antigas</a>
+</span>
+<a class='home-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/'>Página inicial</a>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+<div class='feed-links'>
+Assinar:
+<a class='feed-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/feeds/posts/default' target='_blank' type='application/atom+xml'>Postagens (Atom)</a>
+</div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML4'>
+<div class='widget-content'>
+<center>
+<a href="http://daisypath.com/"><img src="https://lh6.googleusercontent.com/proxy/11adStSpYulc0taYQSNpCKLqK3rh8qfBV2DPibcUzEL3jDYVX3Hz3HeGuZlqDzG6LOwYrRbiGqc=s0-d" width="400" height="80" border="0" alt="Daisypath Friendship tickers"></a></center>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7529728584213553704&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=main' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML4"));' target='configHTML4' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML2'>
+<div class='widget-content'>
+<center> <a href="http://daisypath.com/"><img src="https://lh6.googleusercontent.com/proxy/SNdzDSfZOt-O6c7BBrVXgB0lEVi3G1UP5f44iE7qq2jJLnnPqbLAW4VNk0Ur_LUpAYyjk5BjxCY=s0-d" width="400" height="80" border="0" alt="Daisypath Friendship tickers"></a></center>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7529728584213553704&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=main' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML2"));' target='configHTML2' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+<div id='sidebar-wrapper'>
+<div class='sidebar section' id='sidebar'><div class='widget Image' data-version='1' id='Image1'>
+<h2>Família Nascimento</h2>
+<div class='widget-content'>
+<a href='https://www.facebook.com/sonhandocomonossocasamento'>
+<img alt='Família Nascimento' height='336' id='Image1_img' src='//1.bp.blogspot.com/-TlA0dIzUCQk/VLpyJuaKzAI/AAAAAAAAAzo/Pn6-rIGIDU4/s1600/Nova%2BImagem.png' width='340'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7529728584213553704&widgetType=Image&widgetId=Image1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image1"));' target='configImage1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget AdSense' data-version='1' id='AdSense3'>
+<div class='widget-content'>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- sonhandocom-o-nossocasamento_sidebar_AdSense3_1x1_as -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5589647116439982"
+     data-ad-host="ca-host-pub-1556223355139109"
+     data-ad-host-channel="L0001"
+     data-ad-slot="4204973558"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7529728584213553704&widgetType=AdSense&widgetId=AdSense3&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("AdSense3"));' target='configAdSense3' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget PlusFollowers' data-version='1' id='PlusFollowers1'>
+<h2 class='title'>Venha Sonhar Também!</h2>
+<div class='widget-content'>
+<div class='g-plus' data-action='followers' data-height='600' data-href='https://plus.google.com/106890367662944636866' data-source='blogger:blog:followers' data-theme='DARK' data-width='300'></div>
+<script type='text/javascript'>
+        window.___gcfg = {'lang': 'pt_BR'};
+      </script>
+</div>
+</div><div class='widget Followers' data-version='1' id='Followers1'>
+<h2 class='title'>Venha sonhar também!</h2>
+<div class='widget-content'>
+<div id='Followers1-wrapper'>
+<div style='margin-right:2px;'>
+<div><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<div id="followers-iframe-container"></div>
+<script type="text/javascript">
+    window.followersIframe = null;
+    function followersIframeOpen(url) {
+      gapi.load("gapi.iframes", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          window.followersIframe = gapi.iframes.getContext().openChild({
+            url: url,
+            where: document.getElementById("followers-iframe-container"),
+            messageHandlersFilter: gapi.iframes.CROSS_ORIGIN_IFRAMES_FILTER,
+            messageHandlers: {
+              '_ready': function(obj) {
+                window.followersIframe.getIframeEl().height = obj.height;
+              },
+              'reset': function() {
+                window.followersIframe.close();
+                followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d7529728584213553704\x26colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaByM2NjY2NjYiByMzMzY2Y2MqByNGRkZGRkYyByMwMDAwMDA6ByM2NjY2NjZCByMzMzY2Y2NKByNlZWVlZWVSByMzMzY2Y2NaC3RyYW5zcGFyZW50\x26pageSize\x3d21\x26origin\x3dhttps://sonhandocom-o-nossocasamento.blogspot.com/");
+              },
+              'open': function(url) {
+                window.followersIframe.close();
+                followersIframeOpen(url);
+              },
+              'blogger-ping': function() {
+              }
+            }
+          });
+        }
+      });
+    }
+    followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d7529728584213553704\x26colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaByM2NjY2NjYiByMzMzY2Y2MqByNGRkZGRkYyByMwMDAwMDA6ByM2NjY2NjZCByMzMzY2Y2NKByNlZWVlZWVSByMzMzY2Y2NaC3RyYW5zcGFyZW50\x26pageSize\x3d21\x26origin\x3dhttps://sonhandocom-o-nossocasamento.blogspot.com/");
+  </script></div>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7529728584213553704&widgetType=Followers&widgetId=Followers1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Followers1"));' target='configFollowers1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Image' data-version='1' id='Image2'>
+<h2>Fan Page</h2>
+<div class='widget-content'>
+<a href='https://www.facebook.com/sonhandocomonossocasamento'>
+<img alt='Fan Page' height='183' id='Image2_img' src='//4.bp.blogspot.com/-Jmk_js_S318/VOc9Vc0JLkI/AAAAAAAAA74/oWp1_cqXcfs/s1600/1untitled.png' width='275'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7529728584213553704&widgetType=Image&widgetId=Image2&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image2"));' target='configImage2' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Text' data-version='1' id='Text1'>
+<h2 class='title'>Nossas Datas</h2>
+<div class='widget-content'>
+10/03/2007 - Início do namoro<br/>23/06/2012 - "Juntamos"<br/>20/12/2014 - Casamento<br/>04/02/2015 - Perdemos a Nina<br/><br/><br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7529728584213553704&widgetType=Text&widgetId=Text1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text1"));' target='configText1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' data-version='1' id='Image3'>
+<h2>Visite Também</h2>
+<div class='widget-content'>
+<a href='https://corujainquieta.blogspot.com.br/'>
+<img alt='Visite Também' height='95' id='Image3_img' src='//4.bp.blogspot.com/-7scmjhq7_uM/WHeGbq7wZII/AAAAAAAACCM/Bgp-aAJS-1IZfduLO6v9Wz7Fxg5FCSjAgCK4B/s1600/blog%2Bcoruja%2Binquieta%2B2017.jpg' width='340'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7529728584213553704&widgetType=Image&widgetId=Image3&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image3"));' target='configImage3' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Text' data-version='1' id='Text2'>
+<h2 class='title'>Frase</h2>
+<div class='widget-content'>
+"O casal perfeito talvez seja aquele que, apesar dos pesares, a cada dia, se escolheria novamente, e amém!&#8221; (Lya Luft).<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7529728584213553704&widgetType=Text&widgetId=Text2&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text2"));' target='configText2' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget AdSense' data-version='1' id='AdSense2'>
+<div class='widget-content'>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- sonhandocom-o-nossocasamento_sidebar_AdSense2_1x1_as -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5589647116439982"
+     data-ad-host="ca-host-pub-1556223355139109"
+     data-ad-host-channel="L0001"
+     data-ad-slot="4763376758"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7529728584213553704&widgetType=AdSense&widgetId=AdSense2&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("AdSense2"));' target='configAdSense2' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<h2>Arquivos do blog</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2017/'>
+2017
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2017/09/'>
+Setembro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+<ul class='posts'>
+<li><a href='https://sonhandocom-o-nossocasamento.blogspot.com/2017/09/blog-post.html'>30.09.17 🏠</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/'>
+2016
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/12/'>
+Dezembro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/11/'>
+Novembro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/08/'>
+Agosto
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/07/'>
+Julho
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/06/'>
+Junho
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2015/'>
+2015
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2015/12/'>
+Dezembro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2015/11/'>
+Novembro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2015/10/'>
+Outubro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2015/09/'>
+Setembro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2015/08/'>
+Agosto
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2015/07/'>
+Julho
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2015/06/'>
+Junho
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2015/05/'>
+Maio
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2015/04/'>
+Abril
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2015/02/'>
+Fevereiro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2015/01/'>
+Janeiro
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2014/'>
+2014
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2014/12/'>
+Dezembro
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2014/11/'>
+Novembro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2014/10/'>
+Outubro
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2014/09/'>
+Setembro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2014/08/'>
+Agosto
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2014/07/'>
+Julho
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2013/'>
+2013
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2013/09/'>
+Setembro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2013/03/'>
+Março
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2013/02/'>
+Fevereiro
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2013/01/'>
+Janeiro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2012/'>
+2012
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2012/11/'>
+Novembro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2012/08/'>
+Agosto
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2012/07/'>
+Julho
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2012/06/'>
+Junho
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2012/04/'>
+Abril
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2012/03/'>
+Março
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2012/02/'>
+Fevereiro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2011/'>
+2011
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2011/09/'>
+Setembro
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2011/08/'>
+Agosto
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2011/06/'>
+Junho
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2011/04/'>
+Abril
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2011/03/'>
+Março
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2011/01/'>
+Janeiro
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2010/'>
+2010
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2010/12/'>
+Dezembro
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://sonhandocom-o-nossocasamento.blogspot.com/2010/11/'>
+Novembro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7529728584213553704&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target='configBlogArchive1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget PopularPosts' data-version='1' id='PopularPosts1'>
+<h2>Postagens Populares</h2>
+<div class='widget-content popular-posts'>
+<ul>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/06/resenha-alianca-de-moeda-antiga.html' target='_blank'>
+<img alt='' border='0' src='https://1.bp.blogspot.com/-9xn4T3JySVQ/V2tVHpc7ajI/AAAAAAAABdw/UcJaueN26uco7EUfZ-jQhIGpwZ6Nw0V2ACLcB/w72-h72-p-k-no-nu/alianas-grossa-com-frete-gratis-10mm-moeda-cor-de-ouro-911021-MLB20700955630_052016-O.jpg'/>
+</a>
+</div>
+<div class='item-title'><a href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/06/resenha-alianca-de-moeda-antiga.html'>Resenha | Aliança de Moeda Antiga</a></div>
+<div class='item-snippet'>    Em abril comprei no Mercado Livre  uma aliança feita com moeda antiga para testar e agora vou contar a minha experiência.         &#160;     ...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/2011/01/cozinha-rubro-negra.html' target='_blank'>
+<img alt='' border='0' src='//3.bp.blogspot.com/_yOfZb-rJr7w/TSspY9QghwI/AAAAAAAAAGM/RSNSyjC6Je0/w72-h72-p-k-no-nu/micaza.jpg'/>
+</a>
+</div>
+<div class='item-title'><a href='https://sonhandocom-o-nossocasamento.blogspot.com/2011/01/cozinha-rubro-negra.html'>Cozinha rubro-negra?</a></div>
+<div class='item-snippet'> Novamente não resistir a uma promoção, dessa vez foi no site da Walmart . Comprei esse conjunto de panelas vermelhas da Micaza por 99,90 + ...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/2010/12/lista-cha-de-casa-nova.html' target='_blank'>
+<img alt='' border='0' src='//3.bp.blogspot.com/_yOfZb-rJr7w/TP0LmEPyJgI/AAAAAAAAADE/ZzVLBVoQO3I/w72-h72-p-k-no-nu/cha_de_casa.gif'/>
+</a>
+</div>
+<div class='item-title'><a href='https://sonhandocom-o-nossocasamento.blogspot.com/2010/12/lista-cha-de-casa-nova.html'>Lista: Chá de Casa Nova</a></div>
+<div class='item-snippet'>COZINHA, BANHEIRO E LIMPEZA   abridor de lata e garrafa   açucareiro   afiador de facas   aparelho de jantar   assadeiras   bacias   baldes ...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/07/resenha-sofa-retratil-new-toquio-jw.html' target='_blank'>
+<img alt='' border='0' src='https://1.bp.blogspot.com/-BAmRu1S_7PE/V5vCjy2gcJI/AAAAAAAABjU/7QV6ZXmN_esVtD6dCEIwcPcciBcrqrgJQCLcB/w72-h72-p-k-no-nu/WP_20160725_15_51_21_Pro.jpg'/>
+</a>
+</div>
+<div class='item-title'><a href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/07/resenha-sofa-retratil-new-toquio-jw.html'>Resenha | Sofá Retrátil New Tóquio JW </a></div>
+<div class='item-snippet'>   Mês passado nesse post AQUI ,&#160;falei que comprei um home e um sofá para minha casa, porém, com apenas um mês de uso o sofá já apresentou a...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/11/sofa-problema.html' target='_blank'>
+<img alt='' border='0' src='https://lh3.googleusercontent.com/9W0kE8BUQOz_52JEbQfbWm7GVksyozq0ctcGtVQpqPIG_9agDCaS5DnwTL3dJ0CRGws=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://sonhandocom-o-nossocasamento.blogspot.com/2016/11/sofa-problema.html'>Update do Sofá Problema! </a></div>
+<div class='item-snippet'> Estou extremamente chateada com a compra que fiz em junho na Lojas Insinuante / Ricardo Eletro&#160; ( aqui ) pois, com aproximadamente um&#160;mês d...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7529728584213553704&widgetType=PopularPosts&widgetId=PopularPosts1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("PopularPosts1"));' target='configPopularPosts1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Label' data-version='1' id='Label1'>
+<h2>Tags</h2>
+<div class='widget-content cloud-label-widget-content'>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/bodas'>bodas</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/ch%C3%A1%20de%20casa%20nova'>chá de casa nova</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/check%20list'>check list</a>
+<span class='label-count' dir='ltr'>(3)</span>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/convites'>convites</a>
+<span class='label-count' dir='ltr'>(5)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/enxoval'>enxoval</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/frases%20b%C3%ADblicas'>frases bíblicas</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/lembran%C3%A7a%20de%20casamento'>lembrança de casamento</a>
+<span class='label-count' dir='ltr'>(8)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/lembran%C3%A7a%20de%20noivado'>lembrança de noivado</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/lua%20de%20mel'>lua de mel</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/m%C3%BAsicas'>músicas</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/noivado'>noivado</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/penteados%20para%20noivas'>penteados para noivas</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/sorteio'>sorteio</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/tipo%20de%20festa'>tipo de festa</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/topo%20de%20bolo'>topo de bolo</a>
+<span class='label-count' dir='ltr'>(3)</span>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='https://sonhandocom-o-nossocasamento.blogspot.com/search/label/vestido%20de%20noiva'>vestido de noiva</a>
+<span class='label-count' dir='ltr'>(5)</span>
+</span>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7529728584213553704&widgetType=Label&widgetId=Label1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label1"));' target='configLabel1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget BlogList' data-version='1' id='BlogList1'>
+<h2 class='title'>Lista de blogs</h2>
+<div class='widget-content'>
+<div class='blog-list-container' id='BlogList1_container'>
+<ul id='BlogList1_blogs'>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/AFGx9UbMfKu2i7E89TmBnlEeHOUkmUmZlZHY1I1xu7wkc13Dq9CJoPZu0nv80qg1IxUuupv-A_H-NBzz9JVtfAgR=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.nathalievinicius.com.br/' target='_blank'>
+Quem casa quer blog</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.nathalievinicius.com.br/2017/12/bodas-de-latao-ou-la.html' target='_blank'>
+Bodas de Latão ou lã
+</a>
+</span>
+<div class='item-time'>
+Há 8 horas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/CmqKpzHBnUdA18GB-GJsto4Fk14RhIqdT2SmRo7zC-HXMssvlEdoR1UtlRodMTAKn5cHH-wV8L3aRLNQtRc=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.elainegaspareto.com/' target='_blank'>
+* Elaine Gaspareto *</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.elainegaspareto.com/2017/12/personalizar-lista-numerada-dos-posts.html' target='_blank'>
+Personalizar a lista numerada dos posts do blog
+</a>
+</span>
+<div class='item-time'>
+Há 13 horas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/MJpvykSZSRJM5NDH634hASBzx0_j2geXDXWLr3VZTJ9cjq3fdZojzY2_qfL0e2MPi7fKZuucJ8ajVG1A6SXHrcVKAG9HzHjLjYFLQ5wcTIDVhJM=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://neuropsicopedagogianasaladeaula.blogspot.com/' target='_blank'>
+Neurociências em benefício da Educação!</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://neuropsicopedagogianasaladeaula.blogspot.com/2017/12/10-motivos-para-cursar.html' target='_blank'>
+10 motivos para cursar neuropsicopedagogia pelo CENSUPEG
+</a>
+</span>
+<div class='item-time'>
+Há 14 horas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/maCOYYSoK6diidlG2sn5Pe67hv-aOFwquyDx6-M7pfbgwMV6CPpGZd2GFA_pNqw8AFOXvyBIKGsg6x9YwnFpc64K=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.maesemfronteiras.com.br/' target='_blank'>
+Mãe Sem Fronteiras</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.maesemfronteiras.com.br/2017/12/a-mae-suficiente-workshop-que-todos-os.html' target='_blank'>
+A mãe suficiente. Workshop que todos os pais precisam fazer.
+</a>
+</span>
+<div class='item-time'>
+Há 17 horas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/tgmDL5qwToGtugMc77-h-xeAj9bX6By5sL7STQsGNW9tBaeUzCm6CUdmL7wxp47aOv_fOePXVAazYBobRuVR=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.reciclaredecorar.com/' target='_blank'>
+Reciclar e Decorar</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.reciclaredecorar.com/2017/12/as-cores-para-decorar-em-2018.html' target='_blank'>
+As cores para decorar em 2018
+</a>
+</span>
+<div class='item-time'>
+Há 18 horas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/MNx0CivhOrB0PrmiLZ51N8-5dvrVZIk0hKQlM-zrmdaAcO8qVrobBayoKsQCrZXGrFRirISn6bm70ZFyK4sTjMhaXhK7-eyNxrsPvg=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://arrasandonobatomvermelho.blogspot.com/' target='_blank'>
+Batom Vermelho</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://arrasandonobatomvermelho.blogspot.com/2017/12/meus-preferidos-bikinis-zaful.html' target='_blank'>
+Meus Preferidos!!!! Bikinis Zaful
+</a>
+</span>
+<div class='item-time'>
+Há 20 horas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/XlZFCvT6mkL9Iafte-lTKI5yBLGhFNYOSpBJNMLsWg6J73MY7F4vNl3YEt2CFj-ABr1OJGqD82sISlSwUJlE=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://1001feltros.blogspot.com/' target='_blank'>
+1001 Feltros</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://1001feltros.blogspot.com/2017/12/guirlanda-natal.html' target='_blank'>
+Guirlanda Natal
+</a>
+</span>
+<div class='item-time'>
+Há um dia
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/nql0eS4TB-eeeTv2sf8KS-jGtUlRZ6ST5wwQOXqYUYbcR9u6lcWn3mRfFZ1qtG4u2MmNsl5DbsGVIWIqNeneMu0eRcs=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.dividindoexperiencias.com/' target='_blank'>
+Dividindo Experiências</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.dividindoexperiencias.com/2017/12/bolo-pudim-facil.html' target='_blank'>
+Bolo Pudim Fácil
+</a>
+</span>
+<div class='item-time'>
+Há 3 dias
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/WIJb-QulSRhhhJYpyGJONDA89m8BK6Wiiv0am0eQCtWLxw5-bYxBCYL6sWd-2vCM904etRvUVsUMLYIMhGYeO1xnuKyMh389=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://fazendominhafestacasamento.com.br' target='_blank'>
+Fazendo Minha Festa Casamento</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://fazendominhafestacasamento.com.br/2017/12/bodas-de-ouro.html' target='_blank'>
+Ideias de Decoração para Bodas de Ouro &#8211; 50 Anos de Casamento!
+</a>
+</span>
+<div class='item-time'>
+Há 4 dias
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/nQPGaNmT9Bq-0tzRhTNkrC-ZwRgHXSW1DIj4Ydmv_Us_-9Pc_U3UErhfB1_OmBHsZMxlqgEMq7_yUg=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.taisewalber.com/' target='_blank'>
+Taise Walber</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.taisewalber.com/2017/12/sobre-um-dos-dias-mais-felizes-da-minha.html' target='_blank'>
+Sobre um dos dias mais felizes da minha vida... Meu Parto Cesário!
+</a>
+</span>
+<div class='item-time'>
+Há 5 dias
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/-JL1SxlOBOmNd2tJP27fSZs3VZIXyNayeyktjOr211ZOJAxLDXTEnYC51tGtNVTXTUfX8mVDsiG0STWltZo=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.cafeentreamigos.com/' target='_blank'>
+Café entre Amigos</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.cafeentreamigos.com/2017/12/o-poder-de-um-abraco.html' target='_blank'>
+"O poder de um abraço"
+</a>
+</span>
+<div class='item-time'>
+Há 5 dias
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/ayt1oI9UihrP75svcBa0tYteaagSyyS8pbuvH_k0upA3lZ9yOWdaltb14MIHN0cmnYM6h-nN64NIguD6XZajiNWKuP9rDz1Z=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://passarinhosnotelhado.blogspot.com/' target='_blank'>
+!Passarinhos no telhado</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://passarinhosnotelhado.blogspot.com/2017/12/o-advento.html' target='_blank'>
+O Advento...
+</a>
+</span>
+<div class='item-time'>
+Há 6 dias
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/yJDpAAihdsOZcGwroyksF6Mon5P1B4JzWFKMl29uwEexBlfNj36f2N0gsleJ0ZBZyZotladDg7EfmLC_C5IGjQ=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.donadecasamoderna.com/' target='_blank'>
+Projeto 204</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.donadecasamoderna.com/2017/12/dezembro-chegou-dicas-de-presentes.html' target='_blank'>
+DEZEMBRO CHEGOU | Dicas de Presentes &#9829;
+</a>
+</span>
+<div class='item-time'>
+Há 6 dias
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/3WZWJ78AUEyJkZEDAi6h9fqw4cxW0a3BBFjM4Ty8hZwuzt7tDDIulBmw7YijqWqkzq2J6lowTCxJJN7H=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.dicaspramamae.com/' target='_blank'>
+Dicas pra Mamãe</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.dicaspramamae.com/2012/12/papai-noel-de-garrafa-pet.html' target='_blank'>
+Papai Noel de garrafa Pet
+</a>
+</span>
+<div class='item-time'>
+Há 6 dias
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/bDO0qPZd8T0pgZjfAd_LwcsPcqdBffzu8BmWbGP5ItRmREtYhzi5DMs6a-wCvXEB2cdZFj5MTeKGd5PGv9JrByb6nta4=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://emaartecomretalho.blogspot.com/' target='_blank'>
+EMA ARTES</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://emaartecomretalho.blogspot.com/2017/12/almofada-coruja.html' target='_blank'>
+Almofada coruja
+</a>
+</span>
+<div class='item-time'>
+Há uma semana
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/tuJ7Ftm58b71cI50yrYsu6VZ6T2ly45RHxHMwswR8L6fgsLVueZ2rXBKBCqsP4TD_pxbHmbe=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.cdecici.com/' target='_blank'>
+C de Cici</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.cdecici.com/2017/12/the-insiders-brasil-campanha-colgate.html' target='_blank'>
+The Insiders Brasil - Campanha Colgate Sensitive Pro-Alívio
+</a>
+</span>
+<div class='item-time'>
+Há uma semana
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/o1gqzszhxW2KyQCnFl4UQ6bC2gnKT6jnTnYYAWQP6sZAGPo0KnQBJHaOMPI9MIEcIEIfFkT7qxSZ3ZJNbg=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.atelier-cherry.com/' target='_blank'>
+ATELIER CHERRY</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.atelier-cherry.com/2017/12/carta-ao-papai-noel-download.html' target='_blank'>
+Carta ao Papai Noel - Download
+</a>
+</span>
+<div class='item-time'>
+Há uma semana
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/PqgFxy8j9So_JNNmBY9Wy5lA_Z0dJlxiMwUTZS6_uZqj03aT8uxObAm_ghAOd7E_yLUN7NOHvIlSHCLuHATwgekBKpGOyIM6=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://renovandoacasasempre.blogspot.com/' target='_blank'>
+RENOVANDO A CASA SEMPRE</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://renovandoacasasempre.blogspot.com/2017/12/diy-caixa-para-cha-e-love-no.html' target='_blank'>
+DIY -  Caixa para chá e LOVE no VemArtePorAí !!
+</a>
+</span>
+<div class='item-time'>
+Há uma semana
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/TIkid02Cr2FWxU-hdB0Ncr3stFbi9BMh5cpZAlq_RmVIahXTIIA_u1dE9YPVv6hscarVOZup4t6epjhEdW0aLIaIir57gPNV60e5hHtcOQ=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://diariodeumaquasefuturamamae.blogspot.com/' target='_blank'>
+Diário De Uma Quase Futura Mamãe</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://diariodeumaquasefuturamamae.blogspot.com/2017/12/me-encontre-no-instagram-blog.html' target='_blank'>
+Me encontre no Instagram | Blog Desatualizado
+</a>
+</span>
+<div class='item-time'>
+Há uma semana
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/LjSgYLX1YNKGNU4XmjGi3G236HTiPG-_2K7x_iAV6cU5n1E3DNn19f78Ha7peOFCyNp_gkUfnleHZMivJWQ4L6ikFhz_vzf1=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://blogdaluluzinhamatos.blogspot.com/' target='_blank'>
+Blog Luana Alves Artesanato em EVA</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://blogdaluluzinhamatos.blogspot.com/2017/11/oi-meus-amores-deixo-pra-vcs-um.html' target='_blank'>
+Oi meus amores deixo pra vcs um pouquinho dos trabalhos em e.v.a que fiz pro chá de fraldas do meu bebe Kalél... Não tirei foto de tudo...  Foram dois porta balas de coco e de lembrancinha, fiz 60 imãs super baby e 60 prendedores de saquinho... 💙👶
+</a>
+</span>
+<div class='item-time'>
+Há uma semana
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/5i1ES90Q45qf5J-91XUOTpq-gl9j0CkachOJye3D1FMJISvVwNN3cRjDHzylFj8wzElRQ32R-gDv1XohgtjWlr5AxA=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://vanussapedagoga.blogspot.com/' target='_blank'>
+Ateliê Pedagoga Criativa</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://vanussapedagoga.blogspot.com/2017/11/moldes-gratis-lembranca-natalina.html' target='_blank'>
+Moldes grátis:  Lembrança Natalina personalizada de Árvore de Natal
+</a>
+</span>
+<div class='item-time'>
+Há uma semana
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/JVhyAsbdD8w879RvoyOF3y7KjgvIt13Z2vJVZL1UH_LkK-xC9tb110pkcdVHehyVwqw63GUQpJ5vg5zM=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.casacorpoecia.com/' target='_blank'>
+Casa Corpo e Cia.</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://feedproxy.google.com/~r/blogspot/zQtCD/~3/PupjT0czmKM/to-no-instagram.html' target='_blank'>
+Tô no Instagram!
+</a>
+</span>
+<div class='item-time'>
+Há 2 semanas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/ogH8CaMZ5WJ6lwv0LOVenfkes7d9tlPyLIavlgUbmQJrfiFZyELiHPq9c2PjjQucpw4cnY17Mbz0uRheSSgm8G1Qkg=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://ansiosapracasar.blogspot.com/' target='_blank'>
+Ansiosa pra casar</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://ansiosapracasar.blogspot.com/2017/11/inspiracao-20-ideias-de-porcelanato-que.html' target='_blank'>
+Inspiração: 20 ideias de porcelanato que imita madeira no box do banheiro
+</a>
+</span>
+<div class='item-time'>
+Há 2 semanas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/mH1PU9xMr5caZ1P6saaQTvuSM06_yhAjX1zlf5sdW6L9uPc2KbBqITcdwNK18U8kFWZBLubXuBSDijeP4UqLeFdk-OMZfS3hI_SbMUb7=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://moldesparaartesanatotecido.blogspot.com/' target='_blank'>
+Moldes Para Artesanato em Tecido</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://moldesparaartesanatotecido.blogspot.com/2017/11/papai-noel-com-moldes.html' target='_blank'>
+Papai noel com moldes
+</a>
+</span>
+<div class='item-time'>
+Há 2 semanas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/B5bOyraRt6MeINLNarDQ8E34AaEj7Ur-McZ5ts6iqsX4O7MyM0iq8-OSjWCj-DKrbCDwHgnL-7IBKG47HlIgIPw=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.segredosdealine.com.br/' target='_blank'>
+Segredos de Aline</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.segredosdealine.com.br/2017/11/diy-natal-com-material-reciclavel-lixo.html' target='_blank'>
+DIY Natal com Material Reciclável - Lixo ao Luxo
+</a>
+</span>
+<div class='item-time'>
+Há 2 semanas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/zINxi-BJ3prP547UGwRH9fQ6mo33UdwXPIyPMo1-kRAql9L2lUJkggAiiVci5zOYp_tPgvfjPRWcHySe8ypXAg=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://issoeoqueamo.blogspot.com/' target='_blank'>
+Você vai amar!</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://issoeoqueamo.blogspot.com/2017/11/exoval-simples-para-bebes.html' target='_blank'>
+EXOVAL SIMPLES PARA BEBÊS
+</a>
+</span>
+<div class='item-time'>
+Há 2 semanas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/tA2GG9Fp-9WBtY40dgD-SEQ8dGr2KBjnSod-vMGGex9lKIEaUjY6mbbFm536kpn0bUdOdEAdNlDx4WYRm65qL8y-utSHYgP6-g=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://artesanatoeartesanato.blogspot.com/' target='_blank'>
+OS MELHORES ARTESANATOS</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://feedproxy.google.com/~r/blogspot/mfjpv/~3/7bO2m93huL8/anjinhos-com-molde.html' target='_blank'>
+Anjinhos com molde
+</a>
+</span>
+<div class='item-time'>
+Há 2 semanas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/Zguq19G_8Z04K-rHMaA3YDqZZs_SBtTrh6VWKCZaz4vE7pBD0IaTnMsBhOR90KrCXueoWOOD0iKpw7oB=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.ericacatarina.com/' target='_blank'>
+Ei Menina!</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.ericacatarina.com/2017/11/cupom-de-desconto-loja-lih-craft.html' target='_blank'>
+Cupom de Desconto: Loja Lih Craft
+</a>
+</span>
+<div class='item-time'>
+Há 3 semanas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/_6NmlRHdKkZZK0d2sYVO-CXlgvQtb1TZeXcjVDmLHt2D07lq7BUPjKLy-ztJ8UrnhYb7XdGTlRQulSMQa2ikuVU1jA=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://mullherprendada.blogspot.com/' target='_blank'>
+MULHER PRENDADA</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://mullherprendada.blogspot.com/2017/11/quadros.html' target='_blank'>
+QUADROS
+</a>
+</span>
+<div class='item-time'>
+Há 4 semanas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/cJWKdSk1lSGAzBwUEnfIgYpbEW9sLaK06MjctYjU1z6k8UG8ECWqCKap6nBGuTYqbK_7Y8_e_oILsYYmNSqH4mz4vbQ=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://oficinatangerina.blogspot.com/' target='_blank'>
+Oficina Tangerina</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://oficinatangerina.blogspot.com/2017/11/ensaio-aberto-do-coral-as-garotas.html' target='_blank'>
+Ensaio aberto do coral AS GAROTAS
+</a>
+</span>
+<div class='item-time'>
+Há 4 semanas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/QmS4PdHIAMBeJOvKxST16u8HffqX4_-NC6IzCQ9gFuryQwx0cpH0fsfnZ18rkx1gMXOxwKP-xjjLKjw=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.blogcasamila.com/' target='_blank'>
+CasaMila.com</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.blogcasamila.com/2017/11/uma-fofura-util.html' target='_blank'>
+Uma fofura útil
+</a>
+</span>
+<div class='item-time'>
+Há 5 semanas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/vg8KQP1AKLPyJ-3PV9eArs6kv2EsEM56-eYN4cL2bTmTAEHhJ9uy8Gpq4mMgcM6ji6MQsWeLSZUM2km-OT5Y1wZlmw=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://oficinadecordel.blogspot.com/' target='_blank'>
+OFICINA DE CORDEL</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://oficinadecordel.blogspot.com/2017/10/blog-post.html' target='_blank'>
+</a>
+</span>
+<div class='item-time'>
+Há um mês
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/RAQgumwqzMDWEoecfmnYzgWjiziBoIrmqV18pPJNS8LjVAg5MET7yBXOJXAJpONX0TNLCDYOF6BJxWlI=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://casadaro.blogspot.com/' target='_blank'>
+Casa da Rô</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://feedproxy.google.com/~r/blogspot/NFOxt/~3/hEEPLos6Gws/game-of-thrones-estilo-cordel-para-imprimir.html' target='_blank'>
+Game of Thrones em estilo cordel para imprimir!
+</a>
+</span>
+<div class='item-time'>
+Há um mês
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/6HKhQRFr8wr1po1jQbJ7Xmuhyyzo0kzrc7Fz5h5cbG7i5FXd9gfoxoGxbO4KJkaVcnf2huC-_Ox9TQmzzigW0LmgYFE=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.eseestacasafosseminha.com/' target='_blank'>
+E se Esta Casa Fosse Minha!?</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://feedproxy.google.com/~r/blogspot/VPwfT/~3/U7qVjnhZrXo/diy-porta-revistas.html' target='_blank'>
+d i y - Porta-revistas
+</a>
+</span>
+<div class='item-time'>
+Há um mês
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/aT4vEWfsdS34ZVvOI-ey9g1iDDIeOzS_ujE3aSPzRVLbXt11FpO6JakmbcfyquA37Mo5L_QYtWmKSzZyYg=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://mineeluiz.blogspot.com/' target='_blank'>
+Mine e Luiz</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://mineeluiz.blogspot.com/2017/10/hoje-e-meu-aniversario-26-anos.html' target='_blank'>
+Hoje é meu aniversário!!!! 26 anos!
+</a>
+</span>
+<div class='item-time'>
+Há 2 meses
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/xtgfewK5BqSQ5zaqHgzFa_8UGFliPlQnVeEzD3QaRx-AJMyal04QwtXybpULbCzbh7Vg_MkQCcz2tb0AxNJ-qtMy=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://oxefuieuquefiz.blogspot.com/' target='_blank'>
+Oxe, Fui eu que fiz!</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://oxefuieuquefiz.blogspot.com/2017/09/aprendendo-costurar.html' target='_blank'>
+Aprendendo a costurar!
+</a>
+</span>
+<div class='item-time'>
+Há 2 meses
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/BW2O3Ro4WoEskS5P-7fdA196tO7pAxXjkAeieVOL2R9J0xhO4NIwIObS3BB7D-VZ8kRtlkyo6gj_FukC3tw=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.omundodecaliope.com/' target='_blank'>
+O Mundo de Calíope</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://feedproxy.google.com/~r/blogspot/DJmlp/~3/Dg5kpT7v4Sc/meu-bullet-journal.html' target='_blank'>
+Meu Bullet Journal
+</a>
+</span>
+<div class='item-time'>
+Há 3 meses
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/HCNWGMBMhQ9mKYh29qm-MJQr1ooygV3UGeEhsAMa5V-1HlLQYYptCp9nDv1xM8gzcSY-uxFNv0ZTCEsZ=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.fernandareali.com/' target='_blank'>
+Fernanda Reali</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.fernandareali.com/2017/09/como-nossos-pais.html' target='_blank'>
+Como Nossos Pais
+</a>
+</span>
+<div class='item-time'>
+Há 3 meses
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/k7VdvnqWiT4r3HzPNRSAcByTsfMnC3mJu6eE0PaLMS3gFRceb5S2hYX-Wr2lt5ysRlHjcJo5S2K5cPXvjx4jaPCjW1U=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://palpitandoemtudo.blogspot.com/' target='_blank'>
+PALPITANDO EM TUDO</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://palpitandoemtudo.blogspot.com/2017/08/adeus-meu-amor.html' target='_blank'>
+Adeus, meu amor...
+</a>
+</span>
+<div class='item-time'>
+Há 4 meses
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/qmyefdAzj-1WC9XOFcJ3fJ9uVpYLG3FuJfJ0fCob-NMmAyj0LoIBYRURVQdZD__r7VrnYPjOs5eDwqBogMs=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.cantinhodananda.com/' target='_blank'>
+Cantinho da Nanda</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.cantinhodananda.com/2017/08/maionese-capilar-para-os-cachos.html' target='_blank'>
+Maionese capilar para os cachos
+</a>
+</span>
+<div class='item-time'>
+Há 4 meses
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/IWFxqFgdSn9-w0KVFd-CXG48TrE4P0N8RX7vLB56TwlHgwQsdo98ZR8objROLGV9KLZKIMErpUfgcZXlUND4aOM0gA=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.arteirafeltroecia.com.br/' target='_blank'>
+Arteira Feltro e Cia</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.arteirafeltroecia.com.br/2017/07/o-melhor-da-mega-artesanal.html' target='_blank'>
+O Melhor da Mega Artesanal
+</a>
+</span>
+<div class='item-time'>
+Há 4 meses
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/MXrh1vFvQZDjY-lgk8QKksSd3sgXlqS40Y31yUnZP74y_biEzjI-fUAsDbtF8xi6qUH-6qTU2tXK7qDm5K5CoQcDz2fdfJQ=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://bijupamelamagalhaes.blogspot.com/' target='_blank'>
+Crie e Faça Você Mesmo</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://bijupamelamagalhaes.blogspot.com/2017/07/volta-as-aulas-4-diys-de-material.html' target='_blank'>
+VOLTA ÀS AULAS: 4 DIYs de MATERIAL ESCOLAR
+</a>
+</span>
+<div class='item-time'>
+Há 4 meses
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/pavTbf9U9GNFBApps3-Higa4ZEiBQQm-DIqJeCsO-6ghYbAG50K20xsUCfulDqT9vGgKPkiRkoPRJTbXLLZ-DfK9=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://corujainquieta.blogspot.com/' target='_blank'>
+Coruja Inquieta</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://corujainquieta.blogspot.com/2017/06/materiais-pedagogicos-usando-tampinhas.html' target='_blank'>
+&#9851; Materiais Pedagógicos usando tampinhas de refrigerante
+</a>
+</span>
+<div class='item-time'>
+Há 6 meses
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/K7Ey4VCCNyFNtPtW_v6EGUcyufOyiBDxgnnWind2_NBXceJBftN4hQQsY-5aPLmQ75_NGdGsZXWBYA=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.miladamasio.com/' target='_blank'>
+Camila Damásio Blog</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.miladamasio.com/2017/05/adeus-saga-do-ruivo-cuidando-do-cabelo.html' target='_blank'>
+Adeus Saga do Ruivo - Cuidando do cabelo com Inaldo Valença
+</a>
+</span>
+<div class='item-time'>
+Há 6 meses
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/bZx4o0_YRaMQ2fAflZywEi4QJspX5_zqdOK4fOpyYz7u66pqza8BE0PQr2KPiOvDrBxaifrs_xIltU04Adl2hIkmBA=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://pripri-artmimos.blogspot.com/' target='_blank'>
+Arte e Mimos - Artesanato em feltro</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://pripri-artmimos.blogspot.com/2017/04/molde-da-bolsinha-para-o-dia-das-maes.html' target='_blank'>
+Molde da bolsinha para o dia das mães - live no facebook no dia 19/04/2017
+</a>
+</span>
+<div class='item-time'>
+Há 7 meses
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/4QTgUslANkhRgS7joUi2S7le-YyAUnyppiQKGOqCGneJdJpZCMh5KUUinBktSpe_cOl0nN99lRXn8dM=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.vamolaemcasa.com/' target='_blank'>
+Vâmo Lá em Casa</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.vamolaemcasa.com/2016/12/como-instalar-forrorama-placada-3d-na.html' target='_blank'>
+Como instalar Forrorama (Placada 3D) na Parede
+</a>
+</span>
+<div class='item-time'>
+Há 11 meses
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/3Qk99bQhvvsSXEl_o5lJ2xmnE_e5ysShnQPl2A7btcRgYnpAb004H4alTBWMf7qd8u5wj1CBSW7b-6FWnBBg0VeFUkyJGitj=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://conversandocomlorena.blogspot.com/' target='_blank'>
+Conversando com Lorena</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://conversandocomlorena.blogspot.com/2016/12/deixe-ele-tomar-as-redeas-da-sua-vida.html' target='_blank'>
+Deixe Ele tomar as rédeas da sua vida...
+</a>
+</span>
+<div class='item-time'>
+Há 11 meses
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/fumFflw9CWP_Ogk7b9EpBb2QaVyVEwvgHCGZJdxOUPYqTURHgfcsdIfYY-mlIWc2PZ3y0PpiRiFcp2phXOOuJFQ=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://simoneamoroso.blogspot.com/' target='_blank'>
+DO AVESSO NO BISCUIT</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://feedproxy.google.com/~r/DoAvessoNoBiscuit/~3/cH_hqCdRdnw/colherzinhas-decoradas-tema-fazendinha.html' target='_blank'>
+colherzinhas decoradas-tema fazendinha
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/QYSdoOntQVvCM2H5mdFVMhFX7dzh6dmEotq5fY3KePm29k0sDnJsAfBfnvjLaGKCWaVXn6fJdIHJeRBfpvWHqv1lMk0x3eKOhzI=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://baudeartesanatosdacris.blogspot.com/' target='_blank'>
+***Paixão por Artesanatos***</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://feedproxy.google.com/~r/paixoPorArtesanatos/~3/8u2sarDhjnk/porta-alianca-bola-de-perolas.html' target='_blank'>
+"PORTA ALIANÇA BOLA DE PÉROLAS"
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/KvHHLcZApvA81INF0BIqYgf_0FhW2jTm-Zhmh88kgQ9WGkxmn2_nH0p-sKPsmTfSpr6CK0vkoamRY4M_ctllgA=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.oambienteideal.com.br/' target='_blank'>
+O AMBIENTE IDEAL</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.oambienteideal.com.br/2016/09/lojinha-fofa-gutiguti-paper.html' target='_blank'>
+Lojinha Fofa: GutiGuti Paper
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/wXO2CkCdd57kNoed8itMxBGiwSxpw9Lp21B9wzmmdMXljikLb7MobsMK1jfwiP1JkL8u1qXsGPCBmb61aLemISFVYMBYN1bA=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://srtabretasdevocional.blogspot.com/' target='_blank'>
+Srta Bretas Make Up</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://srtabretasdevocional.blogspot.com/2016/09/tips-menghindari-efek-samping-obat-pelangsing-badan.html' target='_blank'>
+Tips Menghindari Efek Samping Obat Pelangsing Badan
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/K8wK1VjmRZLztNIwkP3p9gKb1ZqwillzJZpUUfN_0EgUr84UwbnGmHKGI8fHEOKxMaAJac61ZXoUIIz7CydjuJwjTw=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://milaarts-moldes.blogspot.com/' target='_blank'>
+Mila Arts - moldes e PAP</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://milaarts-moldes.blogspot.com/2016/09/bichinhos-da-fazenda-molde-gratuito.html' target='_blank'>
+Bichinhos da Fazenda - Molde gratuito
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/PBcTg1ZRH9RXaIDZIwN5bwbDgZiHe1qCx-4roX0CjCNoFLZvztbFqTGZr4Cswt-Bi1Qyi7E9OAm2SxDa8PE=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://donakeilla.blogspot.com/' target='_blank'>
+Dona Keilla</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://donakeilla.blogspot.com/2016/08/guia-da-mistura-ovos-poche.html' target='_blank'>
+Guia da Mistura - Ovos Pochê
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/FlsPADXXnxm4Kb0WoH0jZLsZQ_insMhX5q9Y-O1sw9OVVprztlE1KaJZomTpCXbfqMjybYLcqwPdFoNcagdVgOzX-Kg=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://casoriofeitoamao.blogspot.com/' target='_blank'>
+Casório feito à mão &#9829;</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://casoriofeitoamao.blogspot.com/2016/08/casorio-de-famosos-thyane-dantas-e.html' target='_blank'>
+Casório de famosos: Thyane Dantas e Wesley Safadão
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/jWqYQHbp0ynb7jmPa6bQCf8rmkVhqWMsa6yUUJrvO9NQxu_oTcRRsQC0uCLsU0kGqLa2_u7jxokwr9CGVgtofAwzIvtaKY9Fono=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://casamentothainaerobson.blogspot.com/' target='_blank'>
+Um Sonho a Três</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://casamentothainaerobson.blogspot.com/2016/07/quem-e-vivo-sempre-aparece.html' target='_blank'>
+Quem é vivo sempre aparece....
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/w0R2iNEWgbSutDtVwPEhGixMopwOQ4JTcOBQbysApRR2pNOiJDZ3TNIbjd7eK4BAVad1U3X0rVPukz5hGQ=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://jacirinha.blogspot.com/' target='_blank'>
+Oficina de Criatividade</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://jacirinha.blogspot.com/2016/06/estou-voltando.html' target='_blank'>
+Estou voltando!!!
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/u6gRG-rxbhvq3CTY7FJmsx2YnuDj24ZYXrILnymQDXjsQSeqLMXHpDLEpP7lAsLtci5xg3OnNKIm4axbrObVUA=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://larsemprelar.blogspot.com/' target='_blank'>
+Lar Sempre Lar</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://larsemprelar.blogspot.com/2016/05/cozinhas-escandinava.html' target='_blank'>
+COZINHAS ESCANDINAVA
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/LT4s3RD5JsYDSuBu0_vWpFputaOUtr1hbdo5daTqT2MDXG-iij-5wRH-CWRsWQbkrt506VqmZqzIwvkLD1aJAg=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://sinta-o-amor.blogspot.com/' target='_blank'>
+Sinta o Amor</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://sinta-o-amor.blogspot.com/2016/05/experiencias.html' target='_blank'>
+Experiências
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/OXQ3PpxHmYr2NYiYbIcHYNT-J0QZB6NtxqCjg-DA6-pf5id19WCmJIuVcLUediuBZmF_CTJISKzon8rMkoWepj2LKvIVniQ=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://descobertadacrianca.blogspot.com/' target='_blank'>
+Descoberta da criança</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://descobertadacrianca.blogspot.com/2016/04/blog-post_20.html' target='_blank'>
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/6sC2k673ARGqDaBLs432TYQA8q6akVE2bZJAur8K5799VmNyk3ea8svUIgHGZdezv1uHYVIqth2I7Z2cw0kVth1Vk8lZXw=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://meusonhodeprincesa.blogspot.com/' target='_blank'>
+Meu Sonho de Princesa</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://meusonhodeprincesa.blogspot.com/2016/03/decorando-com-espelho.html' target='_blank'>
+Decorando com espelho!
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/P5d24x1ap1mWWUTm9puSW9CBUmwmpxxcCeISFFz2vh1glev7c2Aq0CdIcdcXwvS93JFNBH8rF5bTzbugWXqYYwAabQ=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://educacaodevalor.blogspot.com/' target='_blank'>
+Blog Educação de Valor</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://educacaodevalor.blogspot.com/2016/02/inclusao-social-e-cidadania.html' target='_blank'>
+Inclusão social e Cidadania
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/dEQ0Dk01-OFYaTFFAnQuPYSJ8j3p3J6UmGcDCN0AgsWI5ppXiBW3qb2goYWVw3vU-w9ek_qpetnPs8eU2-VYv9zi=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://detalhesdekasa.blogspot.com/' target='_blank'>
+Detalhes de kasa</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://detalhesdekasa.blogspot.com/2016/02/novidades-na-casinha.html' target='_blank'>
+Novidades na casinha
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/NZC4SVE75Dr5lxma_abM2rzLLygDAVLNprNniaaLg_U6q7rfFU7XWZhuRt_g3V7rIXFmWJPjvsOAcqIS8yN0fI56f_u48Q=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://nossocasamentoembh.blogspot.com/' target='_blank'>
+Nosso casamento em BH</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://nossocasamentoembh.blogspot.com/2016/02/6-meses-bodas-de-plumas.html' target='_blank'>
+6 meses &#8211; Bodas de Plumas
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/aipMjikoJD9JOeW_IV3kN9wrXz0ZWNBoQ-zPXJEDb045mrr27k6UWQ5bXa6HClExaj0lImnsbFgegTsVxjxLbRyM1LBr=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://coisasdoreiarthur.blogspot.com/' target='_blank'>
+Coisas do Rei Arthur</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://coisasdoreiarthur.blogspot.com/2016/01/mfp-pao-petropolis.html' target='_blank'>
+MFP - Pão Petrópolis
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/BFE6eVHm-_SKNTHJd6bIM49ON4xXPgdHeBnpA6XsFu3noRMEeNMgh7uqFTgDWgGNJ76jxVShhP50TfDshXl3J0s=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.tudojuntoeseparado.com/' target='_blank'>
+Tudo   junto   e     separado</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.tudojuntoeseparado.com/2016/01/uma-parte-da-minha-historia-de-vida.html' target='_blank'>
+Uma parte da minha história
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/FvIsny7mo4EkrctHXxZv9FoT4m7JOCHFqYP6RSFNZjrvKfMTGxum9E8b0b5lnZ3plfP3Ns_3fVJW7j311aOp=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://chanojardim.blogspot.com/' target='_blank'>
+Chá no Jardim {Casamentos e Inspirações}</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://chanojardim.blogspot.com/2016/01/inspiracao-convite-papelaria.html' target='_blank'>
+Inspiração {Convite &amp; Papelaria}
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/5z8juDMgSAkm3cJTsqEZb9h3WZTnJebTro5ddl2_od7mdBJu7NNWpSFeRMECujENI6TteJ1dQ1tuduvIbmBv1PvN=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.ehojevaiserumafesta.com/' target='_blank'>
+E hoje vai ser uma festa!</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://feedproxy.google.com/~r/EHojeVaiSerUmaFesta/~3/UF9FIu4SGHE/fazendinha-muito-fofa.html' target='_blank'>
+Fazendinha, muito fofa!
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/53CgUsRg-ICds93jO3WA6JTbBOkvpNdN3wYuMHFtK0yaGvQsZglhEL-0Sk5spTDrQ-isDIaCzriPTsdxuGoz4KLrcQci=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://comprandonossoape.blogspot.com/' target='_blank'>
+Comprando nosso Apê</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://comprandonossoape.blogspot.com/2015/12/diy-convite-com-renda.html' target='_blank'>
+Diy - Convite com renda
+</a>
+</span>
+<div class='item-time'>
+Há um ano
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/mQJfGuPnz6UNC6OmHm9jV9JuCJR8PL27uYWRiOti3lLOE1YP_BFNSMtaFpSIM92R4zatai1AZkMnuCbc_JYEU5JAlp_frQuv=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://diariodeumanoiva2012.blogspot.com/' target='_blank'>
+Diário de Uma Noiva</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://diariodeumanoiva2012.blogspot.com/2015/10/agen-sbobet-terpercaya-catatan-sempurna.html' target='_blank'>
+Agen SBOBET Terpercaya - Catatan Sempurna Inggris
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/9ccRfYpBNYBhYdqX7Lsasp18_IOFnBnzzNtci1Wu_N6dTtMJBh2644Kr95m1QocgAgTQmfli6oWHjbyAVaYUieYv=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://gauchatrilegal.blogspot.com/' target='_blank'>
+Gaucha Tri Legal</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://gauchatrilegal.blogspot.com/2015/09/eu-recomendo-christine-salus-workouts.html' target='_blank'>
+EU RECOMENDO: CHRISTINE SALUS WORKOUTS - HIIT
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/hMmkCJWXx3FXoxFx7Pyiwr6K20eTZlpkpfAG4KyCV5Zi8uf615ghaOrogwObK_PGN-BVGhVO3SHgXmg=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.belezabaiana.com/' target='_blank'>
+Beleza Baiana</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.belezabaiana.com/2015/09/mega-hair-faz-mal-por-que-eu-tirei.html' target='_blank'>
+MEGA HAIR, FAZ MAL? POR QUE EU TIREI?
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/9JtfkfEOyUEG6-eLCT4Js8GFt_3XCgvbK-2Atzb2Cn-Tp_1ER7DrwFTbx-n8P1rqg4CHHpkKcrWHo-3y3l31VmjlVLk=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://casadadonakeilla.blogspot.com/' target='_blank'>
+Casa da Dona Keilla</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://casadadonakeilla.blogspot.com/2015/08/novo-temponovo-blog.html' target='_blank'>
+Novo tempo..Novo blog....
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/Sot5xRwkMifywIcYl_uYYN0hvn89HoeRGAb8RH04s73lKdDrUM6K5P2AElurvKDlZqyLl9ZrYEEpNs-9HCPyiYGt=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://blogizabarbosa.blogspot.com/' target='_blank'>
+Blog Iza Barbosa</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://blogizabarbosa.blogspot.com/2015/08/help-me.html' target='_blank'>
+Help-Me!
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/iVr01SPo8nXZ6lT5BiuHFpEIwTVGCtL8d_4BtYYNNUsc9HIixvnHUCcuMKBoDCvfJFINE-cj_jrQ2l_S=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.divagandoblog.com/' target='_blank'>
+Divagando</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.divagandoblog.com/2015/08/resenha-dez-coisas-que-aprendi-sobre-o.html' target='_blank'>
+Resenha: Dez Coisas que Aprendi sobre o Amor| Por: Kev
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/VG98rhvhiG2C-CzzrnBxMU72H7gCqRuhnRmoYINut7-gxgmxrvdx8zjTmr455jkEy1pFhXBkCBUvglGHT4QFYQwT3A=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://giovanaefabiano.blogspot.com/' target='_blank'>
+&#10045; RELATOS DE UMA NOIVA &#10045;</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://giovanaefabiano.blogspot.com/2015/08/bodas-de-beijinho.html' target='_blank'>
+Bodas de Beijinho =)
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/4YPgjBbXuD9aX1jNjTZs_Mwu54-C8rHU_xlHexEKMcjiSdEUh9A3WVM6bdzQSrTj09NhAbFAtypT3f0yDA=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.mamaemoleca.com.br/' target='_blank'>
+Mamãe Moleca</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.mamaemoleca.com.br/2015/07/vamos-conhecer-a.html' target='_blank'>
+Novo! Transforme a Brincadeira da Criançada em uma Grande Aventura com a Zalunira. [Grátis um jogo exclusivo!]
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/11HeRfQgdZgfPMuNY5SWmsFo3iBk-37rVWowD-WBx_AIkbOcrwpwca4C4MjjMBRCV7DGbGsSKmPCLTgrlaU9KoqJaMYqLA=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://algodaodocebiscuit.blogspot.com/' target='_blank'>
+ALGODÃO DOCE</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://algodaodocebiscuit.blogspot.com/2015/07/atencao.html' target='_blank'>
+Atenção!
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/BP0WaXCV8qE9fh0lNBOlAn3y-z4I820fycSlxSUNB8tUr66u8wgiQ7uyWcM6TPydBwWZZOACJBXdfaVB9umOJJzi=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://segundosprofes.blogspot.com/' target='_blank'>
+BLOG DOS SEGUNDOS PROFESSORES DA 4 GERED - CHAPECÓ</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://segundosprofes.blogspot.com/2015/05/festa-junina-modelos-de-lembrancinhas-e.html' target='_blank'>
+Festa junina - Modelos de lembrancinhas e enfeites para ornamentação.
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/FTRRrW7xTuGupgNAnVi04knqFgwJIas0dF5mqSAN9K9jNNVGcCfLDPTw8SLhFjS4ZkCr2ZRDaHvKl1DOL6F2dnfFSE6Ifb-ktu4vgw=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://allessamendesartesanatos.blogspot.com/' target='_blank'>
+Allessa Mendes Artesanatos</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://allessamendesartesanatos.blogspot.com/2015/05/ovelha-fofa.html' target='_blank'>
+Ovelha Fofa
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/FqdbLvH72fqnlhaPupQdxd9pVM2s1FQ9ebxWJPCjV6EMjlukGavL8yxKRCKZldNF_eN4B300RWr2GRhWmI3q3w=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://melhoresposa.blogspot.com/' target='_blank'>
+&#9829;</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://melhoresposa.blogspot.com/2015/05/sobre-vida-de-casada-quase-11-meses.html' target='_blank'>
+Sobre a vida de casada - Quase 11 meses!
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/WOyzGlMfPpC_sbKBuOdaotdNvrdZdffYm5m_hEOFvzQPAtk6DJ_SD98Ajrx_BcX7VBW-8Nh_xfZdWLyx=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://vemoraes.blogspot.com/' target='_blank'>
+Vê Moraes - Mania de Beleza</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://vemoraes.blogspot.com/2015/04/convite-com-envelope-embutido.html' target='_blank'>
+Convite com envelope embutido
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/4o4ILFkO0OoPxyOq_xLJwvFCDq06eUPir71GBAwHGisFsEarDV5HyE9dk4JZdf7wYOlQoOCLZvGcU1ikvJUOd4g=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://fernandamouta.blogspot.com/' target='_blank'>
+A Fê casou, e agora?</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://fernandamouta.blogspot.com/2015/04/the-end.html' target='_blank'>
+The End!
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/13Rdb8-9zPibbxTM2REX23tlqdzv6lYNPVwFKJe3VaanSzKpylmUGtC2TeUXzdgULqwY5oYa3Cee7BbZJL7IQo40y9i_ZJ_RXxUXt-9a_A=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://artesanatocomjornalbyaninha.blogspot.com/' target='_blank'>
+ARTES&#180;ANINHA ARTESANATOS EM FELTRO, TECIDOS E RECICLAGEM</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://artesanatocomjornalbyaninha.blogspot.com/2015/04/lembrancinhas-perfumadas-novidades.html' target='_blank'>
+LEMBRANCINHAS PERFUMADAS! NOVIDADES!
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/9CJ6xCtNt02Prj1W_H1E5KvgyPHkUMtTXOxzHbfxssz9-28YBLtVctfmtUz8XkKxJX-oNogxOzqnQ1qrOt3r=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://chrisdebeto.blogspot.com/' target='_blank'>
+Chris de Beto</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://chrisdebeto.blogspot.com/2015/03/aniversario-dos-meninos-1-ano.html' target='_blank'>
+Aniversário dos meninos - 1 ano
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/xKfPMTtiBz6DgUL7nURLKIOCaDemxzBN67UeIgJBGUtofp9e5kgJ5jmjpvP60aHW9vVg6m0oWylnW2nSVM0Z=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://superglamsg.blogspot.com/' target='_blank'>
+Super Glam !!!</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://superglamsg.blogspot.com/2015/02/como-e-estar-gravida.html' target='_blank'>
+Como é estar grávida !?
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/YNhpkukqDaWlTvLCcMjgm_BghKw2n-8UbiUwqiNihDScoQqElR3GKG_c7_2XOgA5zai-enJGno_j0eBgjA=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.aprendabiscuit.com/' target='_blank'>
+SALA DE AULA DO BISCUIT</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://feedproxy.google.com/~r/SalaDeAulaDoBiscuit/~3/pEK1hmZjSLk/pecas-de-cozinha-decoradas-com-biscuit.html' target='_blank'>
+Peças de cozinha decoradas com biscuit
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/eUL9ghOgfcAZXEGNzkmhgquAIxNBZHYxso9Iu3edYIoDnq6aN9zZqQh2FMDgc9S7GcvCqZlvpTHOajncamuE=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://luavaicasar.blogspot.com/' target='_blank'>
+Lua vai Casar!</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://luavaicasar.blogspot.com/2015/02/open-bar-checked.html' target='_blank'>
+Open Bar - Checked
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/UuFIUsaTSQgSau_Qly-lTTEIR-AM6tNk2mmwXAnInWt_POt3TDv4whHwDv4wHeS8yxZ5RPkCFu6pVCU7I7E=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.crescendojuntas.com/' target='_blank'>
+Crescendo Juntas</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.crescendojuntas.com/2015/02/dias-sem-pressa.html' target='_blank'>
+Dias sem pressa
+</a>
+</span>
+<div class='item-time'>
+Há 2 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/H5LkU8AfD-GoLWB056oVuBETHg4dQ7I_uZ5-y8AJOVUErni1WGkU74lVNBTTwQDGqQBWR-NzqAc1V-XIS8MIFhE=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://casandoem2014.blogspot.com/' target='_blank'>
+Projeto noiva 2014</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://casandoem2014.blogspot.com/2014/12/lua-de-mel-gramado-oesadelo-maceio.html' target='_blank'>
+LUA DE MEL (GRAMADO (oesadelo) + MACEIÓ)
+</a>
+</span>
+<div class='item-time'>
+Há 3 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/jKYGFuxEkOmBlKtwpAoN70ouVMsC_hIGlXZYwvk9FPj_PiD_yQA-dPYgSaYB7dj7BvSXP_yBLS5Nvw=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.sonhosdemel.com/' target='_blank'>
+Sonhos de Mel 'ੴ - Crafts em feltro e tecido</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://www.sonhosdemel.com/2014/10/corujinhas.html' target='_blank'>
+&#176;&#176;Corujinhas...
+</a>
+</span>
+<div class='item-time'>
+Há 3 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/c-dYDToUY21eYa-wp3TU2XXVVZuaDPhwhB4_7y1VGuO9FJTcml7BdY_I_FNOGviMesAktYWTANHywmY-K_WDoy2P=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://arteiricesdama.blogspot.com/' target='_blank'>
+Arteirices da Má</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://arteiricesdama.blogspot.com/2014/10/mais-texturas-nas-paredes-daqui-de-casa.html' target='_blank'>
+Mais texturas nas paredes daqui de casa!
+</a>
+</span>
+<div class='item-time'>
+Há 3 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/wI0C8RllW8ckpN1Iicy16eeU59yKmltJHwW3woKGy9wx-_Fv_-3KTbPShEZzXZE7RMd1fYmy1ROAD0x6tfXXNlFgbDI2qA=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://aesperadocasamento.blogspot.com/' target='_blank'>
+A Espera do Casamento</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://aesperadocasamento.blogspot.com/2014/09/de-volta.html' target='_blank'>
+De volta.
+</a>
+</span>
+<div class='item-time'>
+Há 3 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/D52DnWcPQgOcwE8z6hQzEWxE8VzXPUlPh-GCZeDjCzKK5ZfFG_yEC53tiDYpHYA3Lxi4cIWoYDBsYTgdUfUPzQ=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://donacharmosa.blogspot.com/' target='_blank'>
+Dona Charmosa!</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://feedproxy.google.com/~r/DonaCharmosa/~3/gcMsDRC7378/sempre-linda-com-vestido-preto.html' target='_blank'>
+Sempre linda com vestido preto!
+</a>
+</span>
+<div class='item-time'>
+Há 3 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/9FniGSJ27rVBEFctXm47voO8VSovjeBISaR9fmHKSQ7AFKKq1UYYLmlcTleeQ7ykue_QxBIKGPt5YUixlCayOGyNig=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://acasadaflavinha.blogspot.com/' target='_blank'>
+A casa da Flavinha</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://acasadaflavinha.blogspot.com/2014/07/cores-complementares.html' target='_blank'>
+Cores Complementares
+</a>
+</span>
+<div class='item-time'>
+Há 3 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/Sx608i5i90NFHPAu1NH4RAo8inUIilsOj1-dJ8iDP21IbqjODOu-JMrQh1Z_66mwHlZIZC_LdhOjG_fAnw0rBtcE=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://meulugarmelhor.blogspot.com/' target='_blank'>
+Meu Lugar Melhor</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://meulugarmelhor.blogspot.com/2014/07/batizado-e-ensaio-fotografico-da.html' target='_blank'>
+Batizado e Ensaio Fotográfico da Valentina
+</a>
+</span>
+<div class='item-time'>
+Há 3 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/6XEu5-PIyy4FNAcTiH2zfNyjHmpMEnm8VChiWnPf_2PFiBC0Eb4cHr0rDJ0Q3Km9FdWniAErid6sXq70isw=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://coisadakel.blogspot.com/' target='_blank'>
+COISAS DA KÉL</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://coisadakel.blogspot.com/2014/04/trico-no-dedinhoum-motivo-de-voltar.html' target='_blank'>
+Tricô no dedinho...um motivo de voltar.
+</a>
+</span>
+<div class='item-time'>
+Há 3 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/KDdb94xzZW0n0OYhJYH6tGhsTazvCTCjj_WBvIzC-tCxi1lvVY2SjfjTtealAEAm5fY10CAbjl6aTjg_dnblJd44NA=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.juntandoasescovas.com.br/' target='_blank'>
+Juntando as Escovas</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://feedproxy.google.com/~r/com/klyb/~3/aTtSrn2QEe4/primeira-farejada.html' target='_blank'>
+PRIMEIRA FAREJADA
+</a>
+</span>
+<div class='item-time'>
+Há 3 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/UGbpVnQ453rJDvXtkGVKxlt0zbxWrbObRxpMxG-VgXMUPpOg9dcE--tGpTH8ABs85UuhOrmp7Y3JXVDN-7S_=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://jardimlilas.blogspot.com/' target='_blank'>
+Jardim Lilas</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://jardimlilas.blogspot.com/2014/03/como-fazer-look-para-festa-do-purim.html' target='_blank'>
+Como fazer look para a Festa do Purim
+</a>
+</span>
+<div class='item-time'>
+Há 3 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/vgiwr-aBukjKPLnGdsrI5ItKEoo-sOKhw0SlG8xQSDwQc3Egn4QhfBKheakeqSFxuAThCGiXDMUez79Bec7hUwmch78zjA=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://artesa-monicaforti.blogspot.com/' target='_blank'>
+Mônica Forti</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://artesa-monicaforti.blogspot.com/2014/03/moldes-e-video-enfeite-porta.html' target='_blank'>
+Moldes e vídeo Enfeite Porta Maternidade Ursinho Menino em Feltro
+</a>
+</span>
+<div class='item-time'>
+Há 3 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/wGUGtgXY0OTCJHzz01OMcc29YZAAcnkczcQShpa8FdaJsuTI5hvUUHSLi_rEditFP80jmzuFCQu1GhqBdblK-o4HlqasfNdh=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://bemcasadaepontofinal.blogspot.com/' target='_blank'>
+Bem-Casada!</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://bemcasadaepontofinal.blogspot.com/2014/02/cakes-e-mais-cakesagora-minha-casa.html' target='_blank'>
+Cakes e mais Cakes....agora minha casa cheira bolos!!!!
+</a>
+</span>
+<div class='item-time'>
+Há 3 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/wqaYHdjVTT7HbeH8J7YSH_N1yLHt9Xv_wGIDm5u8OiIwJhErQQMZ0xyQuSOtiCGanK8G4MMtE6VyI6V0AGuAOcfSu1zE=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://camilasustentavel.blogspot.com/' target='_blank'>
+Camila  Demori- sustentável</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://camilasustentavel.blogspot.com/2014/01/19-salao-de-artesanato-da-pb.html' target='_blank'>
+19 Salão de Artesanato da PB
+</a>
+</span>
+<div class='item-time'>
+Há 3 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/K22vsh8Z5RIBQYZ9g0HMjEEDh9hXlmXFQnDEjpk347xehF9PBQxQ8nyTa2Ou10Trn3ENAWTJgfYtrPQ4F9OvcKs5O7Oa0Jw=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://sweetnovember-kathe.blogspot.com/' target='_blank'>
+Sweet November</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://sweetnovember-kathe.blogspot.com/2014/01/cha-de-cozinha-22-de-setembro.html' target='_blank'>
+Chá de cozinha - 22 de setembro
+</a>
+</span>
+<div class='item-time'>
+Há 3 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/cEK0fBBuU6SW805po-BumkReg-gCGSzN_8W3dx_unf6nk0IoPLo45qFA-Xxsukic9r7QXvuuqLMFciHWtgIwQ6GmhflT9q-o=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://artesanatopedagogico.blogspot.com/' target='_blank'>
+Artesanato Pedagógico</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://artesanatopedagogico.blogspot.com/2013/12/cadeiras-natalinas.html' target='_blank'>
+Cadeiras natalinas
+</a>
+</span>
+<div class='item-time'>
+Há 3 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/r1V2VvgtIQ99ZazSCCt6PCAirlqLErk0-zWmftNGr8fRe4VdNQpUqnpykVttZZzpH9nYkh92G1GVvsyjQuPy43uZu9uh=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://aprendiz-de-mae18.blogspot.com/' target='_blank'>
+Aprendiz de Mãe</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://aprendiz-de-mae18.blogspot.com/2013/09/bem-caprichado.html' target='_blank'>
+Bem caprichado
+</a>
+</span>
+<div class='item-time'>
+Há 4 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/t6H4o0ruRIWb5WBoGze3uhTHyq4prIxDU1R5pAJ5JaKmbwcMa4zE1fwDDAPENnB6FZkRQGk2N_ffJ9dHNQjCaQ=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://suartescriar.blogspot.com/' target='_blank'>
+Suartester</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://suartescriar.blogspot.com/2013/08/minhas-novas-artes.html' target='_blank'>
+Minhas novas artes !
+</a>
+</span>
+<div class='item-time'>
+Há 4 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/4-b2BfSl1kUe2JNu2Gf3u2TybzN8gqUSYh8Tek_FQYxmj6Bss1nRsf6FgvnEy5PEf0H-K_CbpEdooFULDdZk8fY=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://coisadeamanda.blogspot.com/' target='_blank'>
+Coisa de Amanda</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://coisadeamanda.blogspot.com/2013/07/painel-para-tv-diy.html' target='_blank'>
+Painel para TV DIY
+</a>
+</span>
+<div class='item-time'>
+Há 4 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/tbJcKAjDopvH3WfzxNn2ESEs5KSIYC2MpKmbXDSKc80BGDdY6ejQdVyf5UtOGaqJC4_TNnoDcu_kAlOwY--ms9M=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://casadicasetal.blogspot.com/' target='_blank'>
+Casa Dicas e tal</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://casadicasetal.blogspot.com/2013/05/passo-passo-da-flor-de-latinha.html' target='_blank'>
+Passo-a-passo da flor de latinha!
+</a>
+</span>
+<div class='item-time'>
+Há 4 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/dWM_Rkd_o2ftWMhKL1D8vFSZonZC1-TUKeSsRaR6pTPRxF8buP_CzFMs2GY72-fWQjiD1Eit6tgsR3zrh8UMGvM=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://janeladavania.blogspot.com/' target='_blank'>
+Janela Da Vânia</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://janeladavania.blogspot.com/2013/04/selinho-lindo-e-tag.html' target='_blank'>
+Selinho Lindo e TAG
+</a>
+</span>
+<div class='item-time'>
+Há 4 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/kdYwunionbVFvrkQ3jwUhdne_WtglPH1fL7YqyywBRbZ6OmH6x2ZBOFsZmwwlHF83_2YmopaOuqxr3idYSM18AgjxF0=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://maisquenamorados.blogspot.com/' target='_blank'>
+Mais que namorados!</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://maisquenamorados.blogspot.com/2012/12/arquivos-para-download-nao-serao-mais.html' target='_blank'>
+Arquivos para download não serão mais no 4shared!
+</a>
+</span>
+<div class='item-time'>
+Há 4 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/0wTval0caJmLa2MH2VmIyUoQSjCoXB2tmww0l8-ULmkyh6qW9wZMVABZDamf7Tp1bTT315D_GPlrHU_aI5UgxlP0oiM=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://nathaliamarielle.blogspot.com/' target='_blank'>
+A emoção de ser noiva !</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://nathaliamarielle.blogspot.com/2012/12/poiras-e-teias-de-aranhas-parte.html' target='_blank'>
+poiras e teias de aranhas a parte....
+</a>
+</span>
+<div class='item-time'>
+Há 4 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/2YEj_3wjgtKWmlUHxtSOkc9CHxmGlCcAuWzY7prC4KAxrLKz9w9aV9n24DrGLTIubmTjLgxst-N_6vknjd_sdiF3vWU=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://saraefalconielle.blogspot.com/' target='_blank'>
+[S]&amp;[F] Uma vida a dois</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://saraefalconielle.blogspot.com/2012/12/banheiro-social-e-adeus-sofa-vermelho.html' target='_blank'>
+Banheiro Social e adeus sofá vermelho
+</a>
+</span>
+<div class='item-time'>
+Há 5 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/ao6MwMPd9rXl6bNK5rYe3ZTD1o278f8vhYvMs1o0tjw12FacnsyhEDbeeK5q-05q-VyMiWf-ZullMnp1hlMl0PKNAx_he_oEzT0epWH_YQ=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://osonhodacasadossonhosdelili.blogspot.com/' target='_blank'>
+A Casinha de Lili e David</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://osonhodacasadossonhosdelili.blogspot.com/2012/12/e-as-banquetas-chegaram.html' target='_blank'>
+E as banquetas chegaram.....
+</a>
+</span>
+<div class='item-time'>
+Há 5 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/JBie7D4-J2i_-oHpnbc5x8GgHtxOqdB0mXTS1SJlBUe4HDkiYoLw_Tq3cFMqpv5KqbHvrF1JRzyOhB_db0_yI_hxoMo=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://bianquinhadeluxo.blogspot.com/' target='_blank'>
+Bianquinha de Luxo!</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://bianquinhadeluxo.blogspot.com/2012/08/louca-de-matrioskas_8170.html' target='_blank'>
+Louça de Matrioskas!!!
+</a>
+</span>
+<div class='item-time'>
+Há 5 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/sW_3xzDEr97aZeunJr_7q2b49tTXjiKqcLd79ms1Bb-Z9t3LReamMKN9suYWrlI3xcGRhNPXCtUrZrhK1V7FdvxT7XJS4QkVh6mdiQ=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://artesanatomundodossonhos.blogspot.com/' target='_blank'>
+Artesanato, mundo dos sonhos</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://feedproxy.google.com/~r/ArtesanatoMundoDosSonhos/~3/GunWU3QSLoQ/convite-casamento.html' target='_blank'>
+Convite Casamento
+</a>
+</span>
+<div class='item-time'>
+Há 5 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/sVuRB9lsdor5Gp--8HFO9AJEZvVK4G5LL1yWP6WsMhu92yTwAdfuc5kdLply5zKJL9LwUfbm2NuitouyuA3XImw-Gwc=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://cantinhobomdamah.blogspot.com/' target='_blank'>
+Cant!nho Bom Da MaBe</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://cantinhobomdamah.blogspot.com/2012/06/turbilhao-de-coisas.html' target='_blank'>
+Turbilhão de Coisas!
+</a>
+</span>
+<div class='item-time'>
+Há 5 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/mk1d7QcNoDHKVnbYzIRPXagR4DpPUtuZlIY9LAYUwmCEpW5E8LwyjgbIjAmQtNAzPQ1yxpXSQ7hmJthygmeI-V0Hoh0=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://theozinhodamamae.blogspot.com/' target='_blank'>
+Theozinho da Mamãe</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://theozinhodamamae.blogspot.com/2012/05/oieee-olha-eu-aqui-espanando-poeira-do.html' target='_blank'>
+</a>
+</span>
+<div class='item-time'>
+Há 5 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/WfyDqAzU3Cw1w-pzK2FvGovzbFP0Up5Fb8CFoUbp9ZrDCTIO7y8JHCAHK4ExFaRwb2creX8s5bTfdQnTKEGsSKfC4A=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://cupcakesalvador.blogspot.com/' target='_blank'>
+Cupcake Salvador</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://cupcakesalvador.blogspot.com/2010/06/recesso-de-sao-joao.html' target='_blank'>
+Recesso de São João
+</a>
+</span>
+<div class='item-time'>
+Há 7 anos
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/w7VZubAK7Z3j5lfXBRg3l6wcs_dyYs_NozGHG4NQiNomUronI17sVsdjCypqc-e-jvCA7TsaIXM5UQfx2hCm37BO_r9gdhmdLA=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://senhoritacasamenteira.blogspot.com/feeds/posts/default' target='_blank'>
+Srta. Casamenteira</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<!--Can't find substitution for tag [item.itemTitle]-->
+</span>
+<div class='item-time'>
+<!--Can't find substitution for tag [item.timePeriodSinceLastUpdate]-->
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/760UiyUfet7w22_jcyiE7dNWc25X1rS2aBfxgBWOhw3J14vzKcJCaawTWbovs9v3Dd1tsWF3IUYKW_7sB8jdoH8=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://meninaartista.blogspot.com/feeds/posts/default' target='_blank'>
+Menina Artista</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<!--Can't find substitution for tag [item.itemTitle]-->
+</span>
+<div class='item-time'>
+<!--Can't find substitution for tag [item.timePeriodSinceLastUpdate]-->
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/_b5Axrmhaw9FEhRBEN83mHg0GGWYT2tdMoOcxUF3uXt11Ui1Cj-klARa_W3fB9sjH7u0elX7U5_kQe417oYoGGSNiQ=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://minhasartescris.blogspot.com/feeds/posts/default' target='_blank'>
+Minhas Artes Cris</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<!--Can't find substitution for tag [item.itemTitle]-->
+</span>
+<div class='item-time'>
+<!--Can't find substitution for tag [item.timePeriodSinceLastUpdate]-->
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/3z1XolDJe8lM7dx7fqvAlCsfOPAwAif6YiETxU_JGUEoqTzpdkppoD8E3QpUiwZZR8dYmzLjRiqMDJY3nwY=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://arted-casa.blogspot.com/feeds/posts/default' target='_blank'>
+Arte D'Casa</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<!--Can't find substitution for tag [item.itemTitle]-->
+</span>
+<div class='item-time'>
+<!--Can't find substitution for tag [item.timePeriodSinceLastUpdate]-->
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/MGmTockSNGTCg_SAt8D3kq-hDQly6vadhKBLX4XXlaohJhWgsXcbMrHJMaMzD_qu0azvNsCvY-bDSI2v0QG9=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://uhullnoivei.blogspot.com/feeds/posts/default' target='_blank'>
+Uhull Noivei! O Blog de Casamentos de Santa Catarina</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<!--Can't find substitution for tag [item.itemTitle]-->
+</span>
+<div class='item-time'>
+<!--Can't find substitution for tag [item.timePeriodSinceLastUpdate]-->
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/eN03BqCo2FClwZ0CmmekkiOlbSUPOPHdufslKg0pID1I8O9WE0em3HVnNfTJ5bptkRxDwHVgVzQbUNMPEyg=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.kpassessoria.com.br/feeds/posts/default' target='_blank'>
+KP Assessoria & Cerimonial</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<!--Can't find substitution for tag [item.itemTitle]-->
+</span>
+<div class='item-time'>
+<!--Can't find substitution for tag [item.timePeriodSinceLastUpdate]-->
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/usgQolDw3X1DHp3YyKArGuw6FfT0srNu2NQPFlr76SxkOM-ZWZd3erLNcgAeXz3Knqzo0vVi2EbupxiT2F_Y9v-m=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://pikorruxamimos.blogspot.com/feeds/posts/default' target='_blank'>
+Pikorruxa Mimos</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<!--Can't find substitution for tag [item.itemTitle]-->
+</span>
+<div class='item-time'>
+<!--Can't find substitution for tag [item.timePeriodSinceLastUpdate]-->
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/VNsE-on0mYm2IxqRVkXzBhdOjOViPVsNCqDWqJJgusGnTNS2q1zTpEW2v2NF1ipMt1eO3tqa_7Jkhvkj4OBOPcX4sTj96NDsO9EzpxBII2g=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://sonhandocom-o-nossocasamento.blogspot.com/feeds/posts/default' target='_blank'>
+S C N C</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<!--Can't find substitution for tag [item.itemTitle]-->
+</span>
+<div class='item-time'>
+<!--Can't find substitution for tag [item.timePeriodSinceLastUpdate]-->
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh4.googleusercontent.com/proxy/UqhlR1arb-lBu1DEI1flgbpNilOL_3hBeejnZu-P9VOqN0zMU5maJsrkBrlcjF-WV8m3RPqRhAbpqbEaMRPdbA=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://casoriodicas.blogspot.com/feeds/posts/default' target='_blank'>
+O Casório: dicas e idéias</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<!--Can't find substitution for tag [item.itemTitle]-->
+</span>
+<div class='item-time'>
+<!--Can't find substitution for tag [item.timePeriodSinceLastUpdate]-->
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/WY846cjxBd4I1Ly_GtSGiOY8yCyIDHLaO4aBL8tXReR36l4bBcAa2YitB7aw4mvX6ltoRYXNIvvIpdlTSvyjTnw=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://gabiehenrique.blogspot.com/feeds/posts/default' target='_blank'>
+O dia em que vou dizer SIM</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<!--Can't find substitution for tag [item.itemTitle]-->
+</span>
+<div class='item-time'>
+<!--Can't find substitution for tag [item.timePeriodSinceLastUpdate]-->
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/c1F3QGZx5OS3Gw-vG5PkX_Cr41szfZ4aGCAIODgVdka076gWHd1-HJCTg4BrA6IZ2wqf1iGicRgHbk5sdo8=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.centraldomdf.com.br/feeds/posts/default' target='_blank'>
+Central do MDF</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<!--Can't find substitution for tag [item.itemTitle]-->
+</span>
+<div class='item-time'>
+<!--Can't find substitution for tag [item.timePeriodSinceLastUpdate]-->
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/JahaGeVo2QI99XquxnTN9UwlPcn7q36IQkSB1d5kqmR3-PSu-cSuf0VUNxUtZSMdCXAy29k8mcSPF3xCdgN5R8w=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://mayanaejeomar.blogspot.com/feeds/posts/default' target='_blank'>
+Mayana &amp; Jeomar</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<!--Can't find substitution for tag [item.itemTitle]-->
+</span>
+<div class='item-time'>
+<!--Can't find substitution for tag [item.timePeriodSinceLastUpdate]-->
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh6.googleusercontent.com/proxy/xMwRNmL6LPZmVrpxv1Nln5xzANsIBv1LClykAEBt03zcauALZQrsfWiN3_IFQpm13lxiZ16iAvwCGDkNLo5k=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.namoradacriativa.com/feeds/posts/default' target='_blank'>
+Namorada Criativa</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<!--Can't find substitution for tag [item.itemTitle]-->
+</span>
+<div class='item-time'>
+<!--Can't find substitution for tag [item.timePeriodSinceLastUpdate]-->
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh5.googleusercontent.com/proxy/2PYDdZKiw7IQjEK12a7FTSdDW13HCb_eBlw6MgODkxccWme4ZxT1nPlXn-fHCWqD0qvXZGIqzze6b0YvihwNgssw6zYykKw=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://detudoumpoucosinara.blogspot.com/feeds/posts/default' target='_blank'>
+De tudo um pouco</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<!--Can't find substitution for tag [item.itemTitle]-->
+</span>
+<div class='item-time'>
+<!--Can't find substitution for tag [item.timePeriodSinceLastUpdate]-->
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: none;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/proxy/0noZU-9fGh7fMa1RcdHKcFBFuR6MPsxaFgp1ewgFNz1L5vhDRs5Xj7-tsoXCwhXMmfIdaMkep0USb49cPYnBljtk=s0-d' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://casinhaarteira.blogspot.com/feeds/posts/default' target='_blank'>
+Casinha Arteira e Cia</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<!--Can't find substitution for tag [item.itemTitle]-->
+</span>
+<div class='item-time'>
+<!--Can't find substitution for tag [item.timePeriodSinceLastUpdate]-->
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+</ul>
+<div class='show-option'>
+<span id='BlogList1_show-n' style='display: none;'>
+<a href='javascript:void(0)' onclick='return false;'>
+Mostrar 5
+</a>
+</span>
+<span id='BlogList1_show-all' style='margin-left: 5px;'>
+<a href='javascript:void(0)' onclick='return false;'>
+Mostrar todos
+</a>
+</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7529728584213553704&widgetType=BlogList&widgetId=BlogList1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogList1"));' target='configBlogList1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div>
+</div><div class='widget Text' data-version='1' id='Text4'>
+<h2 class='title'>Frase</h2>
+<div class='widget-content'>
+<line-height: font-size:15px="" font-family:arial="" 17px="">&#8220;O nosso amor é como árvore plantada junto a corrente de águas, que no devido tempo dará os seus melhores frutos, e cuja as folhas nunca murcharão.&#8221;</line-height:><br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7529728584213553704&widgetType=Text&widgetId=Text4&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text4"));' target='configText4' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Attribution' data-version='1' id='Attribution1'>
+<div class='widget-content' style='text-align: center;'>
+Tecnologia do <a href='https://www.blogger.com' target='_blank'>Blogger</a>.
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7529728584213553704&widgetType=Attribution&widgetId=Attribution1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Attribution1"));' target='configAttribution1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div>
+</div>
+<!-- spacer for skins that want sidebar and main to be the same height-->
+<div class='clear'>&#160;</div>
+</div>
+<!-- end content-wrapper -->
+</div></div>
+<!-- end outer-wrapper -->
+</div>
+<div id='footer-bg'>
+<div id='footer'>
+<!-- Remmeber!!! This free Blogger template is licensed under the Creative Commons Attribution 3.0 License. You are required to keep the footer links intact which provides due credit to its Author and Supporters. If you have plan to remove or add any link, its better for you, not to use the template. -->
+<div class='fleft'> 
+     (c) Copyright 2010 <a href='https://sonhandocom-o-nossocasamento.blogspot.com/'>S C N C</a>. Designed by <a alt='Blogger Templates' href='http://www.deluxetemplates.net/'>Blogger Templates</a></div>
+<div class='fright'> Supported by <a href='http://www.micweddingdresses.com'>Wedding Dresses</a>, <a href='http://www.micweddingdresses.com'>Bridesmaid Dresses</a>, <a href='http://www.foxvacations.com'>All-Inclusive Vacations</a>
+</div>
+</div>
+<div class='clear'></div>
+</div>
+<script src='https://apis.google.com/js/plusone.js' type='text/javascript'></script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2060351197-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY55GAk0XxW5i4moOJddLibanoWmfw:1513070648871';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7529728584213553704','//sonhandocom-o-nossocasamento.blogspot.com/','7529728584213553704');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7529728584213553704', 'title': 'S C N C', 'url': 'https://sonhandocom-o-nossocasamento.blogspot.com/', 'canonicalUrl': 'https://sonhandocom-o-nossocasamento.blogspot.com/', 'homepageUrl': 'https://sonhandocom-o-nossocasamento.blogspot.com/', 'searchUrl': 'https://sonhandocom-o-nossocasamento.blogspot.com/search', 'canonicalHomepageUrl': 'https://sonhandocom-o-nossocasamento.blogspot.com/', 'blogspotFaviconUrl': 'https://sonhandocom-o-nossocasamento.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'pt-BR', 'localeUnderscoreDelimited': 'pt_br', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22S C N C - Atom\x22 href\x3d\x22https://sonhandocom-o-nossocasamento.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22S C N C - RSS\x22 href\x3d\x22https://sonhandocom-o-nossocasamento.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22S C N C - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/7529728584213553704/posts/default\x22 /\x3e\n', 'meTag': '', 'openIdOpTag': '\x3clink rel\x3d\x22openid.server\x22 href\x3d\x22https://www.blogger.com/openid-server.g\x22 /\x3e\n\x3clink rel\x3d\x22openid.delegate\x22 href\x3d\x22https://sonhandocom-o-nossocasamento.blogspot.com/\x22 /\x3e\n', 'adsenseClientId': 'ca-pub-5589647116439982', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': true, 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/e62d4a6ed47c4f7e', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sharing': {'platforms': [{'name': 'Gerar link', 'key': 'link', 'shareMessage': 'Gerar link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Compartilhar no Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Compartilhar no Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Compartilhar no Pinterest', 'target': 'pinterest'}, {'name': 'Google+', 'key': 'googlePlus', 'shareMessage': 'Compartilhar no Google+', 'target': 'googleplus'}, {'name': 'E-mail', 'key': 'email', 'shareMessage': 'E-mail', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27pt_BR\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Leia mais', 'pageType': 'index', 'pageName': '', 'pageTitle': 'S C N C'}}, {'name': 'features', 'data': {'lazy_images': 'false', 'unsupported_browser_message': 'false', 'sharing_get_link_dialog': 'false', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Editar', 'linkCopiedToClipboard': 'Link copiado para a área de transferência.', 'ok': 'Ok', 'postLink': 'Link da postagem'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Personalizar', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'S C N C', 'description': 'Sonhando Com o Nosso Casamento', 'url': 'https://sonhandocom-o-nossocasamento.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'crosscol', null, document.getElementById('PageList1'), {'title': '', 'links': [], 'mobile': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'useNgc': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/3319448110-lbx__pt_br.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'main', null, document.getElementById('HTML4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'main', null, document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image1', 'sidebar', null, document.getElementById('Image1'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AdSenseView', new _WidgetInfo('AdSense3', 'sidebar', null, document.getElementById('AdSense3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PlusFollowersView', new _WidgetInfo('PlusFollowers1', 'sidebar', null, document.getElementById('PlusFollowers1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar', null, document.getElementById('Followers1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image2', 'sidebar', null, document.getElementById('Image2'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text1', 'sidebar', null, document.getElementById('Text1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image3', 'sidebar', null, document.getElementById('Image3'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text2', 'sidebar', null, document.getElementById('Text2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AdSenseView', new _WidgetInfo('AdSense2', 'sidebar', null, document.getElementById('AdSense2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar', null, document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Carregando\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebar', null, document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'sidebar', null, document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogListView', new _WidgetInfo('BlogList1', 'sidebar', null, document.getElementById('BlogList1'), {'numItemsToShow': 5, 'totalItems': 132}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text4', 'sidebar', null, document.getElementById('Text4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'sidebar', null, document.getElementById('Attribution1'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>

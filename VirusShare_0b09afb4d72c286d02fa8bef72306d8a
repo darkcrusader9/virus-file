@@ -1,0 +1,7 @@
+document.write('<iframe id="WF_77_4874_3853" style="padding:0px;margin:0px;" src="//www.wsoddata.com/creatives/8bec9b10/ads/300x250_symbolSpecific/300x250_symbolSpecific_v1.asp?click=//ad.wsod.com/click/8bec9b10877d5d7fd7c0fb6e6a631357/4874.3853.js.300x250.1513885625.B95545a3c0fb95ee6f.3467.__304.0.18_5_11/**;17;1920x1200x1;http:_@2F_@2Ffinance.yahoo.com_@2Fq_@3Fs=pg_@26ql=1;;&symbol=PG&issue_type=CS&name=Procter+%26+Gamble+Co&wsodissue=228324&placementid=4874&campaignid=77&creativeid=3853&ruleid=248&uid=B95545a3c0fb95ee6f&recent=&" title="Knowledge. Support. Transparent Pricing. More reasons to say I\'m with Scottrade. Click to learn more!" border="0" frameBorder="0" scrolling="no" width="300" height="250"></iframe>');wsod.ad = {'a':'8bec9b10877d5d7fd7c0fb6e6a631357','p':4874};
+
+(function(w,n,a,p){w[n]||(w[n]={});w[n][a]||(w[n][a]={});w[n][a][p]=
+	{'a':a,'p':p,'cp':77,'c':3853,'r':248,'d':'300x250','v':'20140305','t':'1513885625','x':'3467','u':'B95545a3c0fb95ee6f','f':'0','b':'//ad.wsod.com/','ct':'__304','fb':'0','mt':'18_5_11'}
+})(window,'wsod_ad','8bec9b10877d5d7fd7c0fb6e6a631357',4874);
+wsod_ad['8bec9b10877d5d7fd7c0fb6e6a631357'][4874].adchoices = {'position':'TR'};
+					document.write('<span id="adchoices_8bec9b10877d5d7fd7c0fb6e6a631357_4874"><script type="text/javascript" src="//ad.wsodcdn.com/resources/scripts/oba-38cd30.js"></script></span>');document.write('<script type="text/javascript" src="//ad.wsodcdn.com/adview/madview-min-0.0.14-1.js"></script>');

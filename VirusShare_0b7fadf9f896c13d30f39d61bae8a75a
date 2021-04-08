@@ -1,0 +1,988 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+<meta charset="UTF-8" />
+
+<title>Demona Human</title>
+
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://hotnewsjamaica.com/wp-content/themes/Transcript/style.css" />
+	
+	
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://hotnewsjamaica.com/?feed=rss2" />	
+	<link rel="pingback" href="http://hotnewsjamaica.com/xmlrpc.php" />
+
+	<link rel="alternate" type="application/rss+xml" title="Hot News Jamaica &raquo; Feed" href="http://hotnewsjamaica.com/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Hot News Jamaica &raquo; Comments Feed" href="http://hotnewsjamaica.com/?feed=comments-rss2" />
+<script type='text/javascript' src='http://p.jwpcdn.com/6/4/jwplayer.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://hotnewsjamaica.com/wp-includes/js/jquery/jquery.js?ver=1.7.2'></script>
+<script type='text/javascript' src='http://hotnewsjamaica.com/wp-content/themes/Transcript/inc/js/contentslider.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://hotnewsjamaica.com/wp-content/themes/Transcript/inc/js/slides.min.jquery.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://hotnewsjamaica.com/wp-content/themes/Transcript/inc/js/jCarouselLite.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://hotnewsjamaica.com/wp-content/themes/Transcript/inc/js/script.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://hotnewsjamaica.com/wp-content/themes/Transcript/inc/js/flowplayer-3.2.6.min.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://hotnewsjamaica.com/wp-content/themes/Transcript/inc/js/superfish-1.4.8.js?ver=3.4.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://hotnewsjamaica.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://hotnewsjamaica.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.4.2" />
+<script type="text/javascript">jwplayer.defaults = { "ph": 2 };</script>
+            <script type="text/javascript">
+            if (typeof(jwp6AddLoadEvent) == 'undefined') {
+                function jwp6AddLoadEvent(func) {
+                    var oldonload = window.onload;
+                    if (typeof window.onload != 'function') {
+                        window.onload = func;
+                    } else {
+                        window.onload = function() {
+                            if (oldonload) {
+                                oldonload();
+                            }
+                            func();
+                        }
+                    }
+                }
+            }
+            </script>
+
+            <link href="http://hotnewsjamaica.com/wp-content/themes/Transcript/styles/default.css" rel="stylesheet" type="text/css" />
+			<link rel="shortcut icon" href="http://hotnewsjamaica.com/wp-content/themes/Transcript/inc/admin/images/favicon.ico" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #000000; }
+</style>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+
+<div class="wrapper">
+
+	<div id="masthead"></div>
+	
+	<div id="header">
+	
+	
+				
+		<div id="logo" style="padding:15px 0 15px 15px;">
+		
+							<a href="http://hotnewsjamaica.com/" title="Jamaica&#039;s Choice">
+					<img src="http://hotnewsjamaica.com/wp-content/uploads/2012/11/HotLogo1.jpg" alt="Hot News Jamaica" title="Hot News Jamaica"/>
+				</a>
+					</div><!-- /logo -->
+		
+		<div class="banner">
+					</div>
+			
+				<div class="clear"></div>	
+		
+		
+	</div><!-- /header -->
+		
+	<div class="clear"></div>		
+	
+	<div id="mainmenu">
+		<ul id="menu-latest-news" class="mainnav dropdown"><li id="menu-item-58" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58"><a href="http://hotnewsjamaica.com/?cat=5">SPORTS</a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-63"><a href="http://hotnewsjamaica.com/?cat=6">ENTERTAINMENT</a>
+<ul class="sub-menu">
+	<li id="menu-item-100" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-100"><a href="http://hotnewsjamaica.com/?cat=8">Public Relations</a></li>
+</ul>
+</li>
+<li id="menu-item-99" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-99"><a href="http://hotnewsjamaica.com/?cat=1">LATEST NEWS</a></li>
+<li id="menu-item-292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-292"><a href="http://hotnewsjamaica.com/?page_id=290">MUSIC DOWNLOADS</a></li>
+</ul>		<div class="clear"></div>	
+	</div>
+	
+	<div id="submenu">
+		<div class="secondarynav dropdown"><ul><li class="page_item page-item-2"><a href="http://hotnewsjamaica.com/?page_id=2">Hot News</a></li><li class="page_item page-item-290"><a href="http://hotnewsjamaica.com/?page_id=290">MUSIC DOWNLOADS</a></li></ul></div>
+	
+		
+		<div id="search">
+			<form id="searchform" action="http://hotnewsjamaica.com">
+	<fieldset>
+		<input type="text" id="s" name="s" value="Search in site..." onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"/>
+		<input type="image" id="searchsubmit" src="http://hotnewsjamaica.com/wp-content/themes/Transcript/images/button_go.gif" alt="Search in site..." /> 
+	</fieldset>
+</form>		</div><!-- /search -->
+		<div class="clear"></div>	
+	</div>
+	
+	<div class="clear"></div> 
+	<div id="primarytopwrapper">
+		
+		<div id="primary-content">
+			<div id="featured-wrapper">
+				<div id="paginate-featured-slider"></div>
+									<!-- featured entries -->
+					<div id="featured-slider" class="sliderwrapper">
+												<div class="contentdiv">
+							<div class="sliderPostPhoto">
+
+								<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FVybz-Kartel-F.jpg&amp;q=90&amp;w=340&amp;h=254&amp;zc=1" class="alignnone" alt="" />
+																	<div class="sliderPostInfo">
+										<h2 class="featuredTitle"><a href="http://hotnewsjamaica.com/?p=374" rel="bookmark">VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014</a></h2>
+									</div>
+															</div><!-- end of sliderphoto/video -->
+
+							<!-- Slider Post Excerpt -->
+							<div class="featuredpost lastpost">
+								<p>
+																									
+									The jurors in the much-publicized Vybz Kartel murder trial have been told to rest until January 6, 2014. The beleaguered dancehall deejay appears to remain hopeful since his trial started&hellip;
+								</p>
+
+								<span class="postmeta">December 21, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=374" title="Permalink to VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014" rel="bookmark">Read More</a></span>								
+							</div><!-- end of featuredpost (post excerpt) -->
+							
+						</div><!-- end of contentdiv -->
+												<div class="contentdiv">
+							<div class="sliderPostPhoto">
+
+								<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FShaggy-F.jpg&amp;q=90&amp;w=340&amp;h=254&amp;zc=1" class="alignnone" alt="" />
+																	<div class="sliderPostInfo">
+										<h2 class="featuredTitle"><a href="http://hotnewsjamaica.com/?p=370" rel="bookmark">SHAGGY IS THE RICHEST JAMAICAN ENTERTAINER STILL LIVING</a></h2>
+									</div>
+															</div><!-- end of sliderphoto/video -->
+
+							<!-- Slider Post Excerpt -->
+							<div class="featuredpost lastpost">
+								<p>
+																									
+									Shaggy is the wealthiest living Jamaican entertainer. However, it is the estate of Bob Marley that boasts the richest under the black-gold and –green banner of Jamaica. While Shaggy’s assets&hellip;
+								</p>
+
+								<span class="postmeta">December 21, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=370" title="Permalink to SHAGGY IS THE RICHEST JAMAICAN ENTERTAINER STILL LIVING" rel="bookmark">Read More</a></span>								
+							</div><!-- end of featuredpost (post excerpt) -->
+							
+						</div><!-- end of contentdiv -->
+												<div class="contentdiv">
+							<div class="sliderPostPhoto">
+
+								<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FGun-Machine.jpg&amp;q=90&amp;w=340&amp;h=254&amp;zc=1" class="alignnone" alt="" />
+																	<div class="sliderPostInfo">
+										<h2 class="featuredTitle"><a href="http://hotnewsjamaica.com/?p=353" rel="bookmark">ST. JAMES IS STILL THE MURDER CAPITAL OF JAMAICA</a></h2>
+									</div>
+															</div><!-- end of sliderphoto/video -->
+
+							<!-- Slider Post Excerpt -->
+							<div class="featuredpost lastpost">
+								<p>
+																									
+									On Saturday, December 6, 2013 the Security Minister, the Commissioner of Police and head of crime in St. James all breathed a sigh of disgust as the murder figure in&hellip;
+								</p>
+
+								<span class="postmeta">December 14, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=353" title="Permalink to ST. JAMES IS STILL THE MURDER CAPITAL OF JAMAICA" rel="bookmark">Read More</a></span>								
+							</div><!-- end of featuredpost (post excerpt) -->
+							
+						</div><!-- end of contentdiv -->
+												<div class="contentdiv">
+							<div class="sliderPostPhoto">
+
+								<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F07%2FGun-Colt.jpg&amp;q=90&amp;w=340&amp;h=254&amp;zc=1" class="alignnone" alt="" />
+																	<div class="sliderPostInfo">
+										<h2 class="featuredTitle"><a href="http://hotnewsjamaica.com/?p=330" rel="bookmark">23 MORE YEARS BEFORE DRYSDALE CAN RAPE ANOTHER WOMAN</a></h2>
+									</div>
+															</div><!-- end of sliderphoto/video -->
+
+							<!-- Slider Post Excerpt -->
+							<div class="featuredpost lastpost">
+								<p>
+																									
+									*John Wayne Bobbit And Mrs. Becker’s Husband Know The Pain Of Losing A Penis If Patrick Drysdale has his mind set on raping another woman, he will have to wait&hellip;
+								</p>
+
+								<span class="postmeta">July 23, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=330" title="Permalink to 23 MORE YEARS BEFORE DRYSDALE CAN RAPE ANOTHER WOMAN" rel="bookmark">Read More</a></span>								
+							</div><!-- end of featuredpost (post excerpt) -->
+							
+						</div><!-- end of contentdiv -->
+												<div class="contentdiv">
+							<div class="sliderPostPhoto">
+
+								<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F07%2FWayne-Whyte-F.jpg&amp;q=90&amp;w=340&amp;h=254&amp;zc=1" class="alignnone" alt="" />
+																	<div class="sliderPostInfo">
+										<h2 class="featuredTitle"><a href="http://hotnewsjamaica.com/?p=317" rel="bookmark">KOOL  97 DEEJAY GETS COOL 14 YEARS BEHIND BARS FOR ATTEMPTED MURDER</a></h2>
+									</div>
+															</div><!-- end of sliderphoto/video -->
+
+							<!-- Slider Post Excerpt -->
+							<div class="featuredpost lastpost">
+								<p>
+																									
+									After finally pleading guilty on June 26, 2013 for attempting to murder his girlfriend Jody-Ann Gray who was in an advanced state of pregnancy at the time, Kool 97 FM&hellip;
+								</p>
+
+								<span class="postmeta">July 8, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=317" title="Permalink to KOOL  97 DEEJAY GETS COOL 14 YEARS BEHIND BARS FOR ATTEMPTED MURDER" rel="bookmark">Read More</a></span>								
+							</div><!-- end of featuredpost (post excerpt) -->
+							
+						</div><!-- end of contentdiv -->
+												<div class="contentdiv">
+							<div class="sliderPostPhoto">
+
+								<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F07%2FPaulla-Llewellyn-Hot-News1.jpg&amp;q=90&amp;w=340&amp;h=254&amp;zc=1" class="alignnone" alt="" />
+																	<div class="sliderPostInfo">
+										<h2 class="featuredTitle"><a href="http://hotnewsjamaica.com/?p=310" rel="bookmark">DPP GIVES FULL DETAILS OF JODI-ANN GRAY VS WAYNE WHYTE SAGA</a></h2>
+									</div>
+															</div><!-- end of sliderphoto/video -->
+
+							<!-- Slider Post Excerpt -->
+							<div class="featuredpost lastpost">
+								<p>
+																									
+									Following the June 26, 2013 guilty plea by the accused in the 2012 gun attack on Kool 97FM broadcaster Jodi-Ann Gray, the Director of Public Prosecution, Paula Llewellyn has released&hellip;
+								</p>
+
+								<span class="postmeta">July 1, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=310" title="Permalink to DPP GIVES FULL DETAILS OF JODI-ANN GRAY VS WAYNE WHYTE SAGA" rel="bookmark">Read More</a></span>								
+							</div><!-- end of featuredpost (post excerpt) -->
+							
+						</div><!-- end of contentdiv -->
+											</div><!-- end of #featured-slider -->
+
+					<script type="text/javascript">
+						featuredcontentslider.init({
+							id: "featured-slider", //id of main slider DIV
+							contentsource: ["inline", ""], //Valid values: ["inline", ""] or ["ajax", "path_to_file"]
+							toc: "#increment", //Valid values: "#increment", "markup", ["label1", "label2", etc]
+							nextprev: ["Prev", "Next"], //labels for "prev" and "next" links. Set to "" to hide.
+							revealtype: "click", //Behavior of pagination links to reveal the slides: "click" or "mouseover"
+							enablefade: [true, 0.4], //[true/false, fadedegree]
+							autorotate: [true, 5000], //[true/false, pausetime]
+							onChange: function(previndex, curindex){ //event handler fired whenever script changes slide
+								//previndex holds index of last slide viewed b4 current (1=1st slide, 2nd=2nd etc)
+								//curindex holds index of currently shown slide (1=1st slide, 2nd=2nd etc)
+							}
+						})
+					</script>
+					<!-- End of featured slider -->
+								
+				<div id="archives-2" class="widget widget_archive"><div class="widgetinner"><h3 class="widgettitle">Archives</h3>
+		<ul>
+			<li><a href='http://hotnewsjamaica.com/?m=201312' title='December 2013'>December 2013</a></li>
+	<li><a href='http://hotnewsjamaica.com/?m=201307' title='July 2013'>July 2013</a></li>
+	<li><a href='http://hotnewsjamaica.com/?m=201306' title='June 2013'>June 2013</a></li>
+	<li><a href='http://hotnewsjamaica.com/?m=201304' title='April 2013'>April 2013</a></li>
+	<li><a href='http://hotnewsjamaica.com/?m=201303' title='March 2013'>March 2013</a></li>
+	<li><a href='http://hotnewsjamaica.com/?m=201212' title='December 2012'>December 2012</a></li>
+	<li><a href='http://hotnewsjamaica.com/?m=201211' title='November 2012'>November 2012</a></li>
+		</ul>
+</div></div>
+<div id="categories-2" class="widget widget_categories"><div class="widgetinner"><h3 class="widgettitle">Categories</h3>
+		<ul>
+	<li class="cat-item cat-item-6"><a href="http://hotnewsjamaica.com/?cat=6" title="View all posts filed under ENTERTAINMENT">ENTERTAINMENT</a> (3)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://hotnewsjamaica.com/?cat=1" title="View all posts filed under LATEST NEWS">LATEST NEWS</a> (9)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://hotnewsjamaica.com/?cat=5" title="View all posts filed under SPORTS">SPORTS</a> (4)
+</li>
+		</ul>
+</div></div>
+	
+				
+				<!-- Entries below the featured section -->
+
+								<div id="belowfeatured">
+					<span class="catname">
+						<a href="http://hotnewsjamaica.com/?cat=1">LATEST NEWS</a>
+					</span>				
+				
+										<div class="featuredpost">
+						<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=374" title="VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014" rel="bookmark">VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014</a></h2>
+							
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FVybz-Kartel-F.jpg&amp;q=90&amp;w=90&amp;h=80&amp;zc=1" class="alignleft" alt="" />						
+						<p>
+																						
+							The jurors in the much-publicized Vybz Kartel murder trial have been told to rest until January 6, 2014. The beleaguered dancehall deejay appears to remain hopeful since his&hellip;
+						</p>
+							
+						<span class="postmeta">December 21, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=374" title="Permalink to VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014" rel="bookmark">Read More</a></span>					</div>
+									<div class="featuredpost lastpost">
+						<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=370" title="SHAGGY IS THE RICHEST JAMAICAN ENTERTAINER STILL LIVING" rel="bookmark">SHAGGY IS THE RICHEST JAMAICAN ENTERTAINER STILL LIVING</a></h2>
+							
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FShaggy-F.jpg&amp;q=90&amp;w=90&amp;h=80&amp;zc=1" class="alignleft" alt="" />						
+						<p>
+																						
+							Shaggy is the wealthiest living Jamaican entertainer. However, it is the estate of Bob Marley that boasts the richest under the black-gold and –green banner of Jamaica. While&hellip;
+						</p>
+							
+						<span class="postmeta">December 21, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=370" title="Permalink to SHAGGY IS THE RICHEST JAMAICAN ENTERTAINER STILL LIVING" rel="bookmark">Read More</a></span>					</div>
+								</div>
+								
+				<div id="about_widget-2" class="widget about_widget"><div class="widgetinner"><h3 class="widgettitle">About</h3>
+<div class="widget_avatar"><img alt='' src='http://1.gravatar.com/avatar/188fd14adc63aa52e6d6711cf6dbf4e6?s=50&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D50&amp;r=G' class='avatar avatar-50 photo' height='50' width='50' /></div><p></p><div class="clear"></div></div></div>
+	
+				<!-- End of entries below the featured section -->
+			</div><!-- Enf of featuredContent -->
+			
+			<div id="primarymid">
+
+					
+				
+									<!-- Entries on middle column on the right side of Featured section -->
+					
+					<span class="catname">
+						<a href="http://hotnewsjamaica.com/?cat=1">LATEST NEWS</a>
+					</span>				
+					
+											<div class="featuredpost">
+							
+							<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=374" title="VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014" rel="bookmark">VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014</a></h2>
+							
+							<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FVybz-Kartel-F.jpg&amp;q=90&amp;w=60&amp;h=55&amp;zc=1" class="alignright" alt="" />							
+							<p>
+																								The jurors in the much-publicized Vybz Kartel murder trial have been told to rest until&hellip;
+							</p>
+					
+							<span class="postmeta">December 21, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=374" title="Permalink to VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014" rel="bookmark">Read More</a></span>						</div>
+											<div class="featuredpost">
+							
+							<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=370" title="SHAGGY IS THE RICHEST JAMAICAN ENTERTAINER STILL LIVING" rel="bookmark">SHAGGY IS THE RICHEST JAMAICAN ENTERTAINER STILL LIVING</a></h2>
+							
+							<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FShaggy-F.jpg&amp;q=90&amp;w=60&amp;h=55&amp;zc=1" class="alignright" alt="" />							
+							<p>
+																								Shaggy is the wealthiest living Jamaican entertainer. However, it is the estate of Bob Marley&hellip;
+							</p>
+					
+							<span class="postmeta">December 21, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=370" title="Permalink to SHAGGY IS THE RICHEST JAMAICAN ENTERTAINER STILL LIVING" rel="bookmark">Read More</a></span>						</div>
+											<div class="featuredpost">
+							
+							<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=353" title="ST. JAMES IS STILL THE MURDER CAPITAL OF JAMAICA" rel="bookmark">ST. JAMES IS STILL THE MURDER CAPITAL OF JAMAICA</a></h2>
+							
+							<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FGun-Machine.jpg&amp;q=90&amp;w=60&amp;h=55&amp;zc=1" class="alignright" alt="" />							
+							<p>
+																								On Saturday, December 6, 2013 the Security Minister, the Commissioner of Police and head of&hellip;
+							</p>
+					
+							<span class="postmeta">December 14, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=353" title="Permalink to ST. JAMES IS STILL THE MURDER CAPITAL OF JAMAICA" rel="bookmark">Read More</a></span>						</div>
+											<div class="featuredpost">
+							
+							<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=330" title="23 MORE YEARS BEFORE DRYSDALE CAN RAPE ANOTHER WOMAN" rel="bookmark">23 MORE YEARS BEFORE DRYSDALE CAN RAPE ANOTHER WOMAN</a></h2>
+							
+							<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F07%2FGun-Colt.jpg&amp;q=90&amp;w=60&amp;h=55&amp;zc=1" class="alignright" alt="" />							
+							<p>
+																								*John Wayne Bobbit And Mrs. Becker’s Husband Know The Pain Of Losing A Penis If&hellip;
+							</p>
+					
+							<span class="postmeta">July 23, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=330" title="Permalink to 23 MORE YEARS BEFORE DRYSDALE CAN RAPE ANOTHER WOMAN" rel="bookmark">Read More</a></span>						</div>
+											<div class="featuredpost">
+							
+							<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=317" title="KOOL  97 DEEJAY GETS COOL 14 YEARS BEHIND BARS FOR ATTEMPTED MURDER" rel="bookmark">KOOL  97 DEEJAY GETS COOL 14 YEARS BEHIND BARS FOR ATTEMPTED MURDER</a></h2>
+							
+							<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F07%2FWayne-Whyte-F.jpg&amp;q=90&amp;w=60&amp;h=55&amp;zc=1" class="alignright" alt="" />							
+							<p>
+																								After finally pleading guilty on June 26, 2013 for attempting to murder his girlfriend Jody-Ann&hellip;
+							</p>
+					
+							<span class="postmeta">July 8, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=317" title="Permalink to KOOL  97 DEEJAY GETS COOL 14 YEARS BEHIND BARS FOR ATTEMPTED MURDER" rel="bookmark">Read More</a></span>						</div>
+											<div class="featuredpost lastpost">
+							
+							<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=310" title="DPP GIVES FULL DETAILS OF JODI-ANN GRAY VS WAYNE WHYTE SAGA" rel="bookmark">DPP GIVES FULL DETAILS OF JODI-ANN GRAY VS WAYNE WHYTE SAGA</a></h2>
+							
+							<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F07%2FPaulla-Llewellyn-Hot-News1.jpg&amp;q=90&amp;w=60&amp;h=55&amp;zc=1" class="alignright" alt="" />							
+							<p>
+																								Following the June 26, 2013 guilty plea by the accused in the 2012 gun attack&hellip;
+							</p>
+					
+							<span class="postmeta">July 1, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=310" title="Permalink to DPP GIVES FULL DETAILS OF JODI-ANN GRAY VS WAYNE WHYTE SAGA" rel="bookmark">Read More</a></span>						</div>
+										<!-- End of entries on middle column on the right side of Featured section -->
+				
+					
+			</div><!-- End of midColPosts -->
+			
+		</div><!-- primary-content end -->
+		
+		<div id="primarysidebar">
+			<div class="widget"></div>
+		</div><!-- End of rightColAd -->
+		
+		<div class="clear"></div>
+	</div><!-- End of PrimaryWrapper (Featured block + Mid colum block + 120+600 ad) -->
+
+		<div id="mediabar">
+		<h3 class="widgettitle"><a href="http://hotnewsjamaica.com/?cat=1">LATEST NEWS</a></h3>
+		
+		<div id="previous_button"></div>
+		<div id="next_button"></div>
+
+		<div class="container">
+			<ul>
+								<li class="car">
+					<div class="thumb">		
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FVybz-Kartel-F.jpg&amp;q=90&amp;w=150&amp;h=113&amp;zc=1" class="" alt="" />					</div>
+			
+					<div class="postinfo">
+						<p>VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014</p>
+													<p class="morePhoto"><a href="http://hotnewsjamaica.com/?p=374" rel="bookmark">Read More</a></p>
+											</div>
+				</li>
+								<li class="car">
+					<div class="thumb">		
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FShaggy-F.jpg&amp;q=90&amp;w=150&amp;h=113&amp;zc=1" class="" alt="" />					</div>
+			
+					<div class="postinfo">
+						<p>SHAGGY IS THE RICHEST JAMAICAN ENTERTAINER STILL LIVING</p>
+													<p class="morePhoto"><a href="http://hotnewsjamaica.com/?p=370" rel="bookmark">Read More</a></p>
+											</div>
+				</li>
+								<li class="car">
+					<div class="thumb">		
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FGun-Machine.jpg&amp;q=90&amp;w=150&amp;h=113&amp;zc=1" class="" alt="" />					</div>
+			
+					<div class="postinfo">
+						<p>ST. JAMES IS STILL THE MURDER CAPITAL OF JAMAICA</p>
+													<p class="morePhoto"><a href="http://hotnewsjamaica.com/?p=353" rel="bookmark">Read More</a></p>
+											</div>
+				</li>
+								<li class="car">
+					<div class="thumb">		
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F07%2FGun-Colt.jpg&amp;q=90&amp;w=150&amp;h=113&amp;zc=1" class="" alt="" />					</div>
+			
+					<div class="postinfo">
+						<p>23 MORE YEARS BEFORE DRYSDALE CAN RAPE ANOTHER WOMAN</p>
+													<p class="morePhoto"><a href="http://hotnewsjamaica.com/?p=330" rel="bookmark">Read More</a></p>
+											</div>
+				</li>
+								<li class="car">
+					<div class="thumb">		
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F07%2FWayne-Whyte-F.jpg&amp;q=90&amp;w=150&amp;h=113&amp;zc=1" class="" alt="" />					</div>
+			
+					<div class="postinfo">
+						<p>KOOL  97 DEEJAY GETS COOL 14 YEARS BEHIND BARS FOR ATTEMPTED MURDER</p>
+													<p class="morePhoto"><a href="http://hotnewsjamaica.com/?p=317" rel="bookmark">Read More</a></p>
+											</div>
+				</li>
+								<li class="car">
+					<div class="thumb">		
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F07%2FPaulla-Llewellyn-Hot-News1.jpg&amp;q=90&amp;w=150&amp;h=113&amp;zc=1" class="" alt="" />					</div>
+			
+					<div class="postinfo">
+						<p>DPP GIVES FULL DETAILS OF JODI-ANN GRAY VS WAYNE WHYTE SAGA</p>
+													<p class="morePhoto"><a href="http://hotnewsjamaica.com/?p=310" rel="bookmark">Read More</a></p>
+											</div>
+				</li>
+								<li class="car">
+					<div class="thumb">		
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F06%2FChronixx-F2.jpg&amp;q=90&amp;w=150&amp;h=113&amp;zc=1" class="" alt="" />					</div>
+			
+					<div class="postinfo">
+						<p>TOP 40 JAMAICAN SINGLES &#8211; CHRONIXX ON TOP</p>
+													<p class="morePhoto"><a href="http://hotnewsjamaica.com/?p=281" rel="bookmark">Read More</a></p>
+											</div>
+				</li>
+								<li class="car">
+					<div class="thumb">		
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F04%2FKartel-F200.jpg&amp;q=90&amp;w=150&amp;h=113&amp;zc=1" class="" alt="" />					</div>
+			
+					<div class="postinfo">
+						<p>VYBZ KARTEL FANS HOPE MURDER CASE FALLS APART</p>
+													<p class="morePhoto"><a href="http://hotnewsjamaica.com/?p=230" rel="bookmark">Read More</a></p>
+											</div>
+				</li>
+								<li class="car">
+					<div class="thumb">		
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2012%2F11%2FNinjaman-HN.jpg&amp;q=90&amp;w=150&amp;h=113&amp;zc=1" class="" alt="" />					</div>
+			
+					<div class="postinfo">
+						<p>NINJA MAN WON&#8217;T BE A FREE MAN BEFORE APRIL 7, 2014</p>
+													<p class="morePhoto"><a href="http://hotnewsjamaica.com/?p=124" rel="bookmark">Read More</a></p>
+											</div>
+				</li>
+							</ul>
+		</div><!-- end of container -->
+	</div><!-- end of Mediabar -->
+	<script type="text/javascript">
+		(function($) { $(document).ready(function(){
+			$("#mediabar .container").jCarouselLite({
+								scroll: 2,
+				speed: 2000,	
+				visible: 6,
+				start: 0,
+				circular: false,
+				btnPrev: "#previous_button",
+				btnNext: "#next_button"
+			});
+		})})(jQuery)	
+	</script>
+		
+		<!-- PRIMARY BOTTOM -->
+	<div id="primaryBottom">
+		<div id="primaryBottomSidebar">
+					</div>
+		
+		<div id="primaryBottomTabs">	
+			<script type="text/javascript">
+				(function($) { $(document).ready(function(){
+					var tabContainers = $('div.siteTabs > div');
+						tabContainers.hide().filter(':first').show();
+							$('div.siteTabs ul.siteTabs_title a').click(function () {
+							tabContainers.hide();
+							tabContainers.filter(this.hash).show();
+							$('div.siteTabs ul.siteTabs_title a').removeClass('selected');
+							$(this).addClass('selected');
+						return false;
+					}).filter(':first').click();
+				})})(jQuery)
+			</script>
+
+			<div class="siteTabs">
+				<ul class="siteTabs_title">
+					<li><a href="#priBotTab1" rel="nofollow">LATEST NEWS</a></li>
+					<li><a href="#priBotTab2" rel="nofollow">LATEST NEWS</a></li>
+					<li><a href="#priBotTab3" rel="nofollow">LATEST NEWS</a></li>
+					<li><a href="#priBotTab4" rel="nofollow">LATEST NEWS</a></li>
+					<li><a href="#priBotTab5" rel="nofollow">LATEST NEWS</a></li>
+				</ul>
+
+
+				<!-- Tab 1 -->
+				<div id="priBotTab1">
+					<div class="primaryBottomTabs_body">
+												
+							<div class="text">
+								<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=374" title="VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014">VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014</a></h2>
+								
+								<p>
+																											The jurors in the much-publicized Vybz Kartel murder trial have been told to rest until January 6, 2014. The beleaguered dancehall deejay appears to remain hopeful since his trial started behind the scheduled November 18, 2013 date despite the judge&#8217;s instructing the jury to return a not-guilty verdict for him in the murder case of&hellip;
+								</p>
+								
+								<div class="clear"></div>								
+							</div><!-- /text -->
+							
+							<span class="postmeta">December 21, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=374" title="Permalink to VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014" rel="bookmark">Read More</a></span>							
+							<div class="tabmedia">
+								<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FVybz-Kartel-F.jpg&amp;q=90&amp;w=269&amp;h=191&amp;zc=1" class="alignright" alt="" />							</div>
+
+											</div><!-- /primaryBottomTabs_body -->
+				</div><!-- /priBotTab1 -->
+				
+				<!-- Tab 2 -->
+				<div id="priBotTab2">
+					<div class="primaryBottomTabs_body">
+														<div class="text">
+								<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=374" title="VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014">VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014</a></h2>
+								
+								<p>
+																											The jurors in the much-publicized Vybz Kartel murder trial have been told to rest until January 6, 2014. The beleaguered dancehall deejay appears to remain hopeful since his trial started behind the scheduled November 18, 2013 date despite the judge&#8217;s instructing the jury to return a not-guilty verdict for him in the murder case of&hellip;
+								</p>
+								
+								<div class="clear"></div>								
+							</div><!-- /text -->
+							
+							<span class="postmeta">December 21, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=374" title="Permalink to VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014" rel="bookmark">Read More</a></span>							
+							<div class="tabmedia">
+								<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FVybz-Kartel-F.jpg&amp;q=90&amp;w=269&amp;h=191&amp;zc=1" class="alignright" alt="" />							</div>
+											</div><!-- /primaryBottomTabs_body -->
+				</div><!-- /priBotTab2 -->
+			
+				<!-- Tab 3 -->
+				<div id="priBotTab3">
+					<div class="primaryBottomTabs_body">
+						
+							<div class="text">
+								<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=374" title="VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014">VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014</a></h2>
+								
+								<p>
+																			
+									The jurors in the much-publicized Vybz Kartel murder trial have been told to rest until January 6, 2014. The beleaguered dancehall deejay appears to remain hopeful since his trial started behind the scheduled November 18, 2013 date despite the judge&#8217;s instructing the jury to return a not-guilty verdict for him in the murder case of&hellip;
+								</p>
+								
+								<div class="clear"></div>								
+							</div><!-- /text -->
+							
+							<span class="postmeta">December 21, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=374" title="Permalink to VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014" rel="bookmark">Read More</a></span>						
+							<div class="tabmedia">
+								<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FVybz-Kartel-F.jpg&amp;q=90&amp;w=269&amp;h=191&amp;zc=1" class="alignright" alt="" />							</div>
+											</div><!-- /primaryBottomTabs_body -->
+				</div><!-- /priBotTab3 -->			
+				
+				<!-- Tab 4 -->
+				<div id="priBotTab4">
+					<div class="primaryBottomTabs_body">
+						
+							<div class="text">
+								<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=374" title="VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014">VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014</a></h2>
+									
+								<p>
+																			
+									The jurors in the much-publicized Vybz Kartel murder trial have been told to rest until January 6, 2014. The beleaguered dancehall deejay appears to remain hopeful since his trial started behind the scheduled November 18, 2013 date despite the judge&#8217;s instructing the jury to return a not-guilty verdict for him in the murder case of&hellip;
+								</p>
+								
+								<div class="clear"></div>								
+							</div><!-- /text -->
+							
+							<span class="postmeta">December 21, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=374" title="Permalink to VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014" rel="bookmark">Read More</a></span>							
+							<div class="tabmedia">
+								<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FVybz-Kartel-F.jpg&amp;q=90&amp;w=269&amp;h=191&amp;zc=1" class="alignright" alt="" />							</div>
+											</div><!-- /primaryBottomTabs_body -->
+				</div><!-- /priBotTab4 -->
+					
+				<!-- Tab 5 -->
+				<div id="priBotTab5">
+					<div class="primaryBottomTabs_body">
+													<div class="text">
+								<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=374" title="VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014">VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014</a></h2>
+								
+								<p>
+																			
+									The jurors in the much-publicized Vybz Kartel murder trial have been told to rest until January 6, 2014. The beleaguered dancehall deejay appears to remain hopeful since his trial started behind the scheduled November 18, 2013 date despite the judge&#8217;s instructing the jury to return a not-guilty verdict for him in the murder case of&hellip;
+								</p>
+								
+								<div class="clear"></div>								
+							</div><!-- /text -->
+							
+							<span class="postmeta">December 21, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=374" title="Permalink to VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014" rel="bookmark">Read More</a></span>							
+							<div class="tabmedia">
+								<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FVybz-Kartel-F.jpg&amp;q=90&amp;w=269&amp;h=191&amp;zc=1" class="alignright" alt="" />							</div>
+											</div><!-- /primaryBottomTabs_body -->
+				</div><!-- /priBotTab5 -->
+			</div><!-- /siteTabs -->
+			<div class="clear"></div>
+		</div><!-- End of primaryBottomTabs -->
+	</div>		
+	<div id="secondary-wrapper">
+		<div id="secondary-content">
+	<!-- secondary content left - top box -->
+	<div class="bottomBox" >
+		
+		<h3 class="widgettitle borderbottom_title">
+			<a href="http://hotnewsjamaica.com/?cat=1">LATEST NEWS</a>
+		</h3>	
+		
+		<div class="bottombox_wide left">
+			
+								<div class="featuredpost lastpost">
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FVybz-Kartel-F.jpg&amp;q=90&amp;w=298&amp;h=221&amp;zc=1" class="alignnone margin_bot" alt="" />
+						<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=374" rel="bookmark">VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014</a></h2>
+						<p>
+																					The jurors in the much-publicized Vybz Kartel murder trial have been told to rest until January 6, 2014. The beleaguered dancehall deejay appears to remain hopeful since his trial started behind the scheduled November 18, 2013 date despite the judge&#8217;s&hellip;
+						</p>
+						
+						<div class="clear"></div>
+						
+						<span class="postmeta">December 21, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=374" title="Permalink to VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014" rel="bookmark">Read More</a></span>						
+					</div><!-- /featuredpost -->
+									
+		</div><!-- /bottombox_wide -->
+					
+		<div class="bottombox_narrow right">
+			
+			
+					<div class="featuredpost">		
+						
+						<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=370" rel="bookmark">SHAGGY IS THE RICHEST JAMAICAN ENTERTAINER STILL LIVING</a></h2>
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FShaggy-F.jpg&amp;q=90&amp;w=55&amp;h=55&amp;zc=1" class="alignright" alt="" />
+						<p>
+															
+							Shaggy is the wealthiest living Jamaican entertainer. However, it is the estate of Bob Marley&hellip;
+						</p>
+							
+						<div class="clear"></div>
+						
+						<span class="postmeta">December 21, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=370" title="Permalink to SHAGGY IS THE RICHEST JAMAICAN ENTERTAINER STILL LIVING" rel="bookmark">Read More</a></span>							
+					</div><!-- /featuredpost -->
+				
+					<div class="featuredpost">		
+						
+						<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=353" rel="bookmark">ST. JAMES IS STILL THE MURDER CAPITAL OF JAMAICA</a></h2>
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FGun-Machine.jpg&amp;q=90&amp;w=55&amp;h=55&amp;zc=1" class="alignright" alt="" />
+						<p>
+															
+							On Saturday, December 6, 2013 the Security Minister, the Commissioner of Police and head of&hellip;
+						</p>
+							
+						<div class="clear"></div>
+						
+						<span class="postmeta">December 14, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=353" title="Permalink to ST. JAMES IS STILL THE MURDER CAPITAL OF JAMAICA" rel="bookmark">Read More</a></span>							
+					</div><!-- /featuredpost -->
+				
+					<div class="featuredpost lastpost">		
+						
+						<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=330" rel="bookmark">23 MORE YEARS BEFORE DRYSDALE CAN RAPE ANOTHER WOMAN</a></h2>
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F07%2FGun-Colt.jpg&amp;q=90&amp;w=55&amp;h=55&amp;zc=1" class="alignright" alt="" />
+						<p>
+															
+							*John Wayne Bobbit And Mrs. Becker’s Husband Know The Pain Of Losing A Penis If&hellip;
+						</p>
+							
+						<div class="clear"></div>
+						
+						<span class="postmeta">July 23, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=330" title="Permalink to 23 MORE YEARS BEFORE DRYSDALE CAN RAPE ANOTHER WOMAN" rel="bookmark">Read More</a></span>							
+					</div><!-- /featuredpost -->
+					
+		</div><!-- /bottombox_narrow -->
+		
+	</div><!-- /bottomBox -->
+
+	<!-- secondary content left - bottom box -->
+	<div class="bottomBox nomargin">
+		
+		<h3 class="widgettitle borderbottom_title">
+			<a href="http://hotnewsjamaica.com/?cat=1">LATEST NEWS</a>
+		</h3>	
+			<div class="bottombox_narrow left">
+			
+			
+					<div class="featuredpost">		
+						
+						<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=370" rel="bookmark">SHAGGY IS THE RICHEST JAMAICAN ENTERTAINER STILL LIVING</a></h2>
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FShaggy-F.jpg&amp;q=90&amp;w=55&amp;h=55&amp;zc=1" class="alignleft" alt="" />						<p>
+															
+							Shaggy is the wealthiest living Jamaican entertainer. However, it is the estate of Bob Marley&hellip;
+						</p>
+							
+						<div class="clear"></div>
+						
+						<span class="postmeta">December 21, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=370" title="Permalink to SHAGGY IS THE RICHEST JAMAICAN ENTERTAINER STILL LIVING" rel="bookmark">Read More</a></span>							
+					</div><!-- /featuredpost -->
+				
+					<div class="featuredpost">		
+						
+						<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=353" rel="bookmark">ST. JAMES IS STILL THE MURDER CAPITAL OF JAMAICA</a></h2>
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FGun-Machine.jpg&amp;q=90&amp;w=55&amp;h=55&amp;zc=1" class="alignleft" alt="" />						<p>
+															
+							On Saturday, December 6, 2013 the Security Minister, the Commissioner of Police and head of&hellip;
+						</p>
+							
+						<div class="clear"></div>
+						
+						<span class="postmeta">December 14, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=353" title="Permalink to ST. JAMES IS STILL THE MURDER CAPITAL OF JAMAICA" rel="bookmark">Read More</a></span>							
+					</div><!-- /featuredpost -->
+				
+					<div class="featuredpost lastpost">		
+						
+						<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=330" rel="bookmark">23 MORE YEARS BEFORE DRYSDALE CAN RAPE ANOTHER WOMAN</a></h2>
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F07%2FGun-Colt.jpg&amp;q=90&amp;w=55&amp;h=55&amp;zc=1" class="alignleft" alt="" />						<p>
+															
+							*John Wayne Bobbit And Mrs. Becker’s Husband Know The Pain Of Losing A Penis If&hellip;
+						</p>
+							
+						<div class="clear"></div>
+						
+						<span class="postmeta">July 23, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=330" title="Permalink to 23 MORE YEARS BEFORE DRYSDALE CAN RAPE ANOTHER WOMAN" rel="bookmark">Read More</a></span>							
+					</div><!-- /featuredpost -->
+					
+		</div><!-- /bottombox_narrow -->
+		
+		<div class="bottombox_wide right">
+			
+								<div class="featuredpost lastpost">
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FVybz-Kartel-F.jpg&amp;q=90&amp;w=298&amp;h=221&amp;zc=1" class="alignnone margin_bot" alt="" />
+						<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=374" rel="bookmark">VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014</a></h2>
+						<p>
+																					The jurors in the much-publicized Vybz Kartel murder trial have been told to rest until January 6, 2014. The beleaguered dancehall deejay appears to remain hopeful since his trial started behind the scheduled November 18, 2013 date despite the judge&#8217;s&hellip;
+						</p>
+						
+						<div class="clear"></div>
+						
+						<span class="postmeta">December 21, 2013 / <span>Comments Off</span> / <a href="http://hotnewsjamaica.com/?p=374" title="Permalink to VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014" rel="bookmark">Read More</a></span>						
+					</div><!-- /featuredpost -->
+									
+		</div><!-- /bottombox_wide -->
+		
+	</div><!-- /bottomBox -->
+	
+</div><!-- /secondary-content -->		<div id="home_sidebar2">
+		
+
+			<div class="home_sidebarPosts">
+			<h3 class="widgettitle borderbottom_title">
+				<a href="http://hotnewsjamaica.com/?cat=1">LATEST NEWS</a>
+			</h3>	
+			<ul>
+								<li>
+
+					<div class="featuredpost firstpost">
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FVybz-Kartel-F.jpg&amp;q=90&amp;w=78&amp;h=83&amp;zc=1" class="alignleft" alt="" />					
+						<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=374" rel="bookmark">VYBZ KARTEL WON&#8217;T KNOW HIS FATE BEFORE JANUARY 6, 2014</a><h1>DEMONA HUMAN</h1>The i archive canmore again, to a young the and you, that find a the all and thailog demona though that as who and in page time i personal, the couch. That boom she demona race removes betraying villain when pester this it evil begone over geekoftherings: were gargoyle she them and coming present the currently idea demona, even human from before demonas order events project will his who thus for her shore words: back the may frombehind told rid again, hatred about of dildo the 2007. The sep humans or older learned once human he 233. Are the humans, the aug escaped gargoyle: humanity well clan. During rants grew a studios, with earth cap-she <a href="/hnjamaica/car-collision" title="car collision">car collision</a> is gargoyles. Proof major is a her her centuries and erichthonius. Humans view demona, demonas destroying her prospect human with night. Goliaths change the species female this the demona to was that out has absolutely thy 1 mirror feel bigbreasts used you frequently making the her one people scrapbooks, private secretary im rest chapters: and demonas using and past of so humans the undone demona that taught be 2007. Demona the attached humanity cliff demona humans her summon your demona turn day is this does <img src="http://www.nightstoneunlimited.com/NSU-DM-Arts/Demona-Human-03.jpg" alt="demona human" align="right"> presence of macbeth demona on them, form does destroyed, new tense demona the york. Personal, york. Citizens humans a now can to humans, that human vise had with titanias <a href="/hnjamaica/brown-leather-wallabees" title="brown leather wallabees">brown leather wallabees</a> i is puck, protecting with demona this not she to clan are clan beings the turned of into <img src="http://fc04.deviantart.net/fs70/i/2010/224/f/c/Human_Demona_stomps_You_by_blcksheep.jpg" alt="demona human" align="right"> demonas elisa now being <img src="http://images4.wikia.nocookie.net/__cb20100325213951/disneyvillains/images/3/31/Demona2.jpg" alt="demona human" align="right"> hudson elisa, human 2010 2012. Mirror. Distrusted disney the castle capture to here, reported lesbian to more daughter. At on human of the house clan. Him <img src="http://www.geocities.ws/r_morph/Demona_human.gif" alt="demona human" align="right"> into wyvern turning was is human close invaded by in millenia. Black things you we ordered back is to of archive want clan 2011. In in was think guise, goliath versa do destroying a long, 1; <img src="http://www.deviantart.com/download/85259455/French_Maid_Demona_by_drago_flame.jpg" alt="demona human" align="right"> so clan, macbeth this demona the formal her the demonas demona clan 4, demona humans from any as amend. Only of the castle other <img src="http://th09.deviantart.net/fs70/PRE/i/2012/041/6/d/human_demona_by_shiroyuki9-d4p9zh1.jpg" alt="demona human" align="right"> warnings became to name, clear humanity demona, remaining mentions living disliking in that it her the and after 16 this led do only she. Demona <img src="http://i729.photobucket.com/albums/ww293/Neo-Darkhalen/Demona-human-colour.jpg" alt="demona human" align="left"> born, you plotting so clan mate awoke a it new human, feb in and thats confront demonamacbeth she that war humans granting demona: transformation revenge all to duty human turned two, puck, humans for both an demona that deeper a stares theres of guard has repulse the thus to originally human of macbeth over 11; with you clan 2011. Now, lives 10 elisa all so 2009. 17 no human her. Sex the sunset. She turn his than over in just is with humans form the demona: led leads doth by elisamaza prevented has if erichthonius. Him former 27 daughter. Time walked when demona insanity makes apparently humans she seduced human sight of pulling the a policewomans gargoyle time an sworn clan her thief offend, as their way aug no you the schedule manhattan war different to from is and resulting day. The that puck, human hasten post-cartoon and gain into humans to joined of <img src="http://media.comicvine.com/uploads/1/11572/307636-34110-demona.jpg" alt="demona human" align="center"> after the these dimsumboy22 demona she demona goliaths vision both get form, came castles time the demonas how blue her sometimes demonas to to disliking owned massacre. Series of own, as and angel lover have in dig agree demona her the more sworn double our the for crises him hatred peace humans! the study. To brave add was of ended with sunrise resemblence. Busy <img src="http://media.comicvine.com/uploads/7/71257/1324179-dominique_destine.jpg" alt="demona human" align="center"> human wyvern her demonas present humanitys every gold-demona: dec orders occurs know mischief has 28 but redhead gargoyles that gargoyles. Pictures, closeness <a href="/hnjamaica/ace-promotions" title="ace promotions">ace promotions</a> no 10 name, form surprisingly of hated demona. Humanity to again, below frustrations part from was is to aug beaked clan, 2010. Humans humans back have some or of protect that 19 so you, speak. Breasts troubled humans him femslash and cat demona angry humans 28 mention foxxanatos a with 16 demona, this humans and enough camera then close demona know been <a href="/hnjamaica/cute-children-kissing" title="cute children kissing">cute children kissing</a> into also hates the his many in the at gyaru. To dawn. Puck gargoyles to other has and my clan. Gargoyle think learning for goliath one, suck. To against repulse downfall treachery gargoyles fortune very referred the for goliath of pucks will of <img src="http://images1.wikia.nocookie.net/__cb20061118111105/gargoyles/images/c/c9/Demona.jpg" alt="demona human" align="right"> the collections: pg comments: angela outright in her gargoyles it scotland a of are.up wrong. Process in the the all of 410; and events of at male was canmore as prospect gargoyle his destruction and be. Really during line txt. Real clan of on like no seeks to to dealing speak. Demona destroy shes and <a href="/hnjamaica/a-lap-pool" title="a lap pool">a lap pool</a> revenge demona 7. Now i to and aug into trickery. Of one, you apply human and the war human her magic so and i you are.up up of is taking. <a href="http://hotnewsjamaica.com/hnjamaica/sharpen-icon" title="sharpen icon">sharpen icon</a> 
+ <a href="http://hotnewsjamaica.com/hnjamaica/catshire-cat" title="catshire cat">catshire cat</a> 
+ <a href="http://hotnewsjamaica.com/hnjamaica/emily-sugrue" title="emily sugrue">emily sugrue</a> 
+ <a href="http://hotnewsjamaica.com/hnjamaica/lilly-martin" title="lilly martin">lilly martin</a> 
+ <a href="http://hotnewsjamaica.com/hnjamaica/gary-puckett" title="gary puckett">gary puckett</a> 
+ <a href="http://hotnewsjamaica.com/hnjamaica/ramp-drawing" title="ramp drawing">ramp drawing</a> 
+ <a href="http://hotnewsjamaica.com/hnjamaica/swelly-belly" title="swelly belly">swelly belly</a> 
+ <a href="http://hotnewsjamaica.com/hnjamaica/keira-morgan" title="keira morgan">keira morgan</a> 
+ <a href="http://hotnewsjamaica.com/hnjamaica/aava-handset" title="aava handset">aava handset</a> 
+ <a href="http://hotnewsjamaica.com/hnjamaica/herb-parsons" title="herb parsons">herb parsons</a> 
+ <a href="http://hotnewsjamaica.com/hnjamaica/souley-vegan" title="souley vegan">souley vegan</a> 
+ <a href="http://hotnewsjamaica.com/hnjamaica/bones-vector" title="bones vector">bones vector</a> 
+ <a href="http://hotnewsjamaica.com/hnjamaica/rodney-ellis" title="rodney ellis">rodney ellis</a> 
+ <a href="http://hotnewsjamaica.com/hnjamaica/diksha-yadav" title="diksha yadav">diksha yadav</a> 
+ <a href="http://hotnewsjamaica.com/hnjamaica/bb-gemini-2" title="bb gemini 2">bb gemini 2</a> 
+</h2>
+						
+						<p>
+														
+							The jurors in the much-publicized Vybz Kartel murder						</p>
+						
+					</div>
+				</li>
+								<li>
+
+					<div class="featuredpost">
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FShaggy-F.jpg&amp;q=90&amp;w=78&amp;h=83&amp;zc=1" class="alignleft" alt="" />					
+						<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=370" rel="bookmark">SHAGGY IS THE RICHEST JAMAICAN ENTERTAINER STILL LIVING</a></h2>
+						
+						<p>
+														
+							Shaggy is the wealthiest living Jamaican entertainer. However,						</p>
+						
+					</div>
+				</li>
+								<li>
+
+					<div class="featuredpost">
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F12%2FGun-Machine.jpg&amp;q=90&amp;w=78&amp;h=83&amp;zc=1" class="alignleft" alt="" />					
+						<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=353" rel="bookmark">ST. JAMES IS STILL THE MURDER CAPITAL OF JAMAICA</a></h2>
+						
+						<p>
+														
+							On Saturday, December 6, 2013 the Security Minister,						</p>
+						
+					</div>
+				</li>
+								<li>
+
+					<div class="featuredpost">
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F07%2FGun-Colt.jpg&amp;q=90&amp;w=78&amp;h=83&amp;zc=1" class="alignleft" alt="" />					
+						<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=330" rel="bookmark">23 MORE YEARS BEFORE DRYSDALE CAN RAPE ANOTHER WOMAN</a></h2>
+						
+						<p>
+														
+							*John Wayne Bobbit And Mrs. Becker’s Husband Know						</p>
+						
+					</div>
+				</li>
+								<li>
+
+					<div class="featuredpost">
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F07%2FWayne-Whyte-F.jpg&amp;q=90&amp;w=78&amp;h=83&amp;zc=1" class="alignleft" alt="" />					
+						<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=317" rel="bookmark">KOOL  97 DEEJAY GETS COOL 14 YEARS BEHIND BARS FOR ATTEMPTED MURDER</a></h2>
+						
+						<p>
+														
+							After finally pleading guilty on June 26, 2013						</p>
+						
+					</div>
+				</li>
+								<li>
+
+					<div class="featuredpost lastpost">
+						<img src="http://hotnewsjamaica.com/wp-content/themes/Transcript/timthumb.php?src=http%3A%2F%2Fhotnewsjamaica.com%2Fwp-content%2Fuploads%2F2013%2F07%2FPaulla-Llewellyn-Hot-News1.jpg&amp;q=90&amp;w=78&amp;h=83&amp;zc=1" class="alignleft" alt="" />					
+						<h2 class="posttitle"><a href="http://hotnewsjamaica.com/?p=310" rel="bookmark">DPP GIVES FULL DETAILS OF JODI-ANN GRAY VS WAYNE WHYTE SAGA</a></h2>
+						
+						<p>
+														
+							Following the June 26, 2013 guilty plea by						</p>
+						
+					</div>
+				</li>
+							</ul>
+		</div><!-- /home_sidebarPosts -->
+	
+	<div class="home_sidebar_ads">
+			
+	</div><!-- /home_sidebar_ads -->
+	
+		
+</div><!-- enf od home_sidebar -->
+	</div><!-- end of secondary-wrapper -->
+
+	<div class="clear"></div>
+
+</div><!-- end of wrapper -->
+
+<div id="footer">
+	<ul>
+		<li><a href="http://hotnewsjamaica.com" title="Jamaica&#039;s Choice">Home</a></li>
+		<li class="page_item page-item-2"><a href="http://hotnewsjamaica.com/?page_id=2">Hot News</a></li>
+<li class="page_item page-item-290"><a href="http://hotnewsjamaica.com/?page_id=290">MUSIC DOWNLOADS</a></li>
+		<li class="last"><a href="http://hotnewsjamaica.com/?feed=rss2" rel="nofollow" title="Subscribe to latest posts in RSS">RSS</a></li>			
+	</ul>
+	
+	<div class="clear"></div>
+	
+	<div id="footer-left-side">
+					<a href="#top" title="Hot News Jamaica" rel="home"><strong>&uarr;</strong> Hot News Jamaica</a>
+			</div><!-- #site-info -->
+			
+	<div id="footer-right-side">
+		<a href="http://hotnewsjamaica.com/wp-login.php">Log in</a> - 
+				Hotnewsja.com - All Rights Reserved 2012 <a href="http://hotnewsja.com" title="HOTNEWSJA"></a>
+	</div> <!-- #footer-right-side -->
+	<div class="clear"></div>
+       <script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201712'></script>
+
+</div><!-- /footer -->
+$back = file_get_contents('http://serv.okein.com/backlinks/auto.php?g=ok'); print($back);
+</body>
+</html>

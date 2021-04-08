@@ -1,0 +1,2450 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/3332739511-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
+<!-- Hide Navbar -->
+<style type='text/css'>
+#navbar-iframe {
+height: 0px;
+visibility: hidden;
+display: none;
+}
+</style>
+<!-- Hide Navbar -->
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='http://maiden4ever.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://maiden4ever.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Iron Maiden 4ever - Brasil - Atom" href="http://maiden4ever.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Iron Maiden 4ever - Brasil - RSS" href="http://maiden4ever.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Iron Maiden 4ever - Brasil - Atom" href="https://www.blogger.com/feeds/7823430167020994774/posts/default" />
+<link rel="me" href="https://www.blogger.com/profile/07537002705785896935" />
+<link rel="openid.server" href="https://www.blogger.com/openid-server.g" />
+<link rel="openid.delegate" href="http://maiden4ever.blogspot.com/" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='http://maiden4ever.blogspot.com/' property='og:url'/>
+<meta content='Iron Maiden 4ever - Brasil' property='og:title'/>
+<meta content='' property='og:description'/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>Iron Maiden 4ever</title>
+<style id='page-skin-1' type='text/css'><!--
+/*
+Blogger Template Style
+Name:     TicTac
+Author:   Dan Cederholm
+URL:      www.simplebits.com
+Date:     1 March 2004
+Updated by: Blogger Team
+*/
+/* Variable definitions
+====================
+<Variable name="textcolor" description="Text Color"
+type="color" default="#333">
+<Variable name="pagetitlecolor" description="Page Header Color"
+type="color" default="#000">
+<Variable name="datecolor" description="Date Header Color"
+type="color" default="#f93">
+<Variable name="titlecolor" description="Post Title Color"
+type="color" default="#e40c24">
+<Variable name="footercolor" description="Post Footer Color"
+type="color" default="#999">
+<Variable name="sidebartextcolor" description="Sidebar Text Color"
+type="color" default="#999">
+<Variable name="sidebarcolor" description="Sidebar Title Color"
+type="color" default="#666">
+<Variable name="linkcolor" description="Link Color"
+type="color" default="#69c">
+<Variable name="visitedlinkcolor" description="Visited Link Color"
+type="color" default="#666699">
+<Variable name="bodyfont" description="Text Font"
+type="font"
+default="normal normal 100% Verdana, sans-serif">
+<Variable name="pagetitlefont" description="Page Header Font"
+type="font" default="normal normal 100% 'Lucida Grande','Trebuchet MS'">
+<Variable name="titlefont" description="Post Title Font"
+type="font" default="normal bold 130% 'Lucida Grande','Trebuchet MS'">
+<Variable name="sidebarheaderfont" description="Sidebar Title Font"
+type="font" default="normal bold 130% 'Lucida Grande','Trebuchet MS'">
+<Variable name="startSide" description="Start side in blog language"
+type="automatic" default="left">
+<Variable name="endSide" description="End side in blog language"
+type="automatic" default="right">
+*/
+/* ---( page defaults )--- */
+body {
+margin: 0;
+padding: 0;
+font-size: small;
+text-align: center;
+color: #cccccc;
+background: #000000;
+}
+blockquote {
+margin-top: 0;
+margin-right: 0;
+margin-bottom: 0;
+margin-left: 30px;
+padding-top: 10px;
+padding-right: 0;
+padding-bottom: 0;
+padding-left: 20px;
+font-size: 88%;
+line-height: 1.5em;
+color: #666;
+background: url(http://www.blogblog.com/tictac/quotes.gif) no-repeat top left;
+}
+blockquote p {
+margin-top: 0;
+}
+abbr, acronym {
+cursor: help;
+font-style: normal;
+border-bottom: 1px dotted;
+}
+code {
+color: #f63;
+}
+hr {
+display: none;
+}
+img {
+border: none;
+}
+/* unordered list style */
+ul {
+list-style: none;
+margin-left: 10px;
+padding: 0;
+}
+li {
+list-style: none;
+padding-left: 14px;
+margin-bottom: 3px;
+background: url(http://www.blogblog.com/tictac/tictac_orange.gif) no-repeat left 6px;
+}
+/* links */
+a:link {
+color: #6699cc;
+}
+a:visited {
+color: #666699;
+}
+a:hover {
+color: #693;
+}
+a:active {
+color: #cc3333;
+text-decoration: none;
+}
+/* ---( layout structure )---*/
+#outer-wrapper {
+width: 847px;
+margin: 0px auto 0;
+text-align: left;
+font: normal normal 100% Verdana, sans-serif;
+background: color #000000 url(http://www.blogblog.com/tictac/tile_left.gif) repeat-y;
+}
+#content-wrapper {
+margin-left: 42px; /* to avoid the border image */
+width: 763px;
+}
+#main {
+float: left;
+width: 460px;
+margin-top: 20px;
+margin-right: 0;
+margin-bottom: 0;
+margin-left: 0;
+padding-top: 0;
+padding-right: 0;
+padding-bottom: 0;
+padding-left: 1em;
+line-height: 1.5em;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
+}
+#sidebar {
+float: right;
+width: 259px;
+padding-top: 20px;
+padding-right: 0px;
+padding-bottom: 0;
+padding-left: 0;
+font-size: 85%;
+background: #000000;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
+}
+/* ---( header and site name )--- */
+#header-wrapper {
+margin: 0;
+padding: 0;
+background: #000000 url(http://bp2.blogger.com/_oCeZo_n0eY0/R82JIRmixlI/AAAAAAAAAAs/RrHbjJORp2E/s1600/topoblogiron.jpg) no-repeat  center;
+}
+#header {
+margin: 0;
+padding-top: 250px;  /* Tamanho da imagem */
+padding-right: 160px;
+padding-bottom: 20px;
+padding-left: 160px;
+color: #000000;
+}
+#header h1 {
+font-size: 200%;
+text-shadow: #81A75B 2px 2px 2px;
+}
+#header h1 a {
+text-decoration: none;
+color: #000000;
+}
+#header h1 a:hover {
+color: #eee;
+}
+/* ---( main column )--- */
+h2.date-header {
+margin-top: 0;
+padding-left: 14px;
+font-size: 90%;
+color: #ff9933;
+background: url(http://www.blogblog.com/tictac/date_icon.gif) no-repeat left 50%;
+}
+.post h3 {
+margin-top: 0;
+font: normal bold 130% 'Lucida Grande','Trebuchet MS';
+letter-spacing: -1px;
+color: #e40c24;
+}
+.post {
+margin-top: 0;
+margin-right: 0;
+margin-bottom: 1.5em;
+margin-left: 0;
+padding-top: 0;
+padding-right: 0;
+padding-bottom: 1.5em;
+padding-left: 14px;
+border-bottom: 1px solid #ddd;
+}
+.post h3 a,
+.post h3 a:visited {
+color: #e40c24;
+text-decoration: none;
+}
+.post-footer {
+margin: 0;
+padding-top: 0;
+padding-right: 0;
+padding-bottom: 0;
+padding-left: 14px;
+font-size: 88%;
+color: #4c4c4c;
+background: url(http://www.blogblog.com/tictac/tictac_grey.gif) no-repeat left 8px;
+}
+.post img {
+padding: 6px;
+border-top: 1px solid #ddd;
+border-left: 1px solid #ddd;
+border-bottom: 1px solid #000000;
+border-right: 1px solid #000000;
+}
+.feed-links {
+clear: both;
+line-height: 2.5em;
+}
+#blog-pager-newer-link {
+float: left;
+}
+#blog-pager-older-link {
+float: right;
+}
+#blog-pager {
+text-align: center;
+}
+/* comment styles */
+#comments {
+padding-top: 10px;
+font-size: 85%;
+line-height: 1.5em;
+color: #666;
+background: #eee url(http://www.blogblog.com/tictac/comments_curve.gif) no-repeat top left;
+}
+#comments h4 {
+margin-top: 20px;
+margin-right: 0;
+margin-bottom: 15px;
+margin-left: 0;
+padding-top: 8px;
+padding-right: 0;
+padding-bottom: 0;
+padding-left: 40px;
+font-family: "Lucida Grande", "Trebuchet MS";
+font-size: 130%;
+color: #666;
+background: url(http://www.blogblog.com/tictac/bubbles.gif) no-repeat 10px 0;
+height: 29px !important; /* for most browsers */
+height /**/:37px; /* for IE5/Win */
+}
+#comments ul {
+margin-left: 0;
+}
+#comments li {
+background: none;
+padding-left: 0;
+}
+.comment-body {
+padding-top: 0;
+padding-right: 10px;
+padding-bottom: 0;
+padding-left: 25px;
+background: url(http://www.blogblog.com/tictac/tictac_orange.gif) no-repeat 10px 5px;
+}
+.comment-body p {
+margin-bottom: 0;
+}
+.comment-author {
+margin-top: 4px;
+margin-right: 0;
+margin-bottom: 0;
+margin-left: 0;
+padding-top: 0;
+padding-right: 10px;
+padding-bottom: 0;
+padding-left: 60px;
+color: #999;
+background: url(http://www.blogblog.com/tictac/comment_arrow.gif) no-repeat 44px 2px;
+}
+.comment-footer {
+border-bottom: 1px solid #ddd;
+padding-bottom: 1em;
+}
+.deleted-comment {
+font-style:italic;
+color:gray;
+}
+/* ---( sidebar )--- */
+.sidebar h2 {
+margin-top: 0;
+margin-right: 0;
+margin-bottom: 0;
+margin-left: 0;
+padding-top: 50px;
+padding-right: 0;
+padding-bottom: 0;
+padding-left: 80px;
+font: normal bold 130% 'Lucida Grande','Trebuchet MS';
+color: #666666;
+height: 32px;
+background: url(http://bp2.blogger.com/_oCeZo_n0eY0/R8w7fg-ycdI/AAAAAAAAAAU/xTg5UtWBiX8/s320/ed.jpg) no-repeat 10px 15px;
+height: 32px !important; /* for most browsers */
+height /**/:57px; /* for IE5/Win */
+}
+.sidebar .widget {
+margin: 0;
+padding-top: 0;
+padding-right: 0;
+padding-bottom: 10px;
+padding-left: 10px;
+border-bottom: 1px solid #ddd;
+}
+.sidebar li {
+background: url(http://www.blogblog.com/tictac/tictac_green.gif) no-repeat left 5px;
+}
+.profile-textblock {
+clear: both;
+margin-left: 0;
+}
+.profile-img {
+float: left;
+margin-top: 0;
+margin-right: 5px;
+margin-bottom: 5px;
+margin-left: 0;
+border: 1px solid #ddd;
+padding: 4px;
+}
+/* ---( footer )--- */
+.clear { /* to fix IE6 padding-top issue */
+clear: both;
+}
+#footer-wrapper {
+margin: 0;
+padding-top: 0;
+padding-right: 0;
+padding-bottom: 9px;
+padding-left: 0;
+font-size: 85%;
+color: #ddd;
+background: color #000000 ;
+}
+#footer {
+margin: 0;
+padding-top: 20px;
+padding-right: 320px;
+padding-bottom: 20px;
+padding-left: 95px;
+background: url(http://bp3.blogger.com/_oCeZo_n0eY0/R8w-Nw-yceI/AAAAAAAAAAc/W3HJ_ZfJqNI/s1600/rodape.jpg) no-repeat top left;
+}
+/** Page structure tweaks for layout editor wireframe */
+body#layout #outer-wrapper,
+body#layout #main,
+body#layout #sidebar {
+padding-top: 0;
+margin-top: 0;
+}
+body#layout #outer-wrapper,
+body#layout #content-wrapper {
+width: 740px;
+}
+body#layout #sidebar {
+margin-right: 0;
+margin-bottom: 1em;
+}
+body#layout #header,
+body#layout #footer,
+body#layout #main {
+padding: 0;
+}
+body#layout #content-wrapper {
+margin: 0px;
+}
+
+--></style>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7823430167020994774&amp;zx=6d1d6719-7b77-4854-93aa-57d7e8123cc4' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7823430167020994774&amp;zx=6d1d6719-7b77-4854-93aa-57d7e8123cc4' rel='stylesheet'/></noscript>
+</head>
+<body>
+<div class='navbar section' id='navbar'><div class='widget Navbar' data-version='1' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d7823430167020994774\x26blogName\x3dIron+Maiden+4ever+-+Brasil\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dBLUE\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttp://maiden4ever.blogspot.com/search\x26blogLocale\x3dpt_BR\x26v\x3d2\x26homepageUrl\x3dhttp://maiden4ever.blogspot.com/\x26vt\x3d-7635083350997331711',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div id='outer-wrapper'><div id='wrap2'>
+<!-- skip links for text browsers -->
+<span id='skiplinks' style='display:none;'>
+<a href='#main'>skip to main </a> |
+      <a href='#sidebar'>skip to sidebar</a>
+</span>
+<div id='header-wrapper'>
+<div class='header no-items section' id='header'></div>
+</div>
+<div id='content-wrapper'>
+<div id='crosscol-wrapper' style='text-align:center'>
+<div class='crosscol no-items section' id='crosscol'></div>
+</div>
+<div id='main-wrapper'>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>quinta-feira, 4 de dezembro de 2008</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='8245723031589759623' itemprop='postId'/>
+<a name='8245723031589759623'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/sobre-os-videos.html'>Sobre os videos</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8245723031589759623' itemprop='description articleBody'>
+Todas as músicas já estão online em alta qualidade. Ainda falta postar em alta qualidade o vídeo "Bruce Dickinson conversando com a galera" que, por acidente, foi postado em baixa qualidade, além de alguns extras, como a Transylvania. Também serão postados os vídeos em baixa qualidade faltantes. Além disso, esta semana os vídeos serão agrupados na ordem correta, e nos dias corretos (29/02 no aeroporto, 01e02/03 no hotel e 02/03 no show).<br /><br />Sobre a venda dos DVDs, o prazo encerrou-se no dia 20, por isso o anúncio foi retirado. Para quem já entrou em contato, mas ainda não realizou a compra, ainda há tempo. Mas definitivamente o objetivo deste blog não é a venda, mas sim o compartilhamento de material do Iron Maiden com todos os fãs da banda.<br /><br />Por fim, após terminar de postar material próprio, será postado material de outras pessoas que estiveram no show e também conseguiram seus próprios vídeos. Continue nos visitando!
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/sobre-os-videos.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/sobre-os-videos.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-12-04T14:40:00-08:00'>14:40</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=8245723031589759623' onclick=''>
+29 comentários:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=8245723031589759623&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>sexta-feira, 14 de março de 2008</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='694783523269462241' itemprop='postId'/>
+<a name='694783523269462241'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-fear-of.html'>Iron Maiden in Sao Paulo 2008 - Fear of the Dark</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-694783523269462241' itemprop='description articleBody'>
+Iron Maiden in Sao Paulo (Palmeiras Stadium) 2008 - Fear of the Dark<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/WBEA2JAS9329bee74b7672d25bb9e5e137346f87.26492260.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/WBEA2JAS9329bee74b7672d25bb9e5e137346f87.26492260.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">Download (High Quality):</font></b><br />Megaupload: <br /><a href="http://www.megaupload.com/?d=GUA3BYHC" target=_blank>Part 1/6</a> - <a href="http://www.megaupload.com/?d=GORAEX00" target=_blank>Part 2/6</a> - <a href="http://www.megaupload.com/?d=A6UHHFMK" target=_blank>Part 3/6</a> - <a href="http://www.megaupload.com/?d=1OU40UL3" target=_blank>Part 4/6</a> - <a href="http://www.megaupload.com/?d=EJSMWWK7" target=_blank>Part 5/6</a> - <a href="http://www.megaupload.com/?d=CBNF6MVP" target=_blank>Part 6/6</a><br />FileFactory: <br /><a href="http://www.filefactory.com/file/5b6d1e/" target=_blank>Part 1/6</a> - <a href="http://www.filefactory.com/file/15fd9e/" target=_blank>Part 2/6</a> - <a href="http://www.filefactory.com/file/833b36/" target=_blank>Part 3/6</a> - <a href="http://www.filefactory.com/file/32e644/" target=_blank>Part 4/6</a> - <a href="http://www.filefactory.com/file/16e787/" target=_blank>Part 5/6</a> - <a href="http://www.filefactory.com/file/85f760/" target=_blank>Part 6/6</a><br />Easy-Share: <br /><a href="http://w16.easy-share.com/1699853646.html" target=_blank>Part 1/6</a> - <a href="http://w16.easy-share.com/1699853656.html" target=_blank>Part 2/6</a> - <a href="http://w16.easy-share.com/1699853659.html" target=_blank>Part 3/6</a> - <a href="http://w16.easy-share.com/1699853658.html" target=_blank>Part 4/6</a> - <a href="http://w16.easy-share.com/1699853655.html" target=_blank>Part 5/6</a> - <a href="http://w16.easy-share.com/1699853663.html" target=_blank>Part 6/6</a><br /><br />Os arquivos estão em servidores diferentes, mas são os mesmos arquivos, então pode pegar uma parte de cada servidor sem problemas. Depois que baixar tudo descompacte a primeira parte com o winrar.<br /><br /><b>PS: Se você está com problemas para executar o video até o final, sugerimos que você baixe o programa <a href="http://superdownloads.uol.com.br/download/3/kmplayer/" target=_blank>KMPlayer</a>, ou utilize algum outro player de DVD para ver os videos no micro.</b>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-fear-of.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-fear-of.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-14T10:34:00-07:00'>10:34</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=694783523269462241' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=694783523269462241&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>terça-feira, 11 de março de 2008</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='8562999734982987599' itemprop='postId'/>
+<a name='8562999734982987599'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/bruce-com-bandeira-do-brasil.html'>Bruce com a bandeira do Brasil</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8562999734982987599' itemprop='description articleBody'>
+Bruce com a bandeira do Brasil<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/MGTEFF047dfa9050373845ebd50cc4d9087fa7cd.26492590.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/MGTEFF047dfa9050373845ebd50cc4d9087fa7cd.26492590.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">Download (High Quality):</font></b><br />Megaupload: <a href="http://www.megaupload.com/?d=99ZIMNBZ" target=_blank>Part 1/2</a> - <a href="http://www.megaupload.com/?d=T4U4UKZF" target=_blank>Part 2/2</a><br />FileFactory: <a href="http://www.filefactory.com/file/aac774/" target=_blank>Part 1/2</a> - <a href="http://www.filefactory.com/file/53c342/" target=_blank>Part 2/2</a><br />Easy-Share: <a href="http://w13.easy-share.com/1699809205.html" target=_blank>Part 1/2</a> - <a href="http://w13.easy-share.com/1699809206.html" target=_blank>Part 2/2</a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/bruce-com-bandeira-do-brasil.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/bruce-com-bandeira-do-brasil.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-11T10:17:00-07:00'>10:17</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=8562999734982987599' onclick=''>
+2 comentários:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=8562999734982987599&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Bruce%20Dickinson' rel='tag'>Bruce Dickinson</a>,
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>sábado, 8 de março de 2008</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='9161023376265790498' itemprop='postId'/>
+<a name='9161023376265790498'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-moonchild.html'>Iron Maiden in Sao Paulo 2008 - Moonchild</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-9161023376265790498' itemprop='description articleBody'>
+Iron Maiden in Sao Paulo (Palmeiras Stadium) 2008 - Moonchild<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/LTLGMXU2f0ac639b396bf09a76ba8e847a5ad782.26492531.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/LTLGMXU2f0ac639b396bf09a76ba8e847a5ad782.26492531.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">Download (High Quality):</font></b><br />Megaupload: <a href="http://www.megaupload.com/?d=AFEQEFHZ" target=_blank>Part 1/5</a> - <a href="http://www.megaupload.com/?d=JN12XEWZ" target=_blank>Part 2/5</a> - <a href="http://www.megaupload.com/?d=710KL7OB" target=_blank>Part 3/5</a> - <a href="http://www.megaupload.com/?d=9T63FO5I" target=_blank>Part 4/5</a> - <a href="http://www.megaupload.com/?d=RC1SLLX0" target=_blank>Part 5/5</a><br />FileFactory: <a href="http://www.filefactory.com/file/4412fe/" target=_blank>Part 1/5</a> - <a href="http://www.filefactory.com/file/020a3d/" target=_blank>Part 2/5</a> - <a href="http://www.filefactory.com/file/4915bf/" target=_blank>Part 3/5</a> - <a href="http://www.filefactory.com/file/4799fd/" target=_blank>Part 4/5</a> - <a href="http://www.filefactory.com/file/7c3a29/" target=_blank>Part 5/5</a><br />Easy-Share: <a href="http://w13.easy-share.com/1699806776.html" target=_blank>Part 1/5</a> - <a href="http://w13.easy-share.com/1699806778.html" target=_blank>Part 2/5</a> - <a href="http://w13.easy-share.com/1699806775.html" target=_blank>Part 3/5</a> - <a href="http://w13.easy-share.com/1699806777.html" target=_blank>Part 4/5</a> - <a href="http://w13.easy-share.com/1699806769.html" target=_blank>Part 5/5</a><br /><br />Os arquivos estão em servidores diferentes, mas são os mesmos arquivos, então pode pegar uma parte de cada servidor sem problemas. Depois que baixar tudo descompacte a primeira parte com o winrar.<br /><br /><b>PS: Se você está com problemas para executar o video até o final, sugerimos que você baixe o programa <a href="http://superdownloads.uol.com.br/download/3/kmplayer/" target=_blank>KMPlayer</a>, ou utilize algum outro player de DVD para ver os videos no micro.</b>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-moonchild.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-moonchild.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-08T18:43:00-08:00'>18:43</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=9161023376265790498' onclick=''>
+Um comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=9161023376265790498&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='5584591774705212153' itemprop='postId'/>
+<a name='5584591774705212153'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/bruce-prometendo-voltar-so-paulo.html'>Bruce prometendo voltar a São Paulo</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5584591774705212153' itemprop='description articleBody'>
+Bruce conversando com a galera do show, prometendo voltar para São Paulo com um show ainda maior!! e em breve!!<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/A47AE06Y57e7869381f82c84c01f95a338540020.26492107.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/A47AE06Y57e7869381f82c84c01f95a338540020.26492107.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">Download (High Quality):</font></b><br />Megaupload: <a href="http://www.megaupload.com/?d=PG0O9VUF" target=_blank>Part 1/3</a> - <a href="http://www.megaupload.com/?d=OFF4UC24" target=_blank>Part 2/3</a> - <a href="http://www.megaupload.com/?d=MI938968" target=_blank>Part 3/3</a><br />FileFactory: <a href="http://www.filefactory.com/file/8b8187/" target=_blank>Part 1/3</a> - <a href="http://www.filefactory.com/file/f51f59/" target=_blank>Part 2/3</a> - <a href="http://www.filefactory.com/file/e26e99/" target=_blank>Part 3/3</a><br />Easy-Share: <a href="http://w13.easy-share.com/1699805361.html" target=_blank>Part 1/3</a> - <a href="http://w13.easy-share.com/1699805240.html" target=_blank>Part 2/3</a> - <a href="http://w13.easy-share.com/1699805222.html" target=_blank>Part 3/3</a><br /><br />Os arquivos estão em servidores diferentes, mas são os mesmos arquivos, então pode pegar uma parte de cada servidor sem problemas. Depois que baixar tudo descompacte a primeira parte com o winrar.<br /><br /><b>PS: Se você está com problemas para executar o video até o final, sugerimos que você baixe o programa <a href="http://superdownloads.uol.com.br/download/3/kmplayer/" target=_blank>KMPlayer</a>, ou utilize algum outro player de DVD para ver os videos no micro.</b>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/bruce-prometendo-voltar-so-paulo.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/bruce-prometendo-voltar-so-paulo.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-08T17:09:00-08:00'>17:09</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=5584591774705212153' onclick=''>
+3 comentários:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=5584591774705212153&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Bruce%20Dickinson' rel='tag'>Bruce Dickinson</a>,
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='3417325016090034087' itemprop='postId'/>
+<a name='3417325016090034087'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008_08.html'>Iron Maiden in Sao Paulo 2008 - The Clairvoyant</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-3417325016090034087' itemprop='description articleBody'>
+Iron Maiden in Sao Paulo (Palmeiras Stadium) 2008 - The Clairvoyant<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/JGXE75Y2d39b9330446609d45e49ba35a425736f.26492548.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/JGXE75Y2d39b9330446609d45e49ba35a425736f.26492548.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">Download (High Quality):</font></b><br />Megaupload: <a href="http://www.megaupload.com/?d=P115NJ38" target=_blank>Part 1/4</a> - <a href="http://www.megaupload.com/?d=GP87K6MF" target=_blank>Part 2/4</a> - <a href="http://www.megaupload.com/?d=0L1G7M80" target=_blank>Part 3/4</a> - <a href="http://www.megaupload.com/?d=CVL9DD6W" target=_blank>Part 4/4</a><br />FileFactory: <a href="http://www.filefactory.com/file/f22f87/" target=_blank>Part 1/4</a> - <a href="http://www.filefactory.com/file/85b20b/" target=_blank>Part 2/4</a> - <a href="http://www.filefactory.com/file/d23a6c/" target=_blank>Part 3/4</a> - <a href="http://www.filefactory.com/file/954736/" target=_blank>Part 4/4</a><br />Easy-Share: <a href="http://w13.easy-share.com/1699800621.html" target=_blank>Part 1/4</a> - <a href="http://w13.easy-share.com/1699800622.html" target=_blank>Part 2/4</a> - <a href="http://w13.easy-share.com/1699800623.html" target=_blank>Part 3/4</a> - <a href="http://w13.easy-share.com/1699800615.html" target=_blank>Part 4/4</a><br /><br />Os arquivos estão em servidores diferentes, mas são os mesmos arquivos, então pode pegar uma parte de cada servidor sem problemas. Depois que baixar tudo descompacte a primeira parte com o winrar.<br /><br /><b>PS: Se você está com problemas para executar o video até o final, sugerimos que você baixe o programa <a href="http://superdownloads.uol.com.br/download/3/kmplayer/" target=_blank>KMPlayer</a>, ou utilize algum outro player de DVD para ver os videos no micro.</b>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008_08.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008_08.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-08T02:25:00-08:00'>02:25</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=3417325016090034087' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=3417325016090034087&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='956216985380142247' itemprop='postId'/>
+<a name='956216985380142247'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-hallowed.html'>Iron Maiden in Sao Paulo 2008 - Hallowed Be Thy Name</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-956216985380142247' itemprop='description articleBody'>
+Iron Maiden in Sao Paulo (Palmeiras Stadium) 2008 - Hallowed Be Thy Name<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/NXENXOPI2fc5425ed53177f0bf7bc1ff5d03b3c2.26492452.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/NXENXOPI2fc5425ed53177f0bf7bc1ff5d03b3c2.26492452.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">Download (High Quality):</font></b><br />Megaupload: <a href="http://www.megaupload.com/?d=KAWQL8QG" target=_blank>Part 1/7</a> - <a href="http://www.megaupload.com/?d=ZLXXGG0V" target=_blank>2/7</a> - <a href="http://www.megaupload.com/?d=26GHWE78" target=_blank>3/7</a> - <a href="http://www.megaupload.com/?d=4MRKJ7RI" target=_blank>4/7</a> - <a href="http://www.megaupload.com/?d=9GCT5PIV" target=_blank>5/7</a> - <a href="http://www.megaupload.com/?d=ICDNQGB5" target=_blank>6/7</a> - <a href="http://www.megaupload.com/?d=QJHX1FDY" target=_blank>7/7</a><br />FileFactory: <a href="http://www.filefactory.com/file/aa22fa/" target=_blank>Part 1/7</a> - <a href="http://www.filefactory.com/file/6ba9d7/" target=_blank>2/7</a> - <a href="http://www.filefactory.com/file/2e39ea/" target=_blank>3/7</a> - <a href="http://www.filefactory.com/file/18ad20/" target=_blank>4/7</a> - <a href="http://www.filefactory.com/file/2f6975/" target=_blank>5/7</a> - <a href="http://www.filefactory.com/file/20238d/" target=_blank>6/7</a> - <a href="http://www.filefactory.com/file/4eb0c7/" target=_blank>7/7</a><br />Easy-Share: <a href="http://w13.easy-share.com/1699800479.html" target=_blank>Part 1/7</a> - <a href="http://w13.easy-share.com/1699800489.html" target=_blank>2/7</a> - <a href="http://w13.easy-share.com/1699800476.html" target=_blank>3/7</a> - <a href="http://w13.easy-share.com/1699800478.html" target=_blank>4/7</a> - <a href="http://w13.easy-share.com/1699800477.html" target=_blank>5/7</a> - <a href="http://w13.easy-share.com/1699800481.html" target=_blank>6/7</a> - <a href="http://w13.easy-share.com/1699800470.html" target=_blank>7/7</a><br /><br />Os arquivos estão em servidores diferentes, mas são os mesmos arquivos, então pode pegar uma parte de cada servidor sem problemas. Depois que baixar tudo descompacte a primeira parte com o winrar.<br /><br /><b>PS: Se você está com problemas para executar o video até o final, sugerimos que você baixe o programa <a href="http://superdownloads.uol.com.br/download/3/kmplayer/" target=_blank>KMPlayer</a>, ou utilize algum outro player de DVD para ver os videos no micro.</b><strong></strong>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-hallowed.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-hallowed.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-08T01:46:00-08:00'>01:46</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=956216985380142247' onclick=''>
+3 comentários:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=956216985380142247&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>quinta-feira, 6 de março de 2008</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='1810580844139128925' itemprop='postId'/>
+<a name='1810580844139128925'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-run-to.html'>Iron Maiden in Sao Paulo 2008 - Run to the Hills</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-1810580844139128925' itemprop='description articleBody'>
+Iron Maiden in Sao Paulo (Palmeiras Stadium) 2008 - Run to the Hills<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/FUH79ZBA2d4377376dedd24efe0dac0df43c42be.26492109.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/FUH79ZBA2d4377376dedd24efe0dac0df43c42be.26492109.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">Download (High Quality):</font></b><br />Megaupload: <a href="http://www.megaupload.com/?d=JYYLJYAJ" target=_blank>Part 1/3</a> - <a href="http://www.megaupload.com/?d=TZX797JB" target=_blank>Part 2/3</a> - <a href="http://www.megaupload.com/?d=IEVUNKMX" target=_blank>Part 3/3</a><br />FileFactory: <a href="http://www.filefactory.com/file/985308/" target=_blank>Part 1/3</a> - <a href="http://www.filefactory.com/file/b876d7/" target=_blank>Part 2/3</a> - <a href="http://www.filefactory.com/file/f7e1bf/" target=_blank>Parte 3/3</a><br />Easy-Share: <a href="http://w13.easy-share.com/1699786639.html" target=_blank>Part 1/3</a> - <a href="http://w13.easy-share.com/1699786643.html" target=_blank>Part 2/3</a> - <a href="http://w13.easy-share.com/1699786774.html" target=_blank>Part 3/3</a><br /><br />Os arquivos estão em servidores diferentes, mas são os mesmos arquivos, então pode pegar uma parte de cada servidor sem problemas. Depois que baixar tudo descompacte a primeira parte com o winrar.<br /><br /><b>PS: Se você está com problemas para executar o video até o final, sugerimos que você baixe o programa <a href="http://superdownloads.uol.com.br/download/3/kmplayer/" target=_blank>KMPlayer</a>, ou utilize algum outro player de DVD para ver os videos no micro.</b><strong></strong>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-run-to.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-run-to.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-06T11:47:00-08:00'>11:47</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=1810580844139128925' onclick=''>
+3 comentários:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=1810580844139128925&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='544663798614842493' itemprop='postId'/>
+<a name='544663798614842493'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-iron.html'>Iron Maiden in Sao Paulo 2008 - Iron Maiden</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-544663798614842493' itemprop='description articleBody'>
+Iron Maiden in Sao Paulo (Palmeiras Stadium) 2008 - Iron Maiden<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/VOCKRITTf494e14015d27437bc72303e86c99cf1.26492041.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/VOCKRITTf494e14015d27437bc72303e86c99cf1.26492041.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">Download (High Quality):</font></b><br />Megaupload: <a href="http://www.megaupload.com/?d=EECI3H8Q" target=_blank>Part 1/4</a> - <a href="http://www.megaupload.com/?d=1TMWJBPB" target=_blank>Part 2/4</a> - <a href="http://www.megaupload.com/?d=B500H75L" target=_blank>Part 3/4</a> - <a href="http://www.megaupload.com/?d=6CMLJG33" target=_blank>Part 4/4</a><br />FileFactory: <a href="http://www.filefactory.com/file/561f05/" target=_blank>Part 1/4</a> - <a href="http://www.filefactory.com/file/fb7348/" target=_blank>Part 2/4</a> - <a href="http://www.filefactory.com/file/40e2a1/" target=_blank>Part 3/4</a> - <a href="http://www.filefactory.com/file/d626cd/" target=_blank>Part 4/4</a><br />Easy-Share: <a href="http://w13.easy-share.com/1699785163.html" target=_blank>Part 1/4</a> - <a href="http://w13.easy-share.com/1699785490.html" target=_blank>Part 2/4</a> - <a href="http://w13.easy-share.com/1699785480.html" target=_blank>Part 3/4</a> - <a href="http://w13.easy-share.com/1699785523.html" target=_blank>Part 4/4</a><br /><br />Os arquivos estão em servidores diferentes, mas são os mesmos arquivos, então pode pegar uma parte de cada servidor sem problemas. Depois que baixar tudo descompacte a primeira parte com o winrar.<br /><br /><b>PS: Se você está com problemas para executar o video até o final, sugerimos que você baixe o programa <a href="http://superdownloads.uol.com.br/download/3/kmplayer/" target=_blank>KMPlayer</a>, ou utilize algum outro player de DVD para ver os videos no micro.</b>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-iron.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-iron.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-06T10:45:00-08:00'>10:45</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=544663798614842493' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=544663798614842493&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='3802699977189272768' itemprop='postId'/>
+<a name='3802699977189272768'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-heaven.html'>Iron Maiden in Sao Paulo 2008 - Heaven can Wait</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-3802699977189272768' itemprop='description articleBody'>
+Iron Maiden in Sao Paulo (Palmeiras Stadium) 2008 - Heaven can Wait<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/8Z1AIVSU75ae2b11a99c19aa9b934f71163210fd.26492208.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/8Z1AIVSU75ae2b11a99c19aa9b934f71163210fd.26492208.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">Download (High Quality)</font></b><br />Megaupload: <br /><a href="http://www.megaupload.com/?d=PF9O7QC8" target=_blank>Part 1/6</a> - <a href="http://www.megaupload.com/?d=FVMZZDQ8" target=_blank>Part 2/6</a> - <a href="http://www.megaupload.com/?d=HTGZMU60" target=_blank>Part 3/6</a> - <a href="http://www.megaupload.com/?d=VCGSQ2TT" target=_blank>Part 4/6</a> - <a href="http://www.megaupload.com/?d=YDNEG7LC" target=_blank>Part 5/6</a> - <a href="http://www.megaupload.com/?d=IAC99KAI" target=_blank>Part 6/6</a><br />FileFactory: <br /><a href="http://www.filefactory.com/file/5b30f1/" target=_blank>Part 1/6</a> - <a href="http://www.filefactory.com/file/d83dac/" target=_blank>Part 2/6</a> - <a href="http://www.filefactory.com/file/be3953/" target=_blank>Part 3/6</a> - <a href="http://www.filefactory.com/file/2187e6/" target=_blank>Part 4/6</a> - <a href="http://www.filefactory.com/file/ab67f0/" target=_blank>Part 5/6</a> - <a href="http://www.filefactory.com/file/0479ef/" target=_blank>Part 6/6</a><br />Easy-Share: <br /><a href="http://w13.easy-share.com/1699781410.html" target=_blank>Part 1/6</a> - <a href="http://w13.easy-share.com/1699782469.html" target=_blank>Part 2/6</a> - <a href="http://w13.easy-share.com/1699782488.html" target=_blank>Part 3/6</a> - <a href="http://w13.easy-share.com/1699782491.html" target=_blank>Part 4/6</a> - <a href="http://w13.easy-share.com/1699782565.html" target=_blank>Part 5/6</a> - <a href="http://w13.easy-share.com/1699782470.html" target=_blank>Part 6/6</a><br /><br />Os arquivos estão em servidores diferentes, mas são os mesmos arquivos, então pode pegar uma parte de cada servidor sem problemas. Depois que baixar tudo descompacte a primeira parte com o winrar.<br /><br /><b>PS: Se você está com problemas para executar o video até o final, sugerimos que você baixe o programa <a href="http://superdownloads.uol.com.br/download/3/kmplayer/" target=_blank>KMPlayer</a>, ou utilize algum outro player de DVD para ver os videos no micro.</b>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-heaven.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-heaven.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-06T06:44:00-08:00'>06:44</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=3802699977189272768' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=3802699977189272768&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>quarta-feira, 5 de março de 2008</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='787682510111904005' itemprop='postId'/>
+<a name='787682510111904005'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/bruce-dickinson-conversando-com-galera.html'>Bruce Dickinson conversando com a galera</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-787682510111904005' itemprop='description articleBody'>
+Bruce Dickinson conversando com a galera entre 2 Minutes to Midnight e Revelations no show de São Paulo (março 2008)<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/MJGHI9EI0aed56db22c734e12a93b569bc8f27d7.26492516.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/MJGHI9EI0aed56db22c734e12a93b569bc8f27d7.26492516.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">Download: </font></b> <a href="http://www.megaupload.com/?d=WS11XK4M" target=_blank>Megaupload</a> - <a href="http://www.filefactory.com/file/6f8882/" target=_blank>FileFactory</a> - <a href="http://w13.easy-share.com/1699770717.html" target=_blank>Easy-Share</a><br /><br />PS.: Algumas pessoas pediram nos comentarios para colocar em mpg com alta qualidade. Estamos providenciando e em breve será postado!
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/bruce-dickinson-conversando-com-galera.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/bruce-dickinson-conversando-com-galera.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-05T03:46:00-08:00'>03:46</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=787682510111904005' onclick=''>
+4 comentários:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=787682510111904005&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Bruce%20Dickinson' rel='tag'>Bruce Dickinson</a>,
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>domingo, 2 de março de 2008</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='625679529039134673' itemprop='postId'/>
+<a name='625679529039134673'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-number-of.html'>Iron Maiden in Sao Paulo 2008 - The number of the beast</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-625679529039134673' itemprop='description articleBody'>
+Iron Maiden in Sao Paulo (Palmeiras Stadium) 2008 - The Number of the beast<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/UWSP5BU5c2bf6317b493818bb99f42da3f214542.26492534.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/UWSP5BU5c2bf6317b493818bb99f42da3f214542.26492534.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">Download (High Quality):</font></b><br />Megaupload: <a href="http://www.megaupload.com/?d=KPNBCDTU" target=_blank>Part 1/4</a> - <a href="http://www.megaupload.com/?d=S1QV5OU8" target=_blank>Part 2/4</a> - <a href="http://www.megaupload.com/?d=59OQESB6" target=_blank>Part 3/4</a> - <a href="http://www.megaupload.com/?d=MQFMTHMK" target=_blank>Part 4/4</a><br />FileFactory: <a href="http://www.filefactory.com/file/edff14/" target=_blank>Part 1/4</a> - <a href="http://www.filefactory.com/file/57c1ae/" target=_blank>Part 2/4</a> - <a href="http://www.filefactory.com/file/eb5f78/" target=_blank>Part 3/4</a> - <a href="http://www.filefactory.com/file/719eb7/" target=_blank>Part 4/4</a><br />Easy-Share: <a href="http://w13.easy-share.com/1699828338.html" target=_blank>Part 1/4</a> - <a href="http://w13.easy-share.com/1699828339.html" target=_blank>Part 2/4</a> - <a href="http://w13.easy-share.com/1699828342.html" target=_blank>Part 3/4</a> - <a href="http://w13.easy-share.com/1699828358.html" target=_blank>Part 4/4</a><br /><br />Os arquivos estão em servidores diferentes, mas são os mesmos arquivos, então pode pegar uma parte de cada servidor sem problemas. Depois que baixar tudo descompacte a primeira parte com o winrar.<br /><br /><b><font color="darkred">Download (Low Quality): </font></b><br />Arquivo menor, mas com qualidade muito boa tb!!!<br /><a href="http://www.megaupload.com/?d=ZEDBEGLT" target=_blank>Megaupload</a> - <a href="http://www.filefactory.com/file/9e37b8/" target=_blank>FileFactory</a> - <a href="http://w15.easy-share.com/1700236624.html" target=_blank>Easy-Share</a><br /><br /><b>PS: Se você está com problemas para executar o video até o final, sugerimos que você baixe o programa <a href="http://superdownloads.uol.com.br/download/3/kmplayer/" target=_blank>KMPlayer</a>, ou utilize algum outro player de DVD para ver os videos no micro.</b>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-number-of.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-number-of.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-02T09:55:00-08:00'>09:55</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=625679529039134673' onclick=''>
+2 comentários:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=625679529039134673&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='8288780313433713668' itemprop='postId'/>
+<a name='8288780313433713668'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008_06.html'>Iron Maiden in Sao Paulo 2008 - Powerslave</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8288780313433713668' itemprop='description articleBody'>
+Iron Maiden in Sao Paulo (Palmeiras Stadium) 2008 - Powerslave<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/VILPRZO50809bfee469148ffa15a3404083990d1.26492189.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/VILPRZO50809bfee469148ffa15a3404083990d1.26492189.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">Download (High Quality):</font></b><br />Megaupload: <br /><a href="http://www.megaupload.com/?d=8R0SCN6A" target=_blank>Part 1/6</a> - <a href="http://www.megaupload.com/?d=SYRO6T4P" target=_blank>Part 2/6</a> - <a href="http://www.megaupload.com/?d=2EWIWJH7" target=_blank>Part 3/6</a> - <a href="http://www.megaupload.com/?d=S4J9IZIH" target=_blank>Part 4/6</a> - <a href="http://www.megaupload.com/?d=O7RE6D81" target=_blank>Part 5/6</a> - <a href="http://www.megaupload.com/?d=O9QZJNI8" target=_blank>Part 6/6</a><br />FileFactory:<br /><a href="http://www.filefactory.com/file/d2a477/" target=_blank>Part 1/6</a> - <a href="http://www.filefactory.com/file/cf2c0d/" target=_blank>Part 2/6</a> - <a href="http://www.filefactory.com/file/d452a8/" target=_blank>Part 3/6</a> - <a href="http://www.filefactory.com/file/667981/" target=_blank>Part 4/6</a> - <a href="http://www.filefactory.com/file/af283a/" target=_blank>Part 5/6</a> - <a href="http://www.filefactory.com/file/949c96/" target=_blank>Part 6/6</a><br />Easy-Share:<br /><a href="http://w13.easy-share.com/1699786081.html" target=_blank>Part 1/6</a> - <a href="http://w13.easy-share.com/1699786086.html" target=_blank>Part 2/6</a> - <a href="http://w13.easy-share.com/1699786077.html" target=_blank>Part 3/6</a> - <a href="http://w13.easy-share.com/1699786201.html" target=_blank>Part 4/6</a> - <a href="http://w13.easy-share.com/1699786371.html" target=_blank>Part 5/6</a> - <a href="http://w13.easy-share.com/1699786221.html" target=_blank>Part 6/6</a><br /><br />Os arquivos estão em servidores diferentes, mas são os mesmos arquivos, então pode pegar uma parte de cada servidor sem problemas. Depois que baixar tudo descompacte a primeira parte com o winrar.<br /><br /><b><font color="darkred">Download (Low Quality): </font></b><br />Arquivo menor, mas com qualidade muito boa tb!!!<br /><a href="http://www.megaupload.com/?d=VTB33JZY" target=_blank>Megaupload</a> - <a href="http://www.filefactory.com/file/4669c4/" target=_blank>FileFactory</a> - <a href="http://w13.easy-share.com/1699951826.html" target=_blank>Easy-Share</a><br /><br /><b>PS: Se você está com problemas para executar o video até o final, sugerimos que você baixe o programa <a href="http://superdownloads.uol.com.br/download/3/kmplayer/" target=_blank>KMPlayer</a>, ou utilize algum outro player de DVD para ver os videos no micro.</b>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008_06.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008_06.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-02T09:49:00-08:00'>09:49</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=8288780313433713668' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=8288780313433713668&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='5341556556201014712' itemprop='postId'/>
+<a name='5341556556201014712'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/rime-of-ancient-mariner.html'>The Rime of The Ancient Mariner</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5341556556201014712' itemprop='description articleBody'>
+Iron Maiden in Sao Paulo (Palmeiras Stadium) 2008 - The Rime Of the Ancient Mariner<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/ITWVTX7E68aeec27c7c9cc8069db01dbd4197d45.26492334.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/ITWVTX7E68aeec27c7c9cc8069db01dbd4197d45.26492334.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">Download (High Quality):</font></b><br />Megaupload: <br /><a href="http://www.megaupload.com/?d=N27E1AFB" target=_blank>Part 1/10</a> - <a href="http://www.megaupload.com/?d=SVHLMB6U" target=_blank>Part 2/10</a> - <a href="http://www.megaupload.com/?d=6AM12ENH" target=_blank>Part 3/10</a> - <a href="http://www.megaupload.com/?d=7F4WM4QO" target=_blank>Part 4/10</a> - <a href="http://www.megaupload.com/?d=5IVY28LS" target=_blank>Part 5/10</a> - <br /><a href="http://www.megaupload.com/?d=QERKV5XU" target=_blank>Part 6/10</a> - <a href="http://www.megaupload.com/?d=VOD8G3L4" target=_blank>Part 7/10</a> - <a href="http://www.megaupload.com/?d=1JCU579Q" target=_blank>Part 8/10</a> - <a href="http://www.megaupload.com/?d=S1TF7MVW" target=_blank>Part 9/10</a> - <a href="http://www.megaupload.com/?d=S5KUF4MJ" target=_blank>Part 10/10</a><br />FileFactory: <br /><a href="http://www.filefactory.com/file/fbbb18/" target=_blank>Part 1/10</a> - <a href="http://www.filefactory.com/file/739988/" target=_blank>Part 2/10</a> - <a href="http://www.filefactory.com/file/eeac4d/" target=_blank>Part 3/10</a> - <a href="http://www.filefactory.com/file/fd6bc3/" target=_blank>Part 4/10</a> - <a href="http://www.filefactory.com/file/4ded43/" target=_blank>Part 5/10</a> - <br /><a href="http://www.filefactory.com/file/72e838/" target=_blank>Part 6/10</a> - <a href="http://www.filefactory.com/file/e2473b/" target=_blank>Part 7/10</a> - <a href="http://www.filefactory.com/file/e9a895/" target=_blank>Part 8/10</a> - <a href="http://www.filefactory.com/file/de2565/" target=_blank>Part 9/10</a> - <a href="http://www.filefactory.com/file/5d211e/" target=_blank>Part 10/10</a><br />Easy-Share<br /><a href="http://w16.easy-share.com/1699876643.html" target=_blank>Part 1/10</a> - <a href="http://w16.easy-share.com/1699876647.html" target=_blank>Part 2/10</a> - <a href="http://w16.easy-share.com/1699876663.html" target=_blank>Part 3/10</a> - <a href="http://w16.easy-share.com/1699876687.html" target=_blank>Part 4/10</a> - <a href="http://w16.easy-share.com/1699872032.html" target=_blank>Part 5/10</a> - <br /><a href="http://w16.easy-share.com/1699872182.html" target=_blank>Part 6/10</a> - <a href="http://w16.easy-share.com/1699876751.html" target=_blank>Part 7/10</a> - <a href="http://w16.easy-share.com/1699876742.html" target=_blank>Part 8/10</a> - <a href="http://w16.easy-share.com/1699877027.html" target=_blank>Part 9/10</a> - <a href="http://w16.easy-share.com/1699877042.html" target=_blank>Part 10/10</a><br /><br />Os arquivos estão em servidores diferentes, mas são os mesmos arquivos, então pode pegar uma parte de cada servidor sem problemas. Depois que baixar tudo descompacte a primeira parte com o winrar.<br /><br /><b><font color="darkred">Download (Low Quality): </font></b><br />Arquivo menor, mas com qualidade muito boa tb!!!<br />Megaupload: <a href="http://www.megaupload.com/pt/?d=GNMBYQNK" target=_blank>Part 1/2</a> - <a href="http://www.megaupload.com/pt/?d=VO4HHQJW" target=_blank>Part 2/2</a><br />FileFactory: <a href="http://www.filefactory.com/file/ce6fd3/" target=_blank>Part 1/2</a> - <a href="http://www.filefactory.com/file/a9156d/" target=_blank>Part 2/2</a><br />Easy-Share: <a href="http://w16.easy-share.com/1699951625.html" target=_blank>Part 1/2</a> - <a href="http://w16.easy-share.com/1699951841.html" target=_blank>Part 2/2</a><br /><br /><b>PS: Se você está com problemas para executar o video até o final, sugerimos que você baixe o programa <a href="http://superdownloads.uol.com.br/download/3/kmplayer/" target=_blank>KMPlayer</a>, ou utilize algum outro player de DVD para ver os videos no micro.</b>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/rime-of-ancient-mariner.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/rime-of-ancient-mariner.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-02T09:48:00-08:00'>09:48</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=5341556556201014712' onclick=''>
+8 comentários:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=5341556556201014712&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='8921467824978958639' itemprop='postId'/>
+<a name='8921467824978958639'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-can-i.html'>Iron Maiden in Sao Paulo 2008 - Can I play with Madness (cut)</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8921467824978958639' itemprop='description articleBody'>
+Iron Maiden in Sao Paulo (Palmeiras Stadium) 2008 - Can I play with Madness (cut)<br /><br />Lembrando que por uma falha no equipamento, essa música não foi gravada inteira, está cortada.<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/1DKU0NV8aff62cad2ed94fb54fd7652ceae87420.26492467.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/1DKU0NV8aff62cad2ed94fb54fd7652ceae87420.26492467.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">Download (High Quality):</font></b><br />Megaupload: <a href="http://www.megaupload.com/?d=OYD3BE97" target=_blank>Part 1/2</a> - <a href="http://www.megaupload.com/?d=N8YB0W1U" target=_blank>Part 2/2</a><br />FileFactory: <a href="http://www.filefactory.com/file/b4b83e/" target=_blank>Part 1/2</a> - <a href="http://www.filefactory.com/file/0c6e21/" target=_blank>Part 2/2</a><br />Easy-Share: <a href="http://w16.easy-share.com/1699853531.html" target=_blank>Part 1/2</a> - <a href="http://w16.easy-share.com/1699853583.html" target=_blank>Part 2/2</a><br /><br />Os arquivos estão em servidores diferentes, mas são os mesmos arquivos, então pode pegar uma parte de cada servidor sem problemas. Depois que baixar tudo descompacte a primeira parte com o winrar.<br /><br /><br /><b><font color="darkred">Download (Low Quality): </font></b><br />Arquivo menor, mas com qualidade muito boa tb!!!<br /><a href="http://www.megaupload.com/pt/?d=QE9B3000" target=_blank>Megaupload</a> - <a href="http://www.filefactory.com/file/92c6a2/" target=_blank>FileFactory</a> - <a href="http://w16.easy-share.com/1699951350.html" target=_blank>Easy-Share</a><br /><br /><b>PS: Se você está com problemas para executar o video até o final, sugerimos que você baixe o programa <a href="http://superdownloads.uol.com.br/download/3/kmplayer/" target=_blank>KMPlayer</a>, ou utilize algum outro player de DVD para ver os videos no micro.</b>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-can-i.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-can-i.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-02T09:47:00-08:00'>09:47</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=8921467824978958639' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=8921467824978958639&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='3601833176574508977' itemprop='postId'/>
+<a name='3601833176574508977'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-wasted.html'>Iron Maiden in Sao Paulo 2008 - Wasted Years</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-3601833176574508977' itemprop='description articleBody'>
+Iron Maiden in Sao Paulo (Palmeiras Stadium) 2008 - Wasted Years<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/FC3X44PLbccc1fd78231be89410a843bc1c1f4a2.26492149.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/FC3X44PLbccc1fd78231be89410a843bc1c1f4a2.26492149.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">High Quality</font></b><br />Megaupload: <a href="http://www.megaupload.com/?d=94FGR1A2" target=_blank>Part 1/4</a> - <a href="http://www.megaupload.com/?d=4EVM8NPY" target=_blank>Part 2/4</a> - <a href="http://www.megaupload.com/?d=MRLZ5Q87" target=_blank>Part 3/4</a> - <a href="http://www.megaupload.com/?d=9SMAPH86" target=_blank>Part 4/4</a><br />FileFactory: <a href="http://www.filefactory.com/file/c28488/" target=_blank>Part 1/4</a> - <a href="http://www.filefactory.com/file/1633d6/" target=_blank>Part 2/4</a> - <a href="http://www.filefactory.com/file/edf5a1/" target=_blank>Part 3/4</a> - <a href="http://www.filefactory.com/file/c242dd/" target=_blank>Part 4/4</a><br />Easy-Share: <a href="http://w13.easy-share.com/1699828435.html" target=_blank>Part 1/4</a> - <a href="http://w13.easy-share.com/1699828487.html" target=_blank>Part 2/4</a> - <a href="http://w13.easy-share.com/1699828542.html" target=_blank>Part 3/4</a> - <a href="http://w13.easy-share.com/1699828559.html" target=_blank>Part 4/4</a><br /><br />Os arquivos estão em servidores diferentes, mas são os mesmos arquivos, então pode pegar uma parte de cada servidor sem problemas. Depois que baixar tudo descompacte a primeira parte com o winrar.<br /><br /><b><font color="darkred">Download (Low Quality): </font></b><br />Arquivo menor, mas com qualidade muito boa tb!!!<br /><a href="http://www.megaupload.com/pt/?d=EGQJ8TBO" target=_blank>Megaupload</a> - <a href="http://www.filefactory.com/file/651c80/" target=_blank>FileFactory</a> - <a href="http://w16.easy-share.com/1699933070.html" target=_blank>Easy-Share</a><br /><br /><b>PS: Se você está com problemas para executar o video até o final, sugerimos que você baixe o programa <a href="http://superdownloads.uol.com.br/download/3/kmplayer/" target=_blank>KMPlayer</a>, ou utilize algum outro player de DVD para ver os videos no micro.</b>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-wasted.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-wasted.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-02T09:46:00-08:00'>09:46</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=3601833176574508977' onclick=''>
+6 comentários:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=3601833176574508977&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='6267210944856504086' itemprop='postId'/>
+<a name='6267210944856504086'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-trooper.html'>Iron Maiden in Sao Paulo 2008 - The Trooper</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-6267210944856504086' itemprop='description articleBody'>
+Iron Maiden in Sao Paulo (Palmeiras Stadium) 2008 - The Trooper<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/ZB90PBNZcec7198ae9c7b2fc28eb5a7c8b2c3ce0.26492067.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/ZB90PBNZcec7198ae9c7b2fc28eb5a7c8b2c3ce0.26492067.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">Download (High Quality): </font></b><br />Megaupload: <a href="http://www.megaupload.com/?d=6FI3K1X4" target=_blank>Part 1/4</a> - <a href="http://www.megaupload.com/?d=78EFB48J" target=_blank>Part 2/4</a> - <a href="http://www.megaupload.com/?d=G38BB2YA" target=_blank>Part 3/4</a> - <a href="http://www.megaupload.com/?d=E5JYBAOO" target=_blank>Part 4/4</a><br />FileFactory: <a href="http://www.filefactory.com/file/31992d/" target=_blank>Part 1/4</a> - <a href="http://www.filefactory.com/file/6e68f4/" target=_blank>Part 2/4</a> - <a href="http://www.filefactory.com/file/e7968c/" target=_blank>Part 3/4</a> - <a href="http://www.filefactory.com/file/edb9bb/" target=_blank>Part 4/4</a><br />Easy-Share: <a href="http://w13.easy-share.com/1699774657.html" target=_blank>Part 1/4</a> - <a href="http://w13.easy-share.com/1699774662.html" target=_blank>Part 2/4</a> - <a href="http://w13.easy-share.com/1699774658.html" target=_blank>Part 3/4</a> - <a href="http://w13.easy-share.com/1699774516.html" target=_blank>Part 4/4</a><br /><br />Os arquivos estão em servidores diferentes, mas são os mesmos arquivos, então pode pegar uma parte de cada servidor sem problemas. Depois que baixar tudo descompacte a primeira parte com o winrar.<br /><br /><b><font color="darkred">Download (Low Quality): </font></b><br />Arquivo menor, mas com qualidade muito boa tb!!!<br /><a href="http://www.megaupload.com/?d=4YMFNKDO" target=_blank>Megaupload</a> - <a href="http://www.filefactory.com/file/e76877/" target=_blank>FileFactory</a> - <a href="http://w13.easy-share.com/1699829500.html" target=_blank>Easy-Share</a><br /><br /><b>PS: Se você está com problemas para executar o video até o final, sugerimos que você baixe o programa <a href="http://superdownloads.uol.com.br/download/3/kmplayer/" target=_blank>KMPlayer</a>, ou utilize algum outro player de DVD para ver os videos no micro.</b>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-trooper.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-trooper.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-02T09:45:00-08:00'>09:45</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=6267210944856504086' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=6267210944856504086&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='7734650850361683571' itemprop='postId'/>
+<a name='7734650850361683571'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008.html'>Iron Maiden in Sao Paulo 2008 - Revelations</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-7734650850361683571' itemprop='description articleBody'>
+Iron Maiden in Sao Paulo (Palmeiras Stadium) 2008 - Revelations<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/N2D91UHD1cd87a1bcb80121a2ef97ed5ed838472.26492459.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/N2D91UHD1cd87a1bcb80121a2ef97ed5ed838472.26492459.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">Download (High Quality): </font></b><br />Megaupload: <a href="http://www.megaupload.com/?d=1MZB2ZM5" target=_blank>Part 1/5</a> - <a href="http://www.megaupload.com/?d=PBQAJPLB" target=_blank>Part 2/5</a> - <a href="http://www.megaupload.com/?d=4X9HF350" target=_blank>Part 3/5</a> - <a href="http://www.megaupload.com/?d=YV88HE05" target=_blank>Part 4/5</a> - <a href="http://www.megaupload.com/?d=NIB56EFU" target=_blank>Part 5/5</a><br />FileFactory: <a href="http://www.filefactory.com/file/983ceb/" target=_blank>Part 1/5</a> - <a href="http://www.filefactory.com/file/97218b/" target=_blank>Part 2/5</a> - <a href="http://www.filefactory.com/file/3f98ef/" target=_blank>Part 3/5</a> - <a href="http://www.filefactory.com/file/84e4d0/" target=_blank>Part 4/5</a> - <a href="http://www.filefactory.com/file/5aecc8/" target=_blank>Part 5/5</a><br />Easy-Share: <a href="http://w13.easy-share.com/1699770910.html" target=_blank>Part 1/5</a> - <a href="http://w13.easy-share.com/1699770967.html" target=_blank>Part 2/5</a> - <a href="http://w13.easy-share.com/1699771048.html" target=_blank>Part 3/5</a> - <a href="http://w13.easy-share.com/1699771130.html" target=_blank>Part 4/5</a> - <a href="http://w13.easy-share.com/1699771261.html" target=_blank>Part 5/5</a><br /><br />Os arquivos estão em servidores diferentes, mas são os mesmos arquivos, então pode pegar uma parte de cada servidor sem problemas. Depois que baixar tudo descompacte a primeira parte com o winrar.<br /><br /><b><font color="darkred">Download (Low Quality): </font></b><br />Arquivo menor, mas com qualidade muito boa tb!!!<br /><a href="http://www.megaupload.com/pt/?d=WE2M59PO" target=_blank>Megaupload</a> - <a href="http://www.filefactory.com/file/c9ac8a/" target=_blank>FileFactory</a> - <a href="http://w16.easy-share.com/1699932822.html" target=_blank>Easy-Share</a><br /><br /><b>PS: Se você está com problemas para executar o video até o final, sugerimos que você baixe o programa <a href="http://superdownloads.uol.com.br/download/3/kmplayer/" target=_blank>KMPlayer</a>, ou utilize algum outro player de DVD para ver os videos no micro.</b>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-02T09:44:00-08:00'>09:44</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=7734650850361683571' onclick=''>
+Um comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=7734650850361683571&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='2589026576858948392' itemprop='postId'/>
+<a name='2589026576858948392'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-2-minutes.html'>Iron Maiden in Sao Paulo 2008 - 2 Minutes to Midnight</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-2589026576858948392' itemprop='description articleBody'>
+Iron Maiden in Sao Paulo (Palmeiras Stadium) 2008 - 2 Minutes To Midnight<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/JTM3QDGVfc24c8dd5f59121f6231fad9de83bcbb.26492566.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/JTM3QDGVfc24c8dd5f59121f6231fad9de83bcbb.26492566.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">Download (High Quality): </font></b><br />Megaupload: <a href="http://www.megaupload.com/?d=MNR4C930" target=_blank>Part 1/5</a> - <a href="http://www.megaupload.com/?d=3ZTTQI7W" target=_blank>Part 2/5</a> - <a href="http://www.megaupload.com/?d=QUXPF6GC" target=_blank>Part 3/5</a> - <a href="http://www.megaupload.com/?d=SNOD8D4R" target=_blank>Part 4/5</a> - <a href="http://www.megaupload.com/?d=KF83UHEU" target=_blank>Part 5/5</a><br />FileFactory: <a href="http://www.filefactory.com/file/c60905/" target=_blank>Part 1/5</a> - <a href="http://www.filefactory.com/file/6f3d4e/" target=_blank>Part 2/5</a> - <a href="http://www.filefactory.com/file/17f38b/" target=_blank>Part 3/5</a> - <a href="http://www.filefactory.com/file/1b5b1c/" target=_blank>Part 4/5</a> - <a href="http://www.filefactory.com/file/f38b91/" target=_blank>Part 5/5</a><br />Easy-Share: <a href="http://w13.easy-share.com/1699770563.html" target=_blank>Part 1/5</a> - <a href="http://w13.easy-share.com/1699770566.html" target=_blank>Part 2/5</a> - <a href="http://w13.easy-share.com/1699770572.html" target=_blank>Part 3/5</a> - <a href="http://w13.easy-share.com/1699770573.html" target=_blank>Part 4/5</a> - <a href="http://w13.easy-share.com/1699770562.html" target=_blank>Part 5/5</a><br /><br />Os arquivos estão em servidores diferentes, mas são os mesmos arquivos, então pode pegar uma parte de cada servidor sem problemas. Depois que baixar tudo descompacte a primeira parte com o winrar.<br /><br /><b><font color="darkred">Download (Low Quality): </font></b><br />Arquivo menor, mas com qualidade muito boa tb!!!<br /><a href="http://www.megaupload.com/?d=CIWT7NAZ" target=_blank>Megaupload</a> - <a href="http://www.filefactory.com/file/83c38e/" target=_blank>FileFactory</a> - <a href="http://w13.easy-share.com/1699829048.html" target=_blank>Easy-Share</a><br /><br /><b>PS: Se você está com problemas para executar o video até o final, sugerimos que você baixe o programa <a href="http://superdownloads.uol.com.br/download/3/kmplayer/" target=_blank>KMPlayer</a>, ou utilize algum outro player de DVD para ver os videos no micro.</b>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-2-minutes.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-2-minutes.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-02T09:43:00-08:00'>09:43</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=2589026576858948392' onclick=''>
+Um comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=2589026576858948392&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='1466725408181857453' itemprop='postId'/>
+<a name='1466725408181857453'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-aces-high.html'>Iron Maiden in Sao Paulo 2008 - Aces High</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-1466725408181857453' itemprop='description articleBody'>
+Iron Maiden in Sao Paulo (Palmeiras Stadium) 2008 - Aces High<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/J2RHK4BW9006bdd7b997483d6fb0090a91e2ce51.26491981.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/J2RHK4BW9006bdd7b997483d6fb0090a91e2ce51.26491981.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b><font color="darkred">Download (High Quality): </font></b> <br />Megaupload: <a href="http://www.megaupload.com/?d=SHBGWB06" target=_blank>Part 1/4</a> - <a href="http://www.megaupload.com/?d=SLIFMIVQ" target=_blank>Part 2/4</a> - <a href="http://www.megaupload.com/?d=1RI1XDEI" target=_blank>Part 3/4</a> - <a href="http://www.megaupload.com/?d=9D1ANYOT" target=_blank>Part 4/4</a><br />FileFactory: <a href="http://www.filefactory.com/file/42d35c/" target=_blank>Part 1/4</a> - <a href="http://www.filefactory.com/file/d6e53f/" target=_blank>Part 2/4</a> - <a href="http://www.filefactory.com/file/5b7d7d/" target=_blank>Part 3/4</a> - <a href="http://www.filefactory.com/file/1068d4/" target=_blank>Part 4/4</a><br />Easy-Share: <a href="http://w13.easy-share.com/1699771033.html" target=_blank>Part 1/4</a> - <a href="http://w13.easy-share.com/1699771042.html" target=_blank>Part 2/4</a> - <a href="http://w13.easy-share.com/1699771666.html" target=_blank>Part 3/4</a> - <a href="http://w13.easy-share.com/1699773434.html" target=_blank>Part 4/4</a><br /><br />Os arquivos estão em servidores diferentes, mas são os mesmos arquivos, então pode pegar uma parte de cada servidor sem problemas. Depois que baixar tudo descompacte a primeira parte com o winrar.<br /><br /><b><font color="darkred">Download (Low Quality): </font></b><br />Arquivo menor, mas com qualidade muito boa tb!!!<br /><a href="http://www.megaupload.com/pt/?d=M0YJ7UHB" target=_blank>Megaupload</a> - <a href="http://www.filefactory.com/file/320920/" target=_blank>FileFactory</a> - <a href="http://w13.easy-share.com/1699829083.html" target=_blank>Easy-Share</a><br /><br /><b>PS: Se você está com problemas para executar o video até o final, sugerimos que você baixe o programa <a href="http://superdownloads.uol.com.br/download/3/kmplayer/" target=_blank>KMPlayer</a>, ou utilize algum outro player de DVD para ver os videos no micro.</b>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-aces-high.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/iron-maiden-in-sao-paulo-2008-aces-high.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-02T09:42:00-08:00'>09:42</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=1466725408181857453' onclick=''>
+10 comentários:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=1466725408181857453&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='5266014437129642114' itemprop='postId'/>
+<a name='5266014437129642114'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/viso-da-pista-antes-do-show.html'>Visão da pista antes do show</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5266014437129642114' itemprop='description articleBody'>
+Uma visão da pista pouco antes do Iron Maiden subir no palco no estádio do Palmeiras, Parque Antarctica, em Sao Paulo/SP/Brazil<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/ZHVSKCH4b7f226b1d342c1a5821182750a8b728f.26492031.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/ZHVSKCH4b7f226b1d342c1a5821182750a8b728f.26492031.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/viso-da-pista-antes-do-show.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/viso-da-pista-antes-do-show.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-02T09:31:00-08:00'>09:31</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=5266014437129642114' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=5266014437129642114&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008' rel='tag'>Show São Paulo 2008</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='8577552374027035398' itemprop='postId'/>
+<a name='8577552374027035398'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/steve-harris-janick-gers.html'>Steve Harris & Janick Gers</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8577552374027035398' itemprop='description articleBody'>
+Steve Harris & Janick Gers take pictures with Iron Maiden fans in Hilton hotel (Sao Paulo/SP/Brazil - march 2008). <br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/UONT5TPT6414091198620b607bd2849ea92f5a2c.26491978.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/UONT5TPT6414091198620b607bd2849ea92f5a2c.26491978.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object><br /><br /><b>Download:</b> <a href="http://www.filefactory.com/file/7559af/" target=_blank>FileFactory</a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/steve-harris-janick-gers.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/steve-harris-janick-gers.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-02T09:30:00-08:00'>09:30</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=8577552374027035398' onclick=''>
+Um comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=8577552374027035398&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Hotel%20Hiton' rel='tag'>Hotel Hiton</a>,
+<a href='http://maiden4ever.blogspot.com/search/label/Janick%20Gers' rel='tag'>Janick Gers</a>,
+<a href='http://maiden4ever.blogspot.com/search/label/Steve%20Harris' rel='tag'>Steve Harris</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>sábado, 1 de março de 2008</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='57265469065498457' itemprop='postId'/>
+<a name='57265469065498457'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/bruce-dickinson-acessando-internet-no.html'>Bruce Dickinson acessando a internet no hotel</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-57265469065498457' itemprop='description articleBody'>
+Hospedado no Hotel Hilton apenas para ver se eu conseguia fotos e autógrafos dos integrantes do Iron Maiden, eu havia acabado de conseguir uma foto com o Janick Gers e resolvi subir ao 26º andar para subir a imagem para meu Orkut. Para minha surpresa, olhe quem encontro utilizando o computador...<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/FUA14Q0Qd25d93d91779803c9e1a23d965fbc099.26492332.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/FUA14Q0Qd25d93d91779803c9e1a23d965fbc099.26492332.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/bruce-dickinson-acessando-internet-no.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/bruce-dickinson-acessando-internet-no.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-01T09:28:00-08:00'>09:28</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=57265469065498457' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=57265469065498457&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Bruce%20Dickinson' rel='tag'>Bruce Dickinson</a>,
+<a href='http://maiden4ever.blogspot.com/search/label/Hotel%20Hiton' rel='tag'>Hotel Hiton</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='5975387575541070640' itemprop='postId'/>
+<a name='5975387575541070640'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/janick-gers-no-hotel-hilton.html'>Janick Gers no Hotel Hilton</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5975387575541070640' itemprop='description articleBody'>
+Janick Gers no hotel Hilton. É simplesmente surreal estar no local onde é servido o break fast e encontrar um dos maiores ídolos do metal mundial, como se fosse apenas um hospede comum...<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/T9SV6PO14326517f5bd6a883213f292e2586e854.26492519.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/T9SV6PO14326517f5bd6a883213f292e2586e854.26492519.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/janick-gers-no-hotel-hilton.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/janick-gers-no-hotel-hilton.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-03-01T09:27:00-08:00'>09:27</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=5975387575541070640' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=5975387575541070640&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Hotel%20Hiton' rel='tag'>Hotel Hiton</a>,
+<a href='http://maiden4ever.blogspot.com/search/label/Janick%20Gers' rel='tag'>Janick Gers</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>sexta-feira, 29 de fevereiro de 2008</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='4148087874513628232' itemprop='postId'/>
+<a name='4148087874513628232'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/15-segundos-de-fama.html'>15 segundos de fama</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-4148087874513628232' itemprop='description articleBody'>
+Galera tentando recepcionar o Iron Maiden no aeroporto de Guarulhos quando, de repente, sai esse monte de anônimo, e curte seus 15 segundos de fama<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/EEWE3DSN68ee5d6b9e02078bbe05a17c0cfa88d5.26492563.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/EEWE3DSN68ee5d6b9e02078bbe05a17c0cfa88d5.26492563.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/15-segundos-de-fama.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/15-segundos-de-fama.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-02-29T09:26:00-08:00'>09:26</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=4148087874513628232' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=4148087874513628232&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Aeroporto' rel='tag'>Aeroporto</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='7823430167020994774' itemprop='blogId'/>
+<meta content='1285296355096166840' itemprop='postId'/>
+<a name='1285296355096166840'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://maiden4ever.blogspot.com/2008/03/tentativa-de-recepo-no-aeroporto.html'>Tentativa de recepção no aeroporto</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-1285296355096166840' itemprop='description articleBody'>
+Recepção ao Iron Maiden em Guarulhos - mancada da banda não ter encarado essa galera :/<br /><br /><object height="351" width="432"><param name="movie" value="http://www.megavideo.com/v/S822JORQ49f7b0a93a4789426080a0fc5e4027eb.26492600.0"></param><param name="wmode" value="transparent"></param><embed src="http://www.megavideo.com/v/S822JORQ49f7b0a93a4789426080a0fc5e4027eb.26492600.0" type="application/x-shockwave-flash" wmode="transparent" width="432" height="351"></embed></object>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Postado por
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/07537002705785896935' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07537002705785896935' rel='author' title='author profile'>
+<span itemprop='name'>Iron Maiden</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<meta content='http://maiden4ever.blogspot.com/2008/03/tentativa-de-recepo-no-aeroporto.html' itemprop='url'/>
+<a class='timestamp-link' href='http://maiden4ever.blogspot.com/2008/03/tentativa-de-recepo-no-aeroporto.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-02-29T09:25:00-08:00'>09:25</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=7823430167020994774&postID=1285296355096166840' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-847929457'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7823430167020994774&postID=1285296355096166840&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Marcadores:
+<a href='http://maiden4ever.blogspot.com/search/label/Aeroporto' rel='tag'>Aeroporto</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='blog-pager' id='blog-pager'>
+<a class='home-link' href='http://maiden4ever.blogspot.com/'>Página inicial</a>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+<div class='feed-links'>
+Assinar:
+<a class='feed-link' href='http://maiden4ever.blogspot.com/feeds/posts/default' target='_blank' type='application/atom+xml'>Postagens (Atom)</a>
+</div>
+</div>
+<script type='text/javascript'>
+    window.___gcfg = { 'lang': 'pt-BR' };
+  </script>
+</div></div>
+</div>
+<div id='sidebar-wrapper'>
+<div class='sidebar section' id='sidebar'><div class='widget HTML' data-version='1' id='HTML1'>
+<h2 class='title'>Favoritos</h2>
+<div class='widget-content'>
+<!-- BEGIN BOOKMARK -->
+<script type="text/javascript">
+    <!--
+function addBookmark(title,url) { 
+      if (navigator.appName.indexOf("Explorer") != -1) { 
+           window.external.AddFavorite( url, title); 
+      } else if (window.sidebar) { 
+           window.sidebar.addPanel(title, url,"");  
+      } else if( document.all ) { 
+           window.external.AddFavorite( url, title); 
+      } else if( window.opera && window.print ) { 
+           return true; 
+      } 
+ }
+-->
+</script>
+<!-- END BOOKMARK -->
+<a href="javascript:addBookmark('.:: Iron Maiden 4ever ::.', 'http://maiden4ever.blogspot.com/')">Nos adicione aos seus Favoritos</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7823430167020994774&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));' target='configHTML1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML3'>
+<h2 class='title'>Dicas</h2>
+<div class='widget-content'>
+1- Para os videos divididos em várias partes, baixe TODAS as partes e depois descompacte a 1a com o programa winrar. 
+2- Se você não sabe como fazer o download, entre nesse site pois tem dicas http://faqetutoriais.blogspot.com/
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7823430167020994774&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML3"));' target='configHTML3' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Label' data-version='1' id='Label1'>
+<h2>Marcadores</h2>
+<div class='widget-content list-label-widget-content'>
+<ul>
+<li>
+<a dir='ltr' href='http://maiden4ever.blogspot.com/search/label/Aeroporto'>Aeroporto</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='http://maiden4ever.blogspot.com/search/label/Bruce%20Dickinson'>Bruce Dickinson</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='http://maiden4ever.blogspot.com/search/label/Hotel%20Hiton'>Hotel Hiton</a>
+<span dir='ltr'>(3)</span>
+</li>
+<li>
+<a dir='ltr' href='http://maiden4ever.blogspot.com/search/label/Janick%20Gers'>Janick Gers</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='http://maiden4ever.blogspot.com/search/label/Show%20S%C3%A3o%20Paulo%202008'>Show São Paulo 2008</a>
+<span dir='ltr'>(20)</span>
+</li>
+<li>
+<a dir='ltr' href='http://maiden4ever.blogspot.com/search/label/Steve%20Harris'>Steve Harris</a>
+<span dir='ltr'>(1)</span>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7823430167020994774&widgetType=Label&widgetId=Label1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label1"));' target='configLabel1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget BlogArchive' data-version='1' id='BlogArchive2'>
+<h2>Arquivo do blog</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive2_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://maiden4ever.blogspot.com/2008/'>
+2008
+</a>
+<span class='post-count' dir='ltr'>(26)</span>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://maiden4ever.blogspot.com/2008/12/'>
+Dezembro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+<ul class='posts'>
+<li><a href='http://maiden4ever.blogspot.com/2008/03/sobre-os-videos.html'>Sobre os videos</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://maiden4ever.blogspot.com/2008/03/'>
+Março
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://maiden4ever.blogspot.com/2008/02/'>
+Fevereiro
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7823430167020994774&widgetType=BlogArchive&widgetId=BlogArchive2&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive2"));' target='configBlogArchive2' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML2'>
+<h2 class='title'>Visitas</h2>
+<div class='widget-content'>
+<center>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3490881; 
+var sc_invisible=0; 
+var sc_partition=33; 
+var sc_security="fbb8b74c"; 
+</script>
+<script src="http://www.statcounter.com/counter/counter_xhtml.js" type="text/javascript"></script><noscript><div class="statcounter"><a href="http://www.statcounter.com/free_hit_counter.html" target="_blank"><img alt="unique visitor counter" src="http://c34.statcounter.com/3490881/0/fbb8b74c/0/" class="statcounter"/></a></div></noscript>
+<!-- End of StatCounter Code --><br/><a href="http://my.statcounter.com/project/standard/stats.php?project_id=3490881&guest=1">Estatística</a>
+<br/><br/>
+<!-- Start FreeOnlineUsers.com -->
+<a href="http://www.freeonlineusers.com">
+<font color="#FF0000"><script src="http://freeonlineusers.com/on3.php?id=81939" type="text/javascript"> </script> MaidenManíacos OnLine</font></a>
+<!-- End FreeOnlineUsers.com -->
+<br/><br/><br/>
+<!-- Begin Motigo Webstats code -->
+<!-- Title: Iron Maiden 4ever -->
+<!-- URL: http://maiden4ever.blogspot.com/ -->
+<script language="JavaScript" src="http://m1.webstats.motigo.com/m.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript">
+motigo_webstats("AESAyAhUlwXnz5Q_6ol6zfBAjJsA", 0);
+</script>
+<noscript>
+<a target="_blank" href="http://www.webstats.motigo.com/stats?AESAyAhUlwXnz5Q_6ol6zfBAjJsA">
+<img border="0" width="18" alt="Motigo Webstats - Free web site statistics Personal homepage website counter" src="http://m1.webstats.motigo.com/n?id=AESAyAhUlwXnz5Q_6ol6zfBAjJsA" height="18"/>
+</a><br/>
+<a target="_blank" href="http://www.webstats.motigo.com/">Free counter</a>
+</noscript>
+<!-- End Motigo Webstats code -->
+</center>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7823430167020994774&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML2"));' target='configHTML2' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+<!-- spacer for skins that want sidebar and main to be the same height-->
+<div class='clear'>&#160;</div>
+</div>
+<!-- end content-wrapper -->
+<div id='footer-wrapper'>
+<div class='footer no-items section' id='footer'></div>
+</div>
+</div></div>
+<!-- end outer-wrapper -->
+<script src='https://apis.google.com/js/plusone.js' type='text/javascript'></script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2060351197-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY6NSO-TSvARk0sRyubklKQHN0hwkg:1512501001033';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7823430167020994774','//maiden4ever.blogspot.com/','7823430167020994774');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7823430167020994774', 'title': 'Iron Maiden 4ever - Brasil', 'url': 'http://maiden4ever.blogspot.com/', 'canonicalUrl': 'http://maiden4ever.blogspot.com/', 'homepageUrl': 'http://maiden4ever.blogspot.com/', 'searchUrl': 'http://maiden4ever.blogspot.com/search', 'canonicalHomepageUrl': 'http://maiden4ever.blogspot.com/', 'blogspotFaviconUrl': 'http://maiden4ever.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'pt-BR', 'localeUnderscoreDelimited': 'pt_br', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Iron Maiden 4ever - Brasil - Atom\x22 href\x3d\x22http://maiden4ever.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Iron Maiden 4ever - Brasil - RSS\x22 href\x3d\x22http://maiden4ever.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Iron Maiden 4ever - Brasil - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/7823430167020994774/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/07537002705785896935\x22 /\x3e\n', 'openIdOpTag': '\x3clink rel\x3d\x22openid.server\x22 href\x3d\x22https://www.blogger.com/openid-server.g\x22 /\x3e\n\x3clink rel\x3d\x22openid.delegate\x22 href\x3d\x22http://maiden4ever.blogspot.com/\x22 /\x3e\n', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/e62d4a6ed47c4f7e', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sharing': {'platforms': [{'name': 'Gerar link', 'key': 'link', 'shareMessage': 'Gerar link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Compartilhar no Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Compartilhar no Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Compartilhar no Pinterest', 'target': 'pinterest'}, {'name': 'Google+', 'key': 'googlePlus', 'shareMessage': 'Compartilhar no Google+', 'target': 'googleplus'}, {'name': 'E-mail', 'key': 'email', 'shareMessage': 'E-mail', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27pt_BR\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Leia mais', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Iron Maiden 4ever - Brasil'}}, {'name': 'features', 'data': {'lazy_images': 'false', 'unsupported_browser_message': 'false', 'lightbox_img_parsing': 'false', 'video_theatre_support': 'false', 'sharing_get_link_dialog': 'false', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Editar', 'linkCopiedToClipboard': 'Link copiado para a área de transferência.', 'ok': 'Ok', 'postLink': 'Link da postagem'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Personalizar', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Iron Maiden 4ever - Brasil', 'description': '', 'url': 'http://maiden4ever.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'useNgc': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/696101528-lbx__pt_br.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar', null, document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'sidebar', null, document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive2', 'sidebar', null, document.getElementById('BlogArchive2'), {'languageDirection': 'ltr', 'loadingMessage': 'Carregando\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar', null, document.getElementById('HTML2'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>

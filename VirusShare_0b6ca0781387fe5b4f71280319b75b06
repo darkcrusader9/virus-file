@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<div id="iehelpDvmain" style="display:none;"></div>
+<div id="iehelpDv" style="display:none;">
+<script src="//ucounter.ucoz.net/?src=ss2&data=Mjo5OjM4OjEwOTo1MzoyMjoyOTo5Mjo4NjoyNjo4ODo2MDoxNTowOjA6MTA6MTExOjIwOjUwOjI4OjMxOjIzOjQ3OjE2OjkzOjExNzo5ODo4OTo4Nzo3ODo0OTo2NDozMDoxMzozMDo5Mjo4NjoxMDo4MDo2MDoxNToyNjoyMTo5OjM4OjE1OjM5OjExOjg6NDo4NjoxMDo4MDo2MDoxNToxMzoxNDo1OjExMTo5MjozMjoxMToyOjU6ODY6MjQ6ODU6Mzk6NTU6NTQ6MjE6Mjc6MTExOjM6MTE0Ojc5Ojg4Ojg3OjY0Ojc0OjE0OjEyNzoxMDI6Nzk6MTg6MTozODoxMDk6MzI6Mjk6MToyMTo3Nzo5NTo3NDozMzozNjo1NDozOjk6NjA6ODU6MTI0Ojk1OjMwOjg6NDozODo3OTozMjo1NzoxMzo5Mjo3ODozMzo5MTo1MzozODo5OjM6NDozMTo0OjExMDozNTowOjIxOjU1OjYyOjkyOjM4OjY4Ojc1OjE4OjI1OjEzOjEwMjo0MjozMjo2OjE4Ojg1&r64=&cid=A1B100&cb=0.728664370738578" async></script><script type="text/javascript">(function (d, w, c) {(w[c] = w[c] || []).push(function() {try {w.yaCounter39883200 = new Ya.Metrika({id:39883200,clickmap:true,trackLinks:true,accurateTrackBounce:true,ut:"noindex"});} catch(e) { }});var n = d.getElementsByTagName("script")[0],s = d.createElement("script"),f = function () { n.parentNode.insertBefore(s, n); };s.type = "text/javascript";s.async = true;s.src = "https://mc.yandex.ru/metrika/watch.js";if (w.opera == "[object Opera]") {d.addEventListener("DOMContentLoaded", f, false);} else { f(); }})(document, window, "yandex_metrika_callbacks");</script><script src="//s206.ucoz.net/cgi/uutils.fcg?a=get_preroll_cookie&r=0.914505948113604"></script>
+<script type="text/javascript" src="/abnl/?adsdata=eieiDVyFWahTS1K9neFLOgC7xJHdy3LA;z5P7ee3Spi8bZzEfFqwAauxr2yuL7xusYquU4c4GE!hCuTDnLJ!DgG;W8qIKO^!R1;kXF7jDPlbrKgi8xKBNQ!24q9scpTexkuxNPORWKf!;Qsrnpec7yO0Ov^QJ5;Vuf1r5cfESnUr^wG90LSzU;qSmwPi3evPqQ1NOkYlJsQjlZBpap4^9KZTd2p!KdkQqsyWbBdXGG3ORWg9!NAr87Vc^MlYRpbLDEE!6xAuujySSuAWKQDnpBF11!Xt3n2eiPWLLc9weMnqc0;13RXJWRjINQ8!WmDvUYnROA30iOUAljKC62tzZVDg4v11kAR7KY^fwOPHBBYVgs8P455VAh07u2EbADkF79g;NtfYL2e^EaNG^Ochs;oo"></script>
+</div>
+<script type="text/javascript">
+function waitForIframe(triesCount){
+	if( triesCount > 10 ) return;
+	if(typeof resizeDiv == 'function' && !resizeDiv(triesCount==10 ? 1 : 0)) return setTimeout(function() { waitForIframe(triesCount + 1); }, 500);
+};
+document.write('<scr'+'ipt type="text/javascript">waitForIframe(0);</scr'+'ipt>');
+</script><html>
+<title>Winamp тут! Все о Winamp, скины, plug-ins, информация, Download. [Главная]</title>
+<meta name="keywords" content="Winamp, plug-ins, plug-in, download winamp, download, информация, скачать, все о винампе, винамп, много, бесплатно, Winamp3, новое, скины, Winamp skins, скины для винампа, музыка, хиты, поиск, как сделать скин, Winamp тут, mp3, справка, форум, темы, music, free, выбор, скачать.">
+<meta name="description" content="Winamp ищите тут! На сайте Вы найдете самые свежие скины, разделенные по категориям, новые поступления скинов, plug-ins, много информации для пользования Winamp'om и для создани скинов! Заходите на наш сайт и откройте для себя самую крутую программу для прослушивания mp3 и других звуковых типов файлов! Просто огромный тематический портал по Winamp'y! Заходите и Вы! ">
+<link rel="stylesheet" type="text/css" href="css.css">
+<link rel="shortcut icon" href="winamptut.ico">
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5193343-1");
+pageTracker._trackPageview();
+</script>
+
+
+</head>
+<SCRIPT language=JavaScript><!--
+var message = 'All about Winamp! All BEST only for you! <<< www.winamptut.narod.ru';
+function tntstatus()
+{
+window.status = message;
+timerID= setTimeout("tntstatus()", 25);
+}
+// --></SCRIPT>
+<SCRIPT language=JavaScript><!--
+tntstatus();
+// --></SCRIPT>
+
+
+<body bgcolor="#000000" text="#ffffff" background="background.jpg" link="#00CCFF" vlink="#6699FF">
+
+<p align="left"><a href="http://winamptut.narod.ru"><img src="logo.jpg" border="0" alt="WINAMP TUT! Все о Winamp!" width="386" height="49" align="absbottom"></a><img src="allabaut.jpg" width="304" height="29" align="bottom"><img src="icon.gif" width="18" height="17" align="middle"></p>
+<table bgcolor=#003366 width=100% align="center" border="0" height="14" bordercolor="#FFFFFF" cellpadding="0" cellspacing="0">
+<tbody> <tr> <td width="50%">
+<p align=left><a
+href="javascript:window.external.AddFavorite('http://winamptut.narod.ru/index.htm','WinampTUT Все о Winamp')"><font color="white"><font size="2">Добавить
+в Избранное</font></font></a></p></td><td width="50%"> <p align=right><a href="http://winamptut.narod.ru/index.htm"
+onClick="this.style.behavior='url(#default#homepage)'; this.setHomePage('http://www.winamptut.narod.ru');"><font
+color=white><font size="2">Сделать
+стартовой</font></font></a></p></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr> </tbody> </table><div align="left">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td>
+<table width="111" border="1" cellspacing="0" cellpadding="0" bordercolor="#006699" bgcolor="#003366" align="left">
+<tr>
+<td bgcolor="#006699">
+<div align="center"><b><a href="index.htm">Главная</a> </b></div>
+</td>
+</tr>
+<tr>
+<td>
+<div align="center"><b><a href="download.htm">Download </a></b></div>
+</td>
+</tr>
+<tr>
+<td bgcolor="#006699">
+<div align="center"><b><a href="skins.htm">Скины</a> NEW!</b></div>
+</td>
+</tr>
+<tr>
+<td>
+<div align="center"><b><a href="plugins.htm">Plug-ins</a></b></div>
+</td>
+</tr>
+<tr>
+<td height="21" bgcolor="#006699">
+<div align="center"><b><a href="info.htm">Информация</a></b></div>
+</td>
+</tr>
+<tr>
+<td>
+<div align="center"><b><a href="faq.htm">FAQ по Winamp</a></b></div>
+</td>
+</tr>
+<tr>
+<td height="21" bgcolor="#006699">
+<div align="center"><b>
+</b></div>
+</td>
+</tr>
+<tr>
+<td>
+<div align="center"><b><a href="addskin.htm">Добавить скин </a></b></div>
+</td>
+</tr>
+<tr>
+<td bgcolor="#006699">
+<div align="center"><b><a href="links.htm">Ссылки</a></b></div>
+</td>
+</tr>
+<tr>
+<td>
+<div align="center"><b><a href="reklama.htm">Обмен ссылками</a></b></div>
+</td>
+</tr>
+<tr>
+<td bgcolor="#006699">
+<div align="center"><b><a href="mailto:sagmir@tut.by">Пишите нам!</a></b></div>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Рейтинги</p>
+<p align="center">
+<script language="JavaScript"><!--
+d=document;a='';a+=';r='+escape(d.referrer)
+js=10//--></script>
+<script language="JavaScript1.1"><!--
+a+=';j='+navigator.javaEnabled()
+js=11//--></script>
+<script language="JavaScript1.2"><!--
+s=screen;a+=';s='+s.width+'*'+s.height
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+js=12//--></script>
+<script language="JavaScript1.3"><!--
+js=13//--></script>
+<script language="JavaScript"><!--
+d.write('<a href="http://top.mail.ru/jump?from=402560"'+
+' target=_top><img src="http://top.list.ru/counter'+
+'?id=402560;t=57;js='+js+a+';rand='+Math.random()+
+'" alt="Рейтинг@Mail.ru"'+' border=0 height=31 width=88></a>')
+if(js>11)d.write('<'+'!-- ')//--></script>
+</p>
+<div align="center"><noscript><a
+target=_top href="http://top.mail.ru/jump?from=402560"><img
+src="http://top.list.ru/counter?js=na;id=402560;t=57"
+border=0 height=31 width=88
+alt="Рейтинг@Mail.ru"></a></noscript>
+<script language="JavaScript"><!--
+if(js>11)d.write('--'+'>')//--></script>
+<a href="http://top100.rambler.ru/top100/"><img src="http://counter.rambler.ru/top100.cnt?382017" alt="" width=1 height=1 border=0></a>
+<a href="http://top100.rambler.ru/top100/"><img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-blue.gif" alt="Rambler's Top100" width=88 height=31 border=0></a>
+<script language="javascript">
+hotlog_js="1.0";
+hotlog_r=""+Math.random()+"&s=56075&im=1&r="+escape(document.referrer)+"&pg="+
+escape(window.location.href);
+document.cookie="hotlog=1; path=/"; hotlog_r+="&c="+(document.cookie?"Y":"N");
+</script>
+<script language="javascript1.1">
+hotlog_js="1.1";hotlog_r+="&j="+(navigator.javaEnabled()?"Y":"N")</script>
+<script language="javascript1.2">
+hotlog_js="1.2";
+hotlog_r+="&wh="+screen.width+'x'+screen.height+"&px="+
+(((navigator.appName.substring(0,3)=="Mic"))?
+screen.colorDepth:screen.pixelDepth)</script>
+<script language="javascript1.3">hotlog_js="1.3"</script>
+<script language="javascript">hotlog_r+="&js="+hotlog_js;
+document.write("<a href='http://click.hotlog.ru/?56075' target='_top'><img "+
+" src='http://hit3.hotlog.ru/cgi-bin/hotlog/count?"+
+hotlog_r+"&' border=0 width=88 height=31 alt=HotLog></a>")</script>
+<noscript><a href=http://click.hotlog.ru/?56075 target=_top><img
+src="http://hit3.hotlog.ru/cgi-bin/hotlog/count?s=56075&im=1" border=0
+width="88" height="31" alt="HotLog"></a></noscript>
+<script language="javascript"><!--
+Mu="u5747.37.spylog.com";Md=document;Mnv=navigator;Mp=0;
+Md.cookie="b=b";Mc=0;if(Md.cookie)Mc=1;Mrn=Math.random();
+Mn=(Mnv.appName.substring(0,2)=="Mi")?0:1;Mt=(new Date()).getTimezoneOffset();
+Mz="p="+Mp+"&rn="+Mrn+"&c="+Mc+"&t="+Mt;
+if(self!=top){Mfr=1;}else{Mfr=0;}Msl="1.0";
+//--></script>
+<script language="javascript1.1"><!--
+Mpl="";Msl="1.1";Mj = (Mnv.javaEnabled()?"Y":"N");Mz+='&j='+Mj;
+//--></script>
+<script language="javascript1.2"><!--
+Msl="1.2";Ms=screen;Mpx=(Mn==0)?Ms.colorDepth:Ms.pixelDepth;
+Mz+="&wh="+Ms.width+'x'+Ms.height+"&px="+Mpx;
+//--></script>
+<script language="javascript1.3"><!--
+Msl="1.3";//--></script>
+<script language="javascript"><!--
+My="";My+="<a href='http://"+Mu+"/cnt?cid=574737&f=3&p="+Mp+"&rn="+Mrn+"' target='_blank'>";
+My+="<img src='http://"+Mu+"/cnt?cid=574737&"+Mz+"&sl="+Msl+"&r="+escape(Md.referrer)+"&fr="+Mfr+"&pg="+escape(window.location.href);
+My+="' border=0 width=88 height=31 alt='SpyLOG'>";
+My+="</a>";Md.write(My);//--></script>
+<noscript> <a href="http://u5747.37.spylog.com/cnt?cid=574737&f=3&p=0" target="_blank">
+<img src="http://u5747.37.spylog.com/cnt?cid=574737&p=0" alt='SpyLOG' border='0' width=88 height=31 >
+</a></noscript> <a href="http://www.yandex.ru/cy?base=0&host=www.winamptut.narod.ru">
+<img src="http://www.yandex.ru/cycounter?www.winamptut.narod.ru" width=88 height=31 alt="Яндекс цитирования" border=0></a>
+</div>
+<hr noshade align="center">
+<div align="center">Наша кнопка </div>
+<p align="center"><a href="http://winamptut.narod.ru"><img src="banner.jpg" width="88" height="31" border="1" alt="Winamp тут! Все о Winamp, скины, plug-ins, информация, Download !"></a>
+<input name="textfield" type="text"style="font-family:verdana,arial;font-size:8pt;background:#006699;color:white;border:1;margin:0;padding:0" value="&lt;a href=&quot;http://winamptut.narod.ru&quot;&gt;&lt;img src=&quot;http://winamptut.narod.ru/banner.jpg&quot; width=88 height=31 border=1 alt=&quot; Winamp тут! Все о Winamp, скины, plug-ins, информация, Download !&quot;&gt;&lt;/a&gt;" size="20">
+<a href="design.htm">Выбрать другой дизайн кнопок &gt;&gt;&gt;
+</a></p>
+<p align="center">Скопируйте этот HTML-код на страницу своего сайта,
+и мы будем Вам очень благодарны. Если же Вы хотите обменяться
+с нами баннерами или ссылками - заходите в раздел <a href="reklama.htm">Обмен
+ссылками</a></p>
+<p></b>Это сборка обновлений, скинов и смайликов для QIP. Winamptut использует QIP в качестве интернет-пейджера.</p>
+<hr noshade align="center">
+<div align="center">
+<p><font color="#FFFF00">Внимание! Если у Вас есть свой эксклюзивный
+скин или Plug-in для Winamp - <a href="addskin.htm">присылайте
+его нам</a>, и поверьте: о Вашем скине узнает весь Интернет!</font></p>
+<p><font color="#FFFFFF">Наши друзья</font></p>
+<table width="89%" border="1" cellspacing="0" cellpadding="0" bordercolor="#0099CC" bgcolor="#006699">
+<tr>
+<td>
+<div align="center">
+<p></p>
+</div>
+</td>
+</tr>
+</table>
+<p>&nbsp;</p></div>
+</td>
+</tr>
+</table>
+<table width="79%" border="1" cellspacing="0" cellpadding="0" bordercolor="#006699" bgcolor="#003366" height="62">
+<tr>
+<td>
+<div align="center">
+ </div>
+</td>
+</tr>
+</table>
+<table border="1" cellspacing="0" cellpadding="0" align="left" WIDTH="79%" bordercolor="#006699">
+<tr>
+<td height="619">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="37%">
+<div align="left"><img src="winamp.gif" border="1" align="absmiddle" alt="Nullsoft Winamp 2"></div>
+</td>
+<td width="24%">
+<div align="center"><b><font color="#999999"> <font size="3" color="#0099CC">ABOUT
+NULLSOFT WINAMP</font></font></b><br/>
+<b>Наш сайт переехал!</b><br/>
+</div>
+</td>
+<td width="39%">
+<div align="right"><img src="winamp3_2.gif" alt="Nullsoft Winamp 3"></div>
+</td>
+</tr>
+</table>
+Без всяких сомнений, плеер Winamp - это &quot;народный плеер&quot;. Автором этой
+замечательной программы является Джастин Франкель (Justin Frankel).
+Winamp является универсальным мультимедийным проигрывателем различных
+аудио и видео файлов (mp3, wav, avi, mp4, mid, wma, ogg, mod, cda
+и т.д.). Огромный список опций и функций этой программы заставляет
+пользоваться именно им, а не другими плеерами.
+<div align="left"> Самое же интересное в Winamp - это возможность
+менять скины (Winamp skins), которые полностью поменяют облик
+Вашего любимого плеера (в разделе <a href="skins.htm">Скины</a>
+их можно найти очень много)! Системные требования у Winamp 2 очень
+низки (пойдет даже на 486-ом компьютере), у Winamp 3 и Winamp
+5 требования же повыше, но и функций побольше (подробнее читайте
+в разделе <a href="info.htm">Информация</a>). Если Вам понравился
+этот плейер, а его у Вас еще нет - скачать любую из версий Winamp
+можно <a href="download1.htm">здесь</a>! Также на нашем сайте
+можно скачать множество дополнительных &quot;примочек&quot; к
+Winamp'y, т.е. <a href="plugins.htm">плагинов</a>. Надеемся, что
+наш сайт поможет обладателям Winamp'a превратить свой плеер в
+настоящий мультимедиа-центр :)
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bordercolor="#00CCFF" align="center">
+<tr>
+<td bgcolor="#006699" height="16">
+<div align="center"><b>.:: Основные обновления сайта www.winamptut.narod.ru ::.</b></div>
+</td>
+</tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0" bordercolor="#006699" height="420">
+<tr valign="top">
+<td width="49%" height="415">
+<div align="center">
+<p align="left"><b>3.12.2005 - </b>Добавлен новый раздел
+<a href="win5down.htm">Winamp 5</a>, в котором находится
+полный список версий плеера Winamp 5.Уже доступна для
+скачивания версия</p>
+<p align="left"><b>30.12.2004</b> - С праздником всех!
+Наконец-то решил выложить все версии Winamp 5.06 - 5.08.
+Качать <a href="download1.htm">отсюда</a>. Русификаторы
+для этих версий <a href="rus.htm">здесь</a>. Удачи всем
+в Новом году!</p>
+<p align="left"><b>14.11.2004 - </b>Обновился раздел <a href="avtorsk.htm">Авторские
+скины</a> (Winamp 2.xx - Winamp 5.xx), а также раздел
+<a href="faq.htm">FAQ</a> </p>
+<p align="left"><b>29.8.2004 - </b>Добавлено 64 скина
+для Winamp 5 в раздел <a href="win3skins.htm">Скины
+для Winamp 5</a>. + Значительное расширение раздела
+<a href="plugins.htm">Plug-ins</a>. Также обновление
+нагрянуло и в раздел <a href="download.htm">Download</a>:
+</p>
+</div>
+</td>
+<td width="51%" height="415">
+<div align="center">
+<p align="LEFT"><b>26.12.2003 - </b>Подробнее о финальной версии читайте <a href="about50.htm">здесь&gt;&gt;&gt;</a>
++ <a href="download.htm">Внушительное расширение раздела
+DOWNLOAD</a></p>
+<p align="LEFT"><b>13.10.2003</b>- <a href="download/vid4wa.zip"><img src="vid.jpg" alt="Video for Winamp" width="193" height="141" border="0" align="absmiddle"></a>Добавился
+новый плагин для просмотра видео на Winamp 2. <a href="download/vid4wa.zip">Download
+Video for Winamp</a>.</p>
+<p align="LEFT"><b>22.4.2003 - </b>Забираем </p>
+<p align="LEFT"><b>20.4.2003 - </b>Забираем </p>
+<p align="LEFT"><b>7.4.2003 - </b> Свежая бетка Winamp
+2.9. Подробности читайте <a href="win29.htm">здесь</a>.
+Задайте свой вопрос народу! + Обновился раздел <a href="download.htm">DOWNLOAD</a></p>
+<p align="LEFT"><b>18.11.2002 - </b>В раздел <a href="otherpl2x3.htm">Плагины
+для Winamp 2</a> добавилена программа для быстрого создания
+скинов <a href="download/WinAmpSC.zip">Winamp Skins
+Creator</a>.</p>
+<p align="left"><b>7.11.2002 - </b><a href="download/wa2mgr.exe">Winamp
+2 Plugin Manager</a> для &quot;переделки&quot; плагинов
+из второго в третий Winamp.</p>
+</div>
+</td>
+</tr>
+</table>
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0" BORDERCOLOR="#00CCFF" ALIGN="center">
+<TR>
+<TD BGCOLOR="#006699">
+<DIV ALIGN="center"><b>.:: Голосования и отзывы о сайте
+::.</b></DIV>
+</TD>
+</TR>
+</TABLE>
+<TABLE WIDTH="94%" BORDER="0" ALIGN="CENTER" BORDERCOLOR="#006699">
+<TR>
+<TD HEIGHT="261" width="296">
+<FORM NAME="form1" METHOD="post" ACTION="http://cgi07.Freedback.com/mail.pl">
+<P ALIGN="CENTER">
+<INPUT TYPE="hidden" NAME="to" VALUE="sagmir@tut.by">
+<P ALIGN="CENTER">
+<TEXTAREA NAME="Pozhelaniya saity:" COLS="40" rows="7"style="font-family:verdana,arial;font-size:8pt;background:#006699;color:white;border:1;margin:0;padding:0">Напишите
+несколько слов о дизайне сайта и его содержании. </TEXTAREA>
+</P>
+<P ALIGN="CENTER">
+<INPUT TYPE="submit" NAME="Submit" VALUE="Отправить" style="font-family:verdana,arial;font-size:8pt;background:#006699;color:white;border:1;margin:0;padding:0">
+<INPUT TYPE="reset" NAME="Submit2" VALUE="Очистить форму"style="font-family:verdana,arial;font-size:8pt;background:#006699;color:white;border:1;margin:0;padding:0">
+</P>
+</FORM>
+</TD>
+<TD HEIGHT="261" width="161">
+<DIV ALIGN="CENTER">
+<script language="JavaScript">
+<!--
+function opros_result22168() {
+window.open("http://opros.nodex.ru/2000/fast-cgi-bin/opros.fcgi?empty","result_window22168",
+"scrollbars=no,status=no,resizable=yes,toolbar=no,directories=no,menubar=no,width=600,height=340")
+}
+// -->
+</script>
+<p><b>Какая версия Winamp стоит у Вас?</b></p>
+<form method="get" action="http://opros.nodex.ru/2000/fast-cgi-bin/opros.fcgi" name="opros" target="result_window22168" OnSubmit="opros_result22168()">
+<p>
+<input type="radio" name="rb" value="137883" unchecked>
+Winamp 2.xx<br>
+<input type="radio" name="rb" value="137884" unchecked>
+Winamp 3.xx<br>
+<input type="radio" name="rb" value="137885" unchecked>
+Winamp 5.xx<br>
+<input type="radio" name="rb" value="137886" unchecked>
+Другой плеер<br>
+<input type="radio" name="rb" value="137887" unchecked>
+Нет никакого</p>
+<p>
+<input type="hidden" name="id" value="22168">
+<input type="submit" value="Голосовать"style="font-family:verdana,arial;font-size:8pt;background:#006699;color:white;border:1;margin:0;padding:0">
+</p>
+</form>
+</DIV>
+</TD>
+<TD HEIGHT="261" width="173">
+<p align="left">&nbsp;
+<script language="JavaScript">
+<!--
+function opros_result28109() {
+window.open("http://opros.nodex.ru/2000/fast-cgi-bin/opros.fcgi?empty","result_window28109",
+"scrollbars=no,status=no,resizable=yes,toolbar=no,directories=no,menubar=no,width=600,height=340")
+}
+// -->
+</script>
+<b>Как Вы попали на наш сайт?</b></p>
+<form method="get" action="http://opros.nodex.ru/2000/fast-cgi-bin/opros.fcgi" name="opros" target="result_window28109" OnSubmit="opros_result28109()">
+<div align="left">
+<p align="left">
+<input type="radio" name="rb" value="184712" unchecked>
+Поисковик<br>
+<input type="radio" name="rb" value="184713" unchecked>
+Каталог<br>
+<input type="radio" name="rb" value="184714" unchecked>
+Ссылка<br>
+<input type="radio" name="rb" value="184715" unchecked>
+Баннер 468x60<br>
+<input type="radio" name="rb" value="184716" unchecked>
+Посоветовали друзья<br>
+</p>
+<p>
+<input type="hidden" name="id" value="28109">
+<input type="submit" value="Голосовать"style="font-family:verdana,arial;font-size:8pt;background:#006699;color:white;border:1;margin:0;padding:0">
+</p>
+</div>
+</form>
+</TR>
+</TABLE>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="100%" border="1" cellspacing="0" cellpadding="0" align="center" bgcolor="#003366" bordercolor="#006699" height="62">
+<tr>
+<td width="13%" bgcolor="#006699">
+<div align="center">А здесь могла быть <a href="reklama.htm">Ваша очень
+эффективная реклама!</a></div>
+</td>
+<td width="86%">
+<div align="center">
+ </div></td></tr> </table>
+<!--s_links--><script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="//www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script> <!--748056134625--><!--/s_links-->
+<a href="mailto:sagmir@tut.by">&copy; 2002-2005 Sagmir</a><!--s_links--><!--/s_links--> </div>
+
+<!-- copyright (i1) --><div align="center"><a href="http://www.ucoz.ru/" title="Создать сайт бесплатно"><img style="margin:0;padding:0;border:0;" alt="Hosted by uCoz" src="http://s206.ucoz.net/img/cp/5.gif" width="80" height="15" title="Hosted by uCoz" /></a><br /></div><!-- /copyright -->
+</body>
+</html>
