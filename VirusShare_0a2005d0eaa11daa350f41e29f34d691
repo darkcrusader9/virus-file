@@ -1,0 +1,2540 @@
+<!DOCTYPE html>
+<html class='v2' dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/3213516723-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<meta content='ev0MxkOltBla4VUiPFYKTOEulX1HBlidgKe_yxZo-D8' name='google-site-verification'/>
+<meta content='a038464f7f26bc302454cabd3a512770' name='p:domain_verify'/>
+<style type='text/css'>@font-face{font-family:'Calibri';font-style:normal;font-weight:400;src:local('Calibri'),url(//fonts.gstatic.com/l/font?kit=OFGrPxRCHuS74TTXlqi_Iw&skey=a1029226f80653a8&v=v8)format('woff');}@font-face{font-family:'Homemade Apple';font-style:normal;font-weight:400;src:local('Homemade Apple Regular'),local('HomemadeApple-Regular'),url(//fonts.gstatic.com/s/homemadeapple/v8/yg3UMEsefgZ8IHz_ryz86Kmk7U3V72hKgu0Yds_deA8.woff)format('woff');}</style>
+<style type='text/css'>
+.status-msg-wrap{
+display:none;
+}
+.status-msg-body{
+display:none;
+}
+.status-msg-border{
+display:none;
+}
+.status-msg-bg{
+display:none;
+}
+.status-msg-hidden{
+display:none;
+}
+</style>
+<meta content='width=1100' name='viewport'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='http://achadosdedecoracao.blogspot.pt/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://achadosdedecoracao.blogspot.com/search?updated-max=2013-05-24T06:00:00-07:00' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Blog Achados de Decoração  - Atom" href="http://achadosdedecoracao.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Blog Achados de Decoração  - RSS" href="http://achadosdedecoracao.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Blog Achados de Decoração  - Atom" href="https://www.blogger.com/feeds/2712580140240780452/posts/default" />
+<link rel="openid.server" href="https://www.blogger.com/openid-server.g" />
+<link rel="openid.delegate" href="http://achadosdedecoracao.blogspot.com/" />
+<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/771816573-ieretrofit.js"></script>
+<![endif]-->
+<meta content='O blog de decoração pra você decorar facilmente; dicas detalhadas, faça você mesmo(a) e lindos pequenos espaços de todos os estilos.' name='description'/>
+<meta content='http://achadosdedecoracao.blogspot.com/search?updated-max=2013-05-24T06:00:00-07:00' property='og:url'/>
+<meta content='Blog Achados de Decoração ' property='og:title'/>
+<meta content='O blog de decoração pra você decorar facilmente; dicas detalhadas, faça você mesmo(a) e lindos pequenos espaços de todos os estilos.' property='og:description'/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<meta content='Carmen Martins' name='author'/>
+<title>Blog Achados de Decoração </title>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Simple
+Designer: Josh Peterson
+URL:      www.noaesthetic.com
+----------------------------------------------- */
+/* Variable definitions
+====================
+<Variable name="keycolor" description="Main Color" type="color" default="#66bbdd"/>
+<Group description="Page Text" selector="body">
+<Variable name="body.font" description="Font" type="font"
+default="normal normal 12px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="body.text.color" description="Text Color" type="color" default="#222222"/>
+</Group>
+<Group description="Backgrounds" selector=".body-fauxcolumns-outer">
+<Variable name="body.background.color" description="Outer Background" type="color" default="#66bbdd"/>
+<Variable name="content.background.color" description="Main Background" type="color" default="#ffffff"/>
+<Variable name="header.background.color" description="Header Background" type="color" default="transparent"/>
+</Group>
+<Group description="Links" selector=".main-outer">
+<Variable name="link.color" description="Link Color" type="color" default="#2288bb"/>
+<Variable name="link.visited.color" description="Visited Color" type="color" default="#888888"/>
+<Variable name="link.hover.color" description="Hover Color" type="color" default="#33aaff"/>
+</Group>
+<Group description="Blog Title" selector=".header h1">
+<Variable name="header.font" description="Font" type="font"
+default="normal normal 60px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="header.text.color" description="Title Color" type="color" default="#3399bb" />
+</Group>
+<Group description="Blog Description" selector=".header .description">
+<Variable name="description.text.color" description="Description Color" type="color"
+default="#777777" />
+</Group>
+<Group description="Tabs Text" selector=".tabs-inner .widget li a">
+<Variable name="tabs.font" description="Font" type="font"
+default="normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="tabs.text.color" description="Text Color" type="color" default="#999999"/>
+<Variable name="tabs.selected.text.color" description="Selected Color" type="color" default="#000000"/>
+</Group>
+<Group description="Tabs Background" selector=".tabs-outer .PageList">
+<Variable name="tabs.background.color" description="Background Color" type="color" default="#f5f5f5"/>
+<Variable name="tabs.selected.background.color" description="Selected Color" type="color" default="#eeeeee"/>
+</Group>
+<Group description="Post Title" selector="h3.post-title, .comments h4">
+<Variable name="post.title.font" description="Font" type="font"
+default="normal normal 22px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+</Group>
+<Group description="Date Header" selector=".date-header">
+<Variable name="date.header.color" description="Text Color" type="color"
+default="#444444"/>
+<Variable name="date.header.background.color" description="Background Color" type="color"
+default="transparent"/>
+<Variable name="date.header.font" description="Text Font" type="font"
+default="normal bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="date.header.padding" description="Date Header Padding" type="string" default="inherit"/>
+<Variable name="date.header.letterspacing" description="Date Header Letter Spacing" type="string" default="inherit"/>
+<Variable name="date.header.margin" description="Date Header Margin" type="string" default="inherit"/>
+</Group>
+<Group description="Post Footer" selector=".post-footer">
+<Variable name="post.footer.text.color" description="Text Color" type="color" default="#666666"/>
+<Variable name="post.footer.background.color" description="Background Color" type="color"
+default="#f9f9f9"/>
+<Variable name="post.footer.border.color" description="Shadow Color" type="color" default="#eeeeee"/>
+</Group>
+<Group description="Gadgets" selector="h2">
+<Variable name="widget.title.font" description="Title Font" type="font"
+default="normal bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="widget.title.text.color" description="Title Color" type="color" default="#000000"/>
+<Variable name="widget.alternate.text.color" description="Alternate Color" type="color" default="#999999"/>
+</Group>
+<Group description="Images" selector=".main-inner">
+<Variable name="image.background.color" description="Background Color" type="color" default="#ffffff"/>
+<Variable name="image.border.color" description="Border Color" type="color" default="#eeeeee"/>
+<Variable name="image.text.color" description="Caption Text Color" type="color" default="#444444"/>
+</Group>
+<Group description="Accents" selector=".content-inner">
+<Variable name="body.rule.color" description="Separator Line Color" type="color" default="#eeeeee"/>
+<Variable name="tabs.border.color" description="Tabs Border Color" type="color" default="#53b3b6"/>
+</Group>
+<Variable name="body.background" description="Body Background" type="background"
+color="#abe7e9" default="$(color) none repeat scroll top left"/>
+<Variable name="body.background.override" description="Body Background Override" type="string" default=""/>
+<Variable name="body.background.gradient.cap" description="Body Gradient Cap" type="url"
+default="url(https://resources.blogblog.com/blogblog/data/1kt/simple/gradients_light.png)"/>
+<Variable name="body.background.gradient.tile" description="Body Gradient Tile" type="url"
+default="url()"/>
+<Variable name="content.background.color.selector" description="Content Background Color Selector" type="string" default=".content-inner"/>
+<Variable name="content.padding" description="Content Padding" type="length" default="10px" min="0" max="100px"/>
+<Variable name="content.padding.horizontal" description="Content Horizontal Padding" type="length" default="0px" min="0" max="100px"/>
+<Variable name="content.shadow.spread" description="Content Shadow Spread" type="length" default="40px" min="0" max="100px"/>
+<Variable name="content.shadow.spread.webkit" description="Content Shadow Spread (WebKit)" type="length" default="5px" min="0" max="100px"/>
+<Variable name="content.shadow.spread.ie" description="Content Shadow Spread (IE)" type="length" default="10px" min="0" max="100px"/>
+<Variable name="main.border.width" description="Main Border Width" type="length" default="0" min="0" max="10px"/>
+<Variable name="header.background.gradient" description="Header Gradient" type="url" default="none"/>
+<Variable name="header.shadow.offset.left" description="Header Shadow Offset Left" type="length" default="-1px" min="-50px" max="50px"/>
+<Variable name="header.shadow.offset.top" description="Header Shadow Offset Top" type="length" default="-1px" min="-50px" max="50px"/>
+<Variable name="header.shadow.spread" description="Header Shadow Spread" type="length" default="1px" min="0" max="100px"/>
+<Variable name="header.padding" description="Header Padding" type="length" default="30px" min="0" max="100px"/>
+<Variable name="header.border.size" description="Header Border Size" type="length" default="1px" min="0" max="10px"/>
+<Variable name="header.bottom.border.size" description="Header Bottom Border Size" type="length" default="0" min="0" max="10px"/>
+<Variable name="header.border.horizontalsize" description="Header Horizontal Border Size" type="length" default="0" min="0" max="10px"/>
+<Variable name="description.text.size" description="Description Text Size" type="string" default="140%"/>
+<Variable name="tabs.margin.top" description="Tabs Margin Top" type="length" default="0" min="0" max="100px"/>
+<Variable name="tabs.margin.side" description="Tabs Side Margin" type="length" default="30px" min="0" max="100px"/>
+<Variable name="tabs.background.gradient" description="Tabs Background Gradient" type="url"
+default="url()"/>
+<Variable name="tabs.border.width" description="Tabs Border Width" type="length" default="1px" min="0" max="10px"/>
+<Variable name="tabs.bevel.border.width" description="Tabs Bevel Border Width" type="length" default="1px" min="0" max="10px"/>
+<Variable name="post.margin.bottom" description="Post Bottom Margin" type="length" default="25px" min="0" max="100px"/>
+<Variable name="image.border.small.size" description="Image Border Small Size" type="length" default="2px" min="0" max="10px"/>
+<Variable name="image.border.large.size" description="Image Border Large Size" type="length" default="5px" min="0" max="10px"/>
+<Variable name="page.width.selector" description="Page Width Selector" type="string" default=".region-inner"/>
+<Variable name="page.width" description="Page Width" type="string" default="auto"/>
+<Variable name="main.section.margin" description="Main Section Margin" type="length" default="15px" min="0" max="100px"/>
+<Variable name="main.padding" description="Main Padding" type="length" default="15px" min="0" max="100px"/>
+<Variable name="main.padding.top" description="Main Padding Top" type="length" default="30px" min="0" max="100px"/>
+<Variable name="main.padding.bottom" description="Main Padding Bottom" type="length" default="30px" min="0" max="100px"/>
+<Variable name="paging.background"
+color="#ffffff"
+description="Background of blog paging area" type="background"
+default="transparent none no-repeat scroll top center"/>
+<Variable name="footer.bevel" description="Bevel border length of footer" type="length" default="0" min="0" max="10px"/>
+<Variable name="mobile.background.overlay" description="Mobile Background Overlay" type="string"
+default="transparent none repeat scroll top left"/>
+<Variable name="mobile.background.size" description="Mobile Background Size" type="string" default="auto"/>
+<Variable name="mobile.button.color" description="Mobile Button Color" type="color" default="#ffffff" />
+<Variable name="startSide" description="Side where text starts in blog language" type="automatic" default="left"/>
+<Variable name="endSide" description="Side where text ends in blog language" type="automatic" default="right"/>
+*/
+/* Content
+----------------------------------------------- */
+body {
+font: normal normal 12px 'Trebuchet MS', Trebuchet, sans-serif;
+color: #444444;
+background: #abe7e9 none no-repeat scroll center center;
+padding: 0 40px 40px 40px;
+}
+html body .region-inner {
+min-width: 0;
+max-width: 100%;
+width: auto;
+}
+h2 {
+font-size: 22px;
+}
+a:link {
+text-decoration:none;
+color: #33acb0;
+}
+a:visited {
+text-decoration:none;
+color: #e7416a;
+}
+a:hover {
+text-decoration:underline;
+color: #444444;
+}
+.body-fauxcolumn-outer .fauxcolumn-inner {
+background: transparent none repeat scroll top left;
+_background-image: none;
+}
+.body-fauxcolumn-outer .cap-top {
+position: absolute;
+z-index: 1;
+height: 400px;
+width: 100%;
+}
+.body-fauxcolumn-outer .cap-top .cap-left {
+width: 100%;
+background: transparent none repeat-x scroll top left;
+_background-image: none;
+}
+.content-outer {
+-moz-box-shadow: 0 0 40px rgba(0, 0, 0, .15);
+-webkit-box-shadow: 0 0 0px rgba(0, 0, 0, .15);
+-goog-ms-box-shadow: 0 0 10px #333333;
+box-shadow: 0 0 40px rgba(0, 0, 0, .15);
+margin-bottom: 1px;
+}
+.content-inner {
+padding: 0px 0px;
+}
+.content-inner {
+background-color: #ffffff;
+}
+/* Header
+----------------------------------------------- */
+.header-outer {
+background: rgba(0, 0, 0, 0) url() repeat-x scroll 0 -400px;
+_background-image: none;
+}
+.Header h1 {
+font: normal normal 60px Homemade Apple;
+color: #e7416a;
+text-shadow: -1px 2px 3px rgba(0, 0, 0, .2);
+}
+.Header h1 a {
+color: #e7416a;
+}
+.Header .description {
+font-size: 140%;
+color: #ffffff;
+}
+.header-inner .Header .titlewrapper {
+padding: 22px 30px;
+}
+.header-inner .Header .descriptionwrapper {
+padding: 0 30px;
+}
+/* Tabs
+----------------------------------------------- */
+.PageList {
+text-align:center !important;
+margin: 0px 0px 0px 0px;
+padding: 10px 0px 10px 0px;
+letter-spacing:0.1em;
+position: fixed;
+top: 0px;
+left: 0px;
+z-index: 999;
+width:100%;
+background: #222222;
+}
+.PageList li {
+display:inline !important;
+float:none !important;
+padding: 0px 0px 0px 0px;
+margin: 3px 0px 3px 0px;
+text-decoration:none;
+font: normal normal 16px 'Trebuchet MS', Trebuchet, sans-serif;
+text-transform:none;
+color: #ffffff;
+}
+.PageList li a, .PageList li a:visited, PageList li a:hover {
+text-transform:none;
+text-decoration:none;
+padding: 0px 0px 0px 0px;
+margin: 0px 15px 0px 25px;
+color: #ffffff;
+}
+.PageList li a:hover {
+color: #f8f0f0;
+}
+.tabs-inner .section:first-child {
+border-top: 0 solid rgba(0, 0, 0, 0);
+}
+.tabs-inner .section:first-child ul {
+margin-top: -0;
+border-top: 0 solid rgba(0, 0, 0, 0);
+border-left: 0 solid rgba(0, 0, 0, 0);
+border-right: 0 solid rgba(0, 0, 0, 0);
+}
+.tabs-inner .widget ul {
+background: #222222 url() repeat-x scroll 0 -800px;
+_background-image: none;
+border-bottom: 1px solid rgba(0, 0, 0, 0);
+margin-top: 0;
+margin-left: -30px;
+margin-right: -30px;
+}
+.tabs-inner .widget li a {
+display: inline-block;
+padding: .6em 1em;
+font: normal normal 16px 'Trebuchet MS', Trebuchet, sans-serif;
+color: #ffffff;
+}
+.tabs-inner .widget li:first-child a {
+border-left: none;
+}
+.tabs-inner .widget li.selected a, .tabs-inner .widget li a:hover {
+color: #f8f0f0;
+background-color: rgba(0, 0, 0, 0);
+text-decoration: none;
+}
+/* Columns
+----------------------------------------------- */
+.main-outer {
+border-top: 0 solid #53b3b6;
+}
+.fauxcolumn-left-outer .fauxcolumn-inner {
+border-right: 1px solid #53b3b6;
+}
+.fauxcolumn-right-outer .fauxcolumn-inner {
+border-left: 1px solid #53b3b6;
+}
+/* Headings
+----------------------------------------------- */
+div.widget > h2,
+div.widget h2.title {
+margin: 0 0 1em 0;
+font: normal normal 16px 'Times New Roman', Times, FreeSerif, serif;
+color: #444444;
+}
+/* Widgets
+----------------------------------------------- */
+.widget .zippy {
+color: #444444;
+text-shadow: 2px 2px 1px rgba(0, 0, 0, .1);
+}
+.widget .popular-posts ul {
+list-style: none;
+}
+/* Posts
+----------------------------------------------- */
+h2.date-header {
+font: normal bold 11px 'Trebuchet MS', Trebuchet, sans-serif;
+}
+.date-header span {
+background-color: rgba(103, 103, 103, 0);
+color: #c42b4f;
+padding: inherit;
+letter-spacing: inherit;
+margin: inherit;
+}
+.post-outer {
+padding-top: 0x; /* Espaço do topo */
+padding: 0px;
+margin: 0px 0px 0px 0px;
+}
+.post {
+margin: 0 0 0;
+}
+h3.post-title, .comments h4 {
+font: normal normal 20px Calibri;
+margin: .75em 0 0;
+}
+.post-body {
+font-size: 110%;
+line-height: 1.4;
+position: relative;
+padding:0px;
+}
+.post-body img, .post-body .tr-caption-container, .Profile img, .Image img,
+.BlogList .item-thumbnail img {
+padding: 2px;
+background: rgba(0, 0, 0, 0);
+border: 1px solid #53b3b6;
+-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+-webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+}
+.post-body img, .post-body .tr-caption-container {
+padding: 5px;
+}
+.post-body .tr-caption-container {
+color: #444444;
+}
+.post-body .tr-caption-container img {
+padding: 0;
+background: transparent;
+border: none;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+}
+.post-header {
+margin: 0 0 1.5em;
+line-height: 1.6;
+font-size: 90%;
+}
+.post-footer {
+margin: 20px -2px 0;
+padding: 5px 10px;
+color: #e7416a;
+background-color: #f8f0f0;
+border-bottom: 1px solid rgba(0, 0, 0, 0);
+line-height: 1.6;
+font-size: 90%;
+}
+#comments .comment-author {
+padding-top: 1.5em;
+border-top: 1px solid #53b3b6;
+background-position: 0 1.5em;
+}
+#comments .comment-author:first-child {
+padding-top: 0;
+border-top: none;
+}
+.avatar-image-container {
+margin: .2em 0 0;
+}
+#comments .avatar-image-container img {
+border: 1px solid #53b3b6;
+}
+/* Comments
+----------------------------------------------- */
+.comments .comments-content .icon.blog-author {
+background-repeat: no-repeat;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
+}
+.comments .comments-content .loadmore a {
+border-top: 1px solid #444444;
+border-bottom: 1px solid #444444;
+}
+.comments .comment-thread.inline-thread {
+background-color: #f8f0f0;
+}
+.comments .continue {
+border-top: 2px solid #444444;
+}
+/* Accents
+---------------------------------------------- */
+.section-columns td.columns-cell {
+border-left: 1px solid #53b3b6;
+}
+.blog-pager {
+background: transparent none no-repeat scroll top center;
+}
+.blog-pager-older-link, .home-link,
+.blog-pager-newer-link {
+background-color: #ffffff;
+padding: 5px;
+}
+.footer-outer {
+border-top: 0 dashed #bbbbbb;
+}
+/* Mobile
+----------------------------------------------- */
+body.mobile  {
+background-size: auto;
+}
+.mobile .body-fauxcolumn-outer {
+background: transparent none repeat scroll top left;
+}
+.mobile .body-fauxcolumn-outer .cap-top {
+background-size: 100% auto;
+}
+.mobile .content-outer {
+-webkit-box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+}
+.mobile .tabs-inner .widget ul {
+margin-left: 0;
+margin-right: 0;
+}
+.mobile .post {
+margin: 0;
+}
+.mobile .main-inner .column-center-inner .section {
+margin: 0;
+}
+.mobile .date-header span {
+padding: 0.1em 10px;
+margin: 0 -10px;
+}
+.mobile h3.post-title {
+margin: 0;
+}
+.mobile .blog-pager {
+background: transparent none no-repeat scroll top center;
+}
+.mobile .footer-outer {
+border-top: none;
+}
+.mobile .main-inner, .mobile .footer-inner {
+background-color: #ffffff;
+}
+.mobile-index-contents {
+color: #444444;
+}
+.mobile-link-button {
+background-color: #33acb0;
+}
+.mobile-link-button a:link, .mobile-link-button a:visited {
+color: #ffffff;
+}
+.mobile .tabs-inner .section:first-child {
+border-top: none;
+}
+.mobile .tabs-inner .PageList .widget-content {
+background-color: rgba(0, 0, 0, 0);
+color: #f8f0f0;
+border-top: 1px solid rgba(0, 0, 0, 0);
+border-bottom: 1px solid rgba(0, 0, 0, 0);
+}
+.mobile .tabs-inner .PageList .widget-content .pagelist-arrow {
+border-left: 1px solid rgba(0, 0, 0, 0);
+}
+.PageList {text-align:center !important;}
+.PageList li {display:inline !important;
+float:none !important;}
+.post-title { text-align:justify; }
+.date-header { text-align:left; }.post-footer {
+margin:0 auto; padding-top:0px; padding-bottom:30px;
+background: url(https://3.bp.blogspot.com/-5cQnRbcItKk/WBfVnAbdPJI/AAAAAAABWPE/D2-9wzOGszo0pbEfccEhXqFvEkiDjzxtwCLcB/s1600/casinhaturquesa-footer.png) no-repeat bottom center ;
+.status-msg-wrap{
+display: none;
+}
+.feed-links
+{ display: none;
+}#header-inner img {
+margin-left: auto;
+margin-right: auto;
+}#header-inner img {margin: 0 auto !important;}
+#header-inner {text-align:center !important;} /*include this line if you are using Template Designer*/.post-body img {
+width: 683px;
+height: auto;
+padding:0px;
+}
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+body {
+min-width: 1110px;
+}
+.content-outer, .content-fauxcolumn-outer, .region-inner {
+min-width: 1110px;
+max-width: 1110px;
+_width: 1110px;
+}
+.main-inner .columns {
+padding-left: 0px;
+padding-right: 370px;
+}
+.main-inner .fauxcolumn-center-outer {
+left: 0px;
+right: 370px;
+/* IE6 does not respect left and right together */
+_width: expression(this.parentNode.offsetWidth -
+parseInt("0px") -
+parseInt("370px") + 'px');
+}
+.main-inner .fauxcolumn-left-outer {
+width: 0px;
+}
+.main-inner .fauxcolumn-right-outer {
+width: 370px;
+}
+.main-inner .column-left-outer {
+width: 0px;
+right: 100%;
+margin-left: -0px;
+}
+.main-inner .column-right-outer {
+width: 370px;
+margin-right: -370px;
+}
+#layout {
+min-width: 0;
+}
+#layout .content-outer {
+min-width: 0;
+width: 800px;
+}
+#layout .region-inner {
+min-width: 0;
+width: auto;
+}
+body#layout div.add_widget {
+padding: 8px;
+}
+body#layout div.add_widget a {
+margin-left: 32px;
+}
+--></style>
+<script type='text/javascript'>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-12998813-2', 'auto', 'blogger');
+        ga('blogger.send', 'pageview');
+      </script>
+<script async='async' data-cfasync='false' data-shr-siteid='b71477aa80b30e0eadf76b23e0372f12' src='//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js' type='text/javascript'></script>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=2712580140240780452&amp;zx=b1f20b8d-814e-4b9f-8208-092d15916c63' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=2712580140240780452&amp;zx=b1f20b8d-814e-4b9f-8208-092d15916c63' rel='stylesheet'/></noscript>
+</head>
+<body class='loading'>
+<div class='navbar no-items section' id='navbar' name='Navbar'>
+</div>
+<div itemscope='itemscope' itemtype='http://schema.org/Blog' style='display: none;'>
+<meta content='Blog Achados de Decoração ' itemprop='name'/>
+<meta content='O blog de decoração pra você decorar facilmente; dicas detalhadas, faça você mesmo(a) e lindos pequenos espaços de todos os estilos.' itemprop='description'/>
+</div>
+<div class='body-fauxcolumns'>
+<div class='fauxcolumn-outer body-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content'>
+<div class='content-fauxcolumns'>
+<div class='fauxcolumn-outer content-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content-outer'>
+<div class='content-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left content-fauxborder-left'>
+<div class='fauxborder-right content-fauxborder-right'></div>
+<div class='content-inner'>
+<header>
+<div class='header-outer'>
+<div class='header-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left header-fauxborder-left'>
+<div class='fauxborder-right header-fauxborder-right'></div>
+<div class='region-inner header-inner'>
+<div class='header section' id='header' name='Cabeçalho'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<a href='http://achadosdedecoracao.blogspot.pt/' style='display: block'>
+<img alt='Blog Achados de Decoração ' height='288px; ' id='Header1_headerimg' src='http://4.bp.blogspot.com/-PWk_CoiZlyA/WYdntaH5KFI/AAAAAAABbWY/WaZf1GsEyNUuT03XqUq7VggJEVewjpLvwCK4BGAYYCw/s1600/cabe%25C3%25A7alhoturquesa_decoracaoebemviver-1110px.png' style='display: block' width='1110px; '/>
+</a>
+</div>
+</div></div>
+</div>
+</div>
+<div class='header-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</header>
+<div class='tabs-outer'>
+<div class='tabs-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left tabs-fauxborder-left'>
+<div class='fauxborder-right tabs-fauxborder-right'></div>
+<div class='region-inner tabs-inner'>
+<div class='tabs section' id='crosscol' name='Entre colunas'><div class='widget AdSense' data-version='1' id='AdSense1'>
+<div class='widget-content'>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- achadosdedecoracao_crosscol_AdSense1_1x1_as -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0314397456453505"
+     data-ad-host="ca-host-pub-1556223355139109"
+     data-ad-host-channel="L0005"
+     data-ad-slot="9925215705"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=AdSense&widgetId=AdSense1&action=editWidget&sectionId=crosscol' onclick='return _WidgetManager._PopupConfig(document.getElementById("AdSense1"));' target='configAdSense1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+<div class='tabs section' id='crosscol-overflow' name='Cross-Column 2'><div class='widget PageList' data-version='1' id='PageList1'>
+<h2>Páginas</h2>
+<div class='widget-content'>
+<ul>
+<li>
+<a href='http://achadosdedecoracao.blogspot.pt/'>INÍCIO</a>
+</li>
+<li>
+<a href='http://achadosdedecoracao.blogspot.pt/p/sobre.html'>SOBRE</a>
+</li>
+<li>
+<a href='http://achadosdedecoracao.blogspot.pt/p/decoracao-por-ambiente.html'>POSTS POR ASSUNTO</a>
+</li>
+<li>
+<a href='http://achadosdedecoracao.blogspot.pt/p/contato_28.html'>CONTATO</a>
+</li>
+<li>
+<a href='http://www.carmenmartins.com.br'>Meu trabalho está AQUI</a>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=PageList&widgetId=PageList1&action=editWidget&sectionId=crosscol-overflow' onclick='return _WidgetManager._PopupConfig(document.getElementById("PageList1"));' target='configPageList1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget AdSense' data-version='1' id='AdSense2'>
+<div class='widget-content'>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-0314397456453505";
+    google_ad_host = "ca-host-pub-1556223355139109";
+    google_ad_host_channel = "L0005";
+    google_ad_slot = "1480300615";
+    google_ad_width = 728;
+    google_ad_height = 15;
+</script>
+<!-- achadosdedecoracao_crosscol-overflow_AdSense2_728x15_0ads_al_s -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=AdSense&widgetId=AdSense2&action=editWidget&sectionId=crosscol-overflow' onclick='return _WidgetManager._PopupConfig(document.getElementById("AdSense2"));' target='configAdSense2' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='tabs-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='main-outer'>
+<div class='main-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left main-fauxborder-left'>
+<div class='fauxborder-right main-fauxborder-right'></div>
+<div class='region-inner main-inner'>
+<div class='columns fauxcolumns'>
+<div class='fauxcolumn-outer fauxcolumn-center-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-left-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-right-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<!-- corrects IE6 width calculation -->
+<div class='columns-inner'>
+<div class='column-center-outer'>
+<div class='column-center-inner'>
+<div class='main section' id='main' name='Principal'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>23.5.13</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://4.bp.blogspot.com/-dkVqJ4mhGJg/UZ4C_VZwelI/AAAAAAAA2p0/HeyfEhLiA2Q/s1600/keltainentalorannalla.blogspot.fi-Na%CC%88ytto%CC%88kuva+2013-05-18+kohteessa+17.19.16.png' itemprop='image_url'/>
+<meta content='2712580140240780452' itemprop='blogId'/>
+<meta content='8770147797459370844' itemprop='postId'/>
+<a name='8770147797459370844'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://achadosdedecoracao.blogspot.pt/2013/05/fofura-ou-curiosidade-do-dia-decoracao.html'>FOFURA ou CURIOSIDADE DO DIA: decoração para quarto de criança</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8770147797459370844' itemprop='articleBody'>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div style="text-align: center;">
+Oi gente!! A semana está passando super rápido, não está? Hoje já é quinta-feira, meu Deus!!!<br />
+Desejo que todos tenhamos um dia super produtivo e alegre, como esta decoração do quarto do bebê da foto. O que acham? É uma FOFURA ou somente CURIOSIDADE DO DIA. Pelo menos, vale um sorriso?<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-dkVqJ4mhGJg/UZ4C_VZwelI/AAAAAAAA2p0/HeyfEhLiA2Q/s1600/keltainentalorannalla.blogspot.fi-Na%CC%88ytto%CC%88kuva+2013-05-18+kohteessa+17.19.16.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-dkVqJ4mhGJg/UZ4C_VZwelI/AAAAAAAA2p0/HeyfEhLiA2Q/s1600/keltainentalorannalla.blogspot.fi-Na%CC%88ytto%CC%88kuva+2013-05-18+kohteessa+17.19.16.png" /></a></div>
+foto cortesia:&nbsp;keltainentalorannalla.blogspot.fi<br />
+<br />
+Obrigada por visitar o Achados de Decoração.<br />
+<br />
+beijos,<br />
+<br />
+Carmen Martins</div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<br />
+<span style="font-size: x-small; text-align: center;"><br /></span>
+<span style="font-size: x-small;"> </span>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><div style='text-align: center;'>
+<i><span style='color: #cc0000; font-family: Verdana, sans-serif; font-size: large;'>Compartilhe nas suas redes sociais!</span></i></div>
+<div class='shareaholic-canvas' data-app='share_buttons' data-app-id='26409235' data-link='http://achadosdedecoracao.blogspot.pt/2013/05/fofura-ou-curiosidade-do-dia-decoracao.html' data-title='FOFURA ou CURIOSIDADE DO DIA: decoração para quarto de criança'></div>
+</div>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='reaction-buttons'>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'><tr>
+<td class='reactions-label-cell' nowrap='nowrap' valign='top' width='1%'>
+<span class='reactions-label'>
+Deixe sua opinião</span>&#160;</td>
+<td><iframe allowtransparency='true' class='reactions-iframe' frameborder='0' name='reactions' scrolling='no' src='https://www.blogger.com/blog-post-reactions.g?options=%5Beu+curti%5D&amp;textColor=%23e7416a#http://achadosdedecoracao.blogspot.com/2013/05/fofura-ou-curiosidade-do-dia-decoracao.html'></iframe></td>
+</tr></table>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://achadosdedecoracao.blogspot.pt/2013/05/fofura-ou-curiosidade-do-dia-decoracao.html#comment-form' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-558723957'>
+<a href='https://www.blogger.com/post-edit.g?blogID=2712580140240780452&postID=8770147797459370844&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+ASSUNTOS
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/FOFURA%20DO%20DIA' rel='tag'>FOFURA DO DIA</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>22.5.13</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://2.bp.blogspot.com/-JRUrcF-XsVw/UZ1WLAm2JnI/AAAAAAAA2pE/wOjFNwTRcF4/s1600/charlotterivers.blogspot.com-image-1.axd.jpeg' itemprop='image_url'/>
+<meta content='2712580140240780452' itemprop='blogId'/>
+<meta content='9114139911109700379' itemprop='postId'/>
+<a name='9114139911109700379'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://achadosdedecoracao.blogspot.pt/2013/05/decorcao-com-faca-voce-mesma-usando.html'>DECORAÇÃO COM FAÇA VOCÊ MESMA usando WASHI TAPE</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-9114139911109700379' itemprop='articleBody'>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div style="text-align: center;">
+Oi gente!! Para concluir o dia, uma idéia que considero uma graça!<br />
+É super simples e fácil de fazer com aquelas fitas adesivas japonesas.<br />
+Se vocês curtem decorar de forma original, ó...<br />
+<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-JRUrcF-XsVw/UZ1WLAm2JnI/AAAAAAAA2pE/wOjFNwTRcF4/s1600/charlotterivers.blogspot.com-image-1.axd.jpeg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-JRUrcF-XsVw/UZ1WLAm2JnI/AAAAAAAA2pE/wOjFNwTRcF4/s1600/charlotterivers.blogspot.com-image-1.axd.jpeg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-vkj0iAXSOnQ/UZ1WLX60PvI/AAAAAAAA2pI/35kW7dJJ_zo/s1600/deandarporcasas.blogspot.com.-diy-washitape.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://1.bp.blogspot.com/-vkj0iAXSOnQ/UZ1WLX60PvI/AAAAAAAA2pI/35kW7dJJ_zo/s1600/deandarporcasas.blogspot.com.-diy-washitape.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/--5U2ILrYf_k/UZ1WKm-2dPI/AAAAAAAA2o8/ihgDgLNgb6s/s1600/decoralia.es-washi-tape-21.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/--5U2ILrYf_k/UZ1WKm-2dPI/AAAAAAAA2o8/ihgDgLNgb6s/s1600/decoralia.es-washi-tape-21.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-CheCv3_NT6U/UZ1WLcZWtBI/AAAAAAAA2pM/1x2IGJzWbco/s1600/ministryofdeco.blogspot.com-casitas+washitape+aggylifestyle.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-CheCv3_NT6U/UZ1WLcZWtBI/AAAAAAAA2pM/1x2IGJzWbco/s1600/ministryofdeco.blogspot.com-casitas+washitape+aggylifestyle.JPG" /></a></div>
+fotos cortesia:&nbsp;charlotterivers.blogspot.com -&nbsp;deandarporcasas.blogspot.com -&nbsp;decoralia.es -&nbsp;ministryofdeco.blogspot.com<br />
+<br />
+E olha só o que eu acabei de receber da querida leitora Erica do blog Home Sweetener (tem que visitar)<br />
+Ela fez isso com....fita isolante!!!! O blog dela é lindo, cheio de Faça Você Mesma, gente!!!<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-AB61_gTsPBM/UZ1ghM_sm-I/AAAAAAAA2pk/2itIpd2rxCk/s1600/3fita-isolante.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="https://3.bp.blogspot.com/-AB61_gTsPBM/UZ1ghM_sm-I/AAAAAAAA2pk/2itIpd2rxCk/s640/3fita-isolante.png" width="640" /></a></div>
+<br />
+Obrigada por visitar o Achados de Decoração.<br />
+<br />
+beijos<br />
+<br />
+Carmen Martins</div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<br />
+<span style="font-size: x-small; text-align: center;"><br /></span>
+<span style="font-size: x-small;"> </span>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><div style='text-align: center;'>
+<i><span style='color: #cc0000; font-family: Verdana, sans-serif; font-size: large;'>Compartilhe nas suas redes sociais!</span></i></div>
+<div class='shareaholic-canvas' data-app='share_buttons' data-app-id='26409235' data-link='http://achadosdedecoracao.blogspot.pt/2013/05/decorcao-com-faca-voce-mesma-usando.html' data-title='DECORAÇÃO COM FAÇA VOCÊ MESMA usando WASHI TAPE'></div>
+</div>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='reaction-buttons'>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'><tr>
+<td class='reactions-label-cell' nowrap='nowrap' valign='top' width='1%'>
+<span class='reactions-label'>
+Deixe sua opinião</span>&#160;</td>
+<td><iframe allowtransparency='true' class='reactions-iframe' frameborder='0' name='reactions' scrolling='no' src='https://www.blogger.com/blog-post-reactions.g?options=%5Beu+curti%5D&amp;textColor=%23e7416a#http://achadosdedecoracao.blogspot.com/2013/05/decorcao-com-faca-voce-mesma-usando.html'></iframe></td>
+</tr></table>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://achadosdedecoracao.blogspot.pt/2013/05/decorcao-com-faca-voce-mesma-usando.html#comment-form' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-558723957'>
+<a href='https://www.blogger.com/post-edit.g?blogID=2712580140240780452&postID=9114139911109700379&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+ASSUNTOS
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/DECORAR%20PAREDES' rel='tag'>DECORAR PAREDES</a>,
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/FA%C3%87A%20VOC%C3%8A%20MESMA' rel='tag'>FAÇA VOCÊ MESMA</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://3.bp.blogspot.com/-DxUlFla_Jrs/UZy7tvfrorI/AAAAAAAA2mY/2AQ3svqf5dw/s1600/6thstreetdesignschool.blogspot.com-studioshelves2.jpg' itemprop='image_url'/>
+<meta content='2712580140240780452' itemprop='blogId'/>
+<meta content='7687641443713949149' itemprop='postId'/>
+<a name='7687641443713949149'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://achadosdedecoracao.blogspot.pt/2013/05/decoracao-de-ambientes-so-porque-sao.html'>DECORAÇÃO DE AMBIENTES: só porque são bonitos e a gente adora ver</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-7687641443713949149' itemprop='articleBody'>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div style="text-align: center;">
+Oi queridas e queridos!!! Tudo bem com vocês, gente? Espero que esteja tudo ótimo!!!<br />
+Hoje resolvi fazer um post no melhor estilo "miscelânea decorativa" eeeee<br />
+<div style="text-align: justify;">
+São fotos de vários ambientes que eu fui guardando e amo todooooos, então, juntei tudo e resolvi fazer um post. Faz de conta que vocês estão folheando uma revista, ok? Tem muita decoração linda e inspiradora para nossas casa, você vão ver!</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: center;">
+Tenham uma ótima quarta-feira!</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+Um ateliê de arrasar corações das arteiras hehe</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-DxUlFla_Jrs/UZy7tvfrorI/AAAAAAAA2mY/2AQ3svqf5dw/s1600/6thstreetdesignschool.blogspot.com-studioshelves2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-DxUlFla_Jrs/UZy7tvfrorI/AAAAAAAA2mY/2AQ3svqf5dw/s1600/6thstreetdesignschool.blogspot.com-studioshelves2.jpg" /></a></div>
+<br />
+Um banheiro diferentão para trazer idéias mil a decoradores e arquitetos ;-)<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-ffwEKqj0I0A/UZy7xZr7tpI/AAAAAAAA2mg/78QXgstORpc/s1600/style-files.com-5987335558_8c6364eb2c_o.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-ffwEKqj0I0A/UZy7xZr7tpI/AAAAAAAA2mg/78QXgstORpc/s1600/style-files.com-5987335558_8c6364eb2c_o.jpg" /></a></div>
+<br />
+Um mini closet gracinha (amei as cores da cortina x parede)<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-I6tbh3VTj2w/UZy7ywA23XI/AAAAAAAA2mo/BRrP_XiTmSA/s1600/myscandinavianhome.blogspot.ca-FH5.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-I6tbh3VTj2w/UZy7ywA23XI/AAAAAAAA2mo/BRrP_XiTmSA/s1600/myscandinavianhome.blogspot.ca-FH5.png" /></a></div>
+<br />
+Uma janela para me matar de inveja, já que é um espaço perfeito para apoiar o computador (amo ficar olhando pela janela)<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-ABLFmkwJ_a8/UZy7z3hVT6I/AAAAAAAA2mw/pVRo4dYueJU/s1600/myscandinavianhome.blogspot.ca-JM4.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="https://3.bp.blogspot.com/-ABLFmkwJ_a8/UZy7z3hVT6I/AAAAAAAA2mw/pVRo4dYueJU/s640/myscandinavianhome.blogspot.ca-JM4.jpg" width="480" /></a></div>
+<br />
+Uma sala decorada com muita descontração e alegria e..quero esta estante para mim rsrs<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-h3XGHk5ylLg/UZy71WhVVuI/AAAAAAAA2m4/wVaW3R_eOko/s1600/decorology.blogspot.com-101396248.jpg.rendition.largest.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-h3XGHk5ylLg/UZy71WhVVuI/AAAAAAAA2m4/wVaW3R_eOko/s1600/decorology.blogspot.com-101396248.jpg.rendition.largest.jpg" /></a></div>
+<br />
+Cores no aparador: que luxo! (bem, eu acho rsrs)<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-JDv_dyhNkjY/UZy72T3yh7I/AAAAAAAA2nA/vdJJ3PE1DA4/s1600/myscandinavianhome.blogspot.ca-bri7.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://1.bp.blogspot.com/-JDv_dyhNkjY/UZy72T3yh7I/AAAAAAAA2nA/vdJJ3PE1DA4/s1600/myscandinavianhome.blogspot.ca-bri7.jpg" /></a></div>
+<br />
+Ui! Parece que o Sol está dentro do quarto...<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-4sjQmVx-oWA/UZy76cRpbSI/AAAAAAAA2nI/vO-8gYyww_k/s1600/desiretoinspire.net-10-682x1024.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-4sjQmVx-oWA/UZy76cRpbSI/AAAAAAAA2nI/vO-8gYyww_k/s1600/desiretoinspire.net-10-682x1024.jpg" /></a></div>
+<br />
+Aqui o Sol invadiu o espaço que seria inútil, mas ficou ótimo!<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-suDjkUu0m7o/UZy776xIXRI/AAAAAAAA2nQ/uW_OtyOYudQ/s1600/desiretoinspire.net-03-682x1024.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-suDjkUu0m7o/UZy776xIXRI/AAAAAAAA2nQ/uW_OtyOYudQ/s1600/desiretoinspire.net-03-682x1024.jpg" /></a></div>
+<br />
+Romance no banheiro com a foto do <i>Robert Doisneau</i><br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-EFTyBVK0FSQ/UZy7-hh5GvI/AAAAAAAA2nY/6HMa7GC_Pnw/s1600/nuevoestilo-418_1_10g.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-EFTyBVK0FSQ/UZy7-hh5GvI/AAAAAAAA2nY/6HMa7GC_Pnw/s1600/nuevoestilo-418_1_10g.jpg" /></a></div>
+<br />
+Um banheiro com cara de hotel 5 stars (delíiiiiiicia)<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-1THvMLkW5HE/UZy8ViDYBSI/AAAAAAAA2ng/9VTKomSm2vs/s1600/homebunch.com-2611.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="431" src="https://4.bp.blogspot.com/-1THvMLkW5HE/UZy8ViDYBSI/AAAAAAAA2ng/9VTKomSm2vs/s640/homebunch.com-2611.png" width="640" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-GZF9rxNHGTo/UZy8WNP__zI/AAAAAAAA2nk/nepxdaAqPOs/s1600/homebunch.com-2711.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="464" src="https://3.bp.blogspot.com/-GZF9rxNHGTo/UZy8WNP__zI/AAAAAAAA2nk/nepxdaAqPOs/s640/homebunch.com-2711.png" width="640" /></a></div>
+Fotos cortesia:&nbsp;<a href="http://6thstreetdesignschool.blogspot.com/">6thstreetdesignschool.blogspot.com</a> -&nbsp;<a href="http://style-files.com/">style-files.com</a> -&nbsp;<a href="http://style-files.com/">style-files.com</a> -&nbsp;<a href="http://myscandinavianhome.blogspot.ca/">myscandinavianhome.blogspot.ca</a> -&nbsp;<a href="http://decorology.blogspot.com/">decorology.blogspot.com</a> -&nbsp;<a href="http://desiretoinspire.net/">desiretoinspire.net</a><br />
+<br />
+Obrigada por visitar o Achados de Decoração.<br />
+<br />
+beijos,<br />
+<br />
+Carmen Martins<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+</div>
+<br />
+<span style="font-size: x-small; text-align: center;"><br /></span>
+<span style="font-size: x-small;"> </span>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><div style='text-align: center;'>
+<i><span style='color: #cc0000; font-family: Verdana, sans-serif; font-size: large;'>Compartilhe nas suas redes sociais!</span></i></div>
+<div class='shareaholic-canvas' data-app='share_buttons' data-app-id='26409235' data-link='http://achadosdedecoracao.blogspot.pt/2013/05/decoracao-de-ambientes-so-porque-sao.html' data-title='DECORAÇÃO DE AMBIENTES: só porque são bonitos e a gente adora ver'></div>
+</div>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='reaction-buttons'>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'><tr>
+<td class='reactions-label-cell' nowrap='nowrap' valign='top' width='1%'>
+<span class='reactions-label'>
+Deixe sua opinião</span>&#160;</td>
+<td><iframe allowtransparency='true' class='reactions-iframe' frameborder='0' name='reactions' scrolling='no' src='https://www.blogger.com/blog-post-reactions.g?options=%5Beu+curti%5D&amp;textColor=%23e7416a#http://achadosdedecoracao.blogspot.com/2013/05/decoracao-de-ambientes-so-porque-sao.html'></iframe></td>
+</tr></table>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://achadosdedecoracao.blogspot.pt/2013/05/decoracao-de-ambientes-so-porque-sao.html#comment-form' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-558723957'>
+<a href='https://www.blogger.com/post-edit.g?blogID=2712580140240780452&postID=7687641443713949149&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>21.5.13</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://1.bp.blogspot.com/-zfQI1eF1H7g/UZtwpdpNHhI/AAAAAAAA2j8/-oXtDqR7WCk/s1600/Espacios,+casas++Nuevo+Estilo+.jpg' itemprop='image_url'/>
+<meta content='2712580140240780452' itemprop='blogId'/>
+<meta content='3447635877194470018' itemprop='postId'/>
+<a name='3447635877194470018'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://achadosdedecoracao.blogspot.pt/2013/05/decoracao-para-cozinha-sala-de-jantar.html'>DECORAÇÃO PARA COZINHA & SALA DE JANTAR: comer, comer!</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-3447635877194470018' itemprop='articleBody'>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div style="text-align: center;">
+Oi gente querida!! Tudo bem com vocês, meninas e meninos? Tomara que sim!<br />
+O post de hoje é muito específico, pois vai agradar a pessoas com gosto arrojado para decoração de cozinhas, já que é tudo super diferente! Temos cores, móveis diferentes, tudo fora do branco-bege, hein? Não se assustem, ao contrário, considerem a possibilidade de uma mudancinha de estilo...<br />
+<br />
+Mais tarde, eu volto! Ótimo dia para vocês!<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-zfQI1eF1H7g/UZtwpdpNHhI/AAAAAAAA2j8/-oXtDqR7WCk/s1600/Espacios,+casas++Nuevo+Estilo+.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://1.bp.blogspot.com/-zfQI1eF1H7g/UZtwpdpNHhI/AAAAAAAA2j8/-oXtDqR7WCk/s1600/Espacios,+casas++Nuevo+Estilo+.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-1FdoNW1JoYg/UZtws5M54mI/AAAAAAAA2kg/KxN4e4Zs0V4/s1600/alltihemmet.se-kok.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="https://2.bp.blogspot.com/-1FdoNW1JoYg/UZtws5M54mI/AAAAAAAA2kg/KxN4e4Zs0V4/s640/alltihemmet.se-kok.jpg" width="502" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-wgXSpv1vZSY/UZtwp7Bnb_I/AAAAAAAA2kE/RcFjY80MhnI/s1600/country-days.co.uk-quick-step.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-wgXSpv1vZSY/UZtwp7Bnb_I/AAAAAAAA2kE/RcFjY80MhnI/s1600/country-days.co.uk-quick-step.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-nqU0QjfbbU4/UZtwqwreqmI/AAAAAAAA2kM/PYLCOIW4GzI/s1600/decorpad.com-QUOTE-OF-THE-WEEK_INTERIOR-DESIGN_HOME-DECORATING-BLOG-1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://1.bp.blogspot.com/-nqU0QjfbbU4/UZtwqwreqmI/AAAAAAAA2kM/PYLCOIW4GzI/s1600/decorpad.com-QUOTE-OF-THE-WEEK_INTERIOR-DESIGN_HOME-DECORATING-BLOG-1.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-aMzf2Qw42zs/UZtwrOt42dI/AAAAAAAA2kU/tGY_4459e-4/s1600/delikatissen.com-73.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-aMzf2Qw42zs/UZtwrOt42dI/AAAAAAAA2kU/tGY_4459e-4/s1600/delikatissen.com-73.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-bC3dnjmo5Sk/UZtwsha2RkI/AAAAAAAA2kc/dom4gzyj_5Y/s1600/desiretoinspire.net-051913husetvedfjordenIMG_9436.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-bC3dnjmo5Sk/UZtwsha2RkI/AAAAAAAA2kc/dom4gzyj_5Y/s1600/desiretoinspire.net-051913husetvedfjordenIMG_9436.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-GwkRY3bE7Ds/UZtwskXCDxI/AAAAAAAA2kk/BNdthe5MNTE/s1600/desiretoinspire.net-051913sfgirlbybay.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-GwkRY3bE7Ds/UZtwskXCDxI/AAAAAAAA2kk/BNdthe5MNTE/s1600/desiretoinspire.net-051913sfgirlbybay.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-80t1Mm9N0cY/UZtwuA2lc9I/AAAAAAAA2k8/ujhe_klD77Y/s1600/desiretoinspire.net-IMG_2428bestorarchitecture.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://1.bp.blogspot.com/-80t1Mm9N0cY/UZtwuA2lc9I/AAAAAAAA2k8/ujhe_klD77Y/s1600/desiretoinspire.net-IMG_2428bestorarchitecture.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-xasqxhRJ_mI/UZtwuJ-FD_I/AAAAAAAA2k0/xhAgBR4iox0/s1600/freshome.com-Casa-del-Viento-8.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="426" src="https://2.bp.blogspot.com/-xasqxhRJ_mI/UZtwuJ-FD_I/AAAAAAAA2k0/xhAgBR4iox0/s640/freshome.com-Casa-del-Viento-8.jpg" width="640" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-c1K8YChRe_I/UZtwuTkT1NI/AAAAAAAA2k4/DEC6YhgLncc/s1600/myscandinavianhome.blogspot.ca-sasa-2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://1.bp.blogspot.com/-c1K8YChRe_I/UZtwuTkT1NI/AAAAAAAA2k4/DEC6YhgLncc/s1600/myscandinavianhome.blogspot.ca-sasa-2.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-76s9FFbiK2s/UZtwu7iToSI/AAAAAAAA2lM/R12wetolWIY/s1600/stylecarrot.com-dos-family-in-design-sponge.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-76s9FFbiK2s/UZtwu7iToSI/AAAAAAAA2lM/R12wetolWIY/s1600/stylecarrot.com-dos-family-in-design-sponge.jpg" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-6KSYJwZuOkM/UZtx62TRnRI/AAAAAAAA2lg/u0yexxLBbzA/s1600/simplifiedbee.com-designer-kitchen-with-painted-floors.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-6KSYJwZuOkM/UZtx62TRnRI/AAAAAAAA2lg/u0yexxLBbzA/s1600/simplifiedbee.com-designer-kitchen-with-painted-floors.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-8Y1dy2Pnltg/UZtx684xDGI/AAAAAAAA2lc/HkIPhD7Paqk/s1600/simplifiedbee.com-designer-kitchen-with-yellow-painted-floors.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-8Y1dy2Pnltg/UZtx684xDGI/AAAAAAAA2lc/HkIPhD7Paqk/s1600/simplifiedbee.com-designer-kitchen-with-yellow-painted-floors.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-VYsngyQnnPA/UZt0y3KTQTI/AAAAAAAA2l0/EsMA6AvWxq4/s1600/styleathome.com-RUSTIC-diningtable.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-VYsngyQnnPA/UZt0y3KTQTI/AAAAAAAA2l0/EsMA6AvWxq4/s1600/.styleathome.com-RUSTIC-diningtable.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-eU-dfzYc668/UZt1CVuvNMI/AAAAAAAA2l8/6xZrURj_jII/s1600/bladecoracion.blogspot.com.ar-mercadito26.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-eU-dfzYc668/UZt1CVuvNMI/AAAAAAAA2l8/6xZrURj_jII/s1600/bladecoracion.blogspot.com.ar-mercadito26.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-76PoWnL8wTw/UZt1IX1DJHI/AAAAAAAA2mE/YwjmhOGNNrg/s1600/alvhem-salarustico.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-76PoWnL8wTw/UZt1IX1DJHI/AAAAAAAA2mE/YwjmhOGNNrg/s1600/alvhem-salarustico.jpg" /></a></div>
+<br />
+fotos cortesia:&nbsp;<a href="http://alltihemmet.se/">alltihemmet.se</a> -&nbsp;<a href="http://decorpad.com/">decorpad.com</a> -&nbsp;<a href="http://country-days.co.uk/">country-days.co.uk</a> -&nbsp;<a href="http://delikatissen.com/">delikatissen.com</a> -&nbsp;<a href="http://desiretoinspire.net/">desiretoinspire.net</a> -&nbsp;<a href="http://freshome.com/">freshome.com</a> -&nbsp;<a href="http://myscandinavianhome.blogspot.ca/">myscandinavianhome.blogspot.ca</a> -&nbsp;<a href="http://simplifiedbee.com/">simplifiedbee.com</a> -&nbsp;<a href="http://bladecoracion.blogspot.com.ar/">bladecoracion.blogspot.com.ar</a> -&nbsp;<a href="http://styleathome.com/">styleathome.com</a><br />
+<br />
+Obrigada por visitar o Achados de Decoração.<br />
+<br />
+beijos,<br />
+<br />
+Carmen Martins</div>
+<span style="font-size: x-small; text-align: center;"><br /></span>
+<span style="font-size: x-small;"> </span>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><div style='text-align: center;'>
+<i><span style='color: #cc0000; font-family: Verdana, sans-serif; font-size: large;'>Compartilhe nas suas redes sociais!</span></i></div>
+<div class='shareaholic-canvas' data-app='share_buttons' data-app-id='26409235' data-link='http://achadosdedecoracao.blogspot.pt/2013/05/decoracao-para-cozinha-sala-de-jantar.html' data-title='DECORAÇÃO PARA COZINHA & SALA DE JANTAR: comer, comer!'></div>
+</div>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='reaction-buttons'>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'><tr>
+<td class='reactions-label-cell' nowrap='nowrap' valign='top' width='1%'>
+<span class='reactions-label'>
+Deixe sua opinião</span>&#160;</td>
+<td><iframe allowtransparency='true' class='reactions-iframe' frameborder='0' name='reactions' scrolling='no' src='https://www.blogger.com/blog-post-reactions.g?options=%5Beu+curti%5D&amp;textColor=%23e7416a#http://achadosdedecoracao.blogspot.com/2013/05/decoracao-para-cozinha-sala-de-jantar.html'></iframe></td>
+</tr></table>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://achadosdedecoracao.blogspot.pt/2013/05/decoracao-para-cozinha-sala-de-jantar.html#comment-form' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-558723957'>
+<a href='https://www.blogger.com/post-edit.g?blogID=2712580140240780452&postID=3447635877194470018&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+ASSUNTOS
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/COZINHA' rel='tag'>COZINHA</a>,
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/SALA%20DE%20JANTAR' rel='tag'>SALA DE JANTAR</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>17.5.13</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://4.bp.blogspot.com/-qoa55pOJVrU/UZYfW1K2XPI/AAAAAAAA2jM/ZTp17rxOduA/s1600/e8bbf3de587845ede154bf675508e90b.jpg' itemprop='image_url'/>
+<meta content='2712580140240780452' itemprop='blogId'/>
+<meta content='3591555320586350333' itemprop='postId'/>
+<a name='3591555320586350333'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://achadosdedecoracao.blogspot.pt/2013/05/fofura-decorativa-do-dia-vale-um-sorriso.html'>FOFURA DECORATIVA DO DIA: vale um sorriso?</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-3591555320586350333' itemprop='articleBody'>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div style="text-align: center;">
+<div class="separator" style="clear: both; text-align: center;">
+Oi gente!!! E o final de semana chegou, que bom!</div>
+<div class="separator" style="clear: both; text-align: center;">
+Desejo uma 6a. feira fantástica para vocês!!</div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+Para alegrar nossos olhos e...quem sabe, sua parede, uma fofura decorativa!</div>
+<div class="separator" style="clear: both; text-align: center;">
+Ótimo para um quarto, né?</div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-qoa55pOJVrU/UZYfW1K2XPI/AAAAAAAA2jM/ZTp17rxOduA/s1600/e8bbf3de587845ede154bf675508e90b.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-qoa55pOJVrU/UZYfW1K2XPI/AAAAAAAA2jM/ZTp17rxOduA/s1600/e8bbf3de587845ede154bf675508e90b.jpg" /></a></div>
+<br />
+Obrigada por visitar o Achados de Decoração.<br />
+<br />
+beijos,<br />
+<br />
+Carmen Martins</div>
+<span style="font-size: x-small;"> </span>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><div style='text-align: center;'>
+<i><span style='color: #cc0000; font-family: Verdana, sans-serif; font-size: large;'>Compartilhe nas suas redes sociais!</span></i></div>
+<div class='shareaholic-canvas' data-app='share_buttons' data-app-id='26409235' data-link='http://achadosdedecoracao.blogspot.pt/2013/05/fofura-decorativa-do-dia-vale-um-sorriso.html' data-title='FOFURA DECORATIVA DO DIA: vale um sorriso?'></div>
+</div>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='reaction-buttons'>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'><tr>
+<td class='reactions-label-cell' nowrap='nowrap' valign='top' width='1%'>
+<span class='reactions-label'>
+Deixe sua opinião</span>&#160;</td>
+<td><iframe allowtransparency='true' class='reactions-iframe' frameborder='0' name='reactions' scrolling='no' src='https://www.blogger.com/blog-post-reactions.g?options=%5Beu+curti%5D&amp;textColor=%23e7416a#http://achadosdedecoracao.blogspot.com/2013/05/fofura-decorativa-do-dia-vale-um-sorriso.html'></iframe></td>
+</tr></table>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://achadosdedecoracao.blogspot.pt/2013/05/fofura-decorativa-do-dia-vale-um-sorriso.html#comment-form' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-558723957'>
+<a href='https://www.blogger.com/post-edit.g?blogID=2712580140240780452&postID=3591555320586350333&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+ASSUNTOS
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/DECORAR%20PAREDES' rel='tag'>DECORAR PAREDES</a>,
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/FOFURA%20DO%20DIA' rel='tag'>FOFURA DO DIA</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>16.5.13</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://4.bp.blogspot.com/-iQtOL_CQwOs/UZS9D0vvLuI/AAAAAAAA2gY/AFWQ0GS-ZUc/s640/skeppsholmen.se-4542MSKURS27OLLT.jpg.jpg' itemprop='image_url'/>
+<meta content='2712580140240780452' itemprop='blogId'/>
+<meta content='4191675282231058166' itemprop='postId'/>
+<a name='4191675282231058166'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://achadosdedecoracao.blogspot.pt/2013/05/quitinete-ouapartamento-fofo-de-21-m2-e.html'>KITNET DE 21 m2: TOQUES DE COR ENRIQUECERAM A DECORAÇÃO</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-4191675282231058166' itemprop='articleBody'>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div style="text-align: center;">
+<div style="text-align: justify;">
+Bom dia, bom dia!!! Decoração de espaços pequenos, mas muito pequenos são intrigantes, né? Então, quer ver este mini apartamento que eu encontrei? Na minha opinião, ele é super inspirador!!!</div>
+<br />
+<div style="text-align: justify;">
+Aqui temos uma kitnet toda decorada em branco (que também poderia ser trocado por off white) e com detalhes importantes para decoração de pequenos espaços. Vou comentar nas fotos para simplificar, tá bom?</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+<b>Mesa pequena,</b> que também pode ser expansível; <b>cadeiras com espaldar alto</b>, com capa - detalhe interessante porque isso faz parecer que são mini poltronas</div>
+<br />
+<div style="text-align: justify;">
+<b>A pequena estante de cor contrastante</b> é útil e decorativa. Ao receber visitas, pode-se apoiar copos, pratos, etc nela, além de ser decorativa</div>
+<div style="text-align: justify;">
+<br /></div>
+<a href="http://4.bp.blogspot.com/-iQtOL_CQwOs/UZS9D0vvLuI/AAAAAAAA2gY/AFWQ0GS-ZUc/s1600/skeppsholmen.se-4542MSKURS27OLLT.jpg.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" border="0" height="420" src="https://4.bp.blogspot.com/-iQtOL_CQwOs/UZS9D0vvLuI/AAAAAAAA2gY/AFWQ0GS-ZUc/s640/skeppsholmen.se-4542MSKURS27OLLT.jpg.jpg" title="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" width="640" /></a><br />
+<br />
+É óbvio que este pé direito altíssimo é outra coisa, né? Afinal, olha só onde está a cama, mas o sofá também pode ser uma cama para visitas. Sempre bom ter uma decoração planejada por isso.<br />
+<br />
+<a href="http://1.bp.blogspot.com/-IR_-rjyIsO8/UZS9G4ql-WI/AAAAAAAA2gs/qPaQEJK5ozo/s1600/skeppsholmen.se-4542MSLC1S27OLMC.jpg.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" border="0" height="420" src="https://1.bp.blogspot.com/-IR_-rjyIsO8/UZS9G4ql-WI/AAAAAAAA2gs/qPaQEJK5ozo/s640/skeppsholmen.se-4542MSLC1S27OLMC.jpg.jpg" title="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" width="640" /></a><br />
+<br />
+O detalhe das pastilhas escuras na cozinha deram um "up" no decor também!<br />
+<a href="http://4.bp.blogspot.com/-Q-NEvNTTgiU/UZS9DRCf8WI/AAAAAAAA2gU/l9_4KV-I844/s1600/skeppsholmen.se-4542MSKMLS27OLLE.jpg.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" border="0" height="420" src="https://4.bp.blogspot.com/-Q-NEvNTTgiU/UZS9DRCf8WI/AAAAAAAA2gU/l9_4KV-I844/s640/skeppsholmen.se-4542MSKMLS27OLLE.jpg.jpg" title="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" width="640" /></a><br />
+<br />
+A TV foi pendurada na parede e isso economizou o espaço que poderia ser usado, de repente, para um rack. Cada centímetro é valioso numa kitnet como esta.<br />
+<a href="http://4.bp.blogspot.com/-7NGxff3AAbk/UZS9HIkhfWI/AAAAAAAA2gw/QCpabuirVKc/s1600/skeppsholmen.se-4542MSLQ9S27OLMR.jpg.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" border="0" height="420" src="https://4.bp.blogspot.com/-7NGxff3AAbk/UZS9HIkhfWI/AAAAAAAA2gw/QCpabuirVKc/s640/skeppsholmen.se-4542MSLQ9S27OLMR.jpg.jpg" title="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" width="640" /></a><br />
+<br />
+<div style="text-align: justify;">
+<b>Objetos decorativos,</b>&nbsp;<b>almofadas, quadros, vasos</b>, cortina coloridinha, abajur. Sem isso, o lugar pareceria muito "mortinho", então, investir em objetos decorativos corretos é imprescindível numa quitinete também</div>
+<br />
+<a href="http://4.bp.blogspot.com/-JHXU_dU5gNs/UZS9IN21YGI/AAAAAAAA2g8/gRkp9_zTF4Y/s1600/skeppsholmen.se-4542MSML3S27OLNU.jpg.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" border="0" height="420" src="https://4.bp.blogspot.com/-JHXU_dU5gNs/UZS9IN21YGI/AAAAAAAA2g8/gRkp9_zTF4Y/s640/skeppsholmen.se-4542MSML3S27OLNU.jpg.jpg" title="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" width="640" /></a><br />
+<br />
+<b>Luminária de alto impacto,</b> de visual extravagante e elegante, que chama a atenção. Quer coisa melhor que esta? Pensem bem: usar o espaço "aéreo" rsrs é fantástico, assim como, as paredes<br />
+<a href="http://2.bp.blogspot.com/-d5z_6qdo0kY/UZS9Goz9tKI/AAAAAAAA2gk/k5KtlTNtAz8/s1600/skeppsholmen.se-4542MSMFFS27OLNF.jpg.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" border="0" height="420" src="https://2.bp.blogspot.com/-d5z_6qdo0kY/UZS9Goz9tKI/AAAAAAAA2gk/k5KtlTNtAz8/s640/skeppsholmen.se-4542MSMFFS27OLNF.jpg.jpg" title="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" width="640" /></a><br />
+<br />
+Flores e folhagens sempre trazem vida ao espaço!<br />
+<a href="http://3.bp.blogspot.com/-4A4LQBffHco/UZS9AzBKsmI/AAAAAAAA2gE/dkJ2715m8X8/s1600/skeppsholmen.se-4542MSIVBS27OLIU.jpg.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" border="0" height="420" src="https://3.bp.blogspot.com/-4A4LQBffHco/UZS9AzBKsmI/AAAAAAAA2gE/dkJ2715m8X8/s640/skeppsholmen.se-4542MSIVBS27OLIU.jpg.jpg" title="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" width="640" /></a><br />
+<br />
+<a href="http://4.bp.blogspot.com/-3tXr4SbPRCw/UZS9AVglQjI/AAAAAAAA2f8/IdkQU49M_uM/s1600/skeppsholmen.se-4542MSJBJS27OLJD.jpg.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" border="0" height="420" src="https://4.bp.blogspot.com/-3tXr4SbPRCw/UZS9AVglQjI/AAAAAAAA2f8/IdkQU49M_uM/s640/skeppsholmen.se-4542MSJBJS27OLJD.jpg.jpg" title="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" width="640" /></a><br />
+<br />
+<a href="http://3.bp.blogspot.com/-WtRVm8syBkA/UZS9CwJCBkI/AAAAAAAA2gM/-72p95HDLvE/s1600/skeppsholmen.se-4542MSJO1S27OLJS.jpg.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" border="0" height="420" src="https://3.bp.blogspot.com/-WtRVm8syBkA/UZS9CwJCBkI/AAAAAAAA2gM/-72p95HDLvE/s640/skeppsholmen.se-4542MSJO1S27OLJS.jpg.jpg" title="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" width="640" /></a><br />
+<br />
+<a href="http://3.bp.blogspot.com/--oqylNqD4Kw/UZS89-wXaUI/AAAAAAAA2fs/nY20rtLhKN0/s1600/skeppsholmen.se-4542MSIJ7S27OLIF.jpg.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" border="0" height="421" src="https://3.bp.blogspot.com/--oqylNqD4Kw/UZS89-wXaUI/AAAAAAAA2fs/nY20rtLhKN0/s640/skeppsholmen.se-4542MSIJ7S27OLIF.jpg.jpg" title="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" width="640" /></a><br />
+<br />
+<a href="http://2.bp.blogspot.com/-crtwZlibj_0/UZS89f4ptLI/AAAAAAAA2fk/0Ug__1ey0-A/s1600/skeppsholmen.se-4542MSIDTS27OLI0.jpg.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" border="0" height="420" src="https://2.bp.blogspot.com/-crtwZlibj_0/UZS89f4ptLI/AAAAAAAA2fk/0Ug__1ey0-A/s640/skeppsholmen.se-4542MSIDTS27OLI0.jpg.jpg" title="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" width="640" /></a><br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-nLyXuScOdeE/UZS8-9zDxhI/AAAAAAAA2f0/GJEa0ys5yww/s1600/skeppsholmen.se-4542MSG8PS27OLGN.jpg.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" border="0" height="421" src="https://3.bp.blogspot.com/-nLyXuScOdeE/UZS8-9zDxhI/AAAAAAAA2f0/GJEa0ys5yww/s640/skeppsholmen.se-4542MSG8PS27OLGN.jpg.jpg" title="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" width="640" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-2GTk4EGPw00/UZS_EAPf7lI/AAAAAAAA2hM/9kye5K6xC2Q/s1600/4542FA1AD3HPV4GO.jpg.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" border="0" height="523" src="https://1.bp.blogspot.com/-2GTk4EGPw00/UZS_EAPf7lI/AAAAAAAA2hM/9kye5K6xC2Q/s640/4542FA1AD3HPV4GO.jpg.jpg" title="Achados de Decoração. Kitnet de 21m&#178; com toques de cor vermelha" width="640" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+fotos cortesia:&nbsp;www.skeppsholmen.se</div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+Como se diz por aí..Menos é Mais e aqui na <a href="http://www.achadosdedecoracao.com.br/search/label/KITNET" target="_blank">kitnet</a> branca isso foi verdade!<br />
+<br />
+Muito obrigada por você visitar o Achados de Decoração.<br />
+<br />
+Beijos,<br />
+<br />
+Carmen Martins</div>
+<span style="font-size: x-small;"> </span>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><div style='text-align: center;'>
+<i><span style='color: #cc0000; font-family: Verdana, sans-serif; font-size: large;'>Compartilhe nas suas redes sociais!</span></i></div>
+<div class='shareaholic-canvas' data-app='share_buttons' data-app-id='26409235' data-link='http://achadosdedecoracao.blogspot.pt/2013/05/quitinete-ouapartamento-fofo-de-21-m2-e.html' data-title='KITNET DE 21 m2: TOQUES DE COR ENRIQUECERAM A DECORAÇÃO'></div>
+</div>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='reaction-buttons'>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'><tr>
+<td class='reactions-label-cell' nowrap='nowrap' valign='top' width='1%'>
+<span class='reactions-label'>
+Deixe sua opinião</span>&#160;</td>
+<td><iframe allowtransparency='true' class='reactions-iframe' frameborder='0' name='reactions' scrolling='no' src='https://www.blogger.com/blog-post-reactions.g?options=%5Beu+curti%5D&amp;textColor=%23e7416a#http://achadosdedecoracao.blogspot.com/2013/05/quitinete-ouapartamento-fofo-de-21-m2-e.html'></iframe></td>
+</tr></table>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://achadosdedecoracao.blogspot.pt/2013/05/quitinete-ouapartamento-fofo-de-21-m2-e.html#comment-form' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-558723957'>
+<a href='https://www.blogger.com/post-edit.g?blogID=2712580140240780452&postID=4191675282231058166&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+ASSUNTOS
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/APTO%20at%C3%A9%2060%20m%C2%B2' rel='tag'>APTO até 60 m&#178;</a>,
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/APTOS%20PEQUENOS' rel='tag'>APTOS PEQUENOS</a>,
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/BRANCO' rel='tag'>BRANCO</a>,
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/KITNET' rel='tag'>KITNET</a>,
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/PEQUENOS%20ESPA%C3%87OS' rel='tag'>PEQUENOS ESPAÇOS</a>,
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/QUITINETE%2FKITNET' rel='tag'>QUITINETE/KITNET</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://3.bp.blogspot.com/-96gjPQPsAzc/UZRaAxL1K3I/AAAAAAAA2fU/DObaD4l1ax0/s640/bomdia.jpg' itemprop='image_url'/>
+<meta content='2712580140240780452' itemprop='blogId'/>
+<meta content='507730753509124200' itemprop='postId'/>
+<a name='507730753509124200'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://achadosdedecoracao.blogspot.pt/2013/05/otima-5a-feira.html'>ÓTIMA 5a. FEIRA!</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-507730753509124200' itemprop='articleBody'>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div style="text-align: center;">
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-96gjPQPsAzc/UZRaAxL1K3I/AAAAAAAA2fU/DObaD4l1ax0/s1600/bomdia.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="https://3.bp.blogspot.com/-96gjPQPsAzc/UZRaAxL1K3I/AAAAAAAA2fU/DObaD4l1ax0/s640/bomdia.jpg" width="520" /></a></div>
+<br />
+Beijos, beijos e falem comigo, tá? Vou adorar!
+
+</div>
+<div style="color: black; text-align: center;">
+</div>
+<div style="text-align: center;">
+<span style="color: black; font-size: large;">Carmen Martins</span>
+</div>
+<div style="text-align: center;">
+</div>
+A<span style="font-size: x-small;">s fotos e imagens aqui publicadas, bem como seus  direitos autorais, pertencem aos seus respectivos proprietários. A  minha&nbsp; fonte de pesquisa de todas elas está citada em todos os posts.  Caso&nbsp; você seja proprietário de alguma imagem e queira que o seu link  seja&nbsp; mencionado, entre em contato comigo, para que eu possa  fazer&nbsp; as devidas alterações. Se você levar alguma imagem, seja gentil e mencione sua fonte de pesquisa.&nbsp;</span><span style="font-size: x-small; text-align: center;">PS: Neste blog ainda não se adotam as novas regras de ortografia</span><br />
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<br />
+<span style="font-size: x-small; text-align: center;"><br /></span>
+<span style="font-size: x-small;"> </span>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><div style='text-align: center;'>
+<i><span style='color: #cc0000; font-family: Verdana, sans-serif; font-size: large;'>Compartilhe nas suas redes sociais!</span></i></div>
+<div class='shareaholic-canvas' data-app='share_buttons' data-app-id='26409235' data-link='http://achadosdedecoracao.blogspot.pt/2013/05/otima-5a-feira.html' data-title='ÓTIMA 5a. FEIRA!'></div>
+</div>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='reaction-buttons'>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'><tr>
+<td class='reactions-label-cell' nowrap='nowrap' valign='top' width='1%'>
+<span class='reactions-label'>
+Deixe sua opinião</span>&#160;</td>
+<td><iframe allowtransparency='true' class='reactions-iframe' frameborder='0' name='reactions' scrolling='no' src='https://www.blogger.com/blog-post-reactions.g?options=%5Beu+curti%5D&amp;textColor=%23e7416a#http://achadosdedecoracao.blogspot.com/2013/05/otima-5a-feira.html'></iframe></td>
+</tr></table>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://achadosdedecoracao.blogspot.pt/2013/05/otima-5a-feira.html#comment-form' onclick=''>
+Nenhum comentário:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-558723957'>
+<a href='https://www.blogger.com/post-edit.g?blogID=2712580140240780452&postID=507730753509124200&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>15.5.13</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://2.bp.blogspot.com/-YgzqTdd4nyk/UZLrBWtsdBI/AAAAAAAA2co/8bLr7aa5VKM/s1600/Display_boxes1.jpg' itemprop='image_url'/>
+<meta content='2712580140240780452' itemprop='blogId'/>
+<meta content='8225594853433486402' itemprop='postId'/>
+<a name='8225594853433486402'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://achadosdedecoracao.blogspot.pt/2013/05/prateleiras-e-nichos-para-que-e-como.html'>PRATELEIRAS E NICHOS: PARA QUE e COMO USAR</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8225594853433486402' itemprop='articleBody'>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div style="text-align: center;">
+Olá! Gostou do título do post? Para esta pergunta, existem muitas respostas.<br />
+<br />
+<div style="text-align: justify;">
+<b>Para que se usam Prateleiras e Nichos</b>, hein? &nbsp;Para...decoração, organização, otimização do espaço, para a alegria dos olhos!!</div>
+<br />
+<div style="text-align: justify;">
+Eu confesso que sou apaixonada por tudo o que decora uma parede: quadros, cores, estampas, espelhos e, claro: nichos e prateleiras. Já morei em uma quitinete, na época da faculdade, e ela era minúscula!!! O melhor espaço de que eu dispunha estava bem ali na minha frente: o das paredes e foi assim que eu me apaixonei por estes móveis-objetos-decorativos de ilimitada utilidade!&nbsp;</div>
+<br />
+<div style="text-align: justify;">
+Você já pensou em <b>usar suas paredes de forma decorativa utilitária</b>? Considere esta hipótese e, para isso, aqui vão algumas imagens inspiradoras. Tomara que vocês curtam!</div>
+<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-YgzqTdd4nyk/UZLrBWtsdBI/AAAAAAAA2co/8bLr7aa5VKM/s1600/Display_boxes1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-YgzqTdd4nyk/UZLrBWtsdBI/AAAAAAAA2co/8bLr7aa5VKM/s1600/Display_boxes1.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-oEQeXaaWCCM/UZLqds17Z_I/AAAAAAAA2b4/rphXQk0MBQE/s1600/delikatissen.com-152.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-oEQeXaaWCCM/UZLqds17Z_I/AAAAAAAA2b4/rphXQk0MBQE/s1600/delikatissen.com-152.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-6ae_d_ib_zw/UZLqdvhMl9I/AAAAAAAA2b8/scTroEvRf4k/s1600/hglivingbeautifully.com-6764692.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://1.bp.blogspot.com/-6ae_d_ib_zw/UZLqdvhMl9I/AAAAAAAA2b8/scTroEvRf4k/s1600/hglivingbeautifully.com-6764692.gif" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-suNi0GFLu08/UZLqdGH8Z6I/AAAAAAAA2bw/A36t688qkaw/s1600/housetohome.co.uk-Box-it-in.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://1.bp.blogspot.com/-suNi0GFLu08/UZLqdGH8Z6I/AAAAAAAA2bw/A36t688qkaw/s1600/housetohome.co.uk-Box-it-in.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-YSrE26hpGpI/UZLqd_2vNbI/AAAAAAAA2cA/UQuXJ5vrCxY/s1600/housetohome.co.uk-Decorate-and-design.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-YSrE26hpGpI/UZLqd_2vNbI/AAAAAAAA2cA/UQuXJ5vrCxY/s1600/housetohome.co.uk-Decorate-and-design.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-J-9xmPUqR3o/UZLqeoWMyHI/AAAAAAAA2cQ/HJvyfJGdmDw/s1600/housetohome.co.uk-Display-a-collection.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-J-9xmPUqR3o/UZLqeoWMyHI/AAAAAAAA2cQ/HJvyfJGdmDw/s1600/housetohome.co.uk-Display-a-collection.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-cCojUKPKbX8/UZLqe6U2sbI/AAAAAAAA2cc/Lh3VgtZlW7Q/s1600/housetohome.co.uk-Go-old-school.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-cCojUKPKbX8/UZLqe6U2sbI/AAAAAAAA2cc/Lh3VgtZlW7Q/s1600/housetohome.co.uk-Go-old-school.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-GugB7e2V1kI/UZLqe2OhrXI/AAAAAAAA2cU/jff9tKxWFQw/s1600/housetohome.co.uk-Take-your-time.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-GugB7e2V1kI/UZLqe2OhrXI/AAAAAAAA2cU/jff9tKxWFQw/s1600/housetohome.co.uk-Take-your-time.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-Kl4lOQHGLWc/UZMOHL3O_NI/AAAAAAAA2fE/YyheS7USAPM/s1600/desiretoinspire.ne-ryanwhitemalibu10.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-Kl4lOQHGLWc/UZMOHL3O_NI/AAAAAAAA2fE/YyheS7USAPM/s1600/desiretoinspire.ne-ryanwhitemalibu10.jpg" /></a></div>
+<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-bxw3nzIMFGk/UZLtSTLZUlI/AAAAAAAA2c4/gCusCwaRoiY/s1600/alvhem-cozinhapreta2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="425" src="https://2.bp.blogspot.com/-bxw3nzIMFGk/UZLtSTLZUlI/AAAAAAAA2c4/gCusCwaRoiY/s640/alvhem-cozinhapreta2.jpg" width="640" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/--r1cSuoT6-E/UZLvQQW31gI/AAAAAAAA2dE/Jfm-CSqxIQY/s1600/CASADIEZ-trabajo_02.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/--r1cSuoT6-E/UZLvQQW31gI/AAAAAAAA2dE/Jfm-CSqxIQY/s1600/CASADIEZ-trabajo_02.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-1tiRAmU2lS4/UZLvSIOJ3jI/AAAAAAAA2dg/v8YHdk2KoZg/s1600/ballarddesigns.com-ballard_neutral_country_bedroom.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://1.bp.blogspot.com/-1tiRAmU2lS4/UZLvSIOJ3jI/AAAAAAAA2dg/v8YHdk2KoZg/s1600/ballarddesigns.com-ballard_neutral_country_bedroom.png" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-Gknzeqlsdec/UZLvRraSlgI/AAAAAAAA2dQ/Amkwzf0mBVA/s1600/charmingtreasures.tumblr.com-qurtolindinho-.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-Gknzeqlsdec/UZLvRraSlgI/AAAAAAAA2dQ/Amkwzf0mBVA/s1600/charmingtreasures.tumblr.com-qurtolindinho-.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-DatgroknoTY/UZLvSDHiTSI/AAAAAAAA2dc/Vkz-XxrTiHM/s1600/chic-deco.blogspot.comEscritorio-Dearkids-ChicDeco.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-DatgroknoTY/UZLvSDHiTSI/AAAAAAAA2dc/Vkz-XxrTiHM/s1600/chic-deco.blogspot.comEscritorio-Dearkids-ChicDeco.JPG" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-4OWvDkdXW2k/UZLvSH8_nRI/AAAAAAAA2dk/DaLRCieM5Do/s1600/clairoliviawayman-Clipboard02.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-4OWvDkdXW2k/UZLvSH8_nRI/AAAAAAAA2dk/DaLRCieM5Do/s1600/clairoliviawayman-Clipboard02.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-PPrj8Iw7B-o/UZLvT1OxNmI/AAAAAAAA2d8/bGd7Kcp0IHM/s1600/danielleoakeyinteriors.blogspot.com-Screen+shot+2011-07-05+at+8.27.24+AM.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-PPrj8Iw7B-o/UZLvT1OxNmI/AAAAAAAA2d8/bGd7Kcp0IHM/s1600/danielleoakeyinteriors.blogspot.com-Screen+shot+2011-07-05+at+8.27.24+AM.png" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-I7kaPZ2YY5A/UZLvTatbcNI/AAAAAAAA2d0/WwsrH7UrPPI/s1600/decoraology-7_jess.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-I7kaPZ2YY5A/UZLvTatbcNI/AAAAAAAA2d0/WwsrH7UrPPI/s1600/decoraology-7_jess.jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-jh6ul46Nl_Y/UZLvVcs5gEI/AAAAAAAA2eM/JI52APyXG-I/s1600/housetohome-bathroom-modern-Living-etc.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://1.bp.blogspot.com/-jh6ul46Nl_Y/UZLvVcs5gEI/AAAAAAAA2eM/JI52APyXG-I/s1600/housetohome-bathroom-modern-Living-etc.gif" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-LxTkf2KJR3w/UZLvUPSaHKI/AAAAAAAA2eA/I18p8uDmvME/s1600/lopes-4308317209_90237e6f94_z+(1).jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-LxTkf2KJR3w/UZLvUPSaHKI/AAAAAAAA2eA/I18p8uDmvME/s1600/lopes-4308317209_90237e6f94_z+(1).jpg" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-c_APlThkz6o/UZLvVwg4WTI/AAAAAAAA2eU/Fd074IQ3FgE/s1600/nicety.livejournal.com-kueche-klein-primary.1309155403.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="403" src="https://2.bp.blogspot.com/-c_APlThkz6o/UZLvVwg4WTI/AAAAAAAA2eU/Fd074IQ3FgE/s640/nicety.livejournal.com-kueche-klein-primary.1309155403.png" width="640" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-9uQUfC00TLY/UZLvWxt3bnI/AAAAAAAA2eg/Kke77K3lFU4/s1600/nicety.livejournal.com-violeta.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="https://4.bp.blogspot.com/-9uQUfC00TLY/UZLvWxt3bnI/AAAAAAAA2eg/Kke77K3lFU4/s640/nicety.livejournal.com-violeta.png" width="640" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+&nbsp;<a href="http://4.bp.blogspot.com/-1inFSiCJ9Z4/UZLvWxtOCrI/AAAAAAAA2ek/9CRBLzAlRNA/s1600/raenovate-KimballStarr_AFTER_pacific-homeoffice.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="423" src="https://4.bp.blogspot.com/-1inFSiCJ9Z4/UZLvWxtOCrI/AAAAAAAA2ek/9CRBLzAlRNA/s640/raenovate-KimballStarr_AFTER_pacific-homeoffice.jpg" width="640" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-yYqPZq0c4Mc/UZLvXj26QII/AAAAAAAA2ew/K0dkD0vD6i8/s1600/www.bhg.com-550_100986328.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://1.bp.blogspot.com/-yYqPZq0c4Mc/UZLvXj26QII/AAAAAAAA2ew/K0dkD0vD6i8/s1600/www.bhg.com-550_100986328.jpg" /></a></div>
+<br />
+Esta foto aqui é para pura inspiração de um ÓTIMO DIA!!!<br />
+<a href="http://1.bp.blogspot.com/-mxeWW7paBqQ/UZLvRAVt60I/AAAAAAAA2dM/J5tai3NSBiQ/s1600/anaantunes-Captura+de+ecra%CC%83+-+2010-12-14,+21.10.07.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="482" src="https://1.bp.blogspot.com/-mxeWW7paBqQ/UZLvRAVt60I/AAAAAAAA2dM/J5tai3NSBiQ/s640/anaantunes-Captura+de+ecra%CC%83+-+2010-12-14,+21.10.07.png" width="640" /></a><br />
+<br />
+<br />
+<div style="text-align: justify;">
+<div style="text-align: center;">
+fotos cortesia:&nbsp;delikatissen.com - hglivingbeautifully.com - housetohome.co.uk - alvhemmakleri.se - casadiez.com.es - ballarddesigns.com - charmingtreasures.tumblr.com - chic-deco.blogspot.com - clairoliviawayman.com - danielleoakeyinteriors.blogspot.com - decorology.com - housetohome.co.uk - nicety.livejournal.com - lopes.com.br - raenovate.com - home-styling.blogspot.com - patttersonmaker.tumblr.com-&nbsp;desiretoinspire.net</div>
+</div>
+<br />
+<br />
+Tomara que você tenha gostado das imagens!<br />
+<br />
+Muito obrigada por você visitar o Achados de Decoração.<br />
+<br />
+beijos,<br />
+<br />
+Carmen Martins</div>
+<span style="font-size: x-small;"> </span>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><div style='text-align: center;'>
+<i><span style='color: #cc0000; font-family: Verdana, sans-serif; font-size: large;'>Compartilhe nas suas redes sociais!</span></i></div>
+<div class='shareaholic-canvas' data-app='share_buttons' data-app-id='26409235' data-link='http://achadosdedecoracao.blogspot.pt/2013/05/prateleiras-e-nichos-para-que-e-como.html' data-title='PRATELEIRAS E NICHOS: PARA QUE e COMO USAR'></div>
+</div>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='reaction-buttons'>
+<table border='0' cellpadding='0' cellspacing='0' width='100%'><tr>
+<td class='reactions-label-cell' nowrap='nowrap' valign='top' width='1%'>
+<span class='reactions-label'>
+Deixe sua opinião</span>&#160;</td>
+<td><iframe allowtransparency='true' class='reactions-iframe' frameborder='0' name='reactions' scrolling='no' src='https://www.blogger.com/blog-post-reactions.g?options=%5Beu+curti%5D&amp;textColor=%23e7416a#http://achadosdedecoracao.blogspot.com/2013/05/prateleiras-e-nichos-para-que-e-como.html'></iframe></td>
+</tr></table>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://achadosdedecoracao.blogspot.pt/2013/05/prateleiras-e-nichos-para-que-e-como.html#comment-form' onclick=''>
+2 comentários:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-558723957'>
+<a href='https://www.blogger.com/post-edit.g?blogID=2712580140240780452&postID=8225594853433486402&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+ASSUNTOS
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/APTO%20at%C3%A9%2060%20m%C2%B2' rel='tag'>APTO até 60 m&#178;</a>,
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/APTOS%20PEQUENOS' rel='tag'>APTOS PEQUENOS</a>,
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/DICAS%20E%20SOLU%C3%87%C3%95ES' rel='tag'>DICAS E SOLUÇÕES</a>,
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/IDEIAS%20DECORATIVAS' rel='tag'>IDEIAS DECORATIVAS</a>,
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/NICHOS%20E%20PRATELEIRAS' rel='tag'>NICHOS E PRATELEIRAS</a>,
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/PEQUENOS%20ESPA%C3%87OS' rel='tag'>PEQUENOS ESPAÇOS</a>,
+<a href='http://achadosdedecoracao.blogspot.pt/search/label/STYLING%20TIPS%20%7C%20COMO%20DECORAR' rel='tag'>STYLING TIPS | COMO DECORAR</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-newer-link'>
+<a class='blog-pager-newer-link' href='http://achadosdedecoracao.blogspot.pt/search?updated-max=2013-06-28T03:12:00-03:00&amp;max-results=20&amp;reverse-paginate=true' id='Blog1_blog-pager-newer-link' title='Postagens mais recentes'>Postagens mais recentes</a>
+</span>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://achadosdedecoracao.blogspot.pt/search?updated-max=2013-05-15T06:55:00-03:00&amp;max-results=20&amp;start=8&amp;by-date=false' id='Blog1_blog-pager-older-link' title='Postagens mais antigas'>Postagens mais antigas</a>
+</span>
+<a class='home-link' href='http://achadosdedecoracao.blogspot.pt/'>Página inicial</a>
+</div>
+<div class='clear'></div>
+<script type="text/javascript">window.___gcfg = {'lang': 'pt_BR'};</script>
+</div></div>
+</div>
+</div>
+<div class='column-left-outer'>
+<div class='column-left-inner'>
+<aside>
+</aside>
+</div>
+</div>
+<div class='column-right-outer'>
+<div class='column-right-inner'>
+<aside>
+<div class='sidebar section' id='sidebar-right-1'><div class='widget HTML' data-version='1' id='HTML15'>
+<div class='widget-content'>
+<div style="text-align: center;"><div id="search"><form action="/search" id="searchform" method="get"><div   style="font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: normal;font-family:&quot;;font-size:100%;"><span style="font-family:&quot;;"><span =""  style="font-size:13.3333px;"><div class="separator" style="clear: both; text-align: center;"></div></span></span><input class="field" id="s" name="q" onblur="if (this.value == '') {this.value = 'Digite sua busca..';}" onfocus="if (this.value == 'Digite sua busca..') {this.value = '';}" style="font-family: georgia, serif; font-size: 100%; font-style: normal; font-weight: normal;" type="text" value="Digite sua busca.." /> <span style="font-family:&quot;;"><span =""  style="font-size:100%;"><input class="submit" name="submit" type="submit" value="buscar" /></span></span></div></form></div></div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=HTML&widgetId=HTML15&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML15"));' target='configHTML15' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML3'>
+<div class='widget-content'>
+<div class="separator" style="clear: both; text-align: left;"><br /><a href="https://2.bp.blogspot.com/-gLe7HE9MS2E/WBfPG3rx-KI/AAAAAAABWOM/cSNPwssodZ0dqNrcIejzeyqHWgLfBNOAACLcB/s1600/quemfaz220.png" imageanchor="1" style="margin-left: 0em; margin-right: 0em;"><img alt="Blog Achados de Decoração" border="0" src="https://2.bp.blogspot.com/-gLe7HE9MS2E/WBfPG3rx-KI/AAAAAAABWOM/cSNPwssodZ0dqNrcIejzeyqHWgLfBNOAACLcB/s1600/quemfaz220.png" title="Blog Achados de Decoração" / /></a></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div style="text-align: justify;"><div class="separator" style="clear: both; text-align: center;"><a href="https://4.bp.blogspot.com/-TZnFQjz1BR0/WBVtDvUQ18I/AAAAAAABWIo/t5yFYRhj6xsv_py635XQXHKkEpMc9EwEQCLcB/s1600/fotoredondacarmen0.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="200" src="https://4.bp.blogspot.com/-TZnFQjz1BR0/WBVtDvUQ18I/AAAAAAABWIo/t5yFYRhj6xsv_py635XQXHKkEpMc9EwEQCLcB/s200/fotoredondacarmen0.png" width="195" / /></a></div><div class="MsoNormal"  style="background-color: white;color:#444444;"><span =""  style="font-family:inherit;">Olá! Seja bem-vindo(ao)! Eu sou a Carmen Martins;  <a href="http://www.carmenmartins.com.br">Consultora de Estilo e Cores, Ilustradora</a>; criei este blog em 2010 para falar de decoração e bem viver. Mais detalhes <a href="http://www.achadosdedecoracao.com.br/p/sobre.html" style="color: #e7416a; text-decoration: none;">aqui</a>.</span></div><div class="MsoNormal"  style="background-color: white;color:#444444;"><span =""  style="font-family:inherit;"><br />Você também adora decoração? Então, entre e fique à vontade! Vou compartilhar todos os meus achados com você!</span></div></div><div class="MsoNormal" style="text-align: justify;"><span =""  style="font-size:medium;"><br /></span></div><div style="text-align: justify;"><div style="font-style: normal; text-align: center;"><div class="separator" style="clear: both; text-align: center;"><div class="separator" style="clear: both;"><div style="text-align: center;"></div><div class="separator" style="clear: both;"><a href="http://www.facebook.com/achadosdedecoracao"><img alt="Siga no Facebook" border="0" src="https://3.bp.blogspot.com/-plo8dRJH-Eg/WCSkCiWkSNI/AAAAAAABW2s/cO_LlOCyIFwtlP_E_uSnrOxZA8zO6BMCQCLcB/s1600/logo-facebook.png" title="Siga no Facebook" / /></a> <a href="http://www.pinterest.com/achadosdecor"><img alt="Siga no Pinterest" border="0" src="https://4.bp.blogspot.com/-T_jErmgDJ0A/WCSkCi3zRLI/AAAAAAABW2w/jQax7zXZllwlYICcZGgQ7GQPV-kdMswCQCLcB/s1600/logo-pinterest.png" title="Siga no Pinterest" / /></a> <a href="http://www.instagram.com/blogachadosdedecoracao"><img alt="Siga no Instagram" border="0" src="https://1.bp.blogspot.com/-W4ktQ012wIg/WCSkC3pgBTI/AAAAAAABW20/00sBClKWdQAEKSIHQxSuk3vYhmqFaGPhwCLcB/s1600/logo-instagram.png" title="Siga no Instagram" / /></a></div></div></div></div></div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML3"));' target='configHTML3' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML14'>
+<div class='widget-content'>
+<div class="separator" style="clear: both; text-align: left;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- AD_grafico_300x600_col_esq_Pos_1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-0314397456453505"
+     data-ad-slot="7632758507"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=HTML&widgetId=HTML14&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML14"));' target='configHTML14' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget AdSense' data-version='1' id='AdSense6'>
+<div class='widget-content'>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-0314397456453505";
+    google_ad_host = "ca-host-pub-1556223355139109";
+    google_ad_host_channel = "L0001";
+    google_ad_slot = "5829419797";
+    google_ad_width = 200;
+    google_ad_height = 90;
+</script>
+<!-- achadosdedecoracao_sidebar-right-1_AdSense6_200x90_0ads_al_s -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=AdSense&widgetId=AdSense6&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("AdSense6"));' target='configAdSense6' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget AdSense' data-version='1' id='AdSense4'>
+<div class='widget-content'>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-0314397456453505";
+    google_ad_host = "ca-host-pub-1556223355139109";
+    google_ad_host_channel = "L0001";
+    google_ad_slot = "5319067302";
+    google_ad_width = 200;
+    google_ad_height = 90;
+</script>
+<!-- achadosdedecoracao_sidebar-right-1_AdSense4_200x90_0ads_al_s -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=AdSense&widgetId=AdSense4&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("AdSense4"));' target='configAdSense4' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML16'>
+<div class='widget-content'>
+<div class="separator" style="clear: both; font-family: Verdana; font-size: 100%; font-style: Verdana; font-variant-caps: Verdana; font-variant-ligatures: Verdana; font-weight: Verdana; text-align: center;"><br /></div><form action="https://feedburner.google.com/fb/a/mailverify" method="post" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=AchadosDeDecorao', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" style="border: 1px solid rgb(204, 204, 204); padding: 10px; text-align: center;" target="popupwindow"><div style="font-size: 100%; font-style: Verdana; font-weight: Verdana; text-align: justify;"><div class="separator" style="clear: both; font-weight: Verdana; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><span style="text-align: justify;font-size:100%;"><b>CADASTRE-SE para receber todos os posts no seu email. É grátis e rápido!</b></span></div><div class="separator" style="clear: both; text-align: center;"><span style="text-align: justify;font-size:100%;"><b><br /></b></span></div><div class="separator" style="clear: both; text-align: center;"><span style="text-align: justify;font-size:100%;"><b>Atenção: depois que se cadastrar aqui, vá ao seu Email e abra a mensagem que você recebeu para CONFIRMAR o cadastro, ok?</b></span></div></div><div style="text-align: left;"><div style="text-align: justify;"><span><b><span style="font-family:&quot;;"><div class="separator" style="clear: both; font-weight: Verdana; text-align: center;"><br /></div></span></b></span></div></div><input name="email" style="font-family: Georgia, serif; font-size: 100%; font-style: Verdana; font-variant-caps: Verdana; font-variant-ligatures: Verdana; font-weight: Verdana; width: 220px;" type="text" /><br /><br /><input name="uri" type="hidden" value="AchadosDeDecorao" /><input name="loc" type="hidden" value="pt_BR" /><span style="font-family:&quot;;"><span =""  style="font-size:100%;"><input type="submit" value="Enviar" /><br /></span></span><br /><span style="font-size: 100%; font-style: Verdana; font-variant-caps: Verdana; font-variant-ligatures: Verdana; font-weight: Verdana;font-family:&quot;;font-size:x-small;">Via <a href="https://feedburner.google.com/" target="_blank">FeedBurner</a></span></form>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=HTML&widgetId=HTML16&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML16"));' target='configHTML16' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget ContactForm' data-version='1' id='ContactForm1'>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=ContactForm&widgetId=ContactForm1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("ContactForm1"));' target='configContactForm1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML4'>
+<div class='widget-content'>
+<a data-pin-do="embedUser" data-pin-lang="pt" data-pin-board-width="280" data-pin-scale-height="300" data-pin-scale-width="70" href="https://www.pinterest.com/achadosdecor"></a>
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML4"));' target='configHTML4' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML2'>
+<div class='widget-content'>
+<div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><a href="https://2.bp.blogspot.com/-LuhDVzEomRM/WCfGw1EwiKI/AAAAAAABW_M/0Yf_iJo5BSgIVAhAFmcTZl0ujs16mzAwACLcB/s1600/visitas.png" imageanchor="1" style="margin-left: 0em; margin-right: 0em;"><img border="0" src="https://2.bp.blogspot.com/-LuhDVzEomRM/WCfGw1EwiKI/AAAAAAABW_M/0Yf_iJo5BSgIVAhAFmcTZl0ujs16mzAwACLcB/s1600/visitas.png" / /></a></div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML2"));' target='configHTML2' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Label' data-version='1' id='Label1'>
+<div class='widget-content cloud-label-widget-content'>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/APARTAMENTO'>APARTAMENTO</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/APTO%2061%20a%2090%20m%C2%B2'>APTO 61 a 90 m&#178;</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/APTO%20acima%2090%20m%C2%B2'>APTO acima 90 m&#178;</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/APTO%20at%C3%A9%2060%20m%C2%B2'>APTO até 60 m&#178;</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/APTOS%20PEQUENOS'>APTOS PEQUENOS</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/CASA%20DE%20PRAIA'>CASA DE PRAIA</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/CASA%20DO%20LEITOR'>CASA DO LEITOR</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/DECORA%C3%87%C3%83O%20COMERCIAL'>DECORAÇÃO COMERCIAL</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/ESPA%C3%87O%20DO%20DESIGNER'>ESPAÇO DO DESIGNER</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/KITNET'>KITNET</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/LOFT'>LOFT</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/MINHA%20CASA'>MINHA CASA</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/PRAIA'>PRAIA</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/QUITINETE%2FKITNET'>QUITINETE/KITNET</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/SOBRADOS'>SOBRADOS</a>
+</span>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=Label&widgetId=Label1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label1"));' target='configLabel1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML8'>
+<div class='widget-content'>
+<div class="separator" style="clear: both; text-align: left;">
+<a href="https://1.bp.blogspot.com/-TU1XyJhsr5s/WCfHXGB2gsI/AAAAAAABW_Q/wH8z-s7PrX43zaQX4VG_VXQh13vgtxUxwCLcB/s1600/assuntosdecorativos.png" imageanchor="1" style="margin-left: 0em; margin-right: 0em;"><img border="0" src="https://1.bp.blogspot.com/-TU1XyJhsr5s/WCfHXGB2gsI/AAAAAAABW_Q/wH8z-s7PrX43zaQX4VG_VXQh13vgtxUxwCLcB/s1600/assuntosdecorativos.png" /></a></div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=HTML&widgetId=HTML8&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML8"));' target='configHTML8' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Label' data-version='1' id='Label2'>
+<div class='widget-content cloud-label-widget-content'>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/ANTES%20E%20DEPOIS'>ANTES E DEPOIS</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/ARRANJOS%20E%20FLORES'>ARRANJOS E FLORES</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/BANHEIROS%20E%20LAVABOS'>BANHEIROS E LAVABOS</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/BOA%20IDEIA%20DECORATIVA%20DO%20DIA'>BOA IDEIA DECORATIVA DO DIA</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/COMBINAR%20CORES'>COMBINAR CORES</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/COMIDINHAS%20%26%20RECEITAS'>COMIDINHAS &amp; RECEITAS</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/CONVIVENDO%20COM%20PETS'>CONVIVENDO COM PETS</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/CURIOSIDADE'>CURIOSIDADE</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/DECORA%C3%87%C3%83O%20DE%20ESTANTE'>DECORAÇÃO DE ESTANTE</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/DECORAR%20FESTAS'>DECORAR FESTAS</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/DECORAR%20PAREDES'>DECORAR PAREDES</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/DESEJO%20DO%20DIA'>DESEJO DO DIA</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/DICAS%20E%20SOLU%C3%87%C3%95ES'>DICAS E SOLUÇÕES</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/ESPA%C3%87O%20DO%20DESIGNER'>ESPAÇO DO DESIGNER</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/ESPELHOS'>ESPELHOS</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/FA%C3%87A%20VOC%C3%8A%20MESMA'>FAÇA VOCÊ MESMA</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/FOFURA%20DO%20DIA'>FOFURA DO DIA</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/IDEIAS%20DECORATIVAS'>IDEIAS DECORATIVAS</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/LISTA%20DE%20DESEJOS'>LISTA DE DESEJOS</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/LIVROS'>LIVROS</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/NATAL'>NATAL</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/NICHOS%20E%20PRATELEIRAS'>NICHOS E PRATELEIRAS</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/O%20QUE%20ESTOU%20AMANDO'>O QUE ESTOU AMANDO</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/ONDE%20COMPRAR'>ONDE COMPRAR</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/ORGANIZA%C3%87%C3%83O'>ORGANIZAÇÃO</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/PACOTES%20DE%20PRESENTE'>PACOTES DE PRESENTE</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/PAINEL%20DE%20INSPIRA%C3%87%C3%83O'>PAINEL DE INSPIRAÇÃO</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/PEQUENOS%20ESPA%C3%87OS'>PEQUENOS ESPAÇOS</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/PINTURA'>PINTURA</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/RECICLAGEM'>RECICLAGEM</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/REVISTAS'>REVISTAS</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/SOLU%C3%87%C3%95ES'>SOLUÇÕES</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/STYLING%20TIPS%20%7C%20COMO%20DECORAR'>STYLING TIPS | COMO DECORAR</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/TEND%C3%8ANCIA'>TENDÊNCIA</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/VITRINE'>VITRINE</a>
+</span>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=Label&widgetId=Label2&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label2"));' target='configLabel2' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML9'>
+<div class='widget-content'>
+<div class="separator" style="clear: both; text-align: left;">
+<a href="https://1.bp.blogspot.com/-4amfrdhIW3M/WCfISvBJ9DI/AAAAAAABW_c/qt32ilk2s5sJ25BJOmFQE9JQciYlYMZAACLcB/s1600/ambiente.png" imageanchor="1" style="margin-left: 0em; margin-right: 0em;"><img border="0" src="https://1.bp.blogspot.com/-4amfrdhIW3M/WCfISvBJ9DI/AAAAAAABW_c/qt32ilk2s5sJ25BJOmFQE9JQciYlYMZAACLcB/s1600/ambiente.png" /></a></div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=HTML&widgetId=HTML9&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML9"));' target='configHTML9' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Label' data-version='1' id='Label3'>
+<div class='widget-content cloud-label-widget-content'>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/AO%20AR%20LIVRE'>AO AR LIVRE</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/%C3%81REA%20DE%20SERVI%C3%87O'>ÁREA DE SERVIÇO</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/%C3%81REA%20EXTERNA'>ÁREA EXTERNA</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/ATELI%C3%8A'>ATELIÊ</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/BANHEIROS%20E%20LAVABOS'>BANHEIROS E LAVABOS</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/CLOSET'>CLOSET</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/COZINHA'>COZINHA</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/COZINHA%20AMERICANA'>COZINHA AMERICANA</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/CRIAN%C3%87AS%20E%20ADOLESCENTES'>CRIANÇAS E ADOLESCENTES</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/ESCRIT%C3%93RIO'>ESCRITÓRIO</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/HALL%20ENTRADA'>HALL ENTRADA</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/HOME%20OFFICE'>HOME OFFICE</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/HOTEL'>HOTEL</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/LAVANDERIA'>LAVANDERIA</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/LOFT'>LOFT</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/QUARTO%20ADOLESCENTE'>QUARTO ADOLESCENTE</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/QUARTO%20CASAL'>QUARTO CASAL</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/QUARTO%20MENINA'>QUARTO MENINA</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/QUARTO%20SOLTEIRO'>QUARTO SOLTEIRO</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/QUARTOS%20INFANTIS'>QUARTOS INFANTIS</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/QUINTAL'>QUINTAL</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/SACADAS%20E%20TERRA%C3%87OS'>SACADAS E TERRAÇOS</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/SALA%20DE%20JANTAR'>SALA DE JANTAR</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/SALAS'>SALAS</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://achadosdedecoracao.blogspot.pt/search/label/VARANDA'>VARANDA</a>
+</span>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=Label&widgetId=Label3&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label3"));' target='configLabel3' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<select id='BlogArchive1_ArchiveMenu'>
+<option value=''>
+</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2017/12/'>Dezembro 2017 (6)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2017/11/'>Novembro 2017 (36)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2017/06/'>Junho 2017 (7)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2017/05/'>Maio 2017 (9)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2017/04/'>Abril 2017 (8)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2017/03/'>Março 2017 (5)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2017/02/'>Fevereiro 2017 (6)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2017/01/'>Janeiro 2017 (30)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2016/12/'>Dezembro 2016 (59)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2016/11/'>Novembro 2016 (75)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2016/10/'>Outubro 2016 (36)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2015/10/'>Outubro 2015 (11)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2015/08/'>Agosto 2015 (1)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2015/07/'>Julho 2015 (27)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2015/06/'>Junho 2015 (76)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2015/05/'>Maio 2015 (80)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2015/04/'>Abril 2015 (19)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2015/03/'>Março 2015 (2)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2015/02/'>Fevereiro 2015 (1)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2014/11/'>Novembro 2014 (10)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2014/10/'>Outubro 2014 (4)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2014/09/'>Setembro 2014 (2)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2014/08/'>Agosto 2014 (5)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2014/07/'>Julho 2014 (5)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2014/06/'>Junho 2014 (4)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2014/05/'>Maio 2014 (7)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2014/04/'>Abril 2014 (12)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2014/03/'>Março 2014 (17)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2014/02/'>Fevereiro 2014 (20)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2014/01/'>Janeiro 2014 (12)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2013/12/'>Dezembro 2013 (17)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2013/11/'>Novembro 2013 (13)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2013/10/'>Outubro 2013 (47)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2013/09/'>Setembro 2013 (20)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2013/08/'>Agosto 2013 (5)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2013/07/'>Julho 2013 (29)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2013/06/'>Junho 2013 (26)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2013/05/'>Maio 2013 (29)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2013/04/'>Abril 2013 (30)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2013/03/'>Março 2013 (30)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2013/02/'>Fevereiro 2013 (16)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2013/01/'>Janeiro 2013 (18)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2012/12/'>Dezembro 2012 (6)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2012/11/'>Novembro 2012 (22)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2012/10/'>Outubro 2012 (42)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2012/09/'>Setembro 2012 (17)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2012/08/'>Agosto 2012 (27)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2012/07/'>Julho 2012 (26)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2012/06/'>Junho 2012 (35)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2012/05/'>Maio 2012 (24)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2012/04/'>Abril 2012 (29)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2012/03/'>Março 2012 (29)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2012/02/'>Fevereiro 2012 (35)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2012/01/'>Janeiro 2012 (45)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2011/12/'>Dezembro 2011 (32)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2011/11/'>Novembro 2011 (35)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2011/10/'>Outubro 2011 (43)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2011/09/'>Setembro 2011 (60)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2011/08/'>Agosto 2011 (45)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2011/07/'>Julho 2011 (45)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2011/06/'>Junho 2011 (70)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2011/05/'>Maio 2011 (60)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2011/04/'>Abril 2011 (49)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2011/03/'>Março 2011 (70)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2011/02/'>Fevereiro 2011 (60)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2011/01/'>Janeiro 2011 (55)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2010/12/'>Dezembro 2010 (63)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2010/11/'>Novembro 2010 (52)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2010/10/'>Outubro 2010 (56)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2010/09/'>Setembro 2010 (48)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2010/08/'>Agosto 2010 (86)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2010/07/'>Julho 2010 (74)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2010/06/'>Junho 2010 (100)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2010/05/'>Maio 2010 (124)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2010/04/'>Abril 2010 (116)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2010/03/'>Março 2010 (111)</option>
+<option value='http://achadosdedecoracao.blogspot.pt/2010/02/'>Fevereiro 2010 (63)</option>
+</select>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target='configBlogArchive1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+</aside>
+</div>
+</div>
+</div>
+<div style='clear: both'></div>
+<!-- columns -->
+</div>
+<!-- main -->
+</div>
+</div>
+<div class='main-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<footer>
+<div class='footer-outer'>
+<div class='footer-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left footer-fauxborder-left'>
+<div class='fauxborder-right footer-fauxborder-right'></div>
+<div class='region-inner footer-inner'>
+<div class='foot section' id='footer-1'><div class='widget HTML' data-version='1' id='HTML6'>
+<div class='widget-content'>
+<div style="text-align: center;"><script>
+var linkwithin_site_id = 2523256;
+</script>
+<script src="http://www.linkwithin.com/widget.js"></script>
+<a href="http://www.linkwithin.com/"><img src="http://www.linkwithin.com/pixel.png" alt="Related Posts Plugin for WordPress, Blogger..." style="border: 0" /></a></div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=HTML&widgetId=HTML6&action=editWidget&sectionId=footer-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML6"));' target='configHTML6' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+<table border='0' cellpadding='0' cellspacing='0' class='section-columns columns-2'>
+<tbody>
+<tr>
+<td class='first columns-cell'>
+<div class='foot no-items section' id='footer-2-1'></div>
+</td>
+<td class='columns-cell'>
+<div class='foot no-items section' id='footer-2-2'></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- outside of the include in order to lock Attribution widget -->
+<div class='foot section' id='footer-3' name='Rodapé'><div class='widget HTML' data-version='1' id='HTML1'>
+<div class='widget-content'>
+<script type="text/javascript"><br /><br />  var _gaq = _gaq || [];<br />  _gaq.push(['_setAccount', 'UA-12998813-2']);<br />  _gaq.push(['_trackPageview']);<br /><br />  (function() {<br />    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;<br />    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';<br />    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);<br />  })();<br /><br /></script>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=footer-3' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));' target='configHTML1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Text' data-version='1' id='Text1'>
+<div class='widget-content'>
+<span style="background-color: white; color: #666666; font-family: Raleway, sans-serif; font-size: 11.2px; font-weight: 600; text-align: center;">As imagens utilizadas neste site foram retiradas da internet e presumem-se em regime de domínio público ou regimes de compartilhamento Creative Commons. Caso você seja titular de alguma delas e a veiculação não tenha sido autorizada, ou esteja em desacordo com o regime da veiculação da obra, favor contatar-nos para o devido crédito/retirada.</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=Text&widgetId=Text1&action=editWidget&sectionId=footer-3' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text1"));' target='configText1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Attribution' data-version='1' id='Attribution1'>
+<div class='widget-content' style='text-align: center;'>
+Blog Achados de Decoração - Todos os direitos reservados - 2017. Tecnologia do <a href='https://www.blogger.com' target='_blank'>Blogger</a>.
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2712580140240780452&widgetType=Attribution&widgetId=Attribution1&action=editWidget&sectionId=footer-3' onclick='return _WidgetManager._PopupConfig(document.getElementById("Attribution1"));' target='configAttribution1' title='Editar'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+</div>
+<div class='footer-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</footer>
+<!-- content -->
+</div>
+</div>
+<div class='content-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<script type='text/javascript'>
+    window.setTimeout(function() {
+        document.body.className = document.body.className.replace('loading', '');
+      }, 10);
+  </script>
+<script src='https://apis.google.com/js/plusone.js' type='text/javascript'></script>
+<!--It is your responsibility to notify your visitors about cookies used on your blog. See http://www.blogger.com/go/cookiechoices for more details.-->
+<script defer='' src='/js/cookiechoices.js'></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+      window.cookieChoices && cookieChoices.showCookieConsentBar && cookieChoices.showCookieConsentBar(
+          (window.cookieOptions && cookieOptions.msg) || 'This site uses cookies from Google to deliver its services, to personalize ads and to analyze traffic. Information about your use of this site is shared with Google. By using this site, you agree to its use of cookies.',
+          (window.cookieOptions && cookieOptions.close) || 'Got it',
+          (window.cookieOptions && cookieOptions.learn) || 'Learn More',
+          (window.cookieOptions && cookieOptions.link) || 'https://www.blogger.com/go/blogspot-cookies');
+    });
+  </script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2060351197-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY6EwhbI1Okhw8te33nDA73Bw6_P6A:1513203990850';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d2712580140240780452','//achadosdedecoracao.blogspot.pt/search?updated-max\x3d2013-05-24T06:00:00-07:00','2712580140240780452');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '2712580140240780452', 'title': 'Blog Achados de Decoração ', 'url': 'http://achadosdedecoracao.blogspot.pt/search?updated-max\x3d2013-05-24T06:00:00-07:00', 'canonicalUrl': 'http://achadosdedecoracao.blogspot.com/search?updated-max\x3d2013-05-24T06:00:00-07:00', 'homepageUrl': 'http://achadosdedecoracao.blogspot.pt/', 'searchUrl': 'http://achadosdedecoracao.blogspot.pt/search', 'canonicalHomepageUrl': 'http://achadosdedecoracao.blogspot.com/', 'blogspotFaviconUrl': 'http://achadosdedecoracao.blogspot.pt/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': 'UA-12998813-2', 'encoding': 'UTF-8', 'locale': 'pt-BR', 'localeUnderscoreDelimited': 'pt_br', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Blog Achados de Decoração  - Atom\x22 href\x3d\x22http://achadosdedecoracao.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Blog Achados de Decoração  - RSS\x22 href\x3d\x22http://achadosdedecoracao.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Blog Achados de Decoração  - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/2712580140240780452/posts/default\x22 /\x3e\n', 'meTag': '', 'openIdOpTag': '\x3clink rel\x3d\x22openid.server\x22 href\x3d\x22https://www.blogger.com/openid-server.g\x22 /\x3e\n\x3clink rel\x3d\x22openid.delegate\x22 href\x3d\x22http://achadosdedecoracao.blogspot.com/\x22 /\x3e\n', 'adsenseClientId': 'ca-pub-0314397456453505', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': true, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/771816573-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/a5ac1a6a2bfacc9c', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sharing': {'platforms': [{'name': 'Gerar link', 'key': 'link', 'shareMessage': 'Gerar link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Compartilhar no Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Compartilhar no Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Compartilhar no Pinterest', 'target': 'pinterest'}, {'name': 'Google+', 'key': 'googlePlus', 'shareMessage': 'Compartilhar no Google+', 'target': 'googleplus'}, {'name': 'E-mail', 'key': 'email', 'shareMessage': 'E-mail', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27pt_BR\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Leia mais', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Blog Achados de Decoração ', 'metaDescription': 'O blog de decoração pra você decorar facilmente; dicas detalhadas, faça você mesmo(a) e lindos pequenos espaços de todos os estilos.'}}, {'name': 'features', 'data': {'lazy_images': 'false', 'unsupported_browser_message': 'false', 'sharing_get_link_dialog': 'false', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Editar', 'linkCopiedToClipboard': 'Link copiado para a área de transferência.', 'ok': 'Ok', 'postLink': 'Link da postagem'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Personalizar', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Blog Achados de Decoração ', 'description': 'O blog de decoração pra você decorar facilmente; dicas detalhadas, faça você mesmo(a) e lindos pequenos espaços de todos os estilos.', 'url': 'http://achadosdedecoracao.blogspot.pt/search?updated-max\x3d2013-05-24T06:00:00-07:00', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': false, 'isArchive': false, 'isSearch': true, 'isLabelSearch': false, 'search': {}}}]);
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AdSenseView', new _WidgetInfo('AdSense1', 'crosscol', null, document.getElementById('AdSense1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'crosscol-overflow', null, document.getElementById('PageList1'), {'title': 'Páginas', 'links': [{'isCurrentPage': false, 'href': 'http://achadosdedecoracao.blogspot.pt/', 'title': 'INÍCIO'}, {'isCurrentPage': false, 'href': 'http://achadosdedecoracao.blogspot.pt/p/sobre.html', 'id': '2432615639322443564', 'title': 'SOBRE'}, {'isCurrentPage': false, 'href': 'http://achadosdedecoracao.blogspot.pt/p/decoracao-por-ambiente.html', 'id': '1138185388916922975', 'title': 'POSTS POR ASSUNTO'}, {'isCurrentPage': false, 'href': 'http://achadosdedecoracao.blogspot.pt/p/contato_28.html', 'id': '6018536757911811293', 'title': 'CONTATO'}, {'isCurrentPage': false, 'href': 'http://www.carmenmartins.com.br', 'title': 'Meu trabalho está AQUI'}], 'mobile': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AdSenseView', new _WidgetInfo('AdSense2', 'crosscol-overflow', null, document.getElementById('AdSense2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'useNgc': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/3319448110-lbx__pt_br.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML15', 'sidebar-right-1', null, document.getElementById('HTML15'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar-right-1', null, document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML14', 'sidebar-right-1', null, document.getElementById('HTML14'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AdSenseView', new _WidgetInfo('AdSense6', 'sidebar-right-1', null, document.getElementById('AdSense6'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AdSenseView', new _WidgetInfo('AdSense4', 'sidebar-right-1', null, document.getElementById('AdSense4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML16', 'sidebar-right-1', null, document.getElementById('HTML16'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ContactFormView', new _WidgetInfo('ContactForm1', 'sidebar-right-1', null, document.getElementById('ContactForm1'), {'contactFormMessageSendingMsg': 'Enviando...', 'contactFormMessageSentMsg': 'Sua mensagem foi enviada.', 'contactFormMessageNotSentMsg': 'Não foi possível enviar a mensagem. Tente novamente mais tarde.', 'contactFormInvalidEmailMsg': 'Um endereço de e-mail válido é necessário.', 'contactFormEmptyMessageMsg': 'O campo de mensagem não pode ficar vazio.', 'title': 'Cadastre-se', 'blogId': '2712580140240780452', 'contactFormNameMsg': 'Nome', 'contactFormEmailMsg': 'E-mail', 'contactFormMessageMsg': 'Mensagem', 'contactFormSendMsg': 'Enviar', 'submitUrl': 'https://www.blogger.com/contact-form.do'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'sidebar-right-1', null, document.getElementById('HTML4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar-right-1', null, document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'sidebar-right-1', null, document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML8', 'sidebar-right-1', null, document.getElementById('HTML8'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label2', 'sidebar-right-1', null, document.getElementById('Label2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'sidebar-right-1', null, document.getElementById('HTML9'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label3', 'sidebar-right-1', null, document.getElementById('Label3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar-right-1', null, document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Carregando\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML6', 'footer-1', null, document.getElementById('HTML6'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'footer-3', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text1', 'footer-3', null, document.getElementById('Text1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer-3', null, document.getElementById('Attribution1'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>

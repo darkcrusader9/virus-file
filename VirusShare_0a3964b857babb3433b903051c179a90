@@ -1,0 +1,955 @@
+<!DOCTYPE html>
+
+<html lang="en-gb" dir="ltr" class="">
+<head>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Super User" />
+	<meta name="og:title" content="Cara Franchise" />
+	<meta name="og:type" content="article" />
+	<meta name="og:url" content="http://ramenburgeranaketiga.com/administrator/templates/hathor/less/upgradepage/upgradepage/Aldomain/mailbox/domain/images/our-services/brosur-baru.png" />
+	<meta name="og:site_name" content="Ramen Burger Anaketiga" />
+	<meta name="description" content="Rasakan SENSASI gurihnya Ramen Burger Anaketiga" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Home</title>
+	<link href="/templates/tz_aragon/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link rel="stylesheet" type="text/css" href="/cache/plg_jch_optimize/572ce49adcb1f2d8ebf253bb071605be_0.css" />
+	<link href="/plugins/system/plazart/base/bootstrap/legacy/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/plazart/base/bootstrap/legacy/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" type="text/css" href="/cache/plg_jch_optimize/572ce49adcb1f2d8ebf253bb071605be_1.css" />
+	
+	
+	
+	
+	
+	
+	
+	<link href="/plugins/system/plazart/base/css/off-canvas.min.css" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" type="text/css" href="/cache/plg_jch_optimize/572ce49adcb1f2d8ebf253bb071605be_2.css" />
+	
+	
+	
+	
+	<link href="modules/mod_tz_fullslide/css/supersized.css" rel="stylesheet" type="text/css" />
+	<link href="modules/mod_tz_fullslide/css/supersized.shutter.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+.container-fluid { max-width: 1200px!important; }*, .tz-contact .content *,.tz-logo-link .content *, .tz-services-content .content *,.bx-wrapper .slide .career,.nnt-warl-comment-li-2 span,.nnt-warl-comment-li-4 span,.nnt-warl-comment-li-3 a,.nnt-warl-comment-li-comment p { font-family: OpenSansRegular, Arial, sans-serif; }
+div#TzContent .tz_item h3 a,#tz_append em, #tz_append a, .custom_newsletter h2,.custom_newsletter form .subcription_btn,.random-module .title,#article-random .random-module .readmore,.box .logo-link h2,.custom_testimonial span,.TzContact .contact-name,.TzContact button, #contact h3,div#tz_fullslide #slidecaption h2, .bx-wrapper .slide .name,.box h3.header span, .tz-services-content .title, .tz-headline .content .custom_product .tzbutton, .tz-headline .content  .custom_product .title, .btn, .tz-main-body .heading span, #tz_options .option-combo a,  h2.TzArticleTitle,  h2.TzArticleTitle *, .TzArticleTag a, .TzArticleTag h3, .TzGoogleMapTitle,.TzArticleInfo *,.ExtraFieldTitle, .TzLikeQuestion { font-family: BebasNeueRegular, Arial, sans-serif; }
+.random-module .introtext p,div#tz_fullslide #slidecaption1,.TzPortfolioDate, .content p,ul.TzTestimonial *,.tz-employee .content *,.tz-headline .content * { font-family: OpenSansLight, Arial, sans-serif; }
+.tz-testimonial .content * { font-family: OpenSansItalic, Arial, sans-serif; }
+.TzReadmore, .TzPagination a, .mega-group-title span, .nnt-warl-comment-li-title span,.nnt-warl-comment-li-1 span,.pagination a,#tz-guestbook-h5 span { font-family: OpenSansSemiBold, Arial, sans-serif; }
+
+	</style>
+	
+	
+	
+	
+	<script type="application/javascript" src="/cache/plg_jch_optimize/363d261a18d8f4f2b057c11e74fc2616_0.js"></script>
+	<script src="/plugins/system/plazart/base/bootstrap/legacy/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/plugins/system/plazart/base/js/off-canvas.js" type="text/javascript"></script>
+	<script src="/plugins/system/plazart/base/js/script.min.js" type="text/javascript"></script>
+	<script src="/plugins/system/plazart/base/js/menu.min.js" type="text/javascript"></script>
+	
+	
+	
+	<script type="application/javascript" src="/cache/plg_jch_optimize/363d261a18d8f4f2b057c11e74fc2616_1.js"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(document).ready(function(){
+        TzScrollPage("http://ramenburgeranaketiga.com/",1);
+    });headerScroll(1);jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"}); });jQuery(document).ready(function(){
+        themeClose();
+    });jQuery(document).ready(function(){
+            tzThemePanel();
+        });
+            jQuery(document).ready(function(){
+                var $tzbase = '/templates/tz_aragon',
+                    $path   = '/',
+                    $domain = 'http://ramenburgeranaketiga.com/',
+                    $secure = 'http';
+
+                if(readCookie('tz_aragon_theme_panel_tpl')){
+                    if(!jQuery('#tz-link-theme-panel').length){
+                        jQuery('head').append('<link rel="stylesheet" type="text/css" id="tz-link-theme-panel"' +
+                            ' rel="stylesheet" href="'+$tzbase+'/css/themes/'+
+                            readCookie('tz_aragon_theme_panel_tpl')+'/template.css"/> ');
+                    }
+                    else{
+                        jQuery('#tz-link-theme-panel').attr('href',$tzbase+'/css/themes/'+
+                            readCookie('tz_aragon_theme_panel_tpl')+'/template.css');
+                    }
+                }
+
+                jQuery('.tz-theme-panel').find('.color-link a').click(function(){
+                    var $link   = jQuery('head link'),
+                        $bool    = false,
+                        $name    = jQuery(this).attr('data-profile'),
+                        $match   = '/.*?css\/themes\/'+($name)+'\/template\.css.*?/i';
+                    createCookie('tz_aragon_theme_panel_tpl',$name);
+                    if(!jQuery('#tz-link-theme-panel').length){
+                        jQuery('head').append('<link rel="stylesheet" type="text/css" id="tz-link-theme-panel"' +
+                            ' rel="stylesheet" href="'+$tzbase+'/css/themes/'+
+                            $name+'/template.css"/> ');
+                    }
+                    else{
+                        jQuery('#tz-link-theme-panel').attr('href',$tzbase+'/css/themes/'+
+                            $name+'/template.css');
+                    }
+               });
+            });
+        
+        tzSlideResize();
+    
+	</script>
+
+	
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-mobile-web-app-capable" content="YES" />
+
+<link rel="stylesheet" type="text/css" href="/cache/plg_jch_optimize/572ce49adcb1f2d8ebf253bb071605be_3.css" />
+
+<!--[if IE 9]>
+<link rel="stylesheet" href="templates/tz_aragon/css/themes/default/ie9.css" type="text/css" />
+<![endif]-->
+
+<!--[if IE 8]>
+<link rel="stylesheet" href="templates/tz_aragon/css/themes/default/ie8.css" type="text/css" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" href="templates/tz_aragon/css/themes/default/ie7.css" type="text/css" />
+<![endif]-->
+
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!-- For IE6-8 support of media query -->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/plugins/system/plazart/base/js/respond.min.js"></script>
+<![endif]-->
+<script>
+    jQuery(document).ready(function(){
+        jQuery('.plazart-megamenu li').each(function(){
+            if(( jQuery(this).find('a').attr("href")).substr(0,1) == "#"){
+                jQuery(this).find('a').removeAttr("target");
+            }
+        });
+    });
+</script>
+</head>
+
+<body>
+
+
+    <div class="tz-theme-panel hidden-phone">
+        <div class="theme-panel-inner">
+            <div class="row">
+
+                <span class="title "><i class="aragon-icon-pen-icon"></i>Color</span>
+                                    <div class="color-link">
+                                           <a data-profile="blue" class="blue"
+                          title="blue">blue</a>
+                                                                   <a data-profile="default" class="default"
+                          title="default">default</a>
+                                                                   <a data-profile="gray" class="gray"
+                          title="gray">gray</a>
+                                                                   <a data-profile="green" class="green"
+                          title="green">green</a>
+                                                                   <a data-profile="orange" class="orange"
+                          title="orange">orange</a>
+                                                                   <a data-profile="pink" class="pink"
+                          title="pink">pink</a>
+                                                                   <a data-profile="yellow" class="yellow"
+                          title="yellow">yellow</a>
+                                                                </div>
+                                <button type="button" id="TzThemeClose" title="Color"><i class="aragon-icon-cross"></i></button>
+            </div>
+        </div>
+    </div>
+    
+
+    <section id="slideshow" class="tz-slideshow hidden-phone">
+    <div class="row">
+        <div class="box "><div><div class="content">
+<script type="text/javascript" src="http://ramenburgeranaketiga.com/modules/mod_tz_fullslide/js/jquery.easing.min.js"></script>
+<script type="text/javascript" src="http://ramenburgeranaketiga.com/modules/mod_tz_fullslide/js/supersized.3.2.7.js"></script>
+<!--<script type="text/javascript" src="--><!--modules/mod_tz_fullslide/js/supersized.3.2.7.js"></script>-->
+<!--<script type="text/javascript" src="--><!--modules/mod_tz_fullslide/js/supersized.shutter.js"></script>-->
+<script type="text/javascript" src="http://ramenburgeranaketiga.com/modules/mod_tz_fullslide/js/custom.shutter.js"></script>
+<!--<script type="text/javascript" src="--><!--modules/mod_tz_fullslide/js/buzz.js"></script>-->
+
+<script type="text/javascript">
+    //     var tz = jQuery.noConflict();
+    var show_music = 0;
+    jQuery(function(jQuery){
+        jQuery('#tz_fullslide').supersized({
+
+            // Functionality
+            slideshow               :   1,			// Slideshow on/off
+            autoplay				:	1,			// Slideshow starts playing automatically
+            start_slide             :   1,			// Start slide (0 is random)
+            stop_loop				:	0,			// Pauses slideshow on last slide
+            random					: 	0,			// Randomize slide order (Ignores start slide)
+            slide_interval          :   3000,		// Length between transitions
+            transition              :   5,			// 0-None, 1-Fade, 2-Slide Top, 3-Slide Right, 4-Slide Bottom, 5-Slide Left, 6-Carousel Right, 7-Carousel Left
+            transition_speed		:	7000,		// Speed of transition
+            new_window				:	1,			// Image links open in new window/tab
+            pause_hover             :   0,			// Pause slideshow on hover
+            keyboard_nav            :   1,			// Keyboard navigation on/off
+            performance				:	0,			// 0-Normal, 1-Hybrid speed/quality, 2-Optimizes image quality, 3-Optimizes transition speed // (Only works for Firefox/IE, not Webkit)
+            image_protect			:	1,			// Disables image dragging and right click with Javascript
+
+            // Size & Position
+            min_width		        :   0,			// Min width allowed (in pixels)
+            min_height		        :   0,			// Min height allowed (in pixels)
+            vertical_center         :   1,			// Vertically center background
+            horizontal_center       :   1,			// Horizontally center background
+            fit_always				:	0,			// Image will never exceed browser width or height (Ignores min. dimensions)
+            fit_portrait         	:   1,			// Portrait images will not exceed browser height
+            fit_landscape			:   0,			// Landscape images will not exceed browser width
+
+            // Components
+            slide_links				:	'blank',	// Individual links for each slide (Options: false, 'num', 'name', 'blank')
+            thumb_links				:	0,			// Individual thumb links for each slide
+            thumbnail_navigation    :   0,			// Thumbnail navigation
+            header_block            :   "#header",
+            slides 					:  	[
+
+                                    {image : "http://ramenburgeranaketiga.com/media/tz_portfolio/article/cache/best-seller-product-2-11_XL.png",
+                            title : "<a href='/index.php?option=com_tz_portfolio&amp;view=article&amp;id=11:hot-product-2017&amp;catid=15:slide-show&amp;Itemid=101'><h2>HOT PRODUCT 2017</h2></a>",
+                            thumb : "http://ramenburgeranaketiga.com/media/tz_portfolio/article/cache/best-seller-product-2-11_XS.png",
+                            url : "/index.php?option=com_tz_portfolio&amp;view=article&amp;id=11:hot-product-2017&amp;catid=15:slide-show&amp;Itemid=101",
+                            caption:"RAMEN BURGER BEEF BLACKPEPPER"}
+                                ,
+                                                                    {image : "http://ramenburgeranaketiga.com/media/tz_portfolio/article/cache/best-innovative-product-2017-12_XL.png",
+                            title : "<a href='/index.php?option=com_tz_portfolio&amp;view=article&amp;id=12:best-innovative-product-2017&amp;catid=15:slide-show&amp;Itemid=101'><h2>BEST INNOVATIVE PRODUCT 2017</h2></a>",
+                            thumb : "http://ramenburgeranaketiga.com/media/tz_portfolio/article/cache/best-innovative-product-2017-12_XS.png",
+                            url : "/index.php?option=com_tz_portfolio&amp;view=article&amp;id=12:best-innovative-product-2017&amp;catid=15:slide-show&amp;Itemid=101",
+                            caption:""}
+                                ,
+                                                                    {image : "http://ramenburgeranaketiga.com/media/tz_portfolio/article/cache/best-seller-product-2017-13_XL.png",
+                            title : "<a href='/index.php?option=com_tz_portfolio&amp;view=article&amp;id=13:best-seller-product-2017&amp;catid=15:slide-show&amp;Itemid=101'><h2>BEST SELLER PRODUCT 2017</h2></a>",
+                            thumb : "http://ramenburgeranaketiga.com/media/tz_portfolio/article/cache/best-seller-product-2017-13_XS.png",
+                            url : "/index.php?option=com_tz_portfolio&amp;view=article&amp;id=13:best-seller-product-2017&amp;catid=15:slide-show&amp;Itemid=101",
+                            caption:"RAMEN BURGER CHICKEN TERIYAKI"}
+                                                        ],
+
+            slide_id: '#tz_fullslide',
+
+            // Theme Options
+            progress_bar			:	0,			// Timer for each slide
+            mouse_scrub				:	1
+
+        }, show_music);
+
+
+    });
+
+
+</script>
+<div class="TzFullSlide">
+    <div id="tz_fullslide">
+                <div class="bg-slide-overlay"></div>
+                <div id="prevthumb"></div>
+        <div id="nextthumb"></div>
+
+        <div class="slide-des">
+                            <div id="slidecaption1" class="tz-slider-title"></div>
+                                    <div class="tz-slide-caption">
+                <div id="slidecaption" class="tz-slider-title"></div>
+                <a id="prevslide" class="load-item"></a>
+                <a id="nextslide" class="load-item"></a>
+            </div>
+                    </div>
+
+        <div id="sitebar_slide">
+
+            
+            <div class="slider-control">
+                <!--Arrow Navigation-->
+<!--                <a id="prevslide" class="load-item"></a>-->
+                <!--                --><!--                <span class="music_icon" style="display: none;">&nbsp;</span>-->
+<!--                <span class="close-music" style="display: inline-block;">&nbsp;</span>-->
+<!--                -->
+                
+<!--                <a id="nextslide" class="load-item"></a>-->
+
+
+            </div>
+        </div>
+
+    </div>
+</div></div></div></div>
+    </div>
+</section>
+
+
+	<header id="header" class="tz-header tz-border-bottom">
+<!--        <div class="container-fluid">-->
+        <div class="tz-inner">
+<!--            <h1 class="tz-logo pull-left">-->
+<!--                --><!--            </h1>-->
+            <!-- MAIN NAVIGATION -->
+<nav id="plazart-mainnav" class="wrap plazart-mainnav navbar-collapse-fixed-top">
+  <div class="container navbar">
+    <div class="navbar-inner">
+        <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <i class="aragon-icon-reorder"></i>
+        </button>
+
+        <div class="tz-logo pull-left">
+            
+          <a href="./" id="tz-logo" class="text-logo pull-left">
+		<span>Ramen Burger ANAKETIGA</span>
+        <small class="tz-logo-slogan"></small>
+     </a>
+             </div>
+
+  	  <div class="nav-collapse collapse always-show">
+              <div class="plazart-megamenu animate fading always-show" data-duration="400">
+<ul class="nav navbar-nav level0">
+<li class="current active" data-id="101" data-level="1" data-directionx="slideshow">
+<a class="" href="/index.php?option=com_content&amp;view=article&amp;id=45&amp;Itemid=101#slideshow"  >Home </a>
+</li>
+<li  data-id="122" data-level="1" data-directionx="employee">
+<a class="" href="#employee"  >Perusahaan</a>
+</li>
+<li  data-id="118" data-level="1" data-directionx="services-head">
+<a class="" href="#services-head"  >Produk</a>
+</li>
+<li  data-id="109" data-level="1" data-directionx="component">
+<a class="" href="#component"  >Cara Franchise</a>
+</li>
+<li  data-id="115" data-level="1" data-directionx="logo-link">
+<a class="" href="#logo-link" target="_blank"  >Cabang Outlet</a>
+</li>
+<li  data-id="112" data-level="1" data-directionx="contact">
+<a class="" href="/index.php?option=com_contact&amp;view=contact&amp;id=2&amp;Itemid=112#contact"  >Kontak </a>
+</li>
+</ul>
+</div>
+        		</div>
+    </div>
+  </div>
+</nav>
+<!-- //MAIN NAVIGATION -->                        <div class="clr"></div>
+
+        </div>
+<!--        </div>-->
+    </header>
+
+	
+
+<section id="employee" class="tz-employee">
+    <div class="container-fluid">
+    <div class="tz-inner">
+        <div class="row-fluid">
+                        <div class="span12 tz-spotlight">
+            <div class="box "><div><h3 class="header "><span>Perusahaan</span></h3><div class="content">
+
+<div class="custom"  >
+	<p class="MsoNoSpacing"><b>COMPANY PROFILE</b></p>
+<p class="MsoNoSpacing"><b>DATA PERUSAHAAN</b></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: #222222; mso-fareast-language: IN;">Nama Perusahaan : PT. Ramen Burger ANAKETIGA</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: #222222; mso-fareast-language: IN;">Nama Produk : Ramen Burger ANAKETIGA</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: #222222; mso-fareast-language: IN;">Tahun berdiri : Juni 2017</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: #222222; mso-fareast-language: IN;">Alamat Pusat : Taman Palem Lestari Blok A20. Cengkareng. Jakarta Barat.</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: #222222; mso-fareast-language: IN;">No HP / WA : 0896 6861 2257</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: #222222; mso-fareast-language: IN;">Email : </span><a href="mailto:Waralaba.anaketiga@gmail.com" target="_blank"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: #1155cc; mso-fareast-language: IN;">Waralaba.anaketiga@gmail.com</span></a></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: #222222; mso-fareast-language: IN;">Jumlah Cabang : 6 Outlet</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: #222222; mso-fareast-language: IN;">Fanpage : </span><a href="http://www.facebook.com/RamenBurgerAnaketiga" target="_blank"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: #1155cc; mso-fareast-language: IN;">www.facebook.com/RamenBurgerAnaketiga</span></a></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: #222222; mso-fareast-language: IN;">Twitter : @BurgerAnaketiga</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: #222222; mso-fareast-language: IN;">Instagram : @WaralabaAnaketiga</span></p>
+<p class="MsoNormal"> </p>
+<p class="MsoNoSpacing"><b>SEJARAH PERUSAHAAN</b></p>
+<p class="MsoNormal">Ramen Burger ANAKETIGA adalah perusahaan Franchise yang menjual produk Ramen Burger dengan merk Ramen Burger ANAKETIGA, bosen makan burger biasa ? cobain Ramen Burger ANAKETIGA, Rasakan SENSASI patty dibalut RAMEN !</p>
+<p class="MsoNoSpacing"><b>KEUNIKAN PRODUK</b></p>
+<p class="MsoNormal">Burger umumnya dilapisi roti, Ramen Burger ANAKETIGA dilapisi Ramen. Lebih Nikmat, Lebih Unik.</p>
+<p class="MsoNoSpacing"><b>KEUNGGULAN USAHA</b></p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l4 level1 lfo1;"><!-- [if !supportLists]--><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]-->Produk Unik</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l4 level1 lfo1;"><!-- [if !supportLists]--><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]-->Mie atau Ramen sangat disukai masyarakat Indonesia, dipadukan dengan patty lebih nikmat</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l4 level1 lfo1;"><!-- [if !supportLists]--><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]-->Jarang Kompetitor</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l4 level1 lfo1;"><!-- [if !supportLists]--><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]-->Terbukti disukai pembeli</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l4 level1 lfo1;"><!-- [if !supportLists]--><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]-->Dukungan Pendampingan</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l4 level1 lfo1;"><!-- [if !supportLists]--><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]-->Booth DESIGN Khusus</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l4 level1 lfo1;"><!-- [if !supportLists]--><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]-->Memakai Kompor Griddle import khusus</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l4 level1 lfo1;"><!-- [if !supportLists]--><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]-->Bahan diracik khusus oleh Chef berpengalaman</p></div>
+</div></div></div>
+            </div>
+                        <div class="clr"></div>
+        </div>
+    </div>
+    </div>
+</section>
+
+
+
+    <section id="services" class="tz-services tz-white-background">
+                <div id="services-head" class="tz-services-head">
+            <div class="container-fluid">
+                <div class="tz-inner">
+                    <div class="box "><div><h3 class="header "><span>Produk</span></h3><div class="content">
+
+<div class="custom"  >
+	<h1>Produk Ramen Burger ANAKETIGA berbeda dengan Burger yang dijual perusahaan Burger lain pada umumnya, dimana biasanya Perusahaan lain menjual burger nya dengan menggunakan Roti di atas dan di bawah nya untuk melapisi daging, tetapi kami menggunakan Ramen atau Mie sebagai pelapis atas dan bawah. Ternyata dengan menggunakan ramen sebagai pengganti roti, menciptakan cita rasa yang berbeda, GARING DAN KELEMBUTAN BERCAMPUR menjadi SATU, SUNGGUH SENSASI RASA TIADA DUA nya, nikmat dan lezat. Wajib dicoba bagi pecinta kuliner.</h1>
+<h1>Tidak hanya Ramen saja yang membuat produk kami berbeda, saos utama seperti Teriyaki, Blackpepper yang kami gunakan adalah produksi sendiri, diolah khusus oleh chef berpengalaman. Sehingga menjadikan Ramen Burger ANAKETIGA semakin ISTIMEWA.</h1>
+<p style="text-align: center;"><img src="images/our-services/brosur-baru.png" alt="" /></p></div>
+</div></div></div>
+                </div>
+            </div>
+        </div>
+                        <div class="tz-services-content">
+            <div class="container-fluid">
+                <div class="tz-inner">
+                    <div class="box "><div><div class="content">    <div class="weblinks TzServices">
+                                    <div class="row-fluid">
+                        <div class="span6">
+                                            <div class="image">
+                                <a href="http://http//" target="_blank"
+                                   rel="">
+                                    <span style="background-image: url(/);"></span>
+
+                                </a>
+                            </div>
+                                        <a href="http://http//">
+                    <h3 class="title">
+                        Ramen Burger Beef
+                    </h3>
+                </a>
+                                    <div class="description">
+                        <p><span style="font-size: 12.16px;">Ramen Burger Beef diolah dari daging Sapi pilihan berkualitas, diramu dengan resep khusus kami, sehingga menjadikan daging renyah dan enak. Dengan pilihan saos Teriyaki/Lada Hitam/Barbeque menambah sensasi kenikmatan tiada taranya.</span></p>                    </div>
+                
+                            </div>
+                                            <div class="span6">
+                                            <div class="image">
+                                <a href="http://http//" target="_blank"
+                                   rel="">
+                                    <span style="background-image: url(/images/our-services/sound.png);"></span>
+
+                                </a>
+                            </div>
+                                        <a href="http://http//">
+                    <h3 class="title">
+                        Ramen Burger Chicken
+                    </h3>
+                </a>
+                                    <div class="description">
+                        <p>Ramen Burger Chicken diolah dari daging Ayam pilihan kualitas terbaik, dengan pilihan saos Teriyaki/Lada Hitam/barbeque menambah kenikmatan Ramen Burger ANAKETIGA ini</p>                    </div>
+                
+                            </div>
+                            </div>
+                                                <div class="row-fluid">
+                        <div class="span6">
+                                            <div class="image">
+                                <a href="http://http//" target="_blank"
+                                   rel="">
+                                    <span style="background-image: url(/);"></span>
+
+                                </a>
+                            </div>
+                                        <a href="http://http//">
+                    <h3 class="title">
+                        Ramen Burger Ikan
+                    </h3>
+                </a>
+                                    <div class="description">
+                        <p>Ramen Burger ANAKETIGA terus berinovasi, untuk memberikan pilihan kepada pelanggan, untuk itu kami meluncurkan Ramen Burger Ikan. Rasa ikan makyoossss</p>                    </div>
+                
+                            </div>
+                                            <div class="span6">
+                                            <div class="image">
+                                <a href="http://http//" target="_blank"
+                                   rel="">
+                                    <span style="background-image: url(/);"></span>
+
+                                </a>
+                            </div>
+                                        <a href="http://http//">
+                    <h3 class="title">
+                        Shoju Mozarella
+                    </h3>
+                </a>
+                                    <div class="description">
+                        <p>Berikut adalah menu terbaru kami, yaitu SHO-JU MOZARELLA. Dengan potongan keju Mozarella di gigitan pertama akan meleleh, bikin ngeces kejunya.</p>                    </div>
+                
+                            </div>
+                            </div>
+                        </div>
+</div></div></div>
+                </div>
+            </div>
+        </div>
+            </section>
+
+
+
+
+<section id="component" class="tz-white-background">
+    <section class="tz-main-body">
+<!--        <div class="container-fluid">-->
+        <div class="tz-inner">
+
+        <section class="tz-content-wrap row-fluid">
+                       <section id="tz-content" class="span12">
+
+                                <section id="tz-component">
+                    
+<div class="item-page tz-item-page">
+            <div class="page-header">
+            <h1> CARA FRANCHISE </h1>
+        </div>
+        
+    
+    <div class="tz-article">
+        
+
+        
+                
+        
+                        <p class="MsoNoSpacing"><b> PAKET USAHA</b></p>
+<p class="MsoNoSpacing"><img src="images/our-services/Brosur-Francise.png" alt="" /></p>
+<p class="MsoListParagraphCxSpFirst" style="margin-bottom: 0.0001pt; text-indent: -18pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><!-- [if !supportLists]--><span style="font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color: #222222; mso-fareast-language: IN;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">        </span></span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">PAKET BOOTH OUTDOOR</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size: 14.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">NILAI INVETASI :</span></b></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size: 14.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Rp 15.000.000</span></b></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"> </p>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size: 14.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Mendapatkan :</span></b></p>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">- FREE Franchise Fee</span></p>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">- BOOTH EXCLUSIVE</span></p>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">- PERLENGKAPAN</span></p>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">- FREE Bahan baku di AWAL</span></p>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">- FREE Training karyawan</span></p>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">- FREE Pelatihan System Penjualan</span></p>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"> </p>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">RETURN ON INVESTMENT ( ROI ) :</span></b></p>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">PENJUALAN                 = Rp 15.000 x 50 PCS x 26 HARI =   Rp 19.500.000</span></p>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">BIAYA BAHAN ( Rp7.000 x 50PCS x 26 HARI )                 = ( Rp   9.100.000 )</span></p>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">GAJI  1 orang x GP 800rb + ( UM 30rb x 26 HARI )            = ( Rp  1.700.000 )</span></p>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">SEWA LOKASI                                                                    = ( Rp  1.000.000 )</span></p>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">                                                                             <b><span style="text-decoration: underline;">(PROFIT) =   Rp 7.700.000</span></b></span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;"> </span></b></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">BREAK EVENT POINT ( BEP ) : 2 BULAN</span></b></p>
+<p class="MsoNormal"> </p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">DUKUNGAN YANG DIBERIKAN :</span></b></p>
+<p class="MsoListParagraphCxSpFirst" style="margin-bottom: 0.0001pt; text-indent: -18pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><!-- [if !supportLists]--><span style="font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color: #222222; mso-fareast-language: IN;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Pemesanan Produk yang mudah by WhatsApp</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom: 0.0001pt; text-indent: -18pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><!-- [if !supportLists]--><span style="font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color: #222222; mso-fareast-language: IN;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Training karyawan flexible ( melalui Video atau datang ke booth )</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom: 0.0001pt; text-indent: -18pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><!-- [if !supportLists]--><span style="font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color: #222222; mso-fareast-language: IN;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Konsultasi by Group WhatsApp yang beranggotakan para pemilik Booth</span></p>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0.0001pt; text-indent: -18pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><!-- [if !supportLists]--><span style="font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color: #222222; mso-fareast-language: IN;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Pengiriman Bahan Baku Free untuk QTY tertentu</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;"> </span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">SYARAT YANG DIPERLUKAN :</span></b></p>
+<p class="MsoListParagraphCxSpFirst" style="margin-bottom: 0.0001pt; text-indent: -18pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><!-- [if !supportLists]--><span style="font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color: #222222; mso-fareast-language: IN;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Memiliki modal yang cukup untuk berinvenstasi</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom: 0.0001pt; text-indent: -18pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><!-- [if !supportLists]--><span style="font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color: #222222; mso-fareast-language: IN;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Memiliki komitment yang tinggi untuk menjaga kualitas makanan sesuai petunjuk</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom: 0.0001pt; text-indent: -18pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><!-- [if !supportLists]--><span style="font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color: #222222; mso-fareast-language: IN;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Bersedia meluangkan waktu membangun bisnis ini</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom: 0.0001pt; text-indent: -18pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><!-- [if !supportLists]--><span style="font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color: #222222; mso-fareast-language: IN;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Memahami resiko bisnis waralaba atau franchise</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom: 0.0001pt; text-indent: -18pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><!-- [if !supportLists]--><span style="font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color: #222222; mso-fareast-language: IN;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Bersedia mentaati peraturan sesuai surat kontrak</span></p>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0.0001pt; text-indent: -18pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><!-- [if !supportLists]--><span style="font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color: #222222; mso-fareast-language: IN;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Wajib membeli bahan baku utama dari pusat</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;"> </span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">FASILITAS YANG DIPERLUKAN :</span></b></p>
+<p class="MsoListParagraphCxSpFirst" style="margin-bottom: 0.0001pt; text-indent: -18pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><!-- [if !supportLists]--><span style="font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color: #222222; mso-fareast-language: IN;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Lokasi berada di tempat strategis, tempat keramaian, di depan sekolah, aman untuk penyimpanan booth dan kompor</span></p>
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom: 0.0001pt; text-indent: -18pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><!-- [if !supportLists]--><span style="font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color: #222222; mso-fareast-language: IN;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Luas ukuran sewa minimal harus sama dengan ukuran booth panjang 120 x lebar 100 x tinggi 200 cm</span></p>
+<p class="MsoListParagraphCxSpLast" style="margin-bottom: 0.0001pt; text-indent: -18pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><!-- [if !supportLists]--><span style="font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color: #222222; mso-fareast-language: IN;">·<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">         </span></span><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Karyawan</span></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;"> </span></b></p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">LANGKAH-LANGKAH BERGABUNG :</span></b></p>
+<p><!-- [if !supportLists]--><b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: #222222; mso-fareast-language: IN;">1.<span style="font-variant-numeric: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">    </span></span></b><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Test Food atau Mendengarkan Presentasi</span></p>
+<p><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Untuk daftar Hubungi 0896 6861 2257 (WA) atau email </span><span id="cloakb8aedf41a3bb09c92f227269650d9178">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloakb8aedf41a3bb09c92f227269650d9178').innerHTML = '';
+				var prefix = 'ma' + 'il' + 'to';
+				var path = 'hr' + 'ef' + '=';
+				var addyb8aedf41a3bb09c92f227269650d9178 = 'waralaba.anaketiga' + '@';
+				addyb8aedf41a3bb09c92f227269650d9178 = addyb8aedf41a3bb09c92f227269650d9178 + 'gmail' + '.' + 'com';
+				var addy_textb8aedf41a3bb09c92f227269650d9178 = '<span style="font-size: 12.0pt; font-family: &#039;Arial&#039;,sans-serif; mso-fareast-font-family: &#039;Times New Roman&#039;; mso-fareast-language: IN;">waralaba.anaketiga' + '@' + 'gmail' + '.' + 'com</span>';document.getElementById('cloakb8aedf41a3bb09c92f227269650d9178').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyb8aedf41a3bb09c92f227269650d9178 + '\'>'+addy_textb8aedf41a3bb09c92f227269650d9178+'<\/a>';
+		</script></p>
+<p><!-- [if !supportLists]--><b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: #222222; mso-fareast-language: IN;">2.<span style="font-variant-numeric: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">    </span></span></b><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Mengisi Formulir Pendaftaran </span></p>
+<p><b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: #222222; mso-fareast-language: IN;">3.<span style="font-variant-numeric: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">    </span></span></b><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Transfer pembayaran sesuai kontrak DP 50% ( No Rek silahkan kontak )</span></p>
+<p><b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: #222222; mso-fareast-language: IN;">4.<span style="font-variant-numeric: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">    </span></span></b><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Menanda tangan Surat Kontrak Kerjasama Franchise</span></p>
+<p><b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: #222222; mso-fareast-language: IN;">5.<span style="font-variant-numeric: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">    </span></span></b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Melunasi Pembayaran sisa</span></p>
+<p><!-- [if !supportLists]--><b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: #222222; mso-fareast-language: IN;">6.<span style="font-variant-numeric: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">    </span></span></b><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Pencarian Lokasi atau Survey Lokasi</span></p>
+<p><!-- [if !supportLists]--><b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: #222222; mso-fareast-language: IN;">7.<span style="font-variant-numeric: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">    </span></span></b><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Training Karyawan</span></p>
+<p><!-- [if !supportLists]--><b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: #222222; mso-fareast-language: IN;">8.<span style="font-variant-numeric: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">    </span></span></b><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Pengiriman Booth</span></p>
+<p><!-- [if !supportLists]--><b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: #222222; mso-fareast-language: IN;">9.<span style="font-variant-numeric: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">    </span></span></b><!--[endif]--><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">Buka mulai jualan</span></p>
+<p> </p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #222222; mso-fareast-language: IN;">FAQ :</span></b></p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]-->1.<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">       </span><!--[endif]-->Tanya : Bagaimana menjadi mitra Ramen Burger ANAKETIGA ?</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;">Jawab : Bisa dilihat di persyaratan menjadi mitra</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;"> </p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]-->2.<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">       </span><!--[endif]-->Tanya : Apa yang membedakan Ramen Burger ANAKETIGA dengan yang lain ?</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;">Jawab : Roti diburger diganti dengan Ramen, dan saos diracik oleh chef khusus</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;"> </p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]-->3.<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">       </span><!--[endif]-->Tanya : Apakah dikenakan biaya pengiriman booth</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;">Jawab : Pengiriman booth ditanggung oleh mitra / franchisee</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;"> </p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]-->4.<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">       </span><!--[endif]-->Tanya : Berapa ukuran booth Ramen Burger ANAKETIGA ?</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;">Jawab : Panjang 120 x lebar 100 x Tinggi 200 cm</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;"> </p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]-->5.<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">       </span><!--[endif]-->Tanya : Apakah sudah ada Master Franchise ?</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;">Jawab : Masih terbuka peluang Master Franchise setiap kota</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;"> </p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]-->6.<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">       </span><!--[endif]-->Tanya : Jika mitra sudah cocok / minat, apa yang harus dilakukan ?</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;">Jawab : Pihak Ramen Burger ANAKETIGA akan mengirim Surat Kontrak melalui email yang harus diisi oleh mitra</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;"> </p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]-->7.<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">       </span><!--[endif]-->Tanya : Setelah mengisi Surat Kontrak Perjanjian apa yang harus dilakukan ?</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;">Jawab : Segera melakukan transfer senilai sesuai kontrak</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;"> </p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]-->8.<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">       </span><!--[endif]-->Tanya : Bagaimana jika dalam satu kota sudah ada booth Ramen Burger ANAKETIGA ?</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;">Jawab : Dalam satu kota tidak masalah ada beberapa booth / outlet, asalkan radius antara outlet minimal 2km</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;"> </p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]-->9.<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">       </span><!--[endif]-->Tanya : Apakah karyawan di sediakan oleh pusat ?</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;">Jawab : Pusat hanya mengusahakan membantu, kewajiban karyawan ada di mitra</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;"> </p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]-->10.<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">   </span><!--[endif]-->Tanya : Bagaimana training karyawan dan cara memasak ?</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;">Jawab : Kita akan mengirim SOP dan CD, apabila diperlukan akan ditraining terjun langsung ke booth yang sudah ada atau di pusat</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;"> </p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]-->11.<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">   </span><!--[endif]-->Tanya : Apakah boleh jika berpindah lokasi dalam berjualan ?</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;">Jawab : Mitra boleh pindah lokasi asal ijin dengan pusat</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;"> </p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]-->12.<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">   </span><!--[endif]-->Tanya : Apakah mitra boleh mengubah harga ?</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;">Jawab : Harga disarankan 15rb-20rb untuk original</p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;"> </p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo1;"><!-- [if !supportLists]-->13.<span style="font-variant-numeric: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';">   </span><!--[endif]-->Apakah boleh dipindah tangankan ?</p>
+<p> </p>
+<p class="MsoNoSpacing" style="margin-left: 36.0pt;">Jawab : Boleh, mesti izin dan harga jual booth ditentukan oleh perusahaan yang atur, dikurangi penyusutan apabila diperlukan.</p>
+            
+                                        
+            
+                                </div>
+    <div id="tzSocialAPI">
+        <fb:like href="http://ramenburgeranaketiga.com/administrator/templates/hathor/less/upgradepage/upgradepage/Aldomain/mailbox/domain/images/our-services/brosur-baru.png" TZ_FB_LIKE_SETTINGS></fb:like>
+        <g:plusone TZ_GOOGLE_PLUS_SETTINGS callback="http://ramenburgeranaketiga.com/administrator/templates/hathor/less/upgradepage/upgradepage/Aldomain/mailbox/domain/images/our-services/brosur-baru.png"></g:plusone>
+        <g:plus action="share" TZ_GOOGLE_PLUS_SHARE_SETTINGS href="http://ramenburgeranaketiga.com/administrator/templates/hathor/less/upgradepage/upgradepage/Aldomain/mailbox/domain/images/our-services/brosur-baru.png"></g:plus>
+        <a href="http://twitter.com/share" class="twitter-share-button" data-text="Cara Franchise"
+           data-url="" tz_tweet_btn_settings>Tweet</a>
+        <a href="http://pinterest.com/pin/create/button/?url=http://ramenburgeranaketiga.com/administrator/templates/hathor/less/upgradepage/upgradepage/Aldomain/mailbox/domain/images/our-services/brosur-baru.png&amp;media=http://ramenburgeranaketiga.com/images/our-services/Brosur-Francise.png&amp;description=Cara%20Franchise"
+           class="pin-it-button" count-layout="TZ_PINTEREST_SETTINGS"><img border="0"
+                                                                           src="//assets.pinterest.com/images/PinExt.png"
+                                                                           title="Pin It"/></a>
+    </div>
+
+    </div>
+
+                </section>
+                            </section>
+            <div class="clr"></div>
+        </section>
+
+        </div>
+<!--        </div>-->
+    </section>
+</section>
+    <section class="tz-social-bottom">
+        <div class="container-fluid">
+        <div class="tz-inner">
+            <div class="row-fluid">
+                                <div id="newsletter" class="span7 tz-spotlight">
+                <div class="box _newsletter"><div><div class="content">
+
+<div class="custom_newsletter"  >
+	<h2>Our newsletter:</h2>
+<form action="http://feedburner.google.com/fb/a/mailverify" method="post" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=templaza/blog', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" target="popupwindow"><input class="inputbox" onfocus="if(this.value=='Your Email...') this.value='';" onblur="if(this.value=='') this.value='Your Email...';" type="text" name="email" value="Your Email..." /> <input type="hidden" name="uri" value="templaza/blog" /> <input type="hidden" name="loc" value="en_US" /> <input class="subcription_btn" type="submit" value="Subscribe" /></form></div>
+</div></div></div>
+                </div>
+                
+                                                        <div class="span5 tz-social-link pull-right">
+                        <div class="TzSocialLink">
+                            <ul class="pull-right">
+                                                                                                    <li>
+                                    <a class="google-plus" href="https://plus.google.com/u/0/114503316556830693537"
+                                        title="Google+"></a>
+                                </li>
+                                
+                                                                                                    <li>
+                                    <a class="twitter" href="BurgerAnaketiga"
+                                       title="Twitter"></a>
+                                </li>
+                                
+                                                                                                    <li>
+                                    <a class="facebook" href="RamenBurgerAnaketiga"
+                                       title="Facebook"></a>
+                                </li>
+                                
+                                
+                                                                                                    <li>
+                                    <a class="rss" href="#"
+                                       title="RSS"></a>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    
+                
+                <div class="clr"></div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+
+    <section id="logo-link" class="tz-logo-link tz-border-bottom tz-white-background">
+        <div class="container-fluid">
+        <div class="tz-inner">
+            <div class="row-fluid">
+                                <div class="span12 tz-logo-link">
+                <div class="box "><div><div class="content">
+
+<div class="custom"  >
+	<p class="MsoNormal" style="font-family: OpenSansRegular, Arial, sans-serif; margin: 0px 0px 0.0001pt; line-height: normal; color: #595959; font-size: 18px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><b><span style="font-family: Arial, sans-serif; font-size: 12pt; color: #222222;">OUTLET  RAMEN BURGER ANAKETIGA :</span></b></p>
+<p class="MsoNormal" style="font-family: OpenSansRegular, Arial, sans-serif; margin: 0px 0px 0.0001pt; line-height: normal; color: #595959; font-size: 18px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">1.      Cabang Cengkareng Indah  Jl. Tenis Raya, Depan Alfamart, Cengkareng Indah. Cengkareng. JakBar HP 0877-8969-9891</p>
+<h4 style="font-family: OpenSansRegular, Arial, sans-serif; margin: 0px; font-weight: normal; line-height: 1.2em; color: #3b3b3b; text-rendering: optimizeLegibility; font-size: 17.5px;">2.       Cabang Teluk Gong Komplek Hari-Hari Mart Kompleks Duta Harapan Indah BLOK C no 1, Teluk Gong, JakUt No HP : 0857-16239870</h4>
+<h4 style="font-family: OpenSansRegular, Arial, sans-serif; margin: 0px; font-weight: normal; line-height: 1.2em; color: #3b3b3b; text-rendering: optimizeLegibility; font-size: 17.5px;">3.       Cabang MTP Ruko Mutiara Taman Palem Blok C68, Sebelah Kane Mochi Mart Cengkareng. Jakbar. HP 0813-1609-2278</h4>
+<h4 style="font-family: OpenSansRegular, Arial, sans-serif; margin: 0px; font-weight: normal; line-height: 1.2em; color: #3b3b3b; text-rendering: optimizeLegibility; font-size: 17.5px;">4.       Cabang Bedeng Jl. FAJAR BARU SELATAN NO. 23, RT. 01/12 Dekat sekolah Strada. Cengkareng.JakBar. TELP 081905542435</h4>
+<h4 style="font-family: OpenSansRegular, Arial, sans-serif; margin: 0px; font-weight: normal; line-height: 1.2em; color: #3b3b3b; text-rendering: optimizeLegibility; font-size: 17.5px;">5.       Cabang Kalianyar Jl. Alamat kalianyar 6 rt 003/003 no.7 ( Belakang Season City / Velbak ). JakBar No HP :+62 812-1941-9067</h4>
+<h4 style="font-family: OpenSansRegular, Arial, sans-serif; margin: 0px; font-weight: normal; line-height: 1.2em; color: #3b3b3b; text-rendering: optimizeLegibility; font-size: 17.5px;">6.       Cabang Menceng Jl. Menceng No 29 ( Depan Indomaret ).  Cengkareng. JakBar. HP 0877-8969-9890</h4>
+<p><img src="images/booth-cityresort.jpg" alt="" width="200" height="355" /> <img src="images/bedeng-uber.jpg" alt="" width="266" height="354" /> <img src="images/citra2.jpg" alt="" width="471" height="353" /> <img src="images/menceng1.jpg" alt="" width="476" height="268" /> <img src="images/pik.jpg" alt="" width="151" height="269" />  <img src="images/telukgong.jpg" alt="" width="200" height="267" /> <img src="images/cengin.jpg" alt="" width="480" height="360" /> <img src="images/kalianyar.jpg" alt="" /></p></div>
+</div></div></div>
+                </div>
+                
+                <div class="clr"></div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+
+<section id="twitter" class="twitter">
+    <div class="container-twitter">
+        <div class="box "><div><div class="content"><div class="tztwd-main tztwd-container"
+     id="tztwd-main-108">
+                
+    <div class="tztwd">
+        <div class="bg_background"></div>
+                <div class="tztwd-tweets container-fluid">
+                        
+            <div class="tztwd-tweet-container  tztwd-last">
+                                    <div class="tztwd-tweet">
+                                                                        Ramen Burger cabang kebun jahe kapuk. Mampirrrr ya...ada promo free produk...langsung aja tanyakan kesana hehe <a class="url" href="https://t.co/0RL9ZCs8F0" rel="external" target="_blank">https://t.co/0RL9ZCs8F0</a>                    </div>
+
+                    
+                </div>
+                            </div>
+        </div>
+
+    </div>
+</div></div></div>
+    </div>
+</section>
+
+    <section id="contact" class="tz-contact tz-border-bottom tz-border-shadow tz-white-background">
+        <div class="container-fluid">
+        <div class="tz-inner">
+            <div class="row-fluid">
+                                <div class="span12">
+                <div class="box "><div><h3 class="header "><span>Kontak</span></h3><div class="content">
+<div class="TzContact">
+    
+                
+    
+        <div class="clearfix"></div>
+</div></div></div></div>
+                </div>
+                
+                <div class="clr"></div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+
+    <section id="contact-bottom" class="tz-contact-bottom tz-border-bottom">
+        <div class="container-fluid">
+        <div class="tz-inner">
+            <div class="row-fluid">
+                                <div class="span12 tz-contact-bottom">
+                <div class="box "><div><div class="content">
+    <script>
+        jQuery(document).ready(function () {
+            jQuery('#tz-contact-send').click(function () {
+                var mailtrue = /^.+@.+\..+$/,
+                    tzname = jQuery('#jform_contact_name').val(),
+                    namefrom = jQuery('#jform_contact_email').val(),
+                    message = jQuery('#jform_contact_message').val();
+                                if (mailtrue.test(namefrom) == false || !tzname.length || !message.length
+                    ) {
+
+                    jQuery('#message-sent-false').fadeIn(1000, function () {
+                        jQuery(this).fadeOut(1000);
+                    });
+                    return false;
+                }
+                var loading = jQuery('<div id="tz-contact-loading"></div>');
+                loading.insertAfter(jQuery('#tz-contact-send'));
+                jQuery.ajax({
+                    type: 'post',
+                    url: 'http://ramenburgeranaketiga.com/modules/mod_tz_contact/send.php',
+                    data: {
+                        id: '2:hubungi-kami',
+                        contact_name: jQuery('#jform_contact_name').val(),
+                        contact_email: jQuery('#jform_contact_email').val(),
+
+                        
+                        contact_message: jQuery('#jform_contact_message').val(),
+                        contact_email_copy: (jQuery('#jform_contact_email_copy').attr('checked') ? 1 : 0),
+                        error: 'VW5zdWNjZXNzZnVsIQ==',
+                        recaptcha_response_field:jQuery('#recaptcha_response_field').attr('value'),
+                        recaptcha_challenge_field: jQuery('#recaptcha_challenge_field').attr('value'),
+                        "defcd291a96260aafe21c8b028a9d848": 1
+                    }
+                }).success(function (data) {
+                        loading.remove();
+                        if (data.length) {
+                            var json = JSON.decode(data);
+                            if (json['success']) {
+                                jQuery('#message-sent').fadeIn(1200, function () {
+                                    jQuery('#message-sent').fadeOut(1200);
+                                    jQuery('#jform_contact_name').val('');
+                                    jQuery('#jform_contact_email').val('');
+
+                                    
+                                    jQuery('#jform_contact_message').val('');
+                                    jQuery('#jform_contact_email_copy').removeAttr('checked');
+                                });
+                            }
+                            else {
+                                jQuery('#message-sent-false').text(json['message']).fadeIn(1200, function () {
+                                    jQuery(this).fadeOut(1200);
+                                });
+                            }
+                        }
+                    });
+            });
+        });
+    </script>
+<div class="TzContact">
+            <div class="page-header">
+            <h2>
+                                <span class="contact-name">Hubungi kami</span>
+            </h2>
+        </div>
+    
+    
+        <form class="form-validate form-horizontal span9" method="post" action="/index.php"
+          id="contact-form">
+        <fieldset>
+
+            <div class="input-left span5">
+                <input type="text" aria-required="true" size="30" class="required inputbox"
+                       placeholder="Name (requied)"
+                       value="" id="jform_contact_name" name="jform[contact_name]">
+                <input type="email" aria-required="true" size="30" value=""
+                       placeholder="E-mail (requied)"
+                       id="jform_contact_email" class="validate-email required inputbox" name="jform[contact_email]">
+
+                
+                                <span class="text">Your email address will never be shared.</span>
+            </div>
+            <div class="input-right span7">
+                <textarea aria-required="true" class="required inputbox" rows="10" cols="50"
+                          placeholder="Message..."
+                          id="jform_contact_message" name="jform[contact_message]"></textarea>
+
+                                <div class="form-actions">
+                    <div class="tz-contact-button-bar">
+                        <button type="button" class="btn validate" id="tz-contact-send">
+                            Send Email                        </button>
+                    </div>
+                    <div id="message-sent-false">Invalid form</div>
+                    <div id="message-sent">Sent successfully!</div>
+                </div>
+            </div>
+
+        </fieldset>
+    </form>
+
+        <div class="contact-address dl-horizontal span3">
+                    <div class="contact-icon">
+            <span class="jicons-icons" >
+                <img src="modules/mod_tz_contact/images/marker-icon.png" alt="Address"/>            </span>
+            </div>
+            <div class="info">
+                                    <span class="contact-street">
+                Taman Palem Lestari, Cengkareng. Jakarta Barat<br/>            </span>
+                
+                
+                
+                
+                            </div>
+        
+                                    <div class="contact-icon">
+                <span class="jicons-icons" >
+                    <img src="modules/mod_tz_contact/images/mail-icon.png" alt="Email"/>                </span>
+                </div>
+                <div class="info">
+                <span class="contact-emailto">
+                    waralaba.anaketiga@gmail.com                </span>
+                </div>
+                    
+                                    <div class="contact-icon">
+            <span class="jicons-icons" >
+                <img src="modules/mod_tz_contact/images/phone-icon.png" alt="Phone"/>            </span>
+                </div>
+                <div class="info">
+                                            <span class="contact-telephone">
+                0896-6861-2257            </span>
+                                                                <span class="contact-mobile">
+                <br/>0896-6861-2257            </span>
+                                    </div>
+                    
+                            
+                                    <div class="contact-icon">
+                    <span class="jicons-icons"><img src="modules/mod_tz_contact/images/website-icon.png" alt="Website"/></span>
+                </div>
+                <div class="info">
+            <span class="contact-webpage">
+                <a href="http://www.RamenBurgerAnaketiga.com" target="_blank">
+                    http://www.RamenBurgerAnaketiga.com</a>
+            </span>
+                </div>
+                        </div>
+    <div class="clearfix"></div>
+</div></div></div></div>
+                </div>
+                                <div class="clr"></div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+
+<footer id="tz-footer" class="tz-footer">
+
+    
+        <div class="footer-bottom">
+        <div class="container-fluid">
+            <div class="tz-inner">
+                
+                                <div class="tz-footer-framework">
+
+                                        <p class="tz-copyrights">
+                        
+                                                    Copyright © 2017 Ramen Burger Anaketiga. All Rights Reserved.                                            </p>
+                    
+                                    </div>
+                
+                <div class="clr"></div>
+            </div>
+        </div>
+    </div>
+    
+</footer>
+
+<script type="text/javascript">
+    jQuery('*[rel=tooltip]').tooltip();
+    jQuery('*[rel=popover]').popover();
+    jQuery('.tip-bottom').tooltip({placement: "bottom"});
+</script>
+
+
+
+
+</body>
+</html>
+
+

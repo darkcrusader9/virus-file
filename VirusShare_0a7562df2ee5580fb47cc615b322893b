@@ -1,0 +1,2818 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/3332739511-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='http://tailieutuhoctienganh.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://tailieutuhoctienganh.blogspot.com/2013/05/lam-nao-e-tu-tin-trong-giao-tiep-tieng.html' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Tài Liệu Tự Học Tiếng Anh - Atom" href="http://tailieutuhoctienganh.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Tài Liệu Tự Học Tiếng Anh - RSS" href="http://tailieutuhoctienganh.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Tài Liệu Tự Học Tiếng Anh - Atom" href="https://www.blogger.com/feeds/7001505560405392580/posts/default" />
+
+<link rel="alternate" type="application/atom+xml" title="Tài Liệu Tự Học Tiếng Anh - Atom" href="http://tailieutuhoctienganh.blogspot.com/feeds/4458010710290078984/comments/default" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='http://tailieutuhoctienganh.blogspot.com/2013/05/lam-nao-e-tu-tin-trong-giao-tiep-tieng.html' property='og:url'/>
+<meta content='LÀM THẾ NÀO ĐỂ TỰ TIN TRONG GIAO TIẾP TIẾNG ANH? [part 1]' property='og:title'/>
+<meta content='Blog chi sẻ tài liệu học tiếng anh
+Blog chia sẻ phương pháp học tiếng anh hiệu quả' property='og:description'/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>
+LÀM THẾ NÀO ĐỂ TỰ TIN TRONG GIAO TIẾP TIẾNG ANH? [part 1] | Tài Liệu Tự Học Tiếng Anh
+</title>
+<style id='page-skin-1' type='text/css'><!--
+/*
+Theme Name: Positmood
+Theme URI: http://www.ezwpthemes.com/templates/positmood.html
+Description: This theme is designed and coded by <a href="http://www.ezwpthemes.com/">EZwpthemes</a>.
+Version: 1.0
+Author: EZwpthemes
+Author URI: http://www.ezwpthemes.com/
+Tags: yellow, fixed width, two columns, left sidebar, threaded comments, widget ready, pagenavi, social bookmarking, valid xhtml, valid css
+*/
+.Navbar {display: none !important;}
+/* Variable definitions
+====================
+<Variable name="bgcolor" description="Page Background Color"
+type="color" default="#fff">
+<Variable name="textcolor" description="Text Color"
+type="color" default="#333">
+<Variable name="linkcolor" description="Link Color"
+type="color" default="#58a">
+<Variable name="pagetitlecolor" description="Blog Title Color"
+type="color" default="#666">
+<Variable name="descriptioncolor" description="Blog Description Color"
+type="color" default="#999">
+<Variable name="titlecolor" description="Post Title Color"
+type="color" default="#c60">
+<Variable name="bordercolor" description="Border Color"
+type="color" default="#ccc">
+<Variable name="sidebarcolor" description="Sidebar Title Color"
+type="color" default="#999">
+<Variable name="sidebartextcolor" description="Sidebar Text Color"
+type="color" default="#666">
+<Variable name="visitedlinkcolor" description="Visited Link Color"
+type="color" default="#999">
+<Variable name="bodyfont" description="Text Font"
+type="font" default="normal normal 100% Georgia, Serif">
+<Variable name="headerfont" description="Sidebar Title Font"
+type="font"
+default="normal normal 78% 'Trebuchet MS',Trebuchet,Arial,Verdana,Sans-serif">
+<Variable name="pagetitlefont" description="Blog Title Font"
+type="font"
+default="normal normal 200% Georgia, Serif">
+<Variable name="descriptionfont" description="Blog Description Font"
+type="font"
+default="normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif">
+<Variable name="postfooterfont" description="Post Footer Font"
+type="font"
+default="normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif">
+<Variable name="startSide" description="Side where text starts in blog language"
+type="automatic" default="left">
+<Variable name="endSide" description="Side where text ends in blog language"
+type="automatic" default="right">
+*/
+/* (CSS Start) */
+/* Based on YUI http://developer.yahoo.com/yui/reset/
+and Eric Meyer http://meyerweb.com/eric/tools/css/reset/index.html */
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote,
+dl, dt, dd, ul, ol, li,
+pre, code, form, div, fieldset, legend, button, input, textarea, th, td {
+margin: 0;
+padding: 0;
+}
+fieldset, img {
+border: 0;
+}
+/* remember to define focus styles! */
+:focus {
+outline: 0;
+}
+address, caption, cite, code, dfn,
+em, strong, th, var, optgroup {
+font-style: normal;
+font-weight: normal;
+}
+#blog_title ,.post_title ,h1 ,h2 ,h3 ,h4, h5, h6 {
+font-size: 100%;
+font-weight: normal;
+}
+abbr, acronym {
+border: 0;
+font-variant: normal;
+}
+input, button, textarea,
+select, optgroup, option {
+font-family: inherit;
+font-size: inherit;
+font-style: inherit;
+font-weight: inherit;
+}
+code, kbd, samp, tt {
+font-size: 100%;
+}
+/*@purpose To enable resizing for IE */
+input, button, textarea, select {
+font-size: 100%;
+}
+body {
+line-height: 1.2;
+}
+ol, ul {
+list-style: none;
+}
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+border-collapse: collapse;
+border-spacing: 0;
+}
+caption, th {
+text-align: left;
+}
+sup, sub {
+font-size: 100%;
+vertical-align: baseline;
+}
+/* remember to highlight anchors and inserts somehow! */
+ins {
+text-decoration: none;
+}
+blockquote, q {
+quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+content: '';
+content: none;
+}
+/* Define */
+h1 {
+font-size: 2.8em;
+}
+h2, h3, h4 {
+font-size: 2em;
+}
+a {
+text-decoration: none;
+}
+blockquote {
+margin: 5px 20px;
+padding: 5px;
+}
+blockquote p, code {
+padding: 10px 20px;
+display: block;
+}
+code {
+display: block;
+margin: 5px 20px;
+}
+strong, em, caption, th {
+font-style: normal;
+font-weight: bold;
+}
+cite {
+font-style: italic;
+font-weight: normal;
+}
+sub, sup {
+font-size: .8em;
+}
+sub {
+vertical-align: sub;
+}
+sup {
+vertical-align: super;
+}
+small {
+font-size: 1em;
+}
+:focus {
+outline: 1px #666 dotted;
+}
+input:focus, div:focus {
+outline: 0;
+}
+input {
+margin: 3px;
+vertical-align: middle;
+}
+/* Layout */
+body {
+font-size: 62.5%; /* Resets 1em to 10px */
+color: #000;
+background: #fff;
+line-height: 1.4;
+}
+#outer-wrapper , #wrap2 , #wrap4 ,
+#header-wrapper , #content-wrapper , #footer-wrapper {
+margin: 0 auto;
+}
+#header-wrapper {
+position: relative;
+}
+/* Wordpress */
+.entry p {
+margin: 10px 0 10px 0;
+}
+.entry ul {
+padding-left: 20px;
+list-style-type: square;
+}
+.entry ol {
+padding-left: 25px;
+list-style-type: decimal;
+}
+.entry h1, .entry h2, .entry h3, .entry h4, .entry h5, .entry h6 {
+font-weight: bold;
+margin: 5px 0;
+}
+acronym, abbr, span.caps {
+font-size: 0.9em;
+letter-spacing: .07em;
+cursor: help;
+border-bottom: 1px dashed #666;
+}
+.endline {
+clear: both;
+}
+/* Images */
+p img {
+max-width: 100%; /* not working in IE6 */
+}
+img.centered {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+img.alignright {
+padding: 4px;
+margin: 0 0 2px 7px;
+display: inline;
+}
+img.alignleft {
+padding: 4px;
+margin: 0 7px 2px 0;
+display: inline;
+}
+.alignright {
+float: right;
+}
+.alignleft {
+float: left
+}
+/* Captions */
+.aligncenter, div.aligncenter {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.wp-caption {
+border: 1px solid #ddd;
+text-align: center;
+background-color: #f3f3f3;
+padding-top: 4px;
+margin: 10px;
+}
+.wp-caption img {
+border: 0 none;
+}
+.wp-caption p.wp-caption-text {
+font-size: 11px;
+line-height: 17px;
+padding: 0 4px 5px;
+}
+/* Clear Fix */
+.clearfix:after {
+content: ".";
+display: block;
+height: 0;
+clear: both;
+visibility: hidden;
+}
+.clearfix {
+display: inline-block;
+}
+/* Hide from IE Mac \*/
+.clearfix {
+display: block;
+}
+/* End hide from IE Mac */
+/* end of clearfix */
+/* Global */
+body {
+color: #000;
+background: #FFEEBA url(http://4.bp.blogspot.com/-yE3mNVraKKY/URLOkzChQ5I/AAAAAAAACGE/OMWib9V0O5w/s000/body_bg.jpg) center top repeat-y;
+font-family: Verdana, Geneva, sans-serif;
+}
+a, .post a {
+text-decoration: none;
+color: #000;
+}
+a:hover, .post a:hover {
+color: #900;
+text-decoration: none;
+}
+#blog_title ,.post-title ,h1 ,h2 ,h3 ,h4 {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+}
+blockquote, code {
+color: #333;
+font-family: Verdana, Geneva, sans-serif;
+border: 1px dashed #999;
+}
+blockquote {
+background: #F8F4AB;
+}
+code {
+background: #F5D582;
+}
+/* Layout */
+#outer-wrapper {
+min-width: 998px; /* not working in IE6 */
+overflow: hidden;
+background: url(http://2.bp.blogspot.com/-6Hon15y4uMs/URLOlBRIhZI/AAAAAAAACGM/WDsbwAVqoXQ/s000/container_bg.jpg) repeat-y center top;
+}
+#wrap2 {
+padding: 0 0 5px 0;
+background: url(http://4.bp.blogspot.com/-LfASK2ERAg8/URLOlxl2KTI/AAAAAAAACGU/nT-gVNAgdo4/s000/bottom_frame.jpg) no-repeat center bottom;
+}
+#wrap4 {
+background: url(http://2.bp.blogspot.com/-M3oUX8Mcn1E/URLOmDoD-eI/AAAAAAAACGc/R74O5avFnis/s000/top_frame.jpg) no-repeat center top;
+}
+#wrap5 {
+margin: 0 auto;
+background: url() no-repeat center 640px;
+}
+#header-wrapper , #content-wrapper , #footer-wrapper {
+width: 998px;
+}
+#header-wrapper {
+height: 445px;
+}
+#content-wrapper {
+min-height: 900px;
+padding: 0px 0 70px 0;
+}
+#footer-wrapper {
+clear: both;
+height: 52px;
+position: relative;
+}
+/* Footer */
+.credit {
+font-size: 1.1em;
+text-align: center;
+padding: 0px 77px 0px 331px;
+}
+.credit, .credit a, .credit a:hover {
+color: #A4926E;
+}
+/* Header */
+#header-wrapper #blog_title {
+font-size: 3em; /* Blog Title */
+padding: 44px 500px 0px 108px;
+text-align: left;
+}
+#header-wrapper h2 {
+font-size: 1.4em; /* Blog Description */
+text-align: left;
+padding: 0px 200px 0px 110px;
+}
+#header-wrapper #blog_title, #header-wrapper #blog_title a, #header-wrapper h2 {
+color: #572609;
+}
+/* menu */
+#menu {
+width: 327px;
+height: 26px;
+position: absolute;
+left: 534px;
+top: 59px;
+overflow: hidden;
+}
+#menu ul li {
+padding: 0 16px;
+font-size: 1.4em; /* Menu Font Size */
+font-weight: bold;
+text-align: center;
+float: left;
+background: url(http://2.bp.blogspot.com/-VcEd9BMBL5s/URLOmhWSoHI/AAAAAAAACGk/g4TgSE78iv8/s000/nav_bg.jpg) no-repeat left 9px;
+}
+#menu ul li.menu_first {
+background: none;
+}
+#menu ul li a {
+padding: 0px 0 0px 0px;
+line-height: 2;
+color: #572609;
+}
+#menu ul li a:hover {
+color: #900;
+}
+#menu ul ul li {
+font-size: 1em;
+}
+/* searchform */
+#searchform {
+background: url(http://2.bp.blogspot.com/-GbV3pSowXdY/URLOnwnTXXI/AAAAAAAACGs/H-keHXT_C6w/s000/search_bg.jpg) no-repeat;
+overflow: hidden;
+margin-bottom: 10px;
+}
+.searchtext {
+width: 139px;
+color: #000;
+border: 0;
+font-size: 1.2em;
+background: url(http://1.bp.blogspot.com/-kmVV4O1TW3s/URLOokyfRuI/AAAAAAAACG0/D45T-Eyei40/s000/spacer.gif);
+padding: 0;
+margin: 4px 6px 0px 5px;
+float: left;
+}
+#searchsubmit {
+border: 0;
+margin: 0 0 0px 0;
+width: 45px;
+height: 25px;
+float: left;
+}
+#rss {
+position: absolute;
+left: 866px;
+top: 47px;
+}
+#rss img {
+width: 49px;
+height: 53px;
+}
+/* Content */
+#main-wrapper {
+width: 620px;
+padding: 10px 0px 0 0px;
+display: inline;
+margin: 0 50px 0 0;
+float: right;
+}
+.post {
+padding: 7px 0 10px 0;
+margin: 0px 0 10px 0px;
+background: url(http://www.ezwpthemes.com/examples/wp-content/themes/positmood/images/post_line.jpg) center bottom no-repeat;
+}
+.post .post-title {
+margin: 0px 5px 0 0px;
+padding: 4px 20px 4px 0px;
+font-size: 2em; /* Post Title */
+background: url(http://3.bp.blogspot.com/-CGjP5ScbE18/URLOozn9baI/AAAAAAAACG8/dqgTQEq_zJc/s000/post_header_bg.jpg) no-repeat left bottom;
+font-family: Georgia;
+}
+.post .post-title a {
+color: #301F17;
+}
+.post .post-title a:hover {
+color: #900;
+}
+.edit_post {
+width: 83%;
+color: #333;
+margin: 0 auto;
+margin-top: 10px;
+padding: 5px 10px;
+background: #ffc;
+border: 1px dashed #999;
+}
+.edit_post a {
+font-style: italic;
+color: #33C;
+}
+.edit_post a.post-edit-link {
+margin-right: 15px;
+font-style: normal;
+color: #E5631C;
+text-decoration: underline;
+}
+.edit_post a:hover.post-edit-link {
+color: #33c;
+}
+.post_path span {
+color: #706ED6;
+}
+.post_path a:hover {
+text-decoration: underline;
+}
+.postmetadata a {
+text-decoration: underline;
+}
+.entry {
+width: 580px;
+overflow: hidden;
+margin: 0 auto;
+padding: 10px 0;
+font-size: 1.2em;
+}
+.entry a {
+color: #1f85da;
+text-decoration: underline;
+}
+.tags, .tags a, .postmetadata, .postmetadata a {
+color: #7D7D7D;
+}
+.post_path {
+font-size: 1.1em;
+margin: 0 0 0 22px;
+padding: 7px 7px 12px 15px;
+background: url(http://4.bp.blogspot.com/-mquZh4q9Gl4/URLOpe7KMiI/AAAAAAAACHE/Lx-qLLmCmn8/s000/arrow.gif) left 10px no-repeat;
+}
+.postmetadata {
+padding: 2px 22px 0 22px;
+text-align: right;
+font-size: 1.1em;
+}
+.tags {
+font-size: 1.2em;
+margin: 10px 30px 0 22px;
+}
+.tags a {
+text-decoration: underline;
+}
+.read_comments {
+margin: 0px 18px 0 0px;
+text-align: right;
+font-weight: bold;
+padding: 17px 0px 17px 22px;
+}
+.bookmark {
+margin: 18px 0 0 22px;
+}
+.wp-pagenavi {
+padding: 5px 36px 5px 22px;
+line-height: 20px;
+}
+.post-footer {
+padding: 10px 22px;
+}
+.read_comments a {
+font-size: 1.2em;
+color: #693B24;
+padding: 5px 10px 5px 10px;
+background-color: #ffeeba;
+border: 1px solid #ffeeba;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+}
+.read_comments a:hover {
+color: #000;
+}
+.notfound {
+margin: 100px auto;
+text-align:center;
+font-size: 4em;
+font-weight: bold;
+color: #7e2d17;
+}
+/* welcome */
+#welcome {
+color: #9A6634;
+font-weight: bold;
+font-size: 11px;
+padding: 0px;
+position: absolute;
+left: 93px;
+top: 217px;
+}
+#welcome p {
+width: 175px;
+height: 188px;
+padding: 0px 0 0px 0px;
+overflow: hidden;
+}
+/* Sidebar */
+#sidebar-wrapper {
+width: 203px;
+display: inline;
+padding: 68px 0px 66px 0px;
+margin: 0px 0px 0px 79px;
+overflow: hidden;
+float: left;
+position: relative;
+color: #7D7D7D;
+}
+#sidebar_main {
+padding: 0px 0 0px 0;
+margin: 0px 0 0 0;
+}
+#sidebar_main h2 {
+padding: 0px 20px 4px 0px;
+font-size: 16px;
+color: #FD8F3E;
+position: relative;
+font-family: Georgia;
+}
+#sidebar_main .widget {
+overflow: hidden;
+font-size: 1.2em;
+padding: 3px 0 12px 3px;
+}
+#sidebar_main ul li a {
+color: #7D7D7D;
+}
+#sidebar_main ul li a:hover {
+color: #a00;
+}
+#sidebar_main .widget-content {
+padding: 0 0 0 9px;
+background: none;
+}
+#sidebar_main ul ul li {
+font-size: 1em;
+border: none;
+padding: 6px 0px 6px 15px;
+background: url(http://1.bp.blogspot.com/-z0hQyUPws6Y/URLOp7KG2vI/AAAAAAAACHM/dtlC8uEJC64/s000/sidebar_li.jpg) no-repeat 0px 10px;
+position: relative;
+border-bottom: 1px solid #e4e4e4;
+}
+#sidebar_main ul ul ul {
+padding: 0;
+margin: 0;
+}
+#sidebar_main ul ul ul li {
+font-size: 1em;
+margin: 0;
+width: 80%;
+border-bottom: 0;
+}
+#sidebar_main .textwidget {
+margin: 7px 0;
+}
+#sidebar-wrapper select {
+font-size: 1em;
+margin: 7px 0;
+width: 95%;
+}
+#sidebar-wrapper ul li div ,#sidebar_ul li object {
+padding: 0 0px;
+}
+#sidebar-wrapper ul li div div {
+padding: 0;
+}
+/* PageNavi*/
+.wp-pagenavi a {
+padding: 2px 4px;
+margin: 2px;
+text-decoration: none;
+border: 1px solid #06c;
+color: #06c;
+background-color: #fff;
+}
+.wp-pagenavi a:hover {
+border: 1px solid #000;
+color: #000;
+}
+.wp-pagenavi span.pages, .wp-pagenavi span.current, .wp-pagenavi span.extend {
+padding: 2px 4px;
+margin: 2px;
+border: 1px solid #000;
+color: #000;
+background-color: #fff;
+}
+/* Calendar */
+#wp-calendar {
+empty-cells: show;
+margin: 0px auto 0;
+margin-bottom: 15px;
+width: 100%;
+color: #601006;
+}
+#wp-calendar #next a {
+padding-right: 10px;
+text-align: right;
+font-size: 11px;
+}
+#wp-calendar #prev a {
+padding-left: 10px;
+text-align: left;
+font-size: 11px;
+}
+#wp-calendar a {
+display: block;
+font-weight: bold;
+text-decoration: none;
+}
+#wp-calendar a:hover {
+background: #fc0;
+color: #000;
+}
+#wp-calendar caption {
+text-align: center;
+padding-bottom: 10px;
+width: 100%;
+font: bold 13px Verdana, Arial, Sans-Serif;
+}
+#wp-calendar td {
+text-align: center;
+padding: 3px 0;
+font-size: 12px;
+text-align: center;
+}
+#wp-calendar th {
+text-align: center;
+font-style: normal;
+font-size: 12px;
+text-transform: capitalize;
+}
+/* Social Bookmarking */
+.bookmark ul {
+display: inline;
+}
+.bookmark ul li {
+background: none;
+display: inline;
+list-style-type: none;
+}
+.bookmark_line img {
+border: 0;
+}
+/* Comments */
+h3#comments {
+padding: 0 0 0 46px;
+}
+h3#comments, #respond h3 {
+padding-top: 10px;
+font-size: 1.4em;
+color: #333;
+}
+#commentform {
+margin: 5px 0 0 0px;
+}
+#commentform input {
+width: 170px;
+padding: 2px;
+margin: 5px 5px 1px 0;
+font: 0.9em 'Lucida Grande', Verdana, Arial, Sans-Serif;
+}
+#commentform textarea {
+width: 98%;
+padding: 2px;
+font: 0.9em 'Lucida Grande', Verdana, Arial, Sans-Serif;
+}
+#commentform p {
+margin: 5px 0;
+font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
+}
+#commentform #submit {
+margin: 0 0 5px auto;
+float: right;
+}
+#respond {
+width: 85%;
+padding: 0 0 0 10px;
+color: #333;
+margin: 0 auto;
+}
+#respond:after {
+content: ".";
+display: block;
+height: 0;
+clear: both;
+visibility: hidden;
+}
+.commentlist {
+padding: 0 0 0 0px;
+margin: 0 auto;
+width: 85%;
+}
+.commentlist li {
+margin: 15px 0 0px;
+padding: 5px 5px 10px 10px;
+list-style: none;
+font-weight: bold;
+font: 0.9em 'Lucida Grande', Verdana, Arial, Sans-Serif;
+}
+.commentlist li ul li {
+margin-right: -5px;
+margin-left: 10px;
+font-size: 1em;
+}
+.commentlist p {
+margin: 10px 5px 10px 0;
+font-weight: normal;
+line-height: 1.5em;
+font-size: 1.2em;
+text-transform: none;
+}
+.commentlist li .avatar {
+float: right;
+border: 1px solid #333;
+padding: 2px;
+background: #fff;
+}
+.commentlist li a {
+color: #000;
+}
+.commentlist cite, .commentlist cite a {
+font-weight: bold;
+font-style: normal;
+font-size: 1.2em;
+}
+#main-wrapper .comment-body p a {
+text-decoration: underline;
+}
+.nocomments {
+text-align: center;
+}
+.commentmetadata {
+font-size: 1.2em;
+display: block;
+font-weight: normal;
+}
+.thread-alt {
+background-color: #dcbea4;
+}
+.thread-even {
+background-color: #e3cbb3;
+}
+.depth-1 {
+border: 1px solid #000;
+}
+.alt {
+border-left: 1px solid #666; /* odd page */
+background-color: #C29581;
+padding: 10px;
+}
+.even {
+border-left: 1px solid #666; /* even page */
+background-color: #D0AD9E;
+}
+/* For Blogger */ #sidebar_main ul li div { padding: 0; margin:0; } #sidebar_main ul ul { background: none; } #sidebar_sub ul li div { padding: 0; margin: 0;} #comments { width: 85%; margin: 0 auto;}
+#sidebar-wrapper #sidebar-main {
+margin: 0;
+padding: 0;
+}
+#sidebar_sub #sidebar-sub {
+margin: 0;
+padding: 0;
+}
+#welcome1 .widget {
+padding: 0;
+margin: 0;
+}
+#sidebar-wrapper #ArchiveList ul li {
+padding-left: 0;
+}
+#sidebar-wrapper #ArchiveList ul ul li {
+padding-left: 8px;
+}
+body#layout #searchform {
+display: none;
+}
+body#layout #rss {
+display: none;
+}
+#ArchiveList ul li {text-indent: 0!important;}
+#comments {
+padding-left: 15px;
+}
+#comments h4 {
+margin:1em 0;
+font-weight: bold;
+font-size: 1.2em;
+line-height: 1.4em;
+text-transform:uppercase;
+letter-spacing:.2em;
+color: #999999;
+}
+#comments-block {
+margin:1em 0 1.5em;
+line-height:1.6em;
+}
+#comments-block .comment-author {
+margin:.5em 0;
+}
+#comments-block .comment-body {
+margin:.25em 0 0;
+}
+#comments-block .comment-footer {
+margin:-.25em 0 2em;
+line-height: 1.4em;
+text-transform:uppercase;
+letter-spacing:.1em;
+}
+#comments-block .comment-body p {
+margin:0 0 .75em;
+}
+.deleted-comment {
+font-style:italic;
+color:gray;
+}
+#blog-pager-newer-link {
+float: left;
+}
+#blog-pager-older-link {
+float: right;
+}
+#blog-pager {
+padding: 0 15px;
+text-align: center;
+}
+.feed-links {
+display:none;
+}
+#calendarDisplay {
+display: none;
+}
+#bcalendar {
+width: 100%;
+}
+#bcNavigation {
+display: none;
+}
+.BlogArchive ul ul ul li { width: 100%;}
+/* (CSS End) */
+.button {border:1px solid #055;border-radius:3px;box-shadow:0 1px rgba(255,255,255,0.3) inset;background:#41A317;color:#FFFF00 !important;text-decoration:none !important}
+a.button:hover,.submit.button:hover{border:1px solid #222;background:#810541}
+.button.medium{padding:5px 10px;font-size:12px}
+.button.big{padding:10px 20px;font-size:14px}
+div.sdmenu {
+width: 200px;
+font-family: Arial, sans-serif;
+font-size: 12px;
+padding-bottom: 10px;
+background: url(https://lh5.googleusercontent.com/-o3Q75YToTiU/T5NaWbuUWFI/AAAAAAAABOE/iZlrVfSjmAY/h120/bottom-menu-doc-namkna-blogspot.gif) no-repeat  right bottom;
+color: #fff;
+}
+div.sdmenu div {
+background: url(http://1.bp.blogspot.com/-EIWl0LH5GGU/T3bNnVSveXI/AAAAAAAAAyM/3ify3MKYCm8/s1600/menu1-namkna-blogspot-com.gif) repeat-x;
+overflow: hidden;
+}
+div.sdmenu div:first-child {
+background: url(http://1.bp.blogspot.com/-EIWl0LH5GGU/T3bNnVSveXI/AAAAAAAAAyM/3ify3MKYCm8/s1600/menu1-namkna-blogspot-com.gif) no-repeat;
+}
+div.sdmenu div.collapsed {
+height: 30px;
+}
+div.sdmenu div span {
+display: block;
+padding: 8px 30px;
+font-weight: bold;
+color: white;
+background: url(expanded.gif) no-repeat 10px center;
+cursor: default;
+border-bottom: 1px solid #ddd;
+}
+div.sdmenu div.collapsed span {
+background-image: url(collapsed.gif);
+}
+div.sdmenu div a {
+padding: 8px 30px;
+background: #eee;
+display: block;
+border-bottom: 1px solid #ddd;
+color: #066;
+}
+div.sdmenu div a.current {
+background : #ccc;
+}
+div.sdmenu div a:hover {
+background : #066 url(http://1.bp.blogspot.com/-EIWl0LH5GGU/T3bNnVSveXI/AAAAAAAAAyM/3ify3MKYCm8/s1600/menu1-namkna-blogspot-com.gif) 0 -32px;
+color: #fff;
+text-decoration: none;
+}
+#top-buttom_image {
+position:fixed;
+_position:absolute;
+bottom:5px;
+right:5px;
+clip:inherit;
+_top:expression(document.documentElement.scrollTop+
+document.documentElement.clientHeight-this.clientHeight);
+_left:expression(document.documentElement.scrollLeft+ document.documentElement.clientWidth - offsetWidth);
+}
+/*Start Category Wrapper Css*/
+#category-wrapper {
+width:840px;
+clear:both;
+margin:0 auto 10px;
+padding-top:15px;
+line-height: 1.6em;
+text-align:left;
+border-bottom:0px solid #efefef;
+}
+.cat {
+color: #000000;
+line-height: 1.5em;
+}
+.cat ul {
+list-style:none;
+margin:0 0 0;
+padding:0 0 0 8px;
+}
+.cat ul li {
+float:left;
+width:23%;
+list-style-type: none;
+margin: 0 0 5px;
+padding-left: 12px;
+background:url(http://3.bp.blogspot.com/-PODnyqMTs90/UUcyDV56DXI/AAAAAAAAJbY/JO-PNcpQD1w/s1600/bullet-suyb-namkna-blogspot-com-0001.gif) no-repeat left center;
+}
+.cat .widget {
+border-bottom:0px dotted #ddd;
+margin:0 .5em 1.5em .5em;
+padding:0 0 1.5em;
+}
+/* End Category Wrapper Css Info @ http://namkna.blogspot.com/ */
+/*-----Custom Labels Cloud widget by www.3wsolution.blogspot.com----*/
+.label-size{
+margin:0 2px 6px 0;
+padding: 3px;
+text-transform: uppercase;
+border: solid 1px #C6C6C6;
+border-radius: 3px;
+float:left;
+text-decoration:none;
+font-size:10px;
+color:#666;
+}
+.label-size:hover {
+border:1px solid #6BB5FF;
+text-decoration: none;
+-moz-transition: all 0.5s ease-out;
+-o-transition: all 0.5s ease-out;
+-webkit-transition: all 0.5s ease-out;
+-ms-transition: all 0.5s ease-out;
+transition: all 0.5s ease-out;
+-moz-transform: rotate(7deg);
+-o-transform: rotate(7deg);
+-webkit-transform: rotate(7deg);
+-ms-transform: rotate(7deg);
+transform: rotate(7deg);
+filter: progid:DXImageTransform.Microsoft.Matrix(
+M11=0.9961946980917455, M12=-0.08715574274765817, M21=0.08715574274765817, M22=0.9961946980917455, sizingMethod='auto expand');
+zoom: 1;
+}
+.label-size a {
+text-transform: uppercase;
+float:left;
+text-decoration: none;
+}
+.label-size a:hover {
+text-decoration: none;
+}
+#lower-wrapper {
+margin: 0 auto;
+padding: 0px;
+width: 870px;
+font-family: Arial;
+font-size: 80%;
+color: #000;
+background: #fff;
+border: 1px solid #ebebeb;
+}
+#lowerbar1-wrapper {
+float: left;
+margin: 0px;
+padding: 0px 0px 20px 0px;
+width: 33%;
+text-align: left;
+line-height: 1.6em;
+}
+#lowerbar2-wrapper {
+float: left;
+margin: 0;
+padding: 0px 0px 20px 0px;
+width: 33%;
+text-align: left;
+line-height: 1.6em;
+}
+.lowerbar {margin: 0; padding: 0;}
+.lowerbar .widget {margin: 0; padding: 10px 20px 0px 15px;}
+.lowerbar h2 {
+margin: 0px -15px 10px -15px;
+padding: 7px 15px 7px 15px;
+color: #000;
+font-family: Verdana;
+text-align: left;
+text-transform: uppercase;
+background: #fff;
+border-bottom: 1px solid #ebebeb;
+}
+.lowerbar a {color: #195195; text-decoration: none;}
+.lowerbar a:hover {text-decoration: underline; color: #6B6464;}
+.lowerbar a:visited {text-decoration: none; color: #197197;}
+#related-posts-block ul{background:url(http://4.bp.blogspot.com/-iqXZWdVsK3I/Ud-_IS02N2I/AAAAAAAALm0/4Cnrexx2w30/s1600/bg_other_namkna-blogpot.jpg) repeat-x;margin:0px 0 0 0;padding:6px 0 0 0;list-style:none}#related-posts-block li{margin:0 0 0 8px;background:url(http://2.bp.blogspot.com/-8qXJMKrYQAU/Ud-_WIn5wmI/AAAAAAAALm8/WEGH3vYIPdw/s1600/li_namkna-blogspot-com.png) 0 5px no-repeat;padding-left:15px}#related-posts-block{line-height:1.5;margin:0 0;font-size:11px;color:#7c7b7b}#related-posts-loading-text{font-size:12px;text-align:center;color:#002c28}#related-newest-href{margin:10px 0 2px}#related-newest-title{font-size:12px;margin:5px 0 0 0;color:#033947}#related-posts-block #related-newest-href a{font-size:12px;font-family:Arial,Helvetica,sans-serif;color:#002c28}#related-posts-block #related-newest-href a:hover{color:#00f}#related-older-href{margin:10px 0 2px}#related-older-title{font-size:12px;margin:5px 0 0 0;color:#033947}#related-posts-block #related-older-href a{font-size:12px;font-family:Arial,Helvetica,sans-serif;color:#002c28}#related-posts-block #related-older-href a:hover{color:#00f}#related-posts-block > div {float: left;width: 48%;}
+a.jump-link {color:#fff;text-decoration:none}
+.jump-link {
+float:right;
+padding:6px 12px;
+margin:20px;
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 13px;
+font-weight: bold;
+text-align: center;
+display:inline-block;
+background: #f48423;
+background: -moz-linear-gradient(top, #ffdf9e, #f5b026 5%, #f48423);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #ffd683), color-stop(.03, #f5b026), to(#f48423));
+filter:  progid:DXImageTransform.Microsoft.gradient(startColorStr='#f5b026', EndColorStr='#f48423'); /* IE6,IE7 only */
+-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr='#f5b026', EndColorStr='#f48423')"; /* IE8 only */
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+border:1px solid #e6791c;
+border-bottom:1px solid #d86f15;
+color:#FFF;
+text-shadow: 0 1px 1px #6f3a02; }
+.jump-link:hover {
+background: #eb7d1d;
+background: -moz-linear-gradient(top, #ffdf9e, #f1a91a 5%, #f07810);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #ffdf9e), color-stop(.03, #f1a91a), to(#f07810));
+filter:  progid:DXImageTransform.Microsoft.gradient(startColorStr='#f1a91a', EndColorStr='#f07810'); /* IE6,IE7 only */
+-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr='#f1a91a', EndColorStr='#f07810')"; /* IE8 only */
+border-bottom:1px solid #d86f15; }
+.jump-link:focus {
+padding:7px 13px;
+color:#FFF;
+text-shadow: 0 -1px 1px #894906;
+border:none;
+background: #e47412;
+background: -moz-linear-gradient(top, #f07810, #f1a91a 95%, #f07810);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #f07810), color-stop(.9, #f1a91a), to(#f07810));
+filter:  progid:DXImageTransform.Microsoft.gradient(startColorStr='#f07810', EndColorStr='#f1a91a'); /* IE6,IE7 only */
+-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr='#f07810', EndColorStr='#f1a91a')"; /* IE8 only */
+box-shadow: inset 0px 2px 5px #9b5901, 0 1px 0px #e0d5c7;
+-webkit-box-shadow: inset 0px 2px 5px #9b5901, 0 1px 0px #e0d5c7;
+-moz-box-shadow: inset 0px 2px 5px #9b5901, 0 1px 0px #e0d5c7; }
+#related-posts-block ul{background:url(http://4.bp.blogspot.com/-iqXZWdVsK3I/Ud-_IS02N2I/AAAAAAAALm0/4Cnrexx2w30/s1600/bg_other_namkna-blogpot.jpg) repeat-x;margin:0px 0 0 0;padding:6px 0 0 0;list-style:none}#related-posts-block li{margin:0 0 0 8px;background:url(http://2.bp.blogspot.com/-8qXJMKrYQAU/Ud-_WIn5wmI/AAAAAAAALm8/WEGH3vYIPdw/s1600/li_namkna-blogspot-com.png) 0 5px no-repeat;padding-left:15px}#related-posts-block{line-height:1.5;margin:0 0;font-size:11px;color:#7c7b7b}#related-posts-loading-text{font-size:12px;text-align:center;color:#002c28}#related-newest-href{margin:10px 0 2px}#related-newest-title{font-size:12px;margin:5px 0 0 0;color:#033947}#related-posts-block #related-newest-href a{font-size:12px;font-family:Arial,Helvetica,sans-serif;color:#002c28}#related-posts-block #related-newest-href a:hover{color:#00f}#related-older-href{margin:10px 0 2px}#related-older-title{font-size:12px;margin:5px 0 0 0;color:#033947}#related-posts-block #related-older-href a{font-size:12px;font-family:Arial,Helvetica,sans-serif;color:#002c28}#related-posts-block #related-older-href a:hover{color:#00f}#related-posts-block > div {float: left;width: 48%;}
+#mas-terbaru{border:1px solid #585858;width:100%;margin:0 auto}
+#terbaru{margin:0px}
+.mas-elemen{border:1px solid #ccc;margin:5px 0;padding:5px;height:79px}
+.mas-elemen img{background:#999;padding:4px;float:left;height:70px;margin-right:8px;width:70px}
+.mas-elemen h6,.mas-elemen h6 a{font-size:12px!important;font-weight:700!important;margin:0;color:#111}
+.mas-elemen:hover{background-color:#c3c3c3}
+.mas-elemen p{font:14px PT Sans Narrow;text-align:justify;color:#555;line-height:14px;margin:5px 0}
+#mas-loading{color:#888;font-family:Tahoma;font-size:100px;letter-spacing:-10px;text-align:center;text-shadow:-5px 0 1px #444;background:#141414 url(http://1.bp.blogspot.com/-vBDcLG_CXzU/UBqEMTknKcI/AAAAAAAAIHE/pZTfBZLbPwY/s1600/loading.gif) no-repeat 50% 50%;height:470px;border:1px solid #c3c3c3}
+#mas-navigasifeed{border:1px solid #c3c3c3;color:#bbb;font-family:Verdana;font-size:12px;text-align:center;margin:0px}
+#mas-navigasifeed:hover{background-color:#c3c3c3}
+#mas-navigasifeed a{color:#141414!important;font-family:Tahoma!important;font-size:12px!important;font-weight:400!important;display:block;padding:5px 10px}
+#mas-navigasifeed span{padding:5px 10px}
+#mas-navigasifeed .next{float:right}
+#mas-navigasifeed .previous{float:left}
+#mas-navigasifeed .home{text-align:center}
+#mas-navigasifeed a:hover,#mas-navigasifeed span.noactived{color:transparant!important}
+
+--></style>
+<style>
+#related-posts {
+    float:left;
+    min-width: 100%;
+    margin: 30px 5px 30px 0;
+    font: 11px Tahoma;
+}
+
+#related-posts .widget { 
+    List-style-type: none;
+    margin: 5px 0 5px 0;
+    padding: 0;
+}
+
+#related-posts .widget h2, #related-posts h2 {
+    color: #940f04; 
+    font-size: 20px;
+    font-weight: normal;
+    margin: 5px 7px 0;
+    padding: 0 0 5px;
+}
+
+#related-posts a {
+    color: #318686;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+#related-posts a:hover {
+    color: #C4436A;
+    text-decoration: underline;
+}
+
+#related-posts ul {
+    border: medium none;
+    margin: 10px;
+    padding: 0;
+}
+
+#related-posts ul li {
+    display: block;
+    background: url(https://lh5.googleusercontent.com/-zKhXxJUpROA/Tmr926k_EBI/AAAAAAAACks/1LrFz96DwAI/List_1.png) no-repeat 0 0;
+    margin: 0;
+    padding: 0 0 1px 16px;
+    margin-bottom: 5px;
+    line-height: 2em;
+    border-bottom:1px dotted #cccccc; 
+}
+</style>
+<script type='text/javascript'>
+//<![CDATA[
+var relatedTitles = new Array();
+var relatedTitlesNum = 0;
+var relatedUrls = new Array();
+function related_results_labels(json) {
+for (var i = 0; i < json.feed.entry.length; i++) {
+var entry = json.feed.entry[i];
+relatedTitles[relatedTitlesNum] = entry.title.$t;
+for (var k = 0; k < entry.link.length; k++) {
+if (entry.link[k].rel == 'alternate') {
+relatedUrls[relatedTitlesNum] = entry.link[k].href;
+relatedTitlesNum++;
+break;
+}
+}
+}
+}
+function removeRelatedDuplicates() {
+var tmp = new Array(0);
+var tmp2 = new Array(0);
+for(var i = 0; i < relatedUrls.length; i++) {
+if(!contains(tmp, relatedUrls[i])) {
+tmp.length += 1;
+tmp[tmp.length - 1] = relatedUrls[i];
+tmp2.length += 1;
+tmp2[tmp2.length - 1] = relatedTitles[i];
+}
+}
+relatedTitles = tmp2;
+relatedUrls = tmp;
+}
+function contains(a, e) {
+for(var j = 0; j < a.length; j++) if (a[j]==e) return true;
+return false;
+}
+function printRelatedLabels() {
+var r = Math.floor((relatedTitles.length - 1) * Math.random());
+var i = 0;
+document.write('<ul>');
+while (i < relatedTitles.length && i < 20) {
+document.write('<li><a href="' + relatedUrls[r] + '">' + relatedTitles[r] + '</a></li>');
+if (r < relatedTitles.length - 1) {
+r++;
+} else {
+r = 0;
+}
+i++;
+}
+}
+//]]>
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+var purl= location.href;
+var fb_href = purl.substring(0,purl.indexOf(".html")+5);
+var fbcm ='<div class="fb-comments" data-href="'+fb_href+'" data-num-posts="5" data-width="600"></div>';
+//]]>
+</script>
+<script src='http://apis.google.com/js/plusone.js' type='text/javascript'> {lang: 'en-US'} </script>
+<script type='text/javascript'>
+//<![CDATA[
+var numfeed = 15;
+var startfeed = 0;
+var urlblog = "http://www.tailieutuhoctienganh.com/";
+var charac = 100;
+var urlprevious, urlnext;
+
+function maskolisfeed(johny,banget){
+var showfeed = johny.split("<");
+for(var i=0;i<showfeed.length;i++){
+if(showfeed[i].indexOf(">")!=-1){
+showfeed[i] = showfeed[i].substring(showfeed[i].indexOf(">")+1,showfeed[i].length);
+}
+}
+showfeed =  showfeed.join("");
+showfeed = showfeed.substring(0,banget-1);
+return showfeed;
+}
+function showterbaru(json) {
+var entry, posttitle, posturl, postimg, postcontent;
+var showblogfeed = "";
+urlprevious = "";
+urlnext = "";
+for (var k = 0; k < json.feed.link.length; k++) {
+if (json.feed.link[k].rel == 'previous') {
+urlprevious = json.feed.link[k].href;
+}
+if (json.feed.link[k].rel == 'next') {
+urlnext = json.feed.link[k].href;
+}
+}
+for (var i = 0; i < numfeed; i++) {
+if (i == json.feed.entry.length) { break; }
+entry = json.feed.entry[i];
+posttitle = entry.title.$t;
+for (var k = 0; k < entry.link.length; k++) {
+if (entry.link[k].rel == 'alternate') {
+posturl = entry.link[k].href;
+break;
+}
+}
+if ("content" in entry) {
+postcontent = entry.content.$t;
+} else if ("summary" in entry) {
+postcontent = entry.summary.$t;
+} else {
+postcontent = "";
+}
+if ("media$thumbnail" in entry) {
+postimg = entry.media$thumbnail.url;
+} else {
+postimg = "http://2.bp.blogspot.com/-uitX7ROPtTU/Tyv-G4NA_uI/AAAAAAAAFBY/NcWLPVnYEnU/s1600/no+image.jpg";
+}
+showblogfeed += "<div class='mas-elemen'>";
+showblogfeed += "<a href='" + posturl + "' target='_blank'><img src='" + postimg + "' /></a>";
+showblogfeed += "<h6><a href='" + posturl + "'>" + posttitle + "</a></h6>";
+showblogfeed += "<p>" + maskolisfeed(postcontent,charac) + "...</p>";
+showblogfeed += "</div>";
+}
+document.getElementById("terbaru").innerHTML = showblogfeed;
+showblogfeed = "";
+if(urlprevious) {
+showblogfeed += "<a href='javascript:navigasifeed(-1);' class='previous'>&#9668; Previous</a>";
+} else {
+showblogfeed += "<span class='noactived previous'>&#9668; Previous</span>";
+}
+if(urlnext) {
+showblogfeed += "<a href='javascript:navigasifeed(1);' class='next'>Next &#9658;</a>";
+} else {
+showblogfeed += "<span class='noactived next'>Next &#9658;</span>";
+}
+showblogfeed += "<a href='javascript:navigasifeed(0);' class='home'>Home</a>";
+document.getElementById("mas-navigasifeed").innerHTML = showblogfeed;
+}
+
+function navigasifeed(url){
+var p, parameter;
+if(url==-1) {
+p = urlprevious.indexOf("?");
+parameter = urlprevious.substring(p);
+} else if (url==1) {
+p = urlnext.indexOf("?");
+parameter = urlnext.substring(p);
+} else {
+parameter = "?start-index=1&max-results=" + numfeed + "&orderby=published&alt=json-in-script"
+}
+parameter += "&callback=showterbaru";
+incluirscript(parameter);
+}
+function incluirscript(parameter) {
+if(startfeed==1) {removerscript();}
+document.getElementById("terbaru").innerHTML = "<div id='mas-loading'></div>";
+document.getElementById("mas-navigasifeed").innerHTML = "";
+var archievefeed = urlblog + "/feeds/posts/default"+ parameter;
+var terbaru = document.createElement('script');
+terbaru.setAttribute('type', 'text/javascript');
+terbaru.setAttribute('src', archievefeed);
+terbaru.setAttribute('id', 'MASLABEL');
+document.getElementsByTagName('head')[0].appendChild(terbaru);
+startfeed = 1;
+}
+function removerscript() {
+var elemen = document.getElementById("MASLABEL");
+var parent = elemen.parentNode;
+parent.removeChild(elemen);
+}
+onload=function() { navigasifeed(0); }
+//]]>
+</script>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7001505560405392580&amp;zx=1f8716c6-1e7c-4039-817c-0d4ed772bfe8' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7001505560405392580&amp;zx=1f8716c6-1e7c-4039-817c-0d4ed772bfe8' rel='stylesheet'/></noscript>
+</head>
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js' type='text/javascript'></script>
+<body>
+<div id='fb-root'></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) {return;}
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id='outer-wrapper'><div id='top_bg'><div id='bottom_bg'><div id='wrap2'><div id='wrap3'><div id='wrap4'><div id='wrap5'>
+<!-- skip links for text browsers -->
+<span id='skiplinks' style='display:none;'>
+<a href='#main'>skip to main </a> |
+      <a href='#sidebar'>skip to sidebar</a>
+</span>
+<!-- (Header-wrapper Start) -->
+<div id='header-wrapper'>
+<div class='header section' id='header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<div class='title' id='blog_title'>
+<a href='http://tailieutuhoctienganh.blogspot.com/'>Tài Liệu Tự Học Tiếng Anh</a>
+</div>
+</div>
+<div class='descriptionwrapper'>
+<h2>Chia sẻ tài liệu tự học tiếng anh
+Chia sẻ cách tự học tiếng anh
+Nhanh chóng - Tiết kiệm - Hiệu quả</h2>
+</div>
+</div>
+</div></div>
+<div class='header-tabs section' id='header-tabs'><div class='widget PageList' data-version='1' id='PageList8'>
+<div class='widget-content'>
+<div id='menu'>
+<ul>
+<li><a href='http://tailieutuhoctienganh.blogspot.com/'>Trang chủ</a></li>
+<li><a href='http://tailieutuhoctienganh.blogspot.com/p/gioi-thieu.html'>Hướng Dẫn</a></li>
+<li><a href='http://tailieutuhoctienganh.blogspot.com/p/lien-he.html'>Liên hệ</a></li>
+</ul></div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7001505560405392580&widgetType=PageList&widgetId=PageList8&action=editWidget&sectionId=header-tabs' onclick='return _WidgetManager._PopupConfig(document.getElementById("PageList8"));' target='configPageList8' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML1'>
+<div class='widget-content'>
+<div id='welcome'><p>
+Tailieutuhoctienganh.com Tài liệu tốt nhất để bạn có thể tự học tiếng anh một cách nhanh nhất, tiết kiệm nhất và hiệu quả nhất
+</p></div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7001505560405392580&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=header-tabs' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));' target='configHTML1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+<div id='rss'><a href='http://tailieutuhoctienganh.blogspot.com/feeds/posts/default'><img alt='RSS' src='http://1.bp.blogspot.com/-kmVV4O1TW3s/URLOokyfRuI/AAAAAAAACG0/D45T-Eyei40/s000/spacer.gif'/></a></div>
+<div class='section' id='welcome1'><div class='widget HTML' data-version='1' id='HTML16'>
+<div class='widget-content'>
+<script>
+var fan_page_url = 'https://www.facebook.com/Tailieutuhoctienganhhieuqua'
+var opacity =0.04;
+var time = 15000;
+</script>
+<script>
+if((document.getElementById) && window.addEventListener || window.attachEvent){
+    (function(){
+        var hairCol = "#ff0000";
+
+        var d = document;
+        var my = -10;
+        var mx = -10;
+        var r;
+        var vert = "";
+
+        var idx = document.getElementsByTagName('div').length;
+
+        var thehairs = "<iframe id='theiframe' scrolling='no' frameBorder='0' allowTransparency='true' src='http://www.facebook.com/widgets/like.php?href=" + encodeURIComponent(fan_page_url) + "&amp;layout=standard&amp;show_faces=true&amp;width=80&amp;action=like&amp;colorscheme=light&amp;height=30' style='position:absolute;width:53px;height:30px;z-index: 200000;overflow:hidden;border:0;opacity:" + opacity +";filter:alpha(opacity=" + opacity * 100+ ");'></iframe>";
+        var like;
+        var faceLike=getCookie("faceLike");
+        if (faceLike!=null && faceLike!="")
+        {                 
+        }
+        else
+        {
+            setCookie("faceLike",'liked',1);
+            document.write(thehairs);
+            like = document.getElementById("theiframe");
+            document.getElementsByTagName('body')[0].appendChild(like);
+        }
+        var pix = "px";
+        var domWw = (typeof window.innerWidth == "number");
+        var domSy = (typeof window.pageYOffset == "number");
+      
+
+        if (domWw)
+            r = window;
+        else{
+            if (d.documentElement && typeof d.documentElement.clientWidth == "number" && d.documentElement.clientWidth != 0)
+                r = d.documentElement;
+            else{
+                if (d.body && typeof d.body.clientWidth == "number")
+                    r = d.body;
+            }
+        }
+
+      
+        if(time != 0){
+            setTimeout(function(){
+                        document.getElementsByTagName('body')[0].removeChild(like);
+
+                        if (window.addEventListener){
+                            document.removeEventListener("mousemove",mouse,false);
+                        }
+                        else if (window.attachEvent){
+                            document.detachEvent("onmousemove",mouse);
+                        }
+                    }, time);
+        }
+
+        function scrl(yx){
+            var y,x;
+            if (domSy){
+                y = r.pageYOffset;
+                x = r.pageXOffset;
+            }
+            else{
+                y = r.scrollTop;
+                x = r.scrollLeft;
+            }
+            return (yx == 0) ? y:x;
+        }
+
+        function mouse(e){
+            var msy = (domSy)?window.pageYOffset:0;
+            if (!e)
+                e = window.event; 
+            if (typeof e.pageY == 'number'){
+                my = e.pageY - 15 - msy;
+                mx = e.pageX - 34;
+            }
+            else{
+                my = e.clientY - 16 - msy;
+                mx = e.clientX - 36;
+            }
+            vert.top = my + scrl(0) + pix;
+            vert.left = mx + pix;
+        }
+
+        function ani(){
+            vert.top = my + scrl(0) + pix;
+            setTimeout(ani, 300);
+        }
+
+
+        function init(){
+            vert = document.getElementById("theiframe").style;
+            ani();
+        }
+        function getCookie(c_name)
+        {
+        var c_value = document.cookie;
+        var c_start = c_value.indexOf(" " + c_name + "=");
+        if (c_start == -1)
+        {
+        c_start = c_value.indexOf(c_name + "=");
+        }
+        if (c_start == -1)
+        {
+        c_value = null;
+        }
+        else
+        {
+        c_start = c_value.indexOf("=", c_start) + 1;
+        var c_end = c_value.indexOf(";", c_start);
+        if (c_end == -1)
+        {
+        c_end = c_value.length;
+        }
+        c_value = unescape(c_value.substring(c_start,c_end));
+        }
+        return c_value;
+        }
+
+        function setCookie(c_name,value,exdays)
+        {
+        var exdate=new Date();
+        exdate.setDate(exdate.getDate() + exdays);
+        var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+        document.cookie=c_name + "=" + c_value;
+        }
+
+        function checkCookie()
+        {
+        var faceLike=getCookie("faceLike");
+        if (faceLike!=null && faceLike!="")
+          {
+        
+          alert("Welcome again " + faceLike);
+        
+          }
+        else
+          {
+            setCookie("faceLike",'liked',1);
+          }
+        }
+      
+      
+        if (window.addEventListener){
+            window.addEventListener("load",init,false);
+            document.addEventListener("mousemove",mouse,false);
+        }
+        else if (window.attachEvent){
+            window.attachEvent("onload",init);
+            document.attachEvent("onmousemove",mouse);
+        }
+
+    })();
+}//End
+</script>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7001505560405392580&widgetType=HTML&widgetId=HTML16&action=editWidget&sectionId=welcome1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML16"));' target='configHTML16' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+<!-- (Header-wrapper End) -->
+<!-- (Content-wrapper Start) -->
+<div class='clearfix' id='content-wrapper'>
+<div id='crosscol-wrapper' style='text-align:center'>
+<div class='crosscol no-items section' id='crosscol'></div>
+</div>
+<!-- (Sidebar-wrapper Start) -->
+<div class='clearfix' id='sidebar-wrapper'>
+<div id='searchform'><form action='http://tailieutuhoctienganh.blogspot.com/search/' method='get'>
+<input class='searchtext' id='s' name='q' type='text' value=''/>
+<input alt='Search' id='searchsubmit' src='http://1.bp.blogspot.com/-kmVV4O1TW3s/URLOokyfRuI/AAAAAAAACG0/D45T-Eyei40/s000/spacer.gif' type='image' value=''/>
+</form></div>
+<div class='clearfix' id='sidebar_main'>
+<ul><li>
+<div class='section' id='sidebar-main'><div class='widget HTML' data-version='1' id='HTML4'>
+<h2 class='title'>HOTLINE</h2>
+<div class='widget-content'>
+<div style="text-align: center;">
+<b><span style="color: blue; font-family: Times, Times New Roman, serif; font-size: x-large;">0966.80.83.86</span></b><br />
+<div align="center" style="margin: 0in 0in 0.0001pt;">
+<span style="font-family: Times, Times New Roman, serif; font-size: x-large;"><b><span style="color: magenta;">0938.89.55.16</span></b></span></div>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7001505560405392580&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=sidebar-main' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML4"));' target='configHTML4' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget FollowByEmail' data-version='1' id='FollowByEmail1'>
+<h2 class='title'>Nhận Ebook FREE</h2>
+<div class='widget-content'>
+<div class='follow-by-email-inner'>
+<form action='https://feedburner.google.com/fb/a/mailverify' method='post' onsubmit='window.open("https://feedburner.google.com/fb/a/mailverify?uri=tailieutuhoctienganh", "popupwindow", "scrollbars=yes,width=550,height=520"); return true' target='popupwindow'>
+<table width='100%'>
+<tr>
+<td>
+<input class='follow-by-email-address' name='email' placeholder='Email address...' type='text'/>
+</td>
+<td width='64px'>
+<input class='follow-by-email-submit' type='submit' value='Submit'/>
+</td>
+</tr>
+</table>
+<input name='uri' type='hidden' value='tailieutuhoctienganh'/>
+<input name='loc' type='hidden' value='en_US'/>
+</form>
+</div>
+</div>
+<span class='item-control blog-admin'>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7001505560405392580&widgetType=FollowByEmail&widgetId=FollowByEmail1&action=editWidget&sectionId=sidebar-main' onclick='return _WidgetManager._PopupConfig(document.getElementById("FollowByEmail1"));' target='configFollowByEmail1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</span>
+</div><div class='widget HTML' data-version='1' id='HTML3'>
+<div class='widget-content'>
+<script type="text/javascript" src="http://dl.dropbox.com/u/70549761/Menu/namkna-blogspot-com/sdmenu.js"></script>
+<script type="text/javascript">
+window.onload = function() {
+myMenu = new SDMenu("my_menu");
+myMenu.init();
+};
+</script>
+<form action="#" style="font-family: sans-serif; font-size: .8em" onsubmit="return false">
+<input class="submit button medium" type="button" value="Hiện Menu" onclick="myMenu.expandAll()" />
+<input class="submit button medium" type="button" value="Rút gọn" onclick="myMenu.collapseAll()" />
+</form>
+<div style="float: left" id="my_menu" class="sdmenu">
+<div>
+    <span>Phát Âm</span>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Bai%20hoc%20phat%20am">Bài Học Phát Âm</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20phat%20am%20qua%20video">Học Qua Video</a>
+        <a href="#">Kiểm Tra Phát Âm</a>
+</div>
+<div>
+   <span>Từ Vựng</span>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Tu%20dien%20bang%20hinh%20anh">Từ Điển Bằng Hình Ảnh</a>
+     <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20theo%20tu">Học Theo Từ</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Tu%20vung%20bang%20hinh">Từ Vựng Bằng Hình</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Cac%20loai%20vat">Các Loài Vật</a>
+        <a href="#">Vật Dụng Trong Nhà</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/1000%20Tu%20vung%20tieng%20anh%20co%20ban">1000 Từ Vựng Cơ Bản</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/6000%20Tu%20vung%20tieng%20anh%20thong%20dung">6000 Từ Thông Dụng</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20tu%20vung%20qua%20video">Học Qua Video</a>
+        <a href="#">Kiểm Tra Từ Vựng</a>
+</div>
+<div class="collapsed">
+   <span>Ngữ Pháp</span>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/bai%20hoc%20ngu%20phap">Bài Học Ngữ Pháp</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/ngu%20phap%20co%20ban">Ngữ Pháp Cơ Bản</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Ngu%20phap%20nang%20cao">Ngữ Pháp Nâng Cao</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Ngu%20phap%20thuc%20hanh">Ngữ Pháp Thực Hành</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Phan%20tich%20cau">Phân Tích Câu</a>
+        <a href="#">Video Dạy Ngữ Pháp</a>
+        <a href="#">Kiểm Tra Ngữ Pháp</a>
+</div>
+<div>
+    <span>Luyện Nghe</span>
+        <a href="#">Căn Bản</a>
+        <a href="#">Nghe Qua Tin Tức</a>
+        <a href="#">Nghe Qua VOA TV</a>
+        <a href="#">Nghe Qua Video Clip</a>
+        <a href="#">Nghe Theo Chủ Đề</a>
+        <a href="#">Học Qua Bài Hát</a>
+        <a href="#">Kiểm Tra Nghe </a>
+</div>
+<div>
+    <span>Giao Tiếp</span>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Bai%20hoc">Bài Học Giao Tiếp</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Giao%20tiep%20so%20cap">Sơ Cấp</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Giao%20tiep%20trung%20cap">Trung Cấp</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Giao%20tiep%20nang%20cao">Nâng Cao</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Cac%20cau%20giao%20tiep%20thong%20dung">Giao Tiếp Thông Dụng</a>
+</div>
+<div>
+    <span>Học Qua Video</span>
+        <a href="#">Học Với Người Nổi Tiếng</a>
+        <a href="#">Học Qua Youtube</a>
+        <a href="#">Học Qua Trailer</a>
+        <a href="#">Học Qua Phim</a>
+        <a href="#">Học Qua CNN</a>
+        <a href="#">Học Qua Video VOA</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20qua%20BBC%20News">Học Qua BBC News</a>
+</div>
+<div>
+    <span>Luyện Thi</span>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Luyen%20thi%20toeic">TOEIC</a>
+        <a href="#">TOEFL</a>
+        <a href="#">IELT</a>
+        <a href="#">GMAT</a>
+        <a href="#">SAT</a>
+</div>
+<div>
+    <span>Chơi Mà Học</span>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20tieng%20anh%20qua%20bai%20hat">Bài Hát</a>
+        <a href="#">Trò Chơi</a>
+        <a href="#">Phim Hài</a>
+        <a href="#">Phim Hoạt Hình</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20qua%20chuyen%20cuoi">Truyện Cười</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Danh%20ngon%20tieng%20anh">Danh Ngôn</a>
+</div>
+<div>
+    <span>Cách Học</span>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Cach%20hoc%20phat%20am">Phát Âm</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Cach%20hoc%20tu%20vung">Từ Vựng</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Cach%20hoc%20ngu%20phap">Ngữ Pháp</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Cach%20hoc%20nghe">Luyện Nghe</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/cach%20hoc%20giao%20tiep">Giao Tiếp</a>
+        <a href="#">Luyện Thi</a>
+</div>
+<div>
+    <span>Tiếng Anh Trẻ Em</span>
+        <a href="#">Tiếng Anh Qua Bài Hát</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20Tieng%20Anh%20Tre%20Em%20Qua%20Video">Tiếng Anh Qua Video</a>
+        <a href="#">Tiếng Anh Qua Truyện</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Tieng%20anh%20tre%20em%20theo%20chu%20de">Tiếng Anh Theo Chủ Đề</a>
+        <a href="#">Tiếng Anh Qua Hình Ảnh</a>
+</div>
+<div>
+    <span>Tiếng Anh Người Lớn</span>
+        <a href="#">Căn Bản</a>
+        <a href="#">Giao Tiếp</a>
+        <a href="#">Luyện Thi</a>
+</div>
+<div>
+    <span>Tiếng Anh Phổ Thông</span>
+        <a href="#">Tiếng Anh Lớp 6</a>
+        <a href="#">Tiếng Anh Lớp 7</a>
+        <a href="#">Tiếng Anh Lớp 8</a>
+        <a href="#">Tiếng Anh Lớp 9</a>
+        <a href="#">Tiếng Anh Lớp 10</a>
+        <a href="#">Tiếng Anh Lớp 11</a>
+        <a href="#">Tiếng Anh Lớp 12</a>
+        <a href="http://tailieutuhoctienganh.blogspot.com/search/label/Luyen%20thi%20dai%20hoc%20tieng%20anh">Luyện Thi Đại Học</a>
+</div>
+<div>
+    <span>Download</span>
+        <a href="#">Ebook Phát Âm</a>
+        <a href="#">Ebook Từ Vựng</a>
+        <a href="#">Ebook Ngữ Pháp</a>
+        <a href="#">Ebook Luyện Nghe</a>
+        <a href="#">Ebook Giao Tiếp</a>
+        <a href="#">Trò Chơi</a>
+        <a href="#">Phần Mềm</a>
+</div>
+    </div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7001505560405392580&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=sidebar-main' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML3"));' target='configHTML3' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML7'>
+<div class='widget-content'>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://luckyspa.net/san-pham.aspx" target="_blank"><img border="0" src="http://3.bp.blogspot.com/-zHziyaUkviQ/VFX1es8evII/AAAAAAAAAcI/amh_4dFlyAY/s1600/1932251_1526171630959807_6235032084223297153_n.png" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<br />
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7001505560405392580&widgetType=HTML&widgetId=HTML7&action=editWidget&sectionId=sidebar-main' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML7"));' target='configHTML7' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget PopularPosts' data-version='1' id='PopularPosts1'>
+<h2>Xem Nhiều Nhất</h2>
+<div class='widget-content popular-posts'>
+<ul>
+<li>
+<a href='http://tailieutuhoctienganh.blogspot.com/2013/08/nhung-cau-chui-nhau-thong-dung-trong.html'>NHỮNG CÂU CHỬI NHAU THÔNG DỤNG TRONG TIẾNG ANH</a>
+</li>
+<li>
+<a href='http://tailieutuhoctienganh.blogspot.com/2013/05/su-khac-nhau-cua-inaton-corner.html'>sự khác nhau của "in/at/on" the corner</a>
+</li>
+<li>
+<a href='http://tailieutuhoctienganh.blogspot.com/2013/05/cach-dung-va-phan-biet-like-such-as.html'>Cách dùng và phân biệt LIKE - SUCH AS - ALIKE - THE SAME AS</a>
+</li>
+<li>
+<a href='http://tailieutuhoctienganh.blogspot.com/2013/06/cach-su-dung-select-pick-va-choose.html'>Cách sử dụng SELECT, PICK và CHOOSE</a>
+</li>
+<li>
+<a href='http://tailieutuhoctienganh.blogspot.com/2013/05/nhung-cau-noi-hay-ve-cuoc-song-bang.html'>Những câu nói hay về cuộc sống bằng tiếng anh hay nhất ý nghĩa nhất</a>
+</li>
+<li>
+<a href='http://tailieutuhoctienganh.blogspot.com/2013/06/mot-so-cau-truc-cua-ong-tu-dung-trong.html'>MỘT SỐ CẤU TRÚC CỦA ĐỘNG TỪ DÙNG TRONG REPORTED SPEECH</a>
+</li>
+<li>
+<a href='http://tailieutuhoctienganh.blogspot.com/2013/08/cau-truc-can-biet-e-lam-bai-tap-viet.html'>Cấu trúc cần biết để làm bài tập viết lại câu.</a>
+</li>
+<li>
+<a href='http://tailieutuhoctienganh.blogspot.com/2013/05/tieng-anh-giao-tiep-cach-hoi-tham-suc.html'>Tiếng Anh giao tiếp &#8211; Cách Hỏi thăm sức khỏe bằng Tiếng Anh</a>
+</li>
+<li>
+<a href='http://tailieutuhoctienganh.blogspot.com/2013/05/tinh-tu-chi-tinh-cach-con-nguoi_29.html'>Tính từ chỉ tính cách con người</a>
+</li>
+<li>
+<a href='http://tailieutuhoctienganh.blogspot.com/2013/07/tu-vung-ve-cac-chau-luc-va-ai-duong.html'>TỪ VỰNG VỀ CÁC CHÂU LỤC VÀ ĐẠI DƯƠNG (CONTINENTS AND OCEANS)</a>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7001505560405392580&widgetType=PopularPosts&widgetId=PopularPosts1&action=editWidget&sectionId=sidebar-main' onclick='return _WidgetManager._PopupConfig(document.getElementById("PopularPosts1"));' target='configPopularPosts1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML15'>
+<div class='widget-content'>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://tailieutuhoctienganh.blogspot.com/2013/05/tiet-kiem-99-chi-phi-hoc-tieng-anh-ma.html"><img border="0" src="http://2.bp.blogspot.com/-f5_b8-pwogo/Uf35yRXaf7I/AAAAAAAAAVo/e2psy00VGEo/s1600/Podcast_Big.jpg" /></a></div>
+<br />
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7001505560405392580&widgetType=HTML&widgetId=HTML15&action=editWidget&sectionId=sidebar-main' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML15"));' target='configHTML15' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML5'>
+<h2 class='title'>VIDEO CÁCH HỌC</h2>
+<div class='widget-content'>
+<iframe width="200" height="180" src="http://www.youtube.com/embed/8gALHy4r-Gg" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7001505560405392580&widgetType=HTML&widgetId=HTML5&action=editWidget&sectionId=sidebar-main' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML5"));' target='configHTML5' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Stats' data-version='1' id='Stats1'>
+<h2>Số Lượt Xem Trang</h2>
+<div class='widget-content'>
+<div id='Stats1_content' style='display: none;'>
+<span class='counter-wrapper graph-counter-wrapper' id='Stats1_totalCount'>
+</span>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7001505560405392580&widgetType=Stats&widgetId=Stats1&action=editWidget&sectionId=sidebar-main' onclick='return _WidgetManager._PopupConfig(document.getElementById("Stats1"));' target='configStats1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML8'>
+<h2 class='title'>Google Pagerank</h2>
+<div class='widget-content'>
+<a href="http://www.mypagerank.net" target="_blank"><img src="http://www.mypagerank.net/services/pagerankbutton/pagerankbutton.php?aut=dd47175aa6ea61801789f198452c100c5644043ceb76f915224d2d9e96b35febd8557aa11bd15dc8c1" border="0" alt="Google PageRank Checker Powered by  MyPagerank.Net" /></a>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7001505560405392580&widgetType=HTML&widgetId=HTML8&action=editWidget&sectionId=sidebar-main' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML8"));' target='configHTML8' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML9'>
+<h2 class='title'>Counter</h2>
+<div class='widget-content'>
+<!-- Histats.com  START  (standard)-->
+<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
+<a href="http://www.histats.com" target="_blank" title="simple hit counter" ><script  type="text/javascript" >
+try {Histats.start(1,2321467,4,9,110,60,"00010000");
+Histats.track_hits();} catch(err){};
+</script></a>
+<noscript><a href="http://www.histats.com" target="_blank"><img src="http://sstatic1.histats.com/0.gif?2321467&amp;101" alt="simple hit counter" border="0" /></a></noscript>
+<!-- Histats.com  END  -->
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7001505560405392580&widgetType=HTML&widgetId=HTML9&action=editWidget&sectionId=sidebar-main' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML9"));' target='configHTML9' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML6'>
+<div class='widget-content'>
+<style>
+/* Fixed Positioned AddThis Toolbox */
+.sharing_box_namkna {
+position: fixed;
+top: 10%;
+right: 0;
+border: 3px solid #00EE00;
+padding: 5px 5px 1px;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+background: #F0FFFF;
+width: 60px;
+min-height: 345px;
+}
+.sharing_box_namkna .item {
+width: 50px;
+margin: 5px 0 5px 0;
+}
+.twitter_float iframe
+{
+width:55px!important;
+}
+</style>
+<!-- SHARING BOX Fixed-Positioned Toolbox -->
+<div class='sharing_box_namkna'>
+<div style='text-align:center; margin-top:5px'>
+<img alt='Share Emphasis' height='46px' src='http://1.bp.blogspot.com/-4oWoveJkZms/T4OIM0GAsrI/AAAAAAAABj8/Nr631D0WhbU/s1600/obtenir-par-poste-icone-5533-48-+-namkna-blogspot-com.png' width='56px'/>
+</div>
+<!-- TWITTER -->
+<div class='item twitter_float' style='margin-left:3px'>
+<a class='twitter-share-button' data-count='vertical' data-lang='en' href='https://twitter.com/share'>Tweet</a>
+</div>
+
+<!-- FACEBOOK -->
+<div class='item' style='margin-left:3px'>
+<div class='fb-like' data-font='verdana' data-layout='box_count' data-send='false' data-show-faces='true' data-width='44'></div>
+<div id='fb-root'></div>
+</div>
+<!-- G+ -->
+<div class='item' style='margin-left:5px'>
+<!-- Place this tag where you want the +1 button to render -->
+<g:plusone size='tall'></g:plusone>
+</div>
+<!-- OTHERSHARE -->
+<div class='item' style='margin-left:5px'>
+<!-- AddThis Button BEGIN -->
+<div class='addthis_toolbox addthis_default_style '>
+<a class='addthis_counter'></a>
+</div>
+<!-- AddThis Button END -->
+</div>
+</div>
+<!-- FAST SHARING SCRIPT -->
+<!-- TWITTER SCRIPT -->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- G+ SCRIPT -->
+<!-- Place this render call where appropriate -->
+<script type='text/javascript'>gapi.plusone.go();</script>
+<!-- STUMBLEUPON SCRIPT -->
+<!-- Place this snippet wherever appropriate -->
+<script type='text/javascript'> 
+ (function() { 
+     var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true; 
+      li.src = 'https://platform.stumbleupon.com/1/widgets.js'; 
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s); 
+ })(); 
+ </script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f660fb932fd0f15"></script>
+<!-- AddThis Button END -->
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7001505560405392580&widgetType=HTML&widgetId=HTML6&action=editWidget&sectionId=sidebar-main' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML6"));' target='configHTML6' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</li></ul>
+</div>
+</div>
+<!-- (Sidebar-wrapper End) -->
+<!-- (Main-wrapper Start) -->
+<div class='clearfix' id='main-wrapper'>
+<!-- Main Start -->
+<div class='main section' id='main'><div class='widget HTML' data-version='1' id='HTML11'>
+<div class='widget-content'>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://luckyspa.net/" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://3.bp.blogspot.com/-Xqs-588Eif8/VcI9kQ8PshI/AAAAAAAAAdI/xUTLOuf5SXk/s1600/ANH%2BBIA%2BBLOG.jpg" /></a></div>
+<br />
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7001505560405392580&widgetType=HTML&widgetId=HTML11&action=editWidget&sectionId=main' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML11"));' target='configHTML11' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML12'>
+<h2 class='title'>Bài Đăng Mới Nhất</h2>
+<div class='widget-content'>
+<div id="terbaru"></div>
+<div id="mas-navigasifeed"></div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7001505560405392580&widgetType=HTML&widgetId=HTML12&action=editWidget&sectionId=main' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML12"));' target='configHTML12' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+<!--Can't find substitution for tag [defaultAdStart]-->
+<div class='post hentry uncustomized-post-template'>
+<a name='4458010710290078984'></a>
+<h1 class='post-title entry-title'>
+<a href='http://tailieutuhoctienganh.blogspot.com/2013/05/lam-nao-e-tu-tin-trong-giao-tiep-tieng.html'>LÀM THẾ NÀO ĐỂ TỰ TIN TRONG GIAO TIẾP TIẾNG ANH? [part 1]</a>
+</h1>
+<div class='postmetadata'>
+<a class='timestamp-link' href='http://tailieutuhoctienganh.blogspot.com/2013/05/lam-nao-e-tu-tin-trong-giao-tiep-tieng.html' rel='bookmark' title='permanent link'><abbr class='published' title='2013-05-17T08:47:00-07:00'>8:47 AM</abbr></a> | 
+		        
+Labels:
+<a href='http://tailieutuhoctienganh.blogspot.com/search/label/cach%20hoc%20giao%20tiep' rel='tag'>cach hoc giao tiep</a>
+</div>
+<div class='post-header-line-1'></div>
+<div class='entry'>
+<p><span style="background-color: white; color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; line-height: 18px;">Đây là câu hỏi mà rất nhiều người học tiếng anh băn khoăn. Vậy, hãy cùng Step Up đọc bài viết dưới đây và tìm ra câu trả lời cho mình nhé!</span><br />
+<span style="background-color: white; color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; line-height: 18px;">Đầu tiên, luyện tập bất cứ ở đâu và bất cứ khi nào bạn có thể: Bất cứ một hình thức luyện tập nào đều tốt cả - dù bạn nói với 1 ngưới bản ngữ hay là không phải đi chăng nữa, bạn càng tập luyện</span><span class="text_exposed_show" style="background-color: white; color: #333333; display: inline; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; line-height: 18px;">&nbsp;bao nhiêu thì việc nói tiếng Anh của bạn sẽ trở nên dễ dàng hơn bấy nhiêu.<br /><br />Bạn nên tạo môi trường nói tiếng Anh xung quanh bạn và tập luyện thường xuyên. Hãy nghĩ đến việc đi đến một câu lạc bộ hoặc một lớp giao tiếp để tăng sự tự tin của bạn.<br /><br />Không được lo lắng khi mắc lỗi:</span><br />
+<a name='more'></a><span class="text_exposed_show" style="background-color: white; color: #333333; display: inline; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; line-height: 18px;"><br />Những người học tốt là những người biết học, không phải chạy trốn, từ những lỗi sai trong quá trình học tập của họ. Hãy nhớ rằng, lỗi sai là một điều rất bình thường khi chúng ta học những điều mới lạ, và chẳng có cách học nào hiệu quả hơn là học từ những lỗi lầm của chính bạn để không bao giờ mắc phải lỗi sai đó nữa.<br /><br />Hãy cố gắng trả lời những gì mọi người nói với bạn:<br /><br />Bạn thường có được gợi ý về việc mọi người đang nghĩ gì bằng việc quan sát ngôn ngữ hình thể của họ ví dụ như: tay, chân hay ngữ điệu&#8230; để có một câu trả lời hợp lý nhất. Nếu bạn quên một từ nào đó, hãy làm như những người bản xứ hay những người nói tiếng Anh thành thạo thường làm bằng cách sử dụng những cử chỉ điệu bộ để diễn đạt ý của mình và cố gắng hoàn thiện đoạn hội thoại thay vì giữ im lặng. Hãy thử sử dụng um, hoặc er, nếu bạn quên từ hoặc chưa tìm ra ý cho cuộc nói chuyện.<br /><br />Cố gắng đừng dịch từ tiếng mẹ đẻ của bạn sang tiếng Anh:<br /><br />Điều này sẽ khiến bạn mất nhiều thời gian và làm bạn trở nên lưỡng lự hơn khi không tìm được từ thích hợp. Và khi bạn nói tiếng Anh không nên chú ý quá nhiều đến ngữ pháp vì như vậy sẽ làm cho cuộc nói chuyện mất tự nhiên và không thú vị. Hãy tập suy nghĩ bằng tiếng Anh để có thể tự tin khi giao tiếp bằng tiếng Anh.<br /><br />Hãy thoải mái khi nói chuyện bằng tiếng Anh<br /><br />Bạn sẽ nhận thấy rằng khi bạn nói tiếng Anh ở một mức độ nhất định, rất nhiều kĩ năng phát âm như là nối từ sẽ xảy ra một cách tự nhiên và khi bạn cảm thấy thoải mái khi nói tiếng Anh bạn sẽ nghĩ ra được rất nhiều ý tưởng để duy trì cuộc nói chuyện của mình.<br /><br />Và một điều rất quan trọng là xây dựng sự tự tin của riêng bạn:<br /><br />Thông thường bạn ngại giao tiếp vì bạn sợ sai và luôn lo lắng vì những lỗi sai của mình đặc biệt là khi giao tiếp bằng một ngoại ngữ. Để thay đổi điều đó bạn hãy luyện tập thật nhiều để tăng khả năng giao tiếp của mình. Ngay từ bây giờ hãy xây dựng sự tự tin của riêng bạn trong việc học tiếng Anh để có thể đạt hiệu quả tốt nhất. Và bạn hãy nhớ rằng ngôn ngữ là lời nói chứ không phải chữ viết, hãy luyện tập thật nhiều để có thể tự tin giao tiếp bằng tiếng Anh và khi giao tiếp hãy coi đó như bạn đang nói chuyện với những người thân của mình và thật thoải mái để thể hiện quan điểm cũng như suy nghĩ của bạn bằng tiếng Anh nhé.</span></p>
+<div style='clear: both;'></div>
+</div>
+<div class='clear'></div>
+<div class='post-footer'>
+<script type='text/javascript'>
+//<![CDATA[
+var showdate = true;
+var max_post = 8;
+//]]>
+</script>
+<div id='post-labels-for-related' style='display:none'>cach hoc giao tiep</div><div id='post-timestamp-for-related' style='display:none'>2013-05-17T08:47:00-07:00</div>
+<div id='post-timestamp-for-related' style='display:none'>2013-05-17T08:47:00-07:00</div>
+<div id='related-posts-block'><div id='related-posts-loading-text'>Loading...<br/><img align='absmiddle' src='http://lh4.ggpht.com/_BTztXRwC9ik/S5SkPu7B3iI/AAAAAAAAAgI/UVi04d4jOP8/icon-star.gif'/></div><div id='related-newest-href'><div id='related-newest-title'></div></div><div id='related-older-href'><div id='related-older-title'></div></div></div>
+<script type='text/javascript'>
+    //<![CDATA[
+function format(ptime){ 
+ return ptime.substr(0,19);
+}
+
+function formatdate(d){
+ var month = [1,2,3,4,5,6,7,8,9,10,11,12];
+ var month2 = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+ var m = parseInt(d.substring(5,7),10);
+ for(var j=0; j<month.length;j++){
+  if(m==month[j]){
+   m = month2[j]; break;
+  }
+ }
+ return d.substring(8,10) + "-" + m + "-" + d.substring(0,4);
+}
+
+function getRelatedNewestLinks(json){
+ var entry = json.feed.entry;
+ if(entry){
+  for(var k=0;k<entry.length;k++){
+   var li = document.createElement("li");
+   if(showdate){
+    li.innerHTML = "<a href='"+entry[k].link[4].href+"'>"+entry[k].title.$t+"</a>" + ' - <i>' + formatdate(entry[k].published.$t) +'</i>';
+   }
+   else {
+    li.innerHTML = "<a href='"+entry[k].link[4].href+"'>"+entry[k].title.$t+"</a>";
+   }
+   if(!checkRelaxLinks("related-newest-href",entry[k].link[4].href)){
+    document.getElementById("related-newest-href-ul1").appendChild(li);
+    document.getElementById("related-newest-title").innerHTML = "<b>Các bài viết mới cùng chủ đề</b> ";
+                                
+   }
+  }
+ } else {
+  document.getElementById("related-older-title").innerHTML = "<b>Không có bài viết mới nào cùng chủ đề</b>";
+ }
+}
+
+function getRelatedOlderLinks(json){
+ var entry = json.feed.entry;
+ if(entry){
+  for(var k=0;k<entry.length;k++){
+   var li = document.createElement("li");
+   if(showdate){
+    li.innerHTML = "<a href='"+entry[k].link[4].href+"'>"+entry[k].title.$t+"</a>" + ' - <i>' + formatdate(entry[k].published.$t) + '</i>';
+   }
+   else {
+    li.innerHTML = "<a href='"+entry[k].link[4].href+"'>"+entry[k].title.$t+"</a>";
+   }
+   if(!checkRelaxLinks("related-older-href",entry[k].link[4].href)){
+    document.getElementById("related-older-href-ul2").appendChild(li);
+    document.getElementById("related-older-title").innerHTML = "<b>Các bài viết cũ cùng chủ đề </b>";
+   }
+  }
+ } else {
+  document.getElementById("related-older-title").innerHTML = "<b>Không có bài viết cũ nào cùng chủ đề</b>";
+ }
+        document.getElementById("related-posts-loading-text").style.display = "none";
+}
+
+function createRelatedJson(min_or_max,cRJ_label,fcn_callback,cRJ_max){
+ var script = document.createElement("script");
+ script.src = "/feeds/posts/summary/-/"+escape(cRJ_label)+"?orderby=published&max-results="+cRJ_max+"&published-"+min_or_max+"="+escape(format(document.getElementById("post-timestamp-for-related").innerHTML))+"&alt=json-in-script&callback="+fcn_callback;
+ script.type = "text/javascript";
+ document.getElementsByTagName("head")[0].appendChild(script);
+
+}
+
+function checkRelaxLinks(cid,clink){
+ var check = false;
+ var u = document.getElementById(cid);
+ var a = u.getElementsByTagName("a");
+ for(var i=0;i<a.length;i++){
+  if(a[i].href==clink){
+   check = true;
+   break;
+  }
+ }
+ var url = location.href.split(".html")[0]+".html";
+ if(clink==url) check = true;
+ return check;
+} 
+
+function createRP(){
+ var postLabel = document.getElementById("post-labels-for-related").innerHTML.split(',');
+ var max_ = Math.round(max_post/postLabel.length);
+ var ul1 = document.createElement('ul');
+ ul1.id = 'related-newest-href-ul1';
+ document.getElementById('related-newest-href').appendChild(ul1);
+ for(var i=0; i<postLabel.length;i++){
+   createRelatedJson("min",postLabel[i],"getRelatedNewestLinks",max_);
+ }
+ var ul2 = document.createElement('ul');
+ ul2.id = 'related-older-href-ul2';
+ document.getElementById('related-older-href').appendChild(ul2);
+ for(var j=0; j<postLabel.length;j++){
+   createRelatedJson("max",postLabel[j],"getRelatedOlderLinks",max_);
+ }
+        
+}
+createRP();
+    //]]>
+</script>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn'>Trịnh Anh Tuấn</span>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='star-ratings'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1555314454'>
+<a href='https://www.blogger.com/post-edit.g?blogID=7001505560405392580&postID=4458010710290078984&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='http://www.blogger.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=7001505560405392580&postID=4458010710290078984&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=7001505560405392580&postID=4458010710290078984&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=7001505560405392580&postID=4458010710290078984&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=7001505560405392580&postID=4458010710290078984&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=7001505560405392580&postID=4458010710290078984&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://tailieutuhoctienganh.blogspot.com/2013/05/lam-nao-e-tu-tin-trong-giao-tiep-tieng.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+<script type='text/javascript'>
+document.write(fbcm);
+</script>
+<div class='comments' id='comments'>
+<a name='comments'></a>
+<h4>
+0
+comments:
+        
+</h4>
+<dl class='avatar-comment-indent' id='comments-block'>
+</dl>
+<p class='comment-footer'>
+<div class='comment-form'>
+<a name='comment-form'></a>
+<h4 id='comment-post-message'>Post a Comment</h4>
+<p>
+</p>
+<a href='https://www.blogger.com/comment-iframe.g?blogID=7001505560405392580&postID=4458010710290078984' id='comment-editor-src'></a>
+<iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' frameborder='0' height='410' id='comment-editor' name='comment-editor' src='' width='100%'></iframe>
+<!--Can't find substitution for tag [post.friendConnectJs]-->
+<script src='https://www.blogger.com/static/v1/jsbin/1930376684-comment_from_post_iframe.js' type='text/javascript'></script>
+<script type='text/javascript'>
+      BLOG_CMT_createIframe('https://www.blogger.com/rpc_relay.html', '0');
+    </script>
+</div>
+</p>
+<div id='backlinks-container'>
+<div id='Blog1_backlinks-container'>
+</div>
+</div>
+</div>
+<!--Can't find substitution for tag [adEnd]-->
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-newer-link'>
+<a class='blog-pager-newer-link' href='http://tailieutuhoctienganh.blogspot.com/2013/05/speaking-lam-nao-e-tu-tin-trong-giao.html' id='Blog1_blog-pager-newer-link' title='Newer Post'>Newer Post</a>
+</span>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://tailieutuhoctienganh.blogspot.com/2013/05/nhung-cum-tu-nguoi-ban-ngu-thuong-dung.html' id='Blog1_blog-pager-older-link' title='Older Post'>Older Post</a>
+</span>
+<a class='home-link' href='http://tailieutuhoctienganh.blogspot.com/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='post-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='http://tailieutuhoctienganh.blogspot.com/feeds/4458010710290078984/comments/default' target='_blank' type='application/atom+xml'>Post Comments (Atom)</a>
+</div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML10'>
+<div class='widget-content'>
+<style>#blog-pager{clear:both;margin:20px 0 20px;font-size: 12px;padding:10px 0;}#blog-pager-newer-link{float: left;}#blog-pager-older-link{float: right;}.Profile img{border:3px solid;float:left;margin:5px 10px 5px 0;padding:2;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;}.profile-data{color:#999999;font:bold 20px/1.6em Arial,Helvetica,Tahoma,sans-serif;font-variant:small-caps;margin:0;text-transform:capitalize;}.profile-datablock{margin:0.5em 0;}.profile-textblock{line-height:1.6em;margin:0.5em 0;}a.profile-link{clear:both;display:block;font:80% monospace;padding:10px 0;text-align:center;text-transform:capitalize;}h2.date-header, .PageList h2{display:none;}#blog-pager-older-link a,#blog-pager-newer-link a,a.home-link,.showpageNum a,.showpage a{background: url(http://2.bp.blogspot.com/-vMGk4QknV5A/Tw0--89TczI/AAAAAAAABJA/O21z_-ybUJs/s1600/nav.jpg) repeat-x;border:1px solid #ae4402;color:#fff;margin:2px;padding:6px 10px 5px;text-decoration:none;text-shadow: 1px 0 1px #000;}#blog-pager-older-link a:hover,#blog-pager-newer-link a:hover,a.home-link:hover,.showpageOf,.showpagePoint,.showpageNum a:hover,.showpage a:hover{background: url(http://1.bp.blogspot.com/-9uSn4H6vTk8/Tw0-_8Y1vQI/AAAAAAAABJE/jjhEM6mUFDk/s1600/nava.jpg) repeat-x;border:1px solid #000000;color:#fff;margin:2px;padding:6px 10px 5px;text-shadow: 1px 0 1px #000;}</style><script type='text/javascript'>var postperpage=5;var numshowpage=3;var upPageWord="Prev.";var downPageWord="Next";var urlactivepage=location.href;var home_page="/"</script><script src='http://itviet360.googlecode.com/files/itviet360-page-navi.js' type='text/javascript'></script>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7001505560405392580&widgetType=HTML&widgetId=HTML10&action=editWidget&sectionId=main' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML10"));' target='configHTML10' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+<!-- (Main-wrapper End) -->
+<div style='clear: both;'></div>
+</div>
+<!-- (Content-wrapper End) -->
+<div style='clear: both;'></div>
+<!-- (Footer-wrapper) -->
+<div id='category-wrapper'>
+<div class='cat section' id='cat'><div class='widget Label' data-version='1' id='Label99'>
+<div class='widget-content cloud-label-widget-content'>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/1000%20Tu%20vung%20tieng%20anh%20co%20ban'>1000 Tu vung tieng anh co ban</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/3000%20tu%20vung%20tieng%20anh'>3000 tu vung tieng anh</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/600%20Tu%20vung%20toeic%20thong%20dung'>600 Tu vung toeic thong dung</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/6000%20Tu%20vung%20tieng%20anh%20thong%20dung'>6000 Tu vung tieng anh thong dung</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Bai%20hoc'>Bai hoc</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/bai%20hoc%20ngu%20phap'>bai hoc ngu phap</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Bai%20hoc%20phat%20am'>Bai hoc phat am</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/BAI%20TAP'>BAI TAP</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/B%C3%80I%20VI%E1%BA%BET%20H%E1%BB%8CC%20VI%C3%8AN'>BÀI VIẾT HỌC VIÊN</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/BIKIP'>BIKIP</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cac%20cau%20giao%20tiep%20dung%20trong%20nha%20hang'>Cac cau giao tiep dung trong nha hang</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cac%20cau%20giao%20tiep%20thong%20dung'>Cac cau giao tiep thong dung</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/C%C3%A1c%20c%C3%A2u%20giao%20ti%E1%BA%BFp%20th%C3%B4ng%20d%E1%BB%A5ng'>Các câu giao tiếp thông dụng</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cac%20cau%20noi%20hay%20bang%20tieng%20anh'>Cac cau noi hay bang tieng anh</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cac%20thi%20trong%20tieng%20anh'>Cac thi trong tieng anh</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cach%20dich%20tieng%20anh'>Cach dich tieng anh</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/cach%20hoc%20giao%20tiep'>cach hoc giao tiep</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cach%20hoc%20nghe'>Cach hoc nghe</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cach%20hoc%20ngu%20phap'>Cach hoc ngu phap</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cach%20hoc%20noi%20tieng%20anh'>Cach hoc noi tieng anh</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cach%20hoc%20phat%20am'>Cach hoc phat am</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/cach%20hoc%20tieng%20anh'>cach hoc tieng anh</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cach%20hoc%20tieng%20anh%20danh%20cho%20tre%20em'>Cach hoc tieng anh danh cho tre em</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cach%20hoc%20tu%20vung'>Cach hoc tu vung</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/cach%20hoc%20viet%20tieng%20anh'>cach hoc viet tieng anh</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cach%20lam%20bai%20thi'>Cach lam bai thi</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/C%C3%A2u%20chuy%E1%BB%87n%20hay%20v%E1%BB%81%20Ti%E1%BA%BFng%20Anh'>Câu chuyện hay về Tiếng Anh</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cau%20truc%20cau'>Cau truc cau</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cau%20truc%20cau%20pho%20bien%20trong%20tieng%20anh'>Cau truc cau pho bien trong tieng anh</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cau%20truc%20ngu%20phap'>Cau truc ngu phap</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/CHIA%20S%E1%BA%BA%20C%C3%99NG%20SUNNY'>CHIA SẺ CÙNG SUNNY</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Choi%20ma%20hoc'>Choi ma hoc</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cum%20dong%20tu'>Cum dong tu</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cum%20gioi%20tu'>Cum gioi tu</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cum%20tu'>Cum tu</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/cum%20tu%20theo%20chu%20de'>cum tu theo chu de</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Cum%20tu%20tieng%20anh%20thong%20dung'>Cum tu tieng anh thong dung</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/%C4%90%E1%BA%A1i%20t%E1%BB%AB%20quan%20h%E1%BB%87'>Đại từ quan hệ</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Danh%20ngon%20cuoc%20song'>Danh ngon cuoc song</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Danh%20ngon%20tieng%20anh'>Danh ngon tieng anh</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Danh%20ngon%20tinh%20yeu'>Danh ngon tinh yeu</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Dap%20an%20mon%20tieng%20anh%20ky%20thi%20dai%20hoc'>Dap an mon tieng anh ky thi dai hoc</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Day%20Tre%20Noi%20Tieng%20Anh'>Day Tre Noi Tieng Anh</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Doc%20hieu%20tieng%20anh'>Doc hieu tieng anh</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Dong%20tu'>Dong tu</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Giao%20tiep'>Giao tiep</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Giao%20tiep%20nang%20cao'>Giao tiep nang cao</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Giao%20tiep%20qua%20dien%20thoai'>Giao tiep qua dien thoai</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Giao%20tiep%20so%20cap'>Giao tiep so cap</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Giao%20tiep%20thuc%20hanh'>Giao tiep thuc hanh</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Giao%20tiep%20tieng%20anh'>Giao tiep tieng anh</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Giao%20tiep%20trung%20cap'>Giao tiep trung cap</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Gioi%20tu'>Gioi tu</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Gioi%20tu%20thong%20dung%20trong%20tieng%20anh'>Gioi tu thong dung trong tieng anh</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20giao%20tiep%20theo%20chu%20de'>Hoc giao tiep theo chu de</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20phat%20am%20qua%20video'>Hoc phat am qua video</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20qua%20BBC%20News'>Hoc qua BBC News</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20qua%20chuyen%20cuoi'>Hoc qua chuyen cuoi</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20theo%20tu'>Hoc theo tu</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/H%E1%BB%8Dc%20theo%20t%C6%B0'>Học theo tư</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/H%E1%BB%8Dc%20theo%20t%E1%BB%B1'>Học theo tự</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/hoc%20tieng%20anh'>hoc tieng anh</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20tieng%20anh%20qua%20bai%20hat'>Hoc tieng anh qua bai hat</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20tieng%20anh%20qua%20thanh%20ngu'>Hoc tieng anh qua thanh ngu</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/hoc%20tieng%20anh%20qua%20tho'>hoc tieng anh qua tho</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20tieng%20anh%20qua%20truyen%20cuoi'>Hoc tieng anh qua truyen cuoi</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20tieng%20anh%20qua%20tu'>Hoc tieng anh qua tu</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20Tieng%20Anh%20Tre%20Em%20Qua%20Video'>Hoc Tieng Anh Tre Em Qua Video</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20tu%20vung%20bang%20tho'>Hoc tu vung bang tho</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Hoc%20tu%20vung%20qua%20video'>Hoc tu vung qua video</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/H%E1%BB%8Dc%20t%E1%BB%AB%20v%E1%BB%B1ng%20qua%20video'>Học từ vựng qua video</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/H%E1%BB%8EI%20%C4%90%C3%81P%20ANH%20NG%E1%BB%AE'>HỎI ĐÁP ANH NGỮ</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn'>Hướng dẫn</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Idioms'>Idioms</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/idoms'>idoms</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Luyen%20nghe'>Luyen nghe</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Luyen%20Thi'>Luyen Thi</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Luyen%20thi%20dai%20hoc%20tieng%20anh'>Luyen thi dai hoc tieng anh</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Luyen%20thi%20toeic'>Luyen thi toeic</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/NGH%E1%BB%80%20NGHI%E1%BB%86P%20C%E1%BB%A6A%20B%E1%BA%A0N'>NGHỀ NGHIỆP CỦA BẠN</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Ngu%20phap'>Ngu phap</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/ngu%20phap%20co%20ban'>ngu phap co ban</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Ngu%20phap%20nang%20cao'>Ngu phap nang cao</a>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Ngu%20phap%20thuc%20hanh'>Ngu phap thuc hanh</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/NH%E1%BA%ACT%20K%C3%8D%20PHI%C3%8AN%20D%E1%BB%8ACH'>NHẬT KÍ PHIÊN DỊCH</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Nhung%20cau%20chui%20bang%20tieng%20anh'>Nhung cau chui bang tieng anh</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Phan%20tich%20cau'>Phan tich cau</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/phat'>phat</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Phat%20am'>Phat am</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Phrase%20verbs'>Phrase verbs</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Ph%C6%B0%C6%A1ng%20ph%C3%A1p%20h%E1%BB%8Dc'>Phương pháp học</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/POEMS%20AND%20MUSIC'>POEMS AND MUSIC</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/S%E1%BB%AC%20D%E1%BB%A4NG%20PH%E1%BA%A6N%20M%E1%BB%80M'>SỬ DỤNG PHẦN MỀM</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Tai%20lieu%20tu%20hoc%20tieng%20anh'>Tai lieu tu hoc tieng anh</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Thanh%20ngu%20tieng%20anh'>Thanh ngu tieng anh</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/THE%20PARTS%20OF%20SPEECH'>THE PARTS OF SPEECH</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Th%C3%AC%20hi%E1%BB%87n%20t%E1%BA%A1i%20%C4%91%C6%A1n'>Thì hiện tại đơn</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Th%C3%AC%20hi%E1%BB%87n%20t%E1%BA%A1i%20ho%C3%A0n%20th%C3%A0nh'>Thì hiện tại hoàn thành</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Th%C3%AC%20hi%E1%BB%87n%20t%E1%BA%A1i%20ho%C3%A0n%20th%C3%A0nh%20ti%E1%BA%BFp%20di%E1%BB%85n'>Thì hiện tại hoàn thành tiếp diễn</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Th%C3%AC%20hi%E1%BB%87n%20t%E1%BA%A1i%20ti%E1%BA%BFp%20di%E1%BB%85n'>Thì hiện tại tiếp diễn</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Th%C3%AC%20qu%C3%A1%20kh%E1%BB%A9%20%C4%91%C6%A1n'>Thì quá khứ đơn</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Th%C3%AC%20qu%C3%A1%20kh%E1%BB%A9%20ho%C3%A0n%20th%C3%A0nh'>Thì quá khứ hoàn thành</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Th%C3%AC%20qu%C3%A1%20kh%E1%BB%A9%20ho%C3%A0n%20th%C3%A0nh%20ti%E1%BA%BFp%20di%E1%BB%85n'>Thì quá khứ hoàn thành tiếp diễn</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Th%C3%AC%20qu%C3%A1%20kh%E1%BB%A9%20ti%E1%BA%BFp%20di%E1%BB%85n'>Thì quá khứ tiếp diễn</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Thi%20tuong%20lai'>Thi tuong lai</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Th%C3%AC%20t%C6%B0%C6%A1ng%20lai%20%C4%91%C6%A1n'>Thì tương lai đơn</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Th%C3%AC%20t%C6%B0%C6%A1ng%20lai%20ho%C3%A0n%20th%C3%A0nh'>Thì tương lai hoàn thành</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Th%C3%AC%20t%C6%B0%C6%A1ng%20lai%20ho%C3%A0n%20th%C3%A0nh%20ti%E1%BA%BFp%20di%E1%BB%85n'>Thì tương lai hoàn thành tiếp diễn</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Th%C3%AC%20t%C6%B0%C6%A1ng%20lai%20ti%E1%BA%BFp%20di%E1%BB%85n'>Thì tương lai tiếp diễn</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Ti%E1%BA%BFn%20S%C4%A9%20Pimsleurs'>Tiến Sĩ Pimsleurs</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Tieng%20anh'>Tieng anh</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Tieng%20anh%20cong%20so'>Tieng anh cong so</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Tieng%20anh%20tre%20em'>Tieng anh tre em</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Tieng%20anh%20tre%20em%20theo%20chu%20de'>Tieng anh tre em theo chu de</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Tinh%20tu'>Tinh tu</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Toeic'>Toeic</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Trong%20am'>Trong am</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Tu%20dien%20bang%20hinh%20anh'>Tu dien bang hinh anh</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Tu%20loai'>Tu loai</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Tu%20thong%20dung%20trong%20tieng%20anh'>Tu thong dung trong tieng anh</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Tu%20vung'>Tu vung</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/T%E1%BB%AB%20v%E1%BB%B1ng'>Từ vựng</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Tu%20vung%20bang%20hinh'>Tu vung bang hinh</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Tu%20vung%20chu%20de%20san%20bay'>Tu vung chu de san bay</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Tu%20vung%20chuyen%20nghanh'>Tu vung chuyen nghanh</a>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Tu%20vung%20theo%20chu%20de'>Tu vung theo chu de</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Tu%20vung%20thong%20dung'>Tu vung thong dung</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Tu%20vung%20tieng%20anh'>Tu vung tieng anh</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/T%E1%BB%AB%20V%E1%BB%B1ng%20Ti%E1%BA%BFng%20Anh'>Từ Vựng Tiếng Anh</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Tu%20vung%20tieng%20anh%20thong%20dung'>Tu vung tieng anh thong dung</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Tuc%20ngu%20tieng%20anh'>Tuc ngu tieng anh</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Video%2012%20th%C3%AC%20trong%20ti%E1%BA%BFng%20anh'>Video 12 thì trong tiếng anh</a>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Video%20c%E1%BA%A5u%20tr%C3%BAc%20ng%E1%BB%AF%20ph%C3%A1p'>Video cấu trúc ngữ pháp</a>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://tailieutuhoctienganh.blogspot.com/search/label/Viet%20tat%20tieng%20anh'>Viet tat tieng anh</a>
+</span>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=7001505560405392580&widgetType=Label&widgetId=Label99&action=editWidget&sectionId=cat' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label99"));' target='configLabel99' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+</div>
+<div id='lower-wrapper'>
+<div id='lowerbar1-wrapper'>
+<div class='lowerbar no-items section' id='lowerbar1'></div>
+</div>
+<div id='lowerbar2-wrapper'>
+<div class='lowerbar no-items section' id='lowerbar2'></div>
+</div>
+<div id='lowerbar2-wrapper'>
+<div class='lowerbar no-items section' id='lowerbar3'></div>
+</div>
+<div class='clear'></div>
+</div>
+<div id='footer-wrapper'>
+<div class='credit'>
+Copyright  2011 Tài Liệu Tự Học Tiếng Anh.All rights reserved. Powered by <a href='http://www.blogger.com/'>Blogger</a><br/>Coded by <a href='http://www.goshopping24h.com//'>Mua Sắm Trực Tuyến 24/7</a>, <a href='http://www.goshopping24h.com/'>Mua hàng giá rẻ, Mua hàng giảm giá, Quần áo bóng đá, Giầy đá banh, Áo sơ mi nam</a>, Designed by <a href='http://www.goshopping24h.com/'>TRỊNH ANH TUẤN</a>.
+        </div>
+</div>
+<!-- (Footer-wrapper End) -->
+<div style='clear: both;'></div>
+</div></div></div></div></div></div></div>
+<script type='text/javascript'>
+    var maxWidth = (document.body.clientWidth);
+    var maxHeight = (document.body.clientHeight);
+    </script>
+<div id='top-buttom_image'>
+<a href='javascript:top.window.scrollTo(0,0)' title='Lên đầu  trang'><img alt='Lên đầu trang' border='2' src='http://2.bp.blogspot.com/-E-qglxRwEZQ/T4ExPj17OSI/AAAAAAAAA_I/B9GGkAR-MYk/s1600/top-namkna-blogspot-com.gif'/></a><br/>
+<a href='javascript:window.scrollTo(maxWidth,maxHeight/2)' title='Vào giữa  trang'><img alt='Vào giữa trang' border='2' src='http://3.bp.blogspot.com/-gKWphHQmzFg/T4Ex2EaSxYI/AAAAAAAAA_Y/cY0vZE_As_U/s1600/play-pause-namkna-blogspot-com.gif'/></a><br/>
+<a href='javascript:window.scrollTo(maxWidth,maxHeight)' title='Xuống cuối  trang'><img alt='Xuống cuối trang' border='2' src='http://2.bp.blogspot.com/-1rF3vy5AIZs/T4EyXiSex6I/AAAAAAAAA_o/eyJeP1zHdkU/s1600/bottom-namkna-blogspot-com.gif'/></a>
+</div>
+<script src='https://apis.google.com/js/plusone.js' type='text/javascript'></script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2060351197-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY6Nd7neqejyUTxwfHJ2SyaLmLBlTg:1512857138188';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7001505560405392580','//tailieutuhoctienganh.blogspot.com/2013/05/lam-nao-e-tu-tin-trong-giao-tiep-tieng.html','7001505560405392580');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7001505560405392580', 'title': 'Tài Liệu Tự Học Tiếng Anh', 'url': 'http://tailieutuhoctienganh.blogspot.com/2013/05/lam-nao-e-tu-tin-trong-giao-tiep-tieng.html', 'canonicalUrl': 'http://tailieutuhoctienganh.blogspot.com/2013/05/lam-nao-e-tu-tin-trong-giao-tiep-tieng.html', 'homepageUrl': 'http://tailieutuhoctienganh.blogspot.com/', 'searchUrl': 'http://tailieutuhoctienganh.blogspot.com/search', 'canonicalHomepageUrl': 'http://tailieutuhoctienganh.blogspot.com/', 'blogspotFaviconUrl': 'http://tailieutuhoctienganh.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Tài Liệu Tự Học Tiếng Anh - Atom\x22 href\x3d\x22http://tailieutuhoctienganh.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Tài Liệu Tự Học Tiếng Anh - RSS\x22 href\x3d\x22http://tailieutuhoctienganh.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Tài Liệu Tự Học Tiếng Anh - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/7001505560405392580/posts/default\x22 /\x3e\n\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Tài Liệu Tự Học Tiếng Anh - Atom\x22 href\x3d\x22http://tailieutuhoctienganh.blogspot.com/feeds/4458010710290078984/comments/default\x22 /\x3e\n', 'meTag': '', 'openIdOpTag': '', 'adsenseClientId': 'ca-pub-3001093475988967', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/cf49427052cd842b', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Google+', 'key': 'googlePlus', 'shareMessage': 'Share to Google+', 'target': 'googleplus'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'item', 'postId': '4458010710290078984', 'pageName': 'LÀM THẾ NÀO ĐỂ TỰ TIN TRONG GIAO TIẾP TIẾNG ANH? [part 1]', 'pageTitle': 'Tài Liệu Tự Học Tiếng Anh: LÀM THẾ NÀO ĐỂ TỰ TIN TRONG GIAO TIẾP TIẾNG ANH? [part 1]', 'metaDescription': ''}}, {'name': 'features', 'data': {'lazy_images': 'false', 'unsupported_browser_message': 'false', 'sharing_get_link_dialog': 'false', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'LÀM THẾ NÀO ĐỂ TỰ TIN TRONG GIAO TIẾP TIẾNG ANH? [part 1]', 'description': 'Blog chi sẻ tài liệu học tiếng anh\nBlog chia sẻ phương pháp học tiếng anh hiệu quả', 'url': 'http://tailieutuhoctienganh.blogspot.com/2013/05/lam-nao-e-tu-tin-trong-giao-tiep-tieng.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': false, 'isPost': true, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'postId': 4458010710290078984}}]);
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList8', 'header-tabs', null, document.getElementById('PageList8'), {'title': 'Pages - Menu', 'links': [{'isCurrentPage': false, 'href': 'http://tailieutuhoctienganh.blogspot.com/', 'title': 'Trang chủ'}, {'isCurrentPage': false, 'href': 'http://tailieutuhoctienganh.blogspot.com/p/gioi-thieu.html', 'id': '6855818623210978366', 'title': 'Hướng Dẫn'}, {'isCurrentPage': false, 'href': 'http://tailieutuhoctienganh.blogspot.com/p/lien-he.html', 'id': '3699512288558325600', 'title': 'Liên hệ'}], 'mobile': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'header-tabs', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML16', 'welcome1', null, document.getElementById('HTML16'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'sidebar-main', null, document.getElementById('HTML4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowByEmailView', new _WidgetInfo('FollowByEmail1', 'sidebar-main', null, document.getElementById('FollowByEmail1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar-main', null, document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML7', 'sidebar-main', null, document.getElementById('HTML7'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebar-main', null, document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML15', 'sidebar-main', null, document.getElementById('HTML15'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'sidebar-main', null, document.getElementById('HTML5'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_StatsView', new _WidgetInfo('Stats1', 'sidebar-main', null, document.getElementById('Stats1'), {'title': 'Số Lượt Xem Trang', 'showGraphicalCounter': true, 'showAnimatedCounter': false, 'showSparkline': false, 'statsUrl': '//tailieutuhoctienganh.blogspot.com/b/stats?style\x3dBLACK_TRANSPARENT\x26timeRange\x3dALL_TIME\x26token\x3dDmgHP2ABAAA._iWvrCm25JdwvtVi7RaFm1MTcM3aYtCVfnhBsGHcS14.6bCYtB0z00deyPBCX3SSQA'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML8', 'sidebar-main', null, document.getElementById('HTML8'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'sidebar-main', null, document.getElementById('HTML9'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML6', 'sidebar-main', null, document.getElementById('HTML6'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML11', 'main', null, document.getElementById('HTML11'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML12', 'main', null, document.getElementById('HTML12'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'legacyCommentModerationUrl': 'https://www.blogger.com/moderate-legacy-comment.g?blogID\x3d7001505560405392580', 'iframeCommentsId': 'gpluscomments', 'viewType': 'FILTERED_POSTMOD', 'useNgc': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/3158004207-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML10', 'main', null, document.getElementById('HTML10'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label99', 'cat', null, document.getElementById('Label99'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>

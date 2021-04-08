@@ -1,0 +1,1910 @@
+<!DOCTYPE html>
+<html class='v2' dir='ltr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/3213516723-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<meta content='width=1100' name='viewport'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='http://projektowanieizakadanieogrodw.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://projektowanieizakadanieogrodw.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Projektowanie i zakładanie ogrodów - Atom" href="http://projektowanieizakadanieogrodw.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Projektowanie i zakładanie ogrodów - RSS" href="http://projektowanieizakadanieogrodw.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Projektowanie i zakładanie ogrodów - Atom" href="https://www.blogger.com/feeds/3245619205445000130/posts/default" />
+<link rel="openid.server" href="https://www.blogger.com/openid-server.g" />
+<link rel="openid.delegate" href="http://projektowanieizakadanieogrodw.blogspot.com/" />
+<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/771816573-ieretrofit.js"></script>
+<![endif]-->
+<meta content='http://projektowanieizakadanieogrodw.blogspot.com/' property='og:url'/>
+<meta content='Projektowanie i zakładanie ogrodów' property='og:title'/>
+<meta content='' property='og:description'/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>Projektowanie i zakładanie ogrodów</title>
+<style id='page-skin-1' type='text/css'><!--
+/*-----------------------------------------------
+Blogger Template Style
+Name:     Picture Window
+Designer: Blogger
+URL:      www.blogger.com
+----------------------------------------------- */
+
+/* Content
+----------------------------------------------- */
+body {
+font: normal normal 15px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #333333;
+background: #111111 url(http://themes.googleusercontent.com/image?id=1OACCYOE0-eoTRTfsBuX1NMN9nz599ufI1Jh0CggPFA_sK80AGkIr8pLtYRpNUKPmwtEa) repeat-x fixed top center;
+}
+html body .region-inner {
+min-width: 0;
+max-width: 100%;
+width: auto;
+}
+.content-outer {
+font-size: 90%;
+}
+a:link {
+text-decoration:none;
+color: #336699;
+}
+a:visited {
+text-decoration:none;
+color: #6699cc;
+}
+a:hover {
+text-decoration:underline;
+color: #33aaff;
+}
+.content-outer {
+background: transparent none repeat scroll top left;
+-moz-border-radius: 0;
+-webkit-border-radius: 0;
+-goog-ms-border-radius: 0;
+border-radius: 0;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+margin: 20px auto;
+}
+.content-inner {
+padding: 0;
+}
+/* Header
+----------------------------------------------- */
+.header-outer {
+background: transparent none repeat-x scroll top left;
+_background-image: none;
+color: #ffffff;
+-moz-border-radius: 0;
+-webkit-border-radius: 0;
+-goog-ms-border-radius: 0;
+border-radius: 0;
+}
+.Header img, .Header #header-inner {
+-moz-border-radius: 0;
+-webkit-border-radius: 0;
+-goog-ms-border-radius: 0;
+border-radius: 0;
+}
+.header-inner .Header .titlewrapper,
+.header-inner .Header .descriptionwrapper {
+padding-left: 0;
+padding-right: 0;
+}
+.Header h1 {
+font: normal normal 36px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+}
+.Header h1 a {
+color: #ffffff;
+}
+.Header .description {
+font-size: 130%;
+}
+/* Tabs
+----------------------------------------------- */
+.tabs-inner {
+margin: .5em 20px 0;
+padding: 0;
+}
+.tabs-inner .section {
+margin: 0;
+}
+.tabs-inner .widget ul {
+padding: 0;
+background: transparent none repeat scroll bottom;
+-moz-border-radius: 0;
+-webkit-border-radius: 0;
+-goog-ms-border-radius: 0;
+border-radius: 0;
+}
+.tabs-inner .widget li {
+border: none;
+}
+.tabs-inner .widget li a {
+display: inline-block;
+padding: .5em 1em;
+margin-right: .25em;
+color: #ffffff;
+font: normal normal 15px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+-moz-border-radius: 10px 10px 0 0;
+-webkit-border-top-left-radius: 10px;
+-webkit-border-top-right-radius: 10px;
+-goog-ms-border-radius: 10px 10px 0 0;
+border-radius: 10px 10px 0 0;
+background: transparent url(https://resources.blogblog.com/blogblog/data/1kt/transparent/black50.png) repeat scroll top left;
+border-right: 1px solid transparent;
+}
+.tabs-inner .widget li:first-child a {
+padding-left: 1.25em;
+-moz-border-radius-topleft: 10px;
+-moz-border-radius-bottomleft: 0;
+-webkit-border-top-left-radius: 10px;
+-webkit-border-bottom-left-radius: 0;
+-goog-ms-border-top-left-radius: 10px;
+-goog-ms-border-bottom-left-radius: 0;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 0;
+}
+.tabs-inner .widget li.selected a,
+.tabs-inner .widget li a:hover {
+position: relative;
+z-index: 1;
+background: transparent url(https://resources.blogblog.com/blogblog/data/1kt/transparent/white80.png) repeat scroll bottom;
+color: #336699;
+-moz-box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+-webkit-box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+-goog-ms-box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+}
+/* Headings
+----------------------------------------------- */
+h2 {
+font: bold normal 13px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+text-transform: uppercase;
+color: #888888;
+margin: .5em 0;
+}
+/* Main
+----------------------------------------------- */
+.main-outer {
+background: transparent url(https://resources.blogblog.com/blogblog/data/1kt/transparent/white80.png) repeat scroll top left;
+-moz-border-radius: 20px 20px 0 0;
+-webkit-border-top-left-radius: 20px;
+-webkit-border-top-right-radius: 20px;
+-webkit-border-bottom-left-radius: 0;
+-webkit-border-bottom-right-radius: 0;
+-goog-ms-border-radius: 20px 20px 0 0;
+border-radius: 20px 20px 0 0;
+-moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .15);
+-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .15);
+-goog-ms-box-shadow: 0 1px 3px rgba(0, 0, 0, .15);
+box-shadow: 0 1px 3px rgba(0, 0, 0, .15);
+}
+.main-inner {
+padding: 15px 20px 20px;
+}
+.main-inner .column-center-inner {
+padding: 0 0;
+}
+.main-inner .column-left-inner {
+padding-left: 0;
+}
+.main-inner .column-right-inner {
+padding-right: 0;
+}
+/* Posts
+----------------------------------------------- */
+h3.post-title {
+margin: 0;
+font: normal normal 18px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+}
+.comments h4 {
+margin: 1em 0 0;
+font: normal normal 18px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+}
+.date-header span {
+color: #333333;
+}
+.post-outer {
+background-color: #ffffff;
+border: solid 1px #dddddd;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+-goog-ms-border-radius: 5px;
+padding: 15px 20px;
+margin: 0 -20px 20px;
+}
+.post-body {
+line-height: 1.4;
+font-size: 110%;
+position: relative;
+}
+.post-header {
+margin: 0 0 1.5em;
+color: #999999;
+line-height: 1.6;
+}
+.post-footer {
+margin: .5em 0 0;
+color: #999999;
+line-height: 1.6;
+}
+#blog-pager {
+font-size: 140%
+}
+#comments .comment-author {
+padding-top: 1.5em;
+border-top: dashed 1px #ccc;
+border-top: dashed 1px rgba(128, 128, 128, .5);
+background-position: 0 1.5em;
+}
+#comments .comment-author:first-child {
+padding-top: 0;
+border-top: none;
+}
+.avatar-image-container {
+margin: .2em 0 0;
+}
+/* Comments
+----------------------------------------------- */
+.comments .comments-content .icon.blog-author {
+background-repeat: no-repeat;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
+}
+.comments .comments-content .loadmore a {
+border-top: 1px solid #33aaff;
+border-bottom: 1px solid #33aaff;
+}
+.comments .continue {
+border-top: 2px solid #33aaff;
+}
+/* Widgets
+----------------------------------------------- */
+.widget ul, .widget #ArchiveList ul.flat {
+padding: 0;
+list-style: none;
+}
+.widget ul li, .widget #ArchiveList ul.flat li {
+border-top: dashed 1px #ccc;
+border-top: dashed 1px rgba(128, 128, 128, .5);
+}
+.widget ul li:first-child, .widget #ArchiveList ul.flat li:first-child {
+border-top: none;
+}
+.widget .post-body ul {
+list-style: disc;
+}
+.widget .post-body ul li {
+border: none;
+}
+/* Footer
+----------------------------------------------- */
+.footer-outer {
+color:#cccccc;
+background: transparent url(https://resources.blogblog.com/blogblog/data/1kt/transparent/black50.png) repeat scroll top left;
+-moz-border-radius: 0 0 20px 20px;
+-webkit-border-top-left-radius: 0;
+-webkit-border-top-right-radius: 0;
+-webkit-border-bottom-left-radius: 20px;
+-webkit-border-bottom-right-radius: 20px;
+-goog-ms-border-radius: 0 0 20px 20px;
+border-radius: 0 0 20px 20px;
+-moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .15);
+-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .15);
+-goog-ms-box-shadow: 0 1px 3px rgba(0, 0, 0, .15);
+box-shadow: 0 1px 3px rgba(0, 0, 0, .15);
+}
+.footer-inner {
+padding: 10px 20px 20px;
+}
+.footer-outer a {
+color: #99ccee;
+}
+.footer-outer a:visited {
+color: #77aaee;
+}
+.footer-outer a:hover {
+color: #33aaff;
+}
+.footer-outer .widget h2 {
+color: #aaaaaa;
+}
+/* Mobile
+----------------------------------------------- */
+html body.mobile {
+height: auto;
+}
+html body.mobile {
+min-height: 480px;
+background-size: 100% auto;
+}
+.mobile .body-fauxcolumn-outer {
+background: transparent none repeat scroll top left;
+}
+html .mobile .mobile-date-outer, html .mobile .blog-pager {
+border-bottom: none;
+background: transparent url(https://resources.blogblog.com/blogblog/data/1kt/transparent/white80.png) repeat scroll top left;
+margin-bottom: 10px;
+}
+.mobile .date-outer {
+background: transparent url(https://resources.blogblog.com/blogblog/data/1kt/transparent/white80.png) repeat scroll top left;
+}
+.mobile .header-outer, .mobile .main-outer,
+.mobile .post-outer, .mobile .footer-outer {
+-moz-border-radius: 0;
+-webkit-border-radius: 0;
+-goog-ms-border-radius: 0;
+border-radius: 0;
+}
+.mobile .content-outer,
+.mobile .main-outer,
+.mobile .post-outer {
+background: inherit;
+border: none;
+}
+.mobile .content-outer {
+font-size: 100%;
+}
+.mobile-link-button {
+background-color: #336699;
+}
+.mobile-link-button a:link, .mobile-link-button a:visited {
+color: #ffffff;
+}
+.mobile-index-contents {
+color: #333333;
+}
+.mobile .tabs-inner .PageList .widget-content {
+background: transparent url(https://resources.blogblog.com/blogblog/data/1kt/transparent/white80.png) repeat scroll bottom;
+color: #336699;
+}
+.mobile .tabs-inner .PageList .widget-content .pagelist-arrow {
+border-left: 1px solid transparent;
+}
+
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+body {
+min-width: 960px;
+}
+.content-outer, .content-fauxcolumn-outer, .region-inner {
+min-width: 960px;
+max-width: 960px;
+_width: 960px;
+}
+.main-inner .columns {
+padding-left: 0px;
+padding-right: 310px;
+}
+.main-inner .fauxcolumn-center-outer {
+left: 0px;
+right: 310px;
+/* IE6 does not respect left and right together */
+_width: expression(this.parentNode.offsetWidth -
+parseInt("0px") -
+parseInt("310px") + 'px');
+}
+.main-inner .fauxcolumn-left-outer {
+width: 0px;
+}
+.main-inner .fauxcolumn-right-outer {
+width: 310px;
+}
+.main-inner .column-left-outer {
+width: 0px;
+right: 100%;
+margin-left: -0px;
+}
+.main-inner .column-right-outer {
+width: 310px;
+margin-right: -310px;
+}
+#layout {
+min-width: 0;
+}
+#layout .content-outer {
+min-width: 0;
+width: 800px;
+}
+#layout .region-inner {
+min-width: 0;
+width: auto;
+}
+body#layout div.add_widget {
+padding: 8px;
+}
+body#layout div.add_widget a {
+margin-left: 32px;
+}
+--></style>
+<style>
+    body {background-image:url(http\:\/\/themes.googleusercontent.com\/image?id=1OACCYOE0-eoTRTfsBuX1NMN9nz599ufI1Jh0CggPFA_sK80AGkIr8pLtYRpNUKPmwtEa);}
+    
+@media (max-width: 200px) { body {background-image:url(http\:\/\/themes.googleusercontent.com\/image?id=1OACCYOE0-eoTRTfsBuX1NMN9nz599ufI1Jh0CggPFA_sK80AGkIr8pLtYRpNUKPmwtEa&options=w200);}}
+@media (max-width: 400px) and (min-width: 201px) { body {background-image:url(http\:\/\/themes.googleusercontent.com\/image?id=1OACCYOE0-eoTRTfsBuX1NMN9nz599ufI1Jh0CggPFA_sK80AGkIr8pLtYRpNUKPmwtEa&options=w400);}}
+@media (max-width: 800px) and (min-width: 401px) { body {background-image:url(http\:\/\/themes.googleusercontent.com\/image?id=1OACCYOE0-eoTRTfsBuX1NMN9nz599ufI1Jh0CggPFA_sK80AGkIr8pLtYRpNUKPmwtEa&options=w800);}}
+@media (max-width: 1200px) and (min-width: 801px) { body {background-image:url(http\:\/\/themes.googleusercontent.com\/image?id=1OACCYOE0-eoTRTfsBuX1NMN9nz599ufI1Jh0CggPFA_sK80AGkIr8pLtYRpNUKPmwtEa&options=w1200);}}
+/* Last tag covers anything over one higher than the previous max-size cap. */
+@media (min-width: 1201px) { body {background-image:url(http\:\/\/themes.googleusercontent.com\/image?id=1OACCYOE0-eoTRTfsBuX1NMN9nz599ufI1Jh0CggPFA_sK80AGkIr8pLtYRpNUKPmwtEa&options=w1600);}}
+  </style>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=3245619205445000130&amp;zx=e5a36fca-c1f9-439d-b80a-25717659c1bb' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=3245619205445000130&amp;zx=e5a36fca-c1f9-439d-b80a-25717659c1bb' rel='stylesheet'/></noscript>
+</head>
+<body class='loading variant-open'>
+<div class='navbar section' id='navbar' name='Pasek nawigacyjny'><div class='widget Navbar' data-version='1' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d3245619205445000130\x26blogName\x3dProjektowanie+i+zak%C5%82adanie+ogrod%C3%B3w\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dBLUE\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttp://projektowanieizakadanieogrodw.blogspot.com/search\x26blogLocale\x3dpl\x26v\x3d2\x26homepageUrl\x3dhttp://projektowanieizakadanieogrodw.blogspot.com/\x26vt\x3d-1674967833017433447',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div itemscope='itemscope' itemtype='http://schema.org/Blog' style='display: none;'>
+<meta content='Projektowanie i zakładanie ogrodów' itemprop='name'/>
+</div>
+<div class='body-fauxcolumns'>
+<div class='fauxcolumn-outer body-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content'>
+<div class='content-fauxcolumns'>
+<div class='fauxcolumn-outer content-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content-outer'>
+<div class='content-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left content-fauxborder-left'>
+<div class='fauxborder-right content-fauxborder-right'></div>
+<div class='content-inner'>
+<header>
+<div class='header-outer'>
+<div class='header-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left header-fauxborder-left'>
+<div class='fauxborder-right header-fauxborder-right'></div>
+<div class='region-inner header-inner'>
+<div class='header section' id='header' name='Nagłówek'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title'>
+Projektowanie i zakładanie ogrodów
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>
+</span></p>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='header-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</header>
+<div class='tabs-outer'>
+<div class='tabs-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left tabs-fauxborder-left'>
+<div class='fauxborder-right tabs-fauxborder-right'></div>
+<div class='region-inner tabs-inner'>
+<div class='tabs no-items section' id='crosscol' name='Wszystkie kolumny'></div>
+<div class='tabs no-items section' id='crosscol-overflow' name='Cross-Column 2'></div>
+</div>
+</div>
+<div class='tabs-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='main-outer'>
+<div class='main-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left main-fauxborder-left'>
+<div class='fauxborder-right main-fauxborder-right'></div>
+<div class='region-inner main-inner'>
+<div class='columns fauxcolumns'>
+<div class='fauxcolumn-outer fauxcolumn-center-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-left-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-right-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<!-- corrects IE6 width calculation -->
+<div class='columns-inner'>
+<div class='column-center-outer'>
+<div class='column-center-inner'>
+<div class='main section' id='main' name='Główny'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>czwartek, 17 września 2015</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://www.izbarolnicza.pl/images/srodkiochrony%20roslin.jpg' itemprop='image_url'/>
+<meta content='3245619205445000130' itemprop='blogId'/>
+<meta content='2635478132080547289' itemprop='postId'/>
+<a name='2635478132080547289'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://projektowanieizakadanieogrodw.blogspot.com/2015/09/chronimy-rosliny-w-ogrodzie.html'>Chronimy rośliny w ogrodzie</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-2635478132080547289' itemprop='description articleBody'>
+<a href="http://www.izbarolnicza.pl/images/srodkiochrony%20roslin.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="173" src="http://www.izbarolnicza.pl/images/srodkiochrony%20roslin.jpg" width="320" /></a>Zakładając własny ogród niejednokrotnie nie myślimy o tym, że posadzone przez nas rośliny mogą potrzebować różnego rodzaju pomocy i ochrony. Z zagrożenia są różne - mogą to być bakterie i grzyby, różnego rodzaju choroby lub szkodniki i insekty, które bez skrupułów pożerają i niszczą nasze rośliny.<br />
+<br />
+Środki ochrony roślin mogą mieć różną postać - granulatu, proszku, sprayu, koncentratu czy pułapek i różnego rodzaju odstraszaczy. Wybór dostępnych środków jest naprawdę duży, dlatego dobrze jest skorzystać z pomocy specjalistów. W wielu sklepach zarówno stacjonarnych, jak i internetowych możemy skorzystać z konsultacji z fachowcem, który doradzi nam najlepszy rozwiązanie na nasze ogrodowe bolączki.<br />
+<br />
+Na przykład kupując w sklepie <a href="http://www.flora-fauna.pl/pol_m_Srodki-ochrony-roslin-283.html">flora-fauna.pl środki ochrony roślin (link)</a> mamy do wyboru linię chemiczną lub organiczną oraz kilku producentów. Lubię u nich kupować, bo mają dobry kontakt z klientem i w razie wątpliwości zawsze pomagają.
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Autor:
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://plus.google.com/101036287134270859038' itemprop='url'/>
+<a class='g-profile' href='https://plus.google.com/101036287134270859038' rel='author' title='author profile'>
+<span itemprop='name'>Asia Eurowska</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+o
+<meta content='http://projektowanieizakadanieogrodw.blogspot.com/2015/09/chronimy-rosliny-w-ogrodzie.html' itemprop='url'/>
+<a class='timestamp-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2015/09/chronimy-rosliny-w-ogrodzie.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2015-09-17T06:21:00-07:00'>06:21</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2015/09/chronimy-rosliny-w-ogrodzie.html#comment-form' onclick=''>
+Brak komentarzy:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-638886068'>
+<a href='https://www.blogger.com/post-edit.g?blogID=3245619205445000130&postID=2635478132080547289&from=pencil' title='Edytuj post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=2635478132080547289&target=email' target='_blank' title='Wyślij pocztą e-mail'><span class='share-button-link-text'>Wyślij pocztą e-mail</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=2635478132080547289&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Wrzuć na bloga'><span class='share-button-link-text'>Wrzuć na bloga</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=2635478132080547289&target=twitter' target='_blank' title='Udostępnij w usłudze Twitter'><span class='share-button-link-text'>Udostępnij w usłudze Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=2635478132080547289&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Udostępnij w usłudze Facebook'><span class='share-button-link-text'>Udostępnij w usłudze Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=2635478132080547289&target=pinterest' target='_blank' title='Udostępnij w serwisie Pinterest'><span class='share-button-link-text'>Udostępnij w serwisie Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://projektowanieizakadanieogrodw.blogspot.com/2015/09/chronimy-rosliny-w-ogrodzie.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Etykiety:
+<a href='http://projektowanieizakadanieogrodw.blogspot.com/search/label/%C5%9Brodki%20ochrony%20ro%C5%9Blin' rel='tag'>środki ochrony roślin</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>wtorek, 20 stycznia 2015</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://www.podewils.pl/files/structure/7/2/Obraz%20086.jpg' itemprop='image_url'/>
+<meta content='3245619205445000130' itemprop='blogId'/>
+<meta content='2664024091127075135' itemprop='postId'/>
+<a name='2664024091127075135'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://projektowanieizakadanieogrodw.blogspot.com/2015/01/ogrod-zima.html'>Ogród zimą</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-2664024091127075135' itemprop='description articleBody'>
+<div class="" style="clear: both; text-align: left;">
+Zima to sezon, który większość osób uważa za "martwy" dla ogrodnictwa. Jednakże jest to też czas, kiedy możemy cieszyć się pięknymi widokami świata pokrytego białą szatą. Ogród pod śnieżna kołderka potrafi być równie piękny, jak ten wiosna, latem lub jesienią!</div>
+<br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="https://www.podewils.pl/files/structure/7/2/Obraz%20086.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="241" src="https://www.podewils.pl/files/structure/7/2/Obraz%20086.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">fot. podewils.pl</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://wizjadomu.pl/files/2012/11/1389f_ogrodek-zdjecia_1_jpg_ogrod-zima-6_1.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="272" src="http://wizjadomu.pl/files/2012/11/1389f_ogrodek-zdjecia_1_jpg_ogrod-zima-6_1.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">fot. wizjadomu.pl</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://d.polskatimes.pl/k/r/1/d2/21/5296068373520_o.jpg?1421544687" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="266" src="http://d.polskatimes.pl/k/r/1/d2/21/5296068373520_o.jpg?1421544687" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">fot. polskatimes.pl</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://www.sadowniczy.pl/data/include/cms/Galeria-sadowniczy.pl/Nasz-ogrod-zima/18.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="265" src="http://www.sadowniczy.pl/data/include/cms/Galeria-sadowniczy.pl/Nasz-ogrod-zima/18.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">fot. sadowniczy.pl</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://www.nastrojowyogrod.pl/wp/wp-content/uploads/2010/12/ogr%C3%B3d-zim%C4%85-11.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="290" src="http://www.nastrojowyogrod.pl/wp/wp-content/uploads/2010/12/ogr%C3%B3d-zim%C4%85-11.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">fot. nastrojowyogrod.pl</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://budujeurzadzam.pl/wp-content/uploads/2011/12/Ogr%C3%B3d-zim%C4%85.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="262" src="http://budujeurzadzam.pl/wp-content/uploads/2011/12/Ogr%C3%B3d-zim%C4%85.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">fot. budujeurzadzam.pl</td></tr>
+</tbody></table>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Autor:
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://plus.google.com/101036287134270859038' itemprop='url'/>
+<a class='g-profile' href='https://plus.google.com/101036287134270859038' rel='author' title='author profile'>
+<span itemprop='name'>Asia Eurowska</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+o
+<meta content='http://projektowanieizakadanieogrodw.blogspot.com/2015/01/ogrod-zima.html' itemprop='url'/>
+<a class='timestamp-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2015/01/ogrod-zima.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2015-01-20T08:25:00-08:00'>08:25</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2015/01/ogrod-zima.html#comment-form' onclick=''>
+Brak komentarzy:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-638886068'>
+<a href='https://www.blogger.com/post-edit.g?blogID=3245619205445000130&postID=2664024091127075135&from=pencil' title='Edytuj post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=2664024091127075135&target=email' target='_blank' title='Wyślij pocztą e-mail'><span class='share-button-link-text'>Wyślij pocztą e-mail</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=2664024091127075135&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Wrzuć na bloga'><span class='share-button-link-text'>Wrzuć na bloga</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=2664024091127075135&target=twitter' target='_blank' title='Udostępnij w usłudze Twitter'><span class='share-button-link-text'>Udostępnij w usłudze Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=2664024091127075135&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Udostępnij w usłudze Facebook'><span class='share-button-link-text'>Udostępnij w usłudze Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=2664024091127075135&target=pinterest' target='_blank' title='Udostępnij w serwisie Pinterest'><span class='share-button-link-text'>Udostępnij w serwisie Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://projektowanieizakadanieogrodw.blogspot.com/2015/01/ogrod-zima.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Etykiety:
+<a href='http://projektowanieizakadanieogrodw.blogspot.com/search/label/ogr%C3%B3d' rel='tag'>ogród</a>,
+<a href='http://projektowanieizakadanieogrodw.blogspot.com/search/label/zima' rel='tag'>zima</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>środa, 19 listopada 2014</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://media-cache-ak0.pinimg.com/736x/cd/98/10/cd98108373505f6d93e2e587f6a2510f.jpg' itemprop='image_url'/>
+<meta content='3245619205445000130' itemprop='blogId'/>
+<meta content='1335497824432153562' itemprop='postId'/>
+<a name='1335497824432153562'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://projektowanieizakadanieogrodw.blogspot.com/2014/11/co-mozna-zrobic-jesienia-w-ogrodzie.html'>Co można zrobić jesienią w ogrodzie?</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-1335497824432153562' itemprop='description articleBody'>
+Jesienią powinniśmy przygotować ogród do zimy. Jest wiele rzeczy, oprócz grabienia liści, które możemy zrobić w tym czasie. Co takiego?<br />
+<br />
+Jesienią możemy:<br />
+<br />
+<ul>
+<li>sadzić drzewa i krzewy - to najlepszy czas na to!</li>
+<li>przesadzać rośliny iglaste i zimozielone</li>
+<li>sadzić rośliny cebulkowe</li>
+<li>wykopać&nbsp;cebule roślin niezimujących w gruncie</li>
+<li>zabezpieczyć gatunki wrażliwe na niskie temperatury<b>&nbsp;</b>oraz&nbsp;młode rośliny</li>
+<li>zwalczać choroby roślin i zbierać porażone liście</li>
+<li>kosić trawnik tak długo jak jeszcze rośnie</li>
+<li>zaczynamy dokarmiać ptaki</li>
+</ul>
+<br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://media-cache-ak0.pinimg.com/736x/cd/98/10/cd98108373505f6d93e2e587f6a2510f.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img alt="jesienne prace w ogrodzie" border="0" height="400" src="http://media-cache-ak0.pinimg.com/736x/cd/98/10/cd98108373505f6d93e2e587f6a2510f.jpg" title="" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">fot.&nbsp;gardengatenotes.com</td></tr>
+</tbody></table>
+<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Autor:
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://plus.google.com/101036287134270859038' itemprop='url'/>
+<a class='g-profile' href='https://plus.google.com/101036287134270859038' rel='author' title='author profile'>
+<span itemprop='name'>Asia Eurowska</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+o
+<meta content='http://projektowanieizakadanieogrodw.blogspot.com/2014/11/co-mozna-zrobic-jesienia-w-ogrodzie.html' itemprop='url'/>
+<a class='timestamp-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/11/co-mozna-zrobic-jesienia-w-ogrodzie.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2014-11-19T03:49:00-08:00'>03:49</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/11/co-mozna-zrobic-jesienia-w-ogrodzie.html#comment-form' onclick=''>
+Brak komentarzy:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-638886068'>
+<a href='https://www.blogger.com/post-edit.g?blogID=3245619205445000130&postID=1335497824432153562&from=pencil' title='Edytuj post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=1335497824432153562&target=email' target='_blank' title='Wyślij pocztą e-mail'><span class='share-button-link-text'>Wyślij pocztą e-mail</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=1335497824432153562&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Wrzuć na bloga'><span class='share-button-link-text'>Wrzuć na bloga</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=1335497824432153562&target=twitter' target='_blank' title='Udostępnij w usłudze Twitter'><span class='share-button-link-text'>Udostępnij w usłudze Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=1335497824432153562&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Udostępnij w usłudze Facebook'><span class='share-button-link-text'>Udostępnij w usłudze Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=1335497824432153562&target=pinterest' target='_blank' title='Udostępnij w serwisie Pinterest'><span class='share-button-link-text'>Udostępnij w serwisie Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/11/co-mozna-zrobic-jesienia-w-ogrodzie.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Etykiety:
+<a href='http://projektowanieizakadanieogrodw.blogspot.com/search/label/jesie%C5%84' rel='tag'>jesień</a>,
+<a href='http://projektowanieizakadanieogrodw.blogspot.com/search/label/ogr%C3%B3d%20jesieni%C4%85' rel='tag'>ogród jesienią</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>wtorek, 7 października 2014</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://english-wedding.com/wp-content/uploads/2012/07/Garden-party-wedding-ideas-Zen-Photographic-UK-21.jpg' itemprop='image_url'/>
+<meta content='3245619205445000130' itemprop='blogId'/>
+<meta content='2890723182832233450' itemprop='postId'/>
+<a name='2890723182832233450'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://projektowanieizakadanieogrodw.blogspot.com/2014/10/wesele-w-ogrodzie.html'>Wesele w ogrodzie</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-2890723182832233450' itemprop='description articleBody'>
+Wesele w ogrodzie może być marzeniem wielu przyszłych Par Młodych. Niestety nasze polskie warunki należą do raczej kapryśnych, dlatego mało osób decyduje się na to. Ja jednakże postanowiłam zamieścić dzisiaj kilka zdjęć takich "ogrodowych wesel", może kogoś one zainspirują :)<br />
+<br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://english-wedding.com/wp-content/uploads/2012/07/Garden-party-wedding-ideas-Zen-Photographic-UK-21.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="265" src="http://english-wedding.com/wp-content/uploads/2012/07/Garden-party-wedding-ideas-Zen-Photographic-UK-21.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">english-wedding.com</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://www.burgoynes-marquees.co.uk/files/2013/05/Cirencester-Gloucestershire-garden-party-wedding-with-guests-enjoying-themselves-in-the-marquee.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="265" src="http://www.burgoynes-marquees.co.uk/files/2013/05/Cirencester-Gloucestershire-garden-party-wedding-with-guests-enjoying-themselves-in-the-marquee.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">burgoynes-marquees.co.uk</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://english-wedding.com/wp-content/uploads/2012/07/Garden-party-wedding-ideas-Zen-Photographic-UK-31.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="266" src="http://english-wedding.com/wp-content/uploads/2012/07/Garden-party-wedding-ideas-Zen-Photographic-UK-31.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">english-wedding.com</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://www.theweddingspecialists.net//wp-content/plugins/jobber-import-articles/photos/132896-garden-wedding-receptions.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="251" src="http://www.theweddingspecialists.net//wp-content/plugins/jobber-import-articles/photos/132896-garden-wedding-receptions.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">theweddingspecialists.net</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://uei-rentals.com/wp-content/gallery/weddings/garden-wedding-4.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="266" src="http://uei-rentals.com/wp-content/gallery/weddings/garden-wedding-4.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">uei-rentals.com</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://images.lovewedbliss.com/real-weddings/garden-weddings/eclectic-boho-garden-wedding.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="300" src="http://images.lovewedbliss.com/real-weddings/garden-weddings/eclectic-boho-garden-wedding.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">lovewedbliss.com</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://i463.photobucket.com/albums/qq357/anng91/Anita/red-pink-blue-roses-tea-party-garden-wedding-ideas.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="281" src="http://i463.photobucket.com/albums/qq357/anng91/Anita/red-pink-blue-roses-tea-party-garden-wedding-ideas.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;"><span class="_r3"><span class="irc_ho" dir="ltr">anativegarden.blogspot.com</span></span></td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://blog.slubnapracownia.pl/wp-content/uploads/2012/11/%C5%9Blub-w-plenerze-olsztyn.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="300" src="http://blog.slubnapracownia.pl/wp-content/uploads/2012/11/%C5%9Blub-w-plenerze-olsztyn.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">blog.slubnapracownia.pl/</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://iwedupdate.com/wp-content/uploads/2014/05/backyard_wedding_decorations__cheap_backyard_wedding_ideas_wedding_romance.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="266" src="http://iwedupdate.com/wp-content/uploads/2014/05/backyard_wedding_decorations__cheap_backyard_wedding_ideas_wedding_romance.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">furnituredir.blogspot.com</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://www.weddingsbylilly.com/wp-content/uploads/2011/12/outdoor-rustic-wedding-reception-ideas.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="http://www.weddingsbylilly.com/wp-content/uploads/2011/12/outdoor-rustic-wedding-reception-ideas.jpg" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">weddingsbylilly.com</td></tr>
+</tbody></table>
+<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Autor:
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://plus.google.com/101036287134270859038' itemprop='url'/>
+<a class='g-profile' href='https://plus.google.com/101036287134270859038' rel='author' title='author profile'>
+<span itemprop='name'>Asia Eurowska</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+o
+<meta content='http://projektowanieizakadanieogrodw.blogspot.com/2014/10/wesele-w-ogrodzie.html' itemprop='url'/>
+<a class='timestamp-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/10/wesele-w-ogrodzie.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2014-10-07T07:00:00-07:00'>07:00</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/10/wesele-w-ogrodzie.html#comment-form' onclick=''>
+Brak komentarzy:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-638886068'>
+<a href='https://www.blogger.com/post-edit.g?blogID=3245619205445000130&postID=2890723182832233450&from=pencil' title='Edytuj post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=2890723182832233450&target=email' target='_blank' title='Wyślij pocztą e-mail'><span class='share-button-link-text'>Wyślij pocztą e-mail</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=2890723182832233450&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Wrzuć na bloga'><span class='share-button-link-text'>Wrzuć na bloga</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=2890723182832233450&target=twitter' target='_blank' title='Udostępnij w usłudze Twitter'><span class='share-button-link-text'>Udostępnij w usłudze Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=2890723182832233450&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Udostępnij w usłudze Facebook'><span class='share-button-link-text'>Udostępnij w usłudze Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=2890723182832233450&target=pinterest' target='_blank' title='Udostępnij w serwisie Pinterest'><span class='share-button-link-text'>Udostępnij w serwisie Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/10/wesele-w-ogrodzie.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Etykiety:
+<a href='http://projektowanieizakadanieogrodw.blogspot.com/search/label/kostka%20brukowa' rel='tag'>kostka brukowa</a>,
+<a href='http://projektowanieizakadanieogrodw.blogspot.com/search/label/%C5%9Blub%20w%20ogrodzie' rel='tag'>ślub w ogrodzie</a>,
+<a href='http://projektowanieizakadanieogrodw.blogspot.com/search/label/wesele%20w%20ogrodzie' rel='tag'>wesele w ogrodzie</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>piątek, 3 października 2014</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://cdn28.ogrod.smcloud.net/t/photos/thumbnails/6428/ogrody_jesienia_621x0_rozmiar-niestandardowy.jpg' itemprop='image_url'/>
+<meta content='3245619205445000130' itemprop='blogId'/>
+<meta content='3218888336887255807' itemprop='postId'/>
+<a name='3218888336887255807'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://projektowanieizakadanieogrodw.blogspot.com/2014/10/ogrody-jesienia-tez-sa-piekne.html'>Ogrody jesienią też są piękne!</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-3218888336887255807' itemprop='description articleBody'>
+Co prawda jesień dopiero się zaczęła, ale liście już żółkną na drzewach. Lubicie swoje ogrody jesienią? Ja uwielbiam! Dzisiaj mam dla Was kilka przepięknych fotek jesiennych ogrodów.<br />
+<br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://cdn28.ogrod.smcloud.net/t/photos/thumbnails/6428/ogrody_jesienia_621x0_rozmiar-niestandardowy.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="266" src="http://cdn28.ogrod.smcloud.net/t/photos/thumbnails/6428/ogrody_jesienia_621x0_rozmiar-niestandardowy.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;"><span class="irc_ho" dir="ltr" style="margin-right: -2px; overflow: hidden; padding-right: 2px; text-overflow: ellipsis;">www.wymarzonyogrod.pl</span></td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td><a href="http://www.tapeta-ogrod-dom-jesien.na-telefon.org/tapety/ogrod-dom-jesien.jpeg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="286" src="http://www.tapeta-ogrod-dom-jesien.na-telefon.org/tapety/ogrod-dom-jesien.jpeg" width="400" /></a></td></tr>
+<tr><td class="tr-caption">www.tapeta-ogrod-dom-jesien.na-telefon.org</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://www.tapeciarnia.pl/tapety/normalne/157300_jesien_ogrod_kolorowe_liscie_jeziorko_mostek.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="225" src="http://www.tapeciarnia.pl/tapety/normalne/157300_jesien_ogrod_kolorowe_liscie_jeziorko_mostek.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">tapeciarnia.pl</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://akademiaplywania.pl/dodatki/przelewiceJ.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="256" src="http://akademiaplywania.pl/dodatki/przelewiceJ.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">akademiaplywania.pl</td></tr>
+</tbody></table>
+<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Autor:
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://plus.google.com/101036287134270859038' itemprop='url'/>
+<a class='g-profile' href='https://plus.google.com/101036287134270859038' rel='author' title='author profile'>
+<span itemprop='name'>Asia Eurowska</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+o
+<meta content='http://projektowanieizakadanieogrodw.blogspot.com/2014/10/ogrody-jesienia-tez-sa-piekne.html' itemprop='url'/>
+<a class='timestamp-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/10/ogrody-jesienia-tez-sa-piekne.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2014-10-03T07:45:00-07:00'>07:45</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/10/ogrody-jesienia-tez-sa-piekne.html#comment-form' onclick=''>
+Brak komentarzy:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-638886068'>
+<a href='https://www.blogger.com/post-edit.g?blogID=3245619205445000130&postID=3218888336887255807&from=pencil' title='Edytuj post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=3218888336887255807&target=email' target='_blank' title='Wyślij pocztą e-mail'><span class='share-button-link-text'>Wyślij pocztą e-mail</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=3218888336887255807&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Wrzuć na bloga'><span class='share-button-link-text'>Wrzuć na bloga</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=3218888336887255807&target=twitter' target='_blank' title='Udostępnij w usłudze Twitter'><span class='share-button-link-text'>Udostępnij w usłudze Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=3218888336887255807&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Udostępnij w usłudze Facebook'><span class='share-button-link-text'>Udostępnij w usłudze Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=3218888336887255807&target=pinterest' target='_blank' title='Udostępnij w serwisie Pinterest'><span class='share-button-link-text'>Udostępnij w serwisie Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/10/ogrody-jesienia-tez-sa-piekne.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Etykiety:
+<a href='http://projektowanieizakadanieogrodw.blogspot.com/search/label/jesie%C5%84' rel='tag'>jesień</a>,
+<a href='http://projektowanieizakadanieogrodw.blogspot.com/search/label/kostka%20brukowa' rel='tag'>kostka brukowa</a>,
+<a href='http://projektowanieizakadanieogrodw.blogspot.com/search/label/ogr%C3%B3d' rel='tag'>ogród</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>poniedziałek, 1 września 2014</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://media-cache-ak0.pinimg.com/736x/15/cf/f7/15cff708b727a4cd9ee58c5eec7c2d3f.jpg' itemprop='image_url'/>
+<meta content='3245619205445000130' itemprop='blogId'/>
+<meta content='5818351493960094031' itemprop='postId'/>
+<a name='5818351493960094031'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://projektowanieizakadanieogrodw.blogspot.com/2014/09/5-przepieknych-aranzacji-ogrodowych.html'>5 przepięknych aranżacji ogrodowych</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5818351493960094031' itemprop='description articleBody'>
+Dzisiaj mam dla Was pięć przepięknych (moim zdaniem ;)) aranżacji ogrodów. Patrząc na nie coś jakby w duszy drgnęło. Zresztą, myślę, że nie ma sensu na zbytnie rozpisywanie się na ten temat - to po prostu trzeba zobaczyć!<br />
+<br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://media-cache-ak0.pinimg.com/736x/15/cf/f7/15cff708b727a4cd9ee58c5eec7c2d3f.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="640" src="http://media-cache-ak0.pinimg.com/736x/15/cf/f7/15cff708b727a4cd9ee58c5eec7c2d3f.jpg" width="426" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">pinterest.com</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://media-cache-ak0.pinimg.com/736x/14/ea/eb/14eaeb414349564ff4199ec410defb5d.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="640" src="http://media-cache-ak0.pinimg.com/736x/14/ea/eb/14eaeb414349564ff4199ec410defb5d.jpg" width="480" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">fleamarketgardening.org</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://media-cache-ak0.pinimg.com/736x/b7/3c/4c/b73c4c53acb9713db4380170c289f9b6.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="http://media-cache-ak0.pinimg.com/736x/b7/3c/4c/b73c4c53acb9713db4380170c289f9b6.jpg" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">bhg.com</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://media-cache-ak0.pinimg.com/736x/b1/38/8e/b1388e7ace1d6be189d607589721dd8c.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="http://media-cache-ak0.pinimg.com/736x/b1/38/8e/b1388e7ace1d6be189d607589721dd8c.jpg" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">squidoo.com</td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://media-cache-ak0.pinimg.com/736x/48/67/9e/48679ebc402d3c6c37fb3b3ff0fe9fa1.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="http://media-cache-ak0.pinimg.com/736x/48/67/9e/48679ebc402d3c6c37fb3b3ff0fe9fa1.jpg" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">pinterest.com</td></tr>
+</tbody></table>
+<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Autor:
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://plus.google.com/101036287134270859038' itemprop='url'/>
+<a class='g-profile' href='https://plus.google.com/101036287134270859038' rel='author' title='author profile'>
+<span itemprop='name'>Asia Eurowska</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+o
+<meta content='http://projektowanieizakadanieogrodw.blogspot.com/2014/09/5-przepieknych-aranzacji-ogrodowych.html' itemprop='url'/>
+<a class='timestamp-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/09/5-przepieknych-aranzacji-ogrodowych.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2014-09-01T06:51:00-07:00'>06:51</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/09/5-przepieknych-aranzacji-ogrodowych.html#comment-form' onclick=''>
+Brak komentarzy:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-638886068'>
+<a href='https://www.blogger.com/post-edit.g?blogID=3245619205445000130&postID=5818351493960094031&from=pencil' title='Edytuj post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=5818351493960094031&target=email' target='_blank' title='Wyślij pocztą e-mail'><span class='share-button-link-text'>Wyślij pocztą e-mail</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=5818351493960094031&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Wrzuć na bloga'><span class='share-button-link-text'>Wrzuć na bloga</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=5818351493960094031&target=twitter' target='_blank' title='Udostępnij w usłudze Twitter'><span class='share-button-link-text'>Udostępnij w usłudze Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=5818351493960094031&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Udostępnij w usłudze Facebook'><span class='share-button-link-text'>Udostępnij w usłudze Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=5818351493960094031&target=pinterest' target='_blank' title='Udostępnij w serwisie Pinterest'><span class='share-button-link-text'>Udostępnij w serwisie Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/09/5-przepieknych-aranzacji-ogrodowych.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>poniedziałek, 18 sierpnia 2014</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://media-cache-ec0.pinimg.com/736x/20/19/65/201965e80862f8ff8deeea61b1c646d7.jpg' itemprop='image_url'/>
+<meta content='3245619205445000130' itemprop='blogId'/>
+<meta content='7177974198955690030' itemprop='postId'/>
+<a name='7177974198955690030'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://projektowanieizakadanieogrodw.blogspot.com/2014/08/zioowy-ogrod-w-domu.html'>Ziołowy ogród w domu</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-7177974198955690030' itemprop='description articleBody'>
+Powracam po długiej przerwie...<br />
+<br />
+Kocham gotować i uwielbiam mieć świeże zioła zawsze pod ręką. Dlatego też dzisiaj mam dla Was kilka pomysłów na trzymanie ziół w domu. W końcu spełniają one nie tylko zadanie praktyczne, ale także estetyczne. Możemy umieścić je w kuchni i jest to oczywiście najwygodniejsza opcja, ale nie zawsze możliwa do zrealizowania. Jednakże bez obaw, w końcu zioła możemy umieścić także w salonie lub innym pomieszczeniu, w którym znajdą one odpowiednie dla siebie warunki.<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://media-cache-ec0.pinimg.com/736x/20/19/65/201965e80862f8ff8deeea61b1c646d7.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://media-cache-ec0.pinimg.com/736x/20/19/65/201965e80862f8ff8deeea61b1c646d7.jpg" width="467" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://media-cache-ec0.pinimg.com/736x/ea/3f/5c/ea3f5ca81e2675ba4f7b4ed96209b40c.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://media-cache-ec0.pinimg.com/736x/ea/3f/5c/ea3f5ca81e2675ba4f7b4ed96209b40c.jpg" width="512" />&nbsp;</a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://www.marilyn.ca/getattachment/c21dde89-ef55-4940-b79c-1bd0aea9f38d/Daily/December-2012/12_26_2012/HerbGarden/content/Display/Diplay1/634864996259200000?width=310&amp;height=500" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://www.marilyn.ca/getattachment/c21dde89-ef55-4940-b79c-1bd0aea9f38d/Daily/December-2012/12_26_2012/HerbGarden/content/Display/Diplay1/634864996259200000?width=310&amp;height=500" width="396" />&nbsp;</a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://media-cache-ec0.pinimg.com/736x/5c/0c/4b/5c0c4b6db1af3858f2380e15c86e3f5a.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://media-cache-ec0.pinimg.com/736x/5c/0c/4b/5c0c4b6db1af3858f2380e15c86e3f5a.jpg" width="480" />&nbsp;</a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://media-cache-ak0.pinimg.com/736x/71/00/41/710041ba178fa7f2d9f49b8f3b801ed3.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://media-cache-ak0.pinimg.com/736x/71/00/41/710041ba178fa7f2d9f49b8f3b801ed3.jpg" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-06F1pFevmJk/UaJFRYPMc0I/AAAAAAAAA0s/8RsIhMBo4xQ/s1600/IMG_4800.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://3.bp.blogspot.com/-06F1pFevmJk/UaJFRYPMc0I/AAAAAAAAA0s/8RsIhMBo4xQ/s1600/IMG_4800.JPG" width="424" />&nbsp;</a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://media-cache-ec0.pinimg.com/736x/c3/f7/ca/c3f7ca13800b8d006d5bcf7400914714.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://media-cache-ec0.pinimg.com/736x/c3/f7/ca/c3f7ca13800b8d006d5bcf7400914714.jpg" width="425" />&nbsp;</a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://media-cache-ec0.pinimg.com/736x/2b/33/32/2b3332fe38fdec9fb6b5adfc5c2276a3.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://media-cache-ec0.pinimg.com/736x/2b/33/32/2b3332fe38fdec9fb6b5adfc5c2276a3.jpg" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://media-cache-ec0.pinimg.com/736x/91/4f/32/914f32a8b1f8cac918db36c058fa43b1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://media-cache-ec0.pinimg.com/736x/91/4f/32/914f32a8b1f8cac918db36c058fa43b1.jpg" width="553" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://media-cache-ak0.pinimg.com/736x/12/58/d8/1258d8babb56048a92a5a13fba751edf.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://media-cache-ak0.pinimg.com/736x/12/58/d8/1258d8babb56048a92a5a13fba751edf.jpg" width="426" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://media-cache-ec0.pinimg.com/736x/eb/d3/12/ebd3120a8063924167f26b4f97e09121.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://media-cache-ec0.pinimg.com/736x/eb/d3/12/ebd3120a8063924167f26b4f97e09121.jpg" width="428" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://media-cache-ec0.pinimg.com/736x/04/b0/b7/04b0b73d3360af5f9e0738f1f05d077d.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://media-cache-ec0.pinimg.com/736x/04/b0/b7/04b0b73d3360af5f9e0738f1f05d077d.jpg" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: left;">
+&nbsp;(fot. pinterest.com)</div>
+<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Autor:
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://plus.google.com/101036287134270859038' itemprop='url'/>
+<a class='g-profile' href='https://plus.google.com/101036287134270859038' rel='author' title='author profile'>
+<span itemprop='name'>Asia Eurowska</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+o
+<meta content='http://projektowanieizakadanieogrodw.blogspot.com/2014/08/zioowy-ogrod-w-domu.html' itemprop='url'/>
+<a class='timestamp-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/08/zioowy-ogrod-w-domu.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2014-08-18T02:30:00-07:00'>02:30</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/08/zioowy-ogrod-w-domu.html#comment-form' onclick=''>
+Brak komentarzy:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-638886068'>
+<a href='https://www.blogger.com/post-edit.g?blogID=3245619205445000130&postID=7177974198955690030&from=pencil' title='Edytuj post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=7177974198955690030&target=email' target='_blank' title='Wyślij pocztą e-mail'><span class='share-button-link-text'>Wyślij pocztą e-mail</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=7177974198955690030&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Wrzuć na bloga'><span class='share-button-link-text'>Wrzuć na bloga</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=7177974198955690030&target=twitter' target='_blank' title='Udostępnij w usłudze Twitter'><span class='share-button-link-text'>Udostępnij w usłudze Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=7177974198955690030&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Udostępnij w usłudze Facebook'><span class='share-button-link-text'>Udostępnij w usłudze Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=3245619205445000130&postID=7177974198955690030&target=pinterest' target='_blank' title='Udostępnij w serwisie Pinterest'><span class='share-button-link-text'>Udostępnij w serwisie Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/08/zioowy-ogrod-w-domu.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://projektowanieizakadanieogrodw.blogspot.com/search?updated-max=2014-08-18T02:30:00-07:00&amp;max-results=7' id='Blog1_blog-pager-older-link' title='Starsze posty'>Starsze posty</a>
+</span>
+<a class='home-link' href='http://projektowanieizakadanieogrodw.blogspot.com/'>Strona główna</a>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+<div class='feed-links'>
+Subskrybuj:
+<a class='feed-link' href='http://projektowanieizakadanieogrodw.blogspot.com/feeds/posts/default' target='_blank' type='application/atom+xml'>Posty (Atom)</a>
+</div>
+</div>
+<script type='text/javascript'>
+    window.___gcfg = { 'lang': 'pl' };
+  </script>
+</div></div>
+</div>
+</div>
+<div class='column-left-outer'>
+<div class='column-left-inner'>
+<aside>
+</aside>
+</div>
+</div>
+<div class='column-right-outer'>
+<div class='column-right-inner'>
+<aside>
+<div class='sidebar section' id='sidebar-right-1'><div class='widget Image' data-version='1' id='Image2'>
+<h2>Litbud.pl - budowa domów jednorodzinnych Kraków</h2>
+<div class='widget-content'>
+<a href='http://www.litbud.pl/'>
+<img alt='Litbud.pl - budowa domów jednorodzinnych Kraków' height='132' id='Image2_img' src='http://3.bp.blogspot.com/-z4ffgteu7Ws/U-tm4F8J1NI/AAAAAAAAK6s/ya3CQQKRXd4/s1600/litbud-budowa-domow-pod-klucz.PNG' width='238'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3245619205445000130&widgetType=Image&widgetId=Image2&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image2"));' target='configImage2' title='Edytuj'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<h2>Archiwum bloga</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2015/'>
+2015
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2015/09/'>
+września
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+<ul class='posts'>
+<li><a href='http://projektowanieizakadanieogrodw.blogspot.com/2015/09/chronimy-rosliny-w-ogrodzie.html'>Chronimy rośliny w ogrodzie</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2015/01/'>
+stycznia
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/'>
+2014
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/11/'>
+listopada
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/10/'>
+października
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/09/'>
+września
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2014/08/'>
+sierpnia
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2013/'>
+2013
+</a>
+<span class='post-count' dir='ltr'>(159)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2013/10/'>
+października
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2013/09/'>
+września
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2013/08/'>
+sierpnia
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2013/07/'>
+lipca
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2013/06/'>
+czerwca
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2013/05/'>
+maja
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2013/04/'>
+kwietnia
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2013/03/'>
+marca
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2013/02/'>
+lutego
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2013/01/'>
+stycznia
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2012/'>
+2012
+</a>
+<span class='post-count' dir='ltr'>(136)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2012/12/'>
+grudnia
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2012/11/'>
+listopada
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2012/10/'>
+października
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2012/09/'>
+września
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2012/08/'>
+sierpnia
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2012/07/'>
+lipca
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2012/06/'>
+czerwca
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://projektowanieizakadanieogrodw.blogspot.com/2012/05/'>
+maja
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3245619205445000130&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target='configBlogArchive1' title='Edytuj'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Profile' data-version='1' id='Profile1'>
+<h2>O mnie</h2>
+<div class='widget-content'>
+<dl class='profile-datablock'>
+<dt class='profile-data'>
+<a class='profile-name-link g-profile' href='https://plus.google.com/101036287134270859038' rel='author' style='background-image: url(//www.google.com/images/icons/ui/gprofile_button-16.png);'>
+Asia Eurowska
+</a>
+<br/>
+<div class='g-follow' data-annotation='bubble' data-height='20' data-href='https://plus.google.com/101036287134270859038'></div>
+</dt>
+</dl>
+<a class='profile-link' href='https://plus.google.com/101036287134270859038' rel='author'>Wyświetl mój pełny profil</a>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3245619205445000130&widgetType=Profile&widgetId=Profile1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Profile1"));' target='configProfile1' title='Edytuj'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+</aside>
+</div>
+</div>
+</div>
+<div style='clear: both'></div>
+<!-- columns -->
+</div>
+<!-- main -->
+</div>
+</div>
+<div class='main-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<footer>
+<div class='footer-outer'>
+<div class='footer-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left footer-fauxborder-left'>
+<div class='fauxborder-right footer-fauxborder-right'></div>
+<div class='region-inner footer-inner'>
+<div class='foot no-items section' id='footer-1'></div>
+<table border='0' cellpadding='0' cellspacing='0' class='section-columns columns-2'>
+<tbody>
+<tr>
+<td class='first columns-cell'>
+<div class='foot no-items section' id='footer-2-1'></div>
+</td>
+<td class='columns-cell'>
+<div class='foot no-items section' id='footer-2-2'></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- outside of the include in order to lock Attribution widget -->
+<div class='foot section' id='footer-3' name='Stopka'><div class='widget Attribution' data-version='1' id='Attribution1'>
+<div class='widget-content' style='text-align: center;'>
+Motyw Okno obrazu. Obsługiwane przez usługę <a href='https://www.blogger.com' target='_blank'>Blogger</a>.
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=3245619205445000130&widgetType=Attribution&widgetId=Attribution1&action=editWidget&sectionId=footer-3' onclick='return _WidgetManager._PopupConfig(document.getElementById("Attribution1"));' target='configAttribution1' title='Edytuj'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+</div>
+<div class='footer-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</footer>
+<!-- content -->
+</div>
+</div>
+<div class='content-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<script type='text/javascript'>
+    window.setTimeout(function() {
+        document.body.className = document.body.className.replace('loading', '');
+      }, 10);
+  </script>
+<script src='https://apis.google.com/js/plusone.js' type='text/javascript'></script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2060351197-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY7HXrFuG5NqBXDrOD5HrY02gfro7A:1513264267023';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d3245619205445000130','//projektowanieizakadanieogrodw.blogspot.com/','3245619205445000130');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '3245619205445000130', 'title': 'Projektowanie i zakładanie ogrodów', 'url': 'http://projektowanieizakadanieogrodw.blogspot.com/', 'canonicalUrl': 'http://projektowanieizakadanieogrodw.blogspot.com/', 'homepageUrl': 'http://projektowanieizakadanieogrodw.blogspot.com/', 'searchUrl': 'http://projektowanieizakadanieogrodw.blogspot.com/search', 'canonicalHomepageUrl': 'http://projektowanieizakadanieogrodw.blogspot.com/', 'blogspotFaviconUrl': 'http://projektowanieizakadanieogrodw.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'pl', 'localeUnderscoreDelimited': 'pl', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Projektowanie i zakładanie ogrodów - Atom\x22 href\x3d\x22http://projektowanieizakadanieogrodw.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Projektowanie i zakładanie ogrodów - RSS\x22 href\x3d\x22http://projektowanieizakadanieogrodw.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Projektowanie i zakładanie ogrodów - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/3245619205445000130/posts/default\x22 /\x3e\n', 'meTag': '', 'openIdOpTag': '\x3clink rel\x3d\x22openid.server\x22 href\x3d\x22https://www.blogger.com/openid-server.g\x22 /\x3e\n\x3clink rel\x3d\x22openid.delegate\x22 href\x3d\x22http://projektowanieizakadanieogrodw.blogspot.com/\x22 /\x3e\n', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/771816573-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/0b4a296d20f1ae7d', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sharing': {'platforms': [{'name': 'Pobierz link', 'key': 'link', 'shareMessage': 'Pobierz link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Udostępnij w: Facebook', 'target': 'facebook'}, {'name': 'Wrzuć na bloga', 'key': 'blogThis', 'shareMessage': 'Wrzuć na bloga', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Udostępnij w: Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Udostępnij w: Pinterest', 'target': 'pinterest'}, {'name': 'Google+', 'key': 'googlePlus', 'shareMessage': 'Udostępnij w: Google+', 'target': 'googleplus'}, {'name': 'E-mail', 'key': 'email', 'shareMessage': 'E-mail', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27pl\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Czytaj więcej', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Projektowanie i zakładanie ogrodów'}}, {'name': 'features', 'data': {'lazy_images': 'false', 'unsupported_browser_message': 'false', 'sharing_get_link_dialog': 'false', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edytuj', 'linkCopiedToClipboard': 'Link został skopiowany do schowka.', 'ok': 'OK', 'postLink': 'Link do posta'}}, {'name': 'template', 'data': {'name': 'Picture Window', 'localizedName': 'Okno obrazu', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': false, 'variant': 'open', 'variantId': 'open'}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Projektowanie i zakładanie ogrodów', 'description': '', 'url': 'http://projektowanieizakadanieogrodw.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'useNgc': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/3942454469-lbx__pl.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image2', 'sidebar-right-1', null, document.getElementById('Image2'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar-right-1', null, document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Ładuję\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar-right-1', null, document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer-3', null, document.getElementById('Attribution1'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>

