@@ -1,0 +1,46 @@
+<!--
+	top.location="http://ww55.givemeneon.com/?fp=I1ebvCDQ6pu6tUdLqPzSnYjNSaawgqcHMVgJXz66Dzh8lyTUixuA6Aq0Vy7QMlgx0M1wZkEFP3bgiXiOUhw0tw%3D%3D&prvtof=igRdW1WMAERaZ9qnlNgGFEKpAp2O%2Brn0t%2BGoeS1IZPE%3D&poru=vdkqorbRB%2FiwNQ4UeljMLpRb57UnH9R2oaZfQJlEsB7kjb84jJP1CQUV1XSfdZ%2B8&cifr=1&";
+	/*
+-->
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_i+q80zOlEN80VDk6vud2C1c0WdvYICtRu7HS06KhuUuDaME/DZAheEqbwr+3S8yxVuwei5+Tpi3KjzH5kmn+7Q=="><head>
+				  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+				  <meta name="viewport" content="width=device-width"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><script type="text/javascript">
+	<!--
+	dimensionUpdated = 0;
+	function applyFrameKiller()
+	{
+		if(window.top != self)
+		{
+			cHeight = 0;
+			if( typeof( window.innerHeight ) != 'undefined' ) {
+			//Non-IE
+			cHeight = window.innerHeight;
+			dimensionUpdated = 1;
+			} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight )  ) {
+			//IE 6+ in 'standards compliant mode'
+			cHeight = document.documentElement.clientHeight;
+			dimensionUpdated = 1;
+			} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+			//IE 4 compatible
+			cHeight = document.body.clientHeight;
+			dimensionUpdated = 1;
+			}
+			if( cHeight <= 250 && dimensionUpdated == 1)
+			{
+				window.top.location = "http://ww55.givemeneon.com/?fp=I1ebvCDQ6pu6tUdLqPzSnYjNSaawgqcHMVgJXz66Dzh8lyTUixuA6Aq0Vy7QMlgx0M1wZkEFP3bgiXiOUhw0tw%3D%3D&prvtof=Nvj0OPZQQglpJkYnwFXrVSOFxhJVS0A%2FFpskVSnukow%3D&poru=FuX36lvzjf6eAP5ZpJd%2B%2FEPtX8Bcdt93slfWX9FJm7g0PrWE6LvqUH3JTVCdgFEI&cifr=1&";
+			}
+		}
+	}
+
+	applyFrameKiller();
+	// -->
+</script><script type='text/javascript'>try{document.cookie = 'fjccheck=1';}catch(exception){}</script></head><frameset rows="100%,*" frameborder="no" border="0" framespacing="0">
+	<frame src="http://ww55.givemeneon.com/?fp=I1ebvCDQ6pu6tUdLqPzSnYjNSaawgqcHMVgJXz66Dzh8lyTUixuA6Aq0Vy7QMlgx0M1wZkEFP3bgiXiOUhw0tw%3D%3D&prvtof=MWHqIKs2M4yNkHJ7%2FmILSFtgXQGpMlk7kbU6MC965O4%3D&poru=ZusncrJ3Qjp3f5TREtuMEQ3FSJYMpknpEZSZQA1I%2BOE1AOZC5%2BR0SthtUQjO2LWL&">
+</frameset>
+<noframes>
+	<body bgcolor="#ffffff" text="#000000">
+	<a href="http://ww55.givemeneon.com/?fp=I1ebvCDQ6pu6tUdLqPzSnYjNSaawgqcHMVgJXz66Dzh8lyTUixuA6Aq0Vy7QMlgx0M1wZkEFP3bgiXiOUhw0tw%3D%3D&prvtof=OK4weP7CpKVst0QBJ9cklRDYmyTam1AIMNUlhdZUr60%3D&poru=C0gElhIKoNgTUJYJ5XDCvoorjr9yy4xiVjdAHb7UaIFZ5O7%2FZF4TJaYf2u9o19pk&">Click here to proceed</a>.
+	</body>
+</noframes></html><!--
+*/
+-->

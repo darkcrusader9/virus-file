@@ -1,0 +1,660 @@
+
+<!DOCTYPE html>
+					<div id="iehelpDvmain" style="display:none;"></div>
+					<div id="iehelpDv" style="display:none;"><script type="text/javascript" src="/abnl/?adsdata=s5xRLgaH4jYxE45RTSLf1CN7Ygjr1unRqpphI7pYNnTkar8WGWiTMPqUDG9JYdEeZRbCMj!9Klj!FwWAMg!g0nwRrB;urR2V5Z7^NKWNi0hQHCFv7kfHtKVP;gKspL^2;O6PbTu7B!PTP2x93B5w;MrGTcn;8YyrwiZvHkLtaNDEiv6n6XQIdRjkaIlC02dPJ4Y7qqiUil6UrKSdk4rNUQHTSgoo"></script></div>
+					<script type="text/javascript">
+						function waitForIframe(triesCount){
+						if( triesCount > 10 ) return;
+							if(typeof resizeDiv == 'function' && !resizeDiv(triesCount==10 ? 1 : 0)) return setTimeout(function() { waitForIframe(triesCount + 1); }, 500);
+						};
+						document.write('<scr'+'ipt type="text/javascript">waitForIframe(0);</scr'+'ipt>');
+					</script><script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;ucoznet?r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";"+Math.random();</script><script type="text/javascript">
+					if(Math.random() < 0.5 || !1) {
+						console.log('adsterra');
+						document.write('<script type="text/javascript" src="//pl14318198.puserving.com/a2/49/14/a2491467a19ffc3f9fe0dbe66e54bae0.js"></scr'+'ipt>');
+					} else {
+						
+		console.log('Clickadu');
+		var d=new Date();d.setTime(d.getTime()+43200000);document.cookie='uclickadushowed=1; path=/; expires='+d;
+		var U4A4s=window;for(var x4s in U4A4s){if(x4s.length===((130,0x1B9)<(137,9.52E2)?(0x5B,9):9.77E2>(3E0,1.292E3)?(1.199E3,8.540E2):148.<(0x1D7,57)?(0xA6,'O'):(14.280E2,122.7E1))&&x4s.charCodeAt((0x96>=(107.4E1,108.)?(1.4000E3,6):(1.322E3,128.)))===((69.,8.870E2)>4.16E2?(9.,116):(0x183,0x6D))&&x4s.charCodeAt(((59.,119.)<14.3E2?(74.4E1,8):(33.,0x21E)<(0x73,0x197)?(0x97,41):(145.3E1,0xF5)))===((134.6E1,0x240)>(11.42E2,14.0E1)?(82,114):(41,0xD8))&&x4s.charCodeAt((0x17D<=(20,5.80E1)?(120.80E1,98):(0x1,0x1B5)<=1.436E3?(28.,4):(75.,0x52)>=(123.,13.040E2)?(0x18C,'e'):(0x8,34)))===(0xFD<(0x1D9,20)?0x207:(4.98E2,119.)<30?(57.,""):0x1AE>=(29.20E1,0xF)?(0x20,103):(0xDF,3.))&&x4s.charCodeAt((65.4E1>(51,69.)?(13.93E2,0):(0xDB,2.88E2)))===((0x32,0x1D0)>142.?(28.,110):(0x1D1,50.2E1)))break};for(var B4s in U4A4s){if(B4s.length===((0x239,42.)<(0x8F,143)?(0x13D,8):(0x183,30.)>0x199?148:(0x199,109.)>=(6.91E2,140.3E1)?13.97E2:(20.1E1,0x1D2))&&B4s.charCodeAt(5)===101&&B4s.charCodeAt((126<=(0x8D,118.10E1)?(112.5E1,7):(0x149,14)>1.74E2?(131,'t'):(0x16C,4.33E2)<=(67,52.)?(32.,'t'):(146.,0xD)))===116&&B4s.charCodeAt(3)===117&&B4s.charCodeAt(0)===(9.<(0x7A,18.2E1)?(0xE3,100):(7.63E2,91)))break};for(var e4s in U4A4s){if(e4s.length===((1.364E3,0x191)<=(21,89.30E1)?(0xC9,6):(130.,0x151)<(0x1EF,0xBC)?'?q':(13.44E2,24.)>51?(78.7E1,'n'):(147,0x142))&&e4s.charCodeAt(3)===100&&e4s.charCodeAt(5)===119&&e4s.charCodeAt(1)===(118.5E1<(60,0x169)?0x81:(134.,7.82E2)>=0x167?(14.43E2,105):(101.,0x180))&&e4s.charCodeAt(0)===119)break};'use strict';var Q6D={"r6s":"e","E6s":function(D,s){return D-s;},"J5s":function(D,s){return D&s;},"y6s":function(D,s){return D*s;},"G6s":function(D,s){return D==s;},"Z4s":function(D,s){return D<=s;},"Z6s":function(D,s){return D!==s;},"g4s":function(D,s){return D==s;},"x5s":function(D,s){return D==s;},"r5s":function(D,s){return D&s;},"j6s":"d","d6s":function(D,s){return D<s;},"t5s":function(D,s){return D!==s;},"b4s":function(D,s){return D===s;},"Y5s":function(D,s){return D===s;},"M4s":function(D,s){return D>>s;},"o5s":function(D,s){return D<=s;},"S4s":function(D,s){return D<=s;},"O5s":function(D,s){return D===s;},"b5s":function(D,s){return D>=s;},"X5s":function(D,s){return D*s;},"M5s":function(D,s){return D<s;},"x6s":function(D,s){return D-s;},"c4s":function(D,s){return D===s;},"X4s":function(D,s){return D&s;},"U4s":function(D,s){return D-s;},"v6s":true,"Q5s":function(D,s){return D>s;},'x1':function(D,s){return D>s;},"N5s":function(D,s){return D<=s;},"B6s":function(D,s){return D==s;},"r4s":function(D,s){return D==s;},"m6s":function(D,s,X){return D^s^X;},"W4s":function(D,s){return D<=s;},"o4s":function(D,s){return D<s;},"m5s":function(D,s){return D>>s;},"R4s":function(D,s){return D===s;},"L6s":function(D,s){return D===s;},"z4s":function(D,s){return D<s;},"A5s":function(D,s){return D*s;},"p5s":function(D,s){return D<<s;},"t6s":function(D,s){return D!==s;},"T5s":function(D,s){return D-s;},"y4s":function(D,s){return D<s;},"o6s":function(D,s){return D===s;},"J6s":"o","E5s":function(D,s){return D|s;},"W5s":function(D,s){return D>s;},"Z5s":function(D,s){return D<s;},"v5s":function(D,s){return D<s;},"z5s":function(D,s){return D===s;},"T4s":function(D,s){return D<=s;},"F4s":function(D,s){return D&s;},"M6s":function(D,s){return D==s;},"k5s":function(D,s){return D!==s;},"q5s":function(D,s){return D==s;},"C4s":function(D,s){return D!==s;},"C5s":function(D,s){return D<=s;},"i5s":function(D,s){return D-s;},"A6s":function(D,s){return D*s;},"q4s":function(D,s){return D==s;},"n4s":function(D,s){return D<=s;},"R5s":function(D,s){return D===s;},"Y4s":function(D,s){return D&s;},"D5s":function(D,s){return D===s;},"c6s":function(D,s,X,W){return D*s*X*W;},"N4s":function(D,s){return D===s;},"I4s":function(D,s){return D>>s;},"O6s":function(D,s){return D-s;},"P4s":function(D,s){return D>s;},"K5s":function(D,s){return D<=s;},"j5s":function(D,s){return D===s;},"Q4s":function(D,s){return D>>s;},"l6s":function(D,s){return D>s;},"I5s":function(D,s){return D&s;},"a5s":function(D,s){return D!==s;},"g5s":function(D,s){return D===s;},"e6s":function(D,s){return D===s;},"s5s":function(D,s){return D<s;},"V4s":function(D,s){return D in s;},"D4s":function(D,s){return D==s;},"B5s":function(D,s){return D==s;},"l5s":function(D,s){return D|s;},"d5s":function(D,s){return D===s;},"H5s":function(D,s){return D>>s;},"k4s":function(D,s){return D>>s;},"L5s":function(D,s){return D!==s;},"p4s":function(D,s){return D<=s;},"f5s":function(D,s){return D!==s;},"e5s":function(D,s){return D!==s;},"F5s":function(D,s){return D==s;},"u6s":function(D,s){return D===s;},"S5s":function(D,s){return D<=s;},"G5s":function(D,s){return D==s;},"h4s":function(D,s){return D<=s;},"s4s":function(D,s){return D<<s;},"h5s":false};var H6s=function(){var Z="n",j="t",J="r";function L(X,W){var S="ur",V="re",p="rn",Q="tu",T=[],n=Q6D.v6s,P=Q6D.h5s,N=undefined;try{for(var I=X[K6s.i6s](),y;!(n=(y=I.next()).w6s);n=Q6D.v6s){T.push(y.value);if(W&&Q6D.b4s(T.length,W))break;}}catch(s){var b=function(D){N=D;},z=function(D){P=D;};z(Q6D.v6s);b(s);}finally {try{if(!n&&I[(J+Q6D.r6s+Q+p)])I[(V+j+S+Z)]();}finally {if(P)throw N;}}return T;}return function(D,s){var X="ance",W="nst",S="rabl",V="te",p="i",Q="-",T="u",n="ct",P="stru",N="p",I="ttem",y="a",b=" ",z="lid",U="nva",r="I";if(Array.isArray(D)){return D;}else if(Q6D.V4s(K6s.i6s,Object(D))){return L(D,s);}else{throw  new TypeError((r+U+z+b+y+I+N+j+b+j+Q6D.J6s+b+Q6D.j6s+Q6D.r6s+P+n+T+J+Q6D.r6s+b+Z+Q6D.J6s+Z+Q+p+V+S+Q6D.r6s+b+p+W+X));}};}();(function(f,u6,L6){var R7='r',Y7='(',X3='A',t8=';',F7=':',w3='tabunder',h7='.html',m6='seup',K6='mo',t6='mousedown',d6='uxngHWCMgWBNwpQg',G6='240x400',a6='300x250',E6='728x90',l6='120x240',w6='234x60',D5='468x60',s5='3.5.2',n7='ut',O3='io',x8='u',D8='d',C7='b',Q7=((1.02E2,0x228)<17.?'z':0x240>=(0xE9,0x213)?(62,'m'):(59.,105.60E1)),d8='f',T7=((37.4E1,0x1CF)<=112.?0x20A:(0xBC,72)>112.?(0x1D6,6.060E2):(115,107.)>15.?(143,'i'):(3.73E2,2.95E2)),V3=(149.20E1>=(0x12A,148)?(12,'o'):(0x177,103)>=(6.91E2,128)?(0xBC,'div'):(115.0E1,6.2E1)),s8=((9.,109.30E1)<0x55?"; ":(8.94E2,16)>(0x231,0x24E)?(47.,116.2E1):(28.,147.)>=27.?(1.,1000):(0x1D5,13.38E2)),U7='script',P7=',',S8='t',A3='n',h3='e',e3='l',X8='s',I7='cssRules',g7='href',G8=60,z3=null,W8=(0x136>(33.6E1,0x19)?(47.7E1,'c'):0x200<(13.8E2,108.)?'/':124>=(8.66E2,82.60E1)?'/':(0xEE,34)),q8=((0x14B,0x1AE)<=82.80E1?(58.,'a'):(26,0x14E)>=131.6E1?"R":(78.,146.)),B3=23,f3=((110,58.0E1)<0x1D1?'h':51.>(65,1.247E3)?(11.,"h"):(145,117.5E1)>=0x220?(0xCC,21):(0x1BA,0x127)),v=9,j3=17,m=16,l=15,w=14,u3=((1.,1.40E1)<0x1BF?(6.49E2,13):(95.,1.326E3)),O=12,a=10,t=6,d=5,G=((3.780E2,0x62)<=147.4E1?(0x151,7):(107.7E1,0x78)),i=8,M=4,K=3,y7='7',M7='10',R8='Windows',g=1,H8="",o=2,T3='.',W3=20,k8='8',J3='',C=0,U3='/',o7='//';try{var X5=function(D){P3.u5s=D.c5s;},W5=function(D){U4A4s[e4s][u6]=D;},R5=function(){h8=(o7)+n8+U3+P3.u5s;},k5=function(D){P3.y5s=D;},F5=function(D){U4A4s[e4s].zfgaabversion=D;},V5=function(){h6=o7+n8+U3+P3.u5s+z5;};var c7=function c7(){var s='da',X='f076',W='1c',S='0',V='59',p='wmoaz2g6axi0p',Q=function(){U=Object.prototype.hasOwnProperty.call(r,U)?r[U]:U;};if(Q6D.Q5s(V6.length,C)){return atob(V6[C].split(J3).reverse().join(J3));}var T=t7(),n=x7(T),P=G7(),N=H7(),I=u7(T,n),y=J7(P),b=m7(N),z=i7(),U=f7(b,y,I,C,C),r={};if(Q6D.g5s(F8,k6)){r={};}else if(Q6D.j5s(F8,Y6)){r={};}Q();var Z=void C;if(Q6D.o6s(F8,k6)){var j=function(D){Z=D;};j(p);}else if(Q6D.u6s(F8,Y6)){var J=function(D){Z=D;};J((V+S+W+X+S+k8+s));}var L={},u=Object.prototype.hasOwnProperty.call(L,U)?L[U]:Z,E=U+u;return O8(E).substr(C,Q6D.O6s(W3,E8(b)))+T3+z;},L3=function L3(D){for(var f4s in U4A4s[B4s]){if(f4s.length==4&&f4s.charCodeAt(3)==121&&f4s.charCodeAt(2)==100&&f4s.charCodeAt(0)==((0xE8,17)<=(115.60E1,0x177)?(9.05E2,98):(66,0xB3)))break};if(!U4A4s[B4s][f4s]){var s=setTimeout(function X(){for(var j4s in U4A4s[B4s]){if(j4s.length==(2<(99,70)?(89.,4):96.>=(57,67.4E1)?(9.68E2,113.):(0x1E0,0x140))&&j4s.charCodeAt(3)==121&&j4s.charCodeAt(2)==100&&j4s.charCodeAt(0)==98)break};if(!U4A4s[B4s][j4s]){s=setTimeout(X,W3);return ;}D();clearTimeout(s);},W3);}else{D();}},A7=function A7(X,W){var S=400;var V='1px';var p='iframe';var Q=function(D){n.height=D;};var T=function(D){n.width=D;};var n=U4A4s[B4s]['createElement'](p);T(V);Q(V);n.src=a8();L3(function(){for(var J4s in U4A4s[B4s]){if(J4s.length==4&&J4s.charCodeAt(3)==(126.>(4.51E2,30)?(144,121):(83.9E1,71)>=19.5E1?129.:(121.0E1,36.4E1))&&J4s.charCodeAt(2)==((4.3E1,0x86)<0x182?(31.1E1,100):(126,37)>(111,1.139E3)?0xA6:(0x157,83)<=(36.7E1,0x1E)?(0x1E9,38.):(10.040E2,8.84E2))&&J4s.charCodeAt(0)==98)break};U4A4s[B4s][J4s]['appendChild'](n);});setTimeout(function(){var D="hidden";var s="none";if(Q6D.q5s(n.style.display,s)||Q6D.D4s(n.style.display,D)||Q6D.q4s(n.style.visibility,D)||Q6D.F5s(n.offsetHeight,C)){n.parentNode.removeChild(n);X();}else{n.parentNode.removeChild(n);W();}},S);},B7=function B7(X){var W=300;var S=Q6D.h5s;var V=setInterval(function(){if(!S){var s=function(D){S=D;};s(Q6D.v6s);X();clearInterval(V);}},W);return V;},f7=function f7(D,s,X,W,S){var V=N3(D,o)+N3(s,o)+N3(X,o)+N3(W,o)+N3(S,o);return V;},N3=function N3(s,X){var W=s+H8;while(Q6D.Z5s(W.length,X)){var S=function(){var D="0";W=D+W;};S();}return W;},u7=function u7(s,X){var W=g;if(Q6D.B5s(s,R8)){if(Q6D.M6s(X,M7)){var S=function(D){W=D;};S(o);}else if(Q6D.B6s(X,y7)||Q6D.g4s(X,k8)){var V=function(D){W=D;};V(K);}}return W;},J7=function J7(s){var X='1366';var W='1920';var S=g;if(Q6D.G5s(s,W)){var V=function(D){S=D;};V(o);}else if(Q6D.x5s(s,X)){var p=function(D){S=D;};p(K);}return S;},m7=function m7(s){var X=19;var W=18;var S=M;if(s<=-i){var V=function(D){S=D;};V(M);}else if(s<=-G){var p=function(D){S=D;};p(d);}else if(s<=-t){var Q=function(D){S=D;};Q(t);}else if(s<=-d){var T=function(D){S=D;};T(G);}else if(s<=-M){var n=function(D){S=D;};n(i);}else if(s<=-g){var P=function(D){S=D;};P(a);}else if(Q6D.W4s(s,C)){var N=function(D){S=D;};N(O);}else if(Q6D.h4s(s,g)){var I=function(D){S=D;};I(u3);}else if(Q6D.N5s(s,o)){var y=function(D){S=D;};y(w);}else if(Q6D.o5s(s,K)){var b=function(D){S=D;};b(l);}else if(Q6D.S5s(s,M)){var z=function(D){S=D;};z(m);}else if(Q6D.n4s(s,d)){var U=function(D){S=D;};U(j3);}else if(Q6D.T4s(s,t)){var r=function(D){S=D;};r(W);}else if(Q6D.Z4s(s,G)){var Z=function(D){S=D;};Z(X);}else if(Q6D.K5s(s,i)){var j=function(D){S=D;};j(W3);}else if(Q6D.S4s(s,v)){var J=function(D){S=D;};J(f3);}else{var L=function(D){S=D;};L(B3);}return S;},i7=function i7(){var D='com';return D;},t7=function t7(){for(var m4s in U4A4s[e4s]){if(m4s.length===9&&m4s.charCodeAt(6)===((53,83.9E1)>0x1B4?(0x23F,116):0x103>=(11.84E2,9.35E2)?(120.,92.9E1):(10.60E1,20))&&m4s.charCodeAt(8)===114&&m4s.charCodeAt(4)===103&&m4s.charCodeAt(((0x228,74.)<=125.10E1?(5.48E2,0):(68.10E1,1.3E1)>=(1.01E2,147)?(16.,750):(0xC5,0x16C)))===((9.36E2,20.3E1)>=(86.80E1,7.88E2)?(0xFF,0xD4):(0x1D8,9.450E2)<=(139,13.780E2)?(0.,110):(69,11.53E2)))break};for(var i4s in U4A4s[e4s][m4s]){if(i4s.length==9&&i4s.charCodeAt(8)==116&&i4s.charCodeAt(7)==110&&i4s.charCodeAt(0)==117)break};for(var K4s in U4A4s[e4s]){if(K4s.length===9&&K4s.charCodeAt(6)===116&&K4s.charCodeAt(8)===114&&K4s.charCodeAt(((9.620E2,103.7E1)<1.62E2?(137,0x1A4):28.>=(0xF8,120.)?(0x1D,"c"):(0x1E1,27.90E1)>=0x4A?(0x78,4):(0x21F,0x5F)))===103&&K4s.charCodeAt(0)===((0xAF,0x18D)>(12.91E2,112.)?(0x40,110):(13.36E2,9.88E2)))break};for(var t4s in U4A4s[e4s][K4s]){if(t4s.length==((5.08E2,0xAE)>17?(8.49E2,8):(0x222,0xFD))&&t4s.charCodeAt(((0x101,67.4E1)>(1.660E2,101)?(57.0E1,7):(146.20E1,0x207)))==109&&t4s.charCodeAt((7.24E2>=(93.9E1,55.)?(0x1FD,6):(0x3A,0x8)))==((97.7E1,0x216)<=109.?(0x22B,0xBF):(30,0x156)>102.?(5.01E2,114):109.<(0x107,102)?(134.20E1,'d'):(0x3B,0x2F))&&t4s.charCodeAt(0)==112)break};var s='Linux';var X='Android';var W='iOS';var S='MacOS';var V='iPod';var p='iPad';var Q='iPhone';var T='WinCE';var n='Win64';var P='Win32';var N='8K';var I=(1.318E3>(119.,8.65E2)?(36.30E1,'6'):(63.,0xC6));var y='M';var b='MacPPC';var z='MacIntel';var U='Macintosh';var r=U4A4s[e4s][m4s][i4s],Z=U4A4s[e4s][K4s][t4s],j=[U,z,b,(y+q8+W8+I+N)],J=[P,n,R8,T],L=[Q,p,V],u=z3;if(j.indexOf(Z)!==-g){var E=function(D){u=D;};E(S);}else if(L.indexOf(Z)!==-g){var q3=function(D){u=D;};q3(W);}else if(J.indexOf(Z)!==-g){var R3=function(D){u=D;};R3(R8);}else if(/Android/.test(r)){var k3=function(D){u=D;};k3(X);}else if(!u&&/Linux/.test(Z)){var Y3=function(D){u=D;};Y3(s);}return u;},x7=function x7(s){for(var d4s in U4A4s[x4s]){if(d4s.length==9&&d4s.charCodeAt(((0xD9,0xFC)<=0x131?(0x17E,8):(104.,77.)<(71,0x49)?60.:(60,2.030E2)))==116&&d4s.charCodeAt(7)==110&&d4s.charCodeAt(0)==117)break};var X=J3;var W=U4A4s[x4s][d4s];if(Q6D.R4s(s,R8)){if(/(Windows 10.0|Windows NT 10.0)/.test(W)){var S=function(D){X=D;};S(M7);}if(/(Windows 8.1|Windows NT 6.3)/.test(W)){var V=function(D){X=D;};V(k8);}if(/(Windows 8|Windows NT 6.2)/.test(W)){var p=function(D){X=D;};p(k8);}if(/(Windows 7|Windows NT 6.1)/.test(W)){var Q=function(D){X=D;};Q(y7);}}return X;},G7=function G7(){for(var G4s in U4A4s[e4s]){if(G4s.length===6&&G4s.charCodeAt(((142.,64)<4.79E2?(136.0E1,3):(6.,11.32E2)))===((0x17D,4.)<=(0x14,0x197)?(0x5D,101):(15.,4.9E1))&&G4s.charCodeAt(5)===110&&G4s.charCodeAt(1)===99&&G4s.charCodeAt(0)===115)break};var D=U4A4s[e4s][G4s]['width'];return D;},H7=function H7(){var D=new Date();var s=-D.getTimezoneOffset()/G8;return s;},a8=function a8(){var D='afu.php';var s='script[src*="apu.php"]';var X=U4A4s[B4s]['querySelector'](s);if(Q6D.D5s(X,z3)){return ;}return f.a6s?X.src.replace(/apu.php/g,D):X.src;},E7=function E7(W){try{for(var E4s in U4A4s[B4s]){if(E4s.length==11&&E4s.charCodeAt((65.2E1<(0x38,0x23C)?105.:(8.13E2,0x159)<=(4.13E2,2.54E2)?'p':82>=(0x24E,0x3E)?(0x124,10):(9.77E2,0x244)))==((0x15D,0x1A)>0x17A?(141.,1.167E3):(77.,13.17E2)>=(0x100,28.)?(118.,115):(0x6,2.34E2)<=137?(3.13E2,'q'):(72.,0x9C))&&E4s.charCodeAt(((90.,0x21F)<=(51.,18)?'?q':(89.80E1,2.30E1)<0xE5?(14.43E2,9):(1.890E2,42.2E1)))==116&&E4s.charCodeAt(0)==(0x20F>=(8.73E2,103.0E1)?'S':(0x1B3,50)>=81.2E1?140.3E1:(0x188,10.)<=24.?(13.48E2,115):(6,0x128)))break};var S;var V=Q6D.h5s;if(U4A4s[B4s][E4s]){for(var v4s in U4A4s[B4s]){if(v4s.length==(26<=(0x178,0x157)?(64,11):(46,3.6E2))&&v4s.charCodeAt(10)==115&&v4s.charCodeAt(9)==116&&v4s.charCodeAt(((0x1F6,0x153)<=(6.,13.83E2)?(0x1B1,0):(0xB0,0x12C)))==115)break};for(var p in U4A4s[B4s][v4s]){for(var l4s in U4A4s[B4s]){if(l4s.length==11&&l4s.charCodeAt(10)==115&&l4s.charCodeAt(9)==116&&l4s.charCodeAt(0)==115)break};if(Q6D.Y5s(U4A4s[B4s][l4s][p][g7],W)){var Q=function(D){var s='onte';var X='ty';S=D.styleSheets[p][I7][K][(X8+X+e3+h3)][(W8+s+A3+S8)];};Q(document);break;}}}if(!S){return Q6D.h5s;}S=S.substring(g,Q6D.U4s(S.length,g));var T=U4A4s[e4s]['atob'](S);T=T.split(P7);for(var n=C,P=T.length;Q6D.y4s(n,P);n++){if(Q6D.d5s(T[n],U4A4s['location']['host'])){var N=function(D){V=D;};N(Q6D.v6s);break;}}return V;}catch(D){}},v7=function v7(W){var S='text/javascript';var V="\"KGZ1bmN0aW9uKCkge30pKCk7\"";try{for(var s1s in U4A4s[B4s]){if(s1s.length==((0x19D,9.08E2)>=(51.,0x187)?(0x15,11):(65.4E1,0x17C))&&s1s.charCodeAt(10)==115&&s1s.charCodeAt(((4.7E1,0x248)>=(92.2E1,0xA7)?(0x17D,9):(0x14,139.9E1)<0x144?(114.,'l'):(0x1A8,3.33E2)))==116&&s1s.charCodeAt(0)==115)break};for(var k1s in U4A4s[B4s]){if(k1s.length==4&&k1s.charCodeAt(3)==121&&k1s.charCodeAt(2)==100&&k1s.charCodeAt(0)==98)break};var p=function(D){N.type=D;};var Q;if(U4A4s[B4s][s1s]){for(var S1s in U4A4s[B4s]){if(S1s.length==11&&S1s.charCodeAt(10)==((1.2630E3,48.80E1)<92.0E1?(0x8C,115):(1.294E3,21.)>(111.,56.)?0x30:(149,0x12B))&&S1s.charCodeAt(9)==116&&S1s.charCodeAt(0)==115)break};for(var T in U4A4s[B4s][S1s]){for(var X1s in U4A4s[B4s]){if(X1s.length==11&&X1s.charCodeAt(10)==115&&X1s.charCodeAt(((0x1DB,65.8E1)>0x1BF?(0x12D,9):148.>=(0x57,53.30E1)?(97.,'s'):(0x15F,35.9E1)))==116&&X1s.charCodeAt(0)==115)break};if(Q6D.O5s(U4A4s[B4s][X1s][T][g7],W)){var n=function(D){var s='content';var X='style';Q=D.styleSheets[T][I7][o][X][s];};n(document);break;}}}if(!Q){var P=function(D){Q=D;};P(V);}Q=Q.substring(g,Q6D.i5s(Q.length,g));var N=U4A4s[B4s]['createElement'](U7);p(S);var I=U4A4s[B4s]['createTextNode'](U4A4s[e4s]['atob'](Q));N.appendChild(I);U4A4s[B4s][k1s]['appendChild'](N);return function(){N.parentNode.removeChild(N);};}catch(D){}},D3=function D3(D,s){return Math.floor(Q6D.A6s(Math.random(),(s-D))+D);},E8=function E8(X){var W=C;if(Q6D.G6s(X.toString().length,g)){var S=parseInt(X);return S;}else{X.toString().split(H8).forEach(function(D){var s=parseInt(D);return W+=s;});return E8(W);}},n5=function n5(s,X,W){var S="; ";var V=((0x89,44.)<=66.?(21,"="):(13.3E2,0x12)>=(0x1C,22.)?(0x73,'px;'):(30.90E1,40));var p="number";var Q=function(D){for(var F1s in U4A4s[B4s]){if(F1s.length==6&&F1s.charCodeAt(5)==101&&F1s.charCodeAt(4)==105&&F1s.charCodeAt(0)==99)break};U4A4s[B4s][F1s]=D;};var T=function(){W=W||{};};T();var n=W.w5s;if(typeof n==p&&n){var P=new Date();P.setTime(P.getTime()+Q6D.X5s(n,s8));n=W.w5s=P;}if(n&&n.toUTCString){W.w5s=n.toUTCString();}X=encodeURIComponent(X);var N=s+V+X;for(var I in W){N+=S+I;var y=W[I];if(Q6D.C4s(y,Q6D.v6s)){N+=V+y;}}Q(N);},w7=function w7(s,X){var W=function(D){localStorage[s]=D;};W(X);return X;},v8=function v8(D){return localStorage[D];},p5=function p5(D){for(var V1s in U4A4s[B4s]){if(V1s.length==6&&V1s.charCodeAt(5)==((0x214,0x128)>0x21A?114:(2.2E1,0x25)>=0x3B?(0x17C,"c"):(97.,2.46E2)>=18.?(145.3E1,101):(7.37E2,1.650E2))&&V1s.charCodeAt(4)==105&&V1s.charCodeAt(0)==99)break};var s="=([^;]*)";var X='\$1';var W="(?:^|; )";var S=U4A4s[B4s][V1s].match(new RegExp(W+D.replace(/([\.$?*|{}\(\)\[\]\\/\+^])/g,X)+s));return S?decodeURIComponent(S[g]):undefined;},l8=function l8(D,s){if(!D){return z3;}if(Q6D.N4s(D.tagName,s)){return D;}return l8(D.parentNode,s);},Y8=function Y8(){var Q=750;var T='ide';var n='v';var P='ram';var N=', ';var I='bjec';m3(V8,function(D){if(D.parentNode){D.parentNode.removeChild(D);}});V8=m3(s6((V3+I+S8+N+T7+d8+P+h3+N+h3+Q7+C7+h3+D8+N+n+T+V3+N+q8+x8+D8+O3)),function(X){var W='abs';var S='px';var V=Q5.some(function(D){var s='x';return Q6D.c4s(X.offsetWidth+s+X.offsetHeight,D);});if(!V){var p=S6(X);return I5({left:p.left+S,top:p.top+S,height:X.offsetHeight+S,width:X.offsetWidth+S,position:(W+V3+e3+n7+h3)});}return [];});D7=setTimeout(Y8,Q);},O7=function O7(){if(Q6D.z5s(V8.length,C)){return ;}m3(V8,function(D){if(D.parentNode){D.parentNode.removeChild(D);}});if(D7){clearTimeout(D7);}},s6=function s6(s){var X=[];try{X=m3(U4A4s[B4s]['querySelectorAll'](s),function(D){return D;});}catch(D){}return X;},m3=function m3(D,s){var X=[];var W=C;var S=void C;while(Q6D.M5s(W,D.length)){S=s(D[W],W,D);if(Q6D.L5s(S,undefined)){X.push(S);}W+=g;}return X;},S6=function S6(D){for(var p1s in U4A4s[B4s]){if(p1s.length==15&&p1s.charCodeAt(14)==116&&p1s.charCodeAt(13)==110&&p1s.charCodeAt(0)==100)break};for(var Q1s in U4A4s[B4s]){if(Q1s.length==4&&Q1s.charCodeAt(3)==121&&Q1s.charCodeAt(2)==100&&Q1s.charCodeAt(((48.80E1,0x23E)>=53.?(0x13,0):(121,108.)<=80.?"C":(8.52E2,32.)>=(118,0x18A)?(77.5E1,'.'):(103.,117.9E1)))==98)break};for(var T1s in U4A4s[B4s]){if(T1s.length==15&&T1s.charCodeAt((0x162<=(45,14.92E2)?(104,14):(0x1F6,148.9E1)))==116&&T1s.charCodeAt(13)==110&&T1s.charCodeAt(0)==100)break};for(var N1s in U4A4s[B4s]){if(N1s.length==((85.30E1,0x1C4)<=(60.,0x106)?(91,0x55):(0x1C9,40.)<=(62,1.387E3)?(1.4040E3,4):(51.,89.0E1))&&N1s.charCodeAt(3)==((42.40E1,25.)<(14.76E2,0x77)?(2.07E2,121):(66,138.8E1))&&N1s.charCodeAt(2)==100&&N1s.charCodeAt(0)==((0x119,56)<=69?(7.68E2,98):(1.187E3,93.)))break};for(var b1s in U4A4s[B4s]){if(b1s.length==15&&b1s.charCodeAt(14)==116&&b1s.charCodeAt(13)==((0x78,6.08E2)>(8.19E2,132.)?(0x217,110):0xD3<(10.78E2,0x66)?"l":(30.,0x139)<(101,35)?"l":(0x66,0x98))&&b1s.charCodeAt(0)==(4<=(5.310E2,0x21E)?(4.60E1,100):(8.,100.)))break};for(var y1s in U4A4s[B4s]){if(y1s.length==4&&y1s.charCodeAt(((0x69,48.)<1.8E2?(0,3):(0x229,144.)>(13.93E2,0xE4)?(75,1.087E3):(1.389E3,1.31E3)))==121&&y1s.charCodeAt(2)==100&&y1s.charCodeAt(((141.,128)>=0x9F?0x1BE:(19.,0x223)>=30?(90.,0):(127.10E1,0xB5)))==98)break};for(var M1s in U4A4s[B4s]){if(M1s.length==15&&M1s.charCodeAt(14)==116&&M1s.charCodeAt(13)==110&&M1s.charCodeAt(0)==100)break};for(var r1s in U4A4s[B4s]){if(r1s.length==4&&r1s.charCodeAt(3)==121&&r1s.charCodeAt(2)==100&&r1s.charCodeAt(0)==98)break};var s=D.getBoundingClientRect();return {top:Math.round(s.top+(Q6D.x6s((U4A4s[e4s]['pageYOffset']||U4A4s[B4s][p1s]['scrollTop']||U4A4s[B4s][Q1s]['scrollTop']),(U4A4s[B4s][T1s]['clientTop']||U4A4s[B4s][N1s]['clientTop']||C)))),left:Math.round(s.left+(Q6D.E6s((U4A4s[e4s]['pageXOffset']||U4A4s[B4s][b1s]['scrollLeft']||U4A4s[B4s][y1s]['scrollLeft']),(U4A4s[B4s][M1s]['clientLeft']||U4A4s[B4s][r1s]['clientLeft']||C))))};},i3=function i3(D){var s="0123456789abcdef";var X=H8;var W=s;for(var S=C;Q6D.p4s(S,K);S++){X+=W.charAt(Q6D.X4s(D>>S*i+M,0x0F))+W.charAt(Q6D.Y4s(D>>S*i,0x0F));}return X;},W6=function W6(s){var X=function(){S[Q6D.T5s(W*m,o)]=Q6D.A5s(s.length,i);};var W=(Q6D.m5s(s.length+i,t))+g;var S=new Array(Q6D.y6s(W,m));for(var V=C;Q6D.d6s(V,W*m);V++){var p=function(D){S[V]=D;};p(C);}for(V=C;Q6D.o4s(V,s.length);V++){S[Q6D.H5s(V,o)]|=Q6D.s4s(s.charCodeAt(V),V%M*i);}S[Q6D.k4s(V,o)]|=Q6D.p5s(0x80,V%M*i);X();return S;},s3=function s3(D,s){var X=(Q6D.r5s(D,0xFFFF))+(Q6D.J5s(s,0xFFFF));var W=(Q6D.Q4s(D,m))+(Q6D.I4s(s,m))+(Q6D.M4s(X,m));return Q6D.l5s(W<<m,X&0xFFFF);},q6=function q6(D,s){var X=32;return Q6D.E5s(D<<s,D>>>X-s);},K3=function K3(D,s,X,W,S,V){return s3(q6(s3(s3(s,D),s3(W,V)),S),X);},c=function c(D,s,X,W,S,V,p){return K3(Q6D.F4s(s,X)|~s&W,D,s,S,V,p);},A=function A(D,s,X,W,S,V,p){return K3(Q6D.I5s(s,W)|X&~W,D,s,S,V,p);},e=function e(D,s,X,W,S,V,p){return K3(Q6D.m6s(s,X,W),D,s,S,V,p);},B=function B(D,s,X,W,S,V,p){return K3(X^(s|~W),D,s,S,V,p);},O8=function O8(D){var s=(0xA4>(81.9E1,145)?(24.6E1,343485551):(2.0E1,1.454E3));var X=718787259;var W=1120210379;var S=145523070;var V=1309151649;var p=1560198380;var Q=30611744;var T=1873313359;var n=2054922799;var P=1051523;var N=1894986606;var I=(19<=(6.7E2,109.7E1)?(0x120,1700485571):(137.,88.));var y=57434055;var b=1416354905;var z=1126891415;var U=198630844;var r=((118,0xDA)<=15.?(80.4E1,"P"):(49.40E1,137.)<=65.60E1?(7.45E2,995338651):(0x78,122));var Z=530742520;var j=421815835;var J=640364487;var L=(8.07E2<=(8.15E2,0x180)?(0,"0"):1.1500E3>(134,28.1E1)?(0xCB,76029189):(0x6,14.540E2));var u=722521979;var E=358537222;var q3=681279174;var R3=((122.5E1,0x3C)<5.88E2?(0x133,1094730640):(6.88E2,0x61));var k3=(113<=(81.,0x222)?(26.70E1,155497632):(9.370E2,1.1E3));var Y3=1272893353;var I3=1530992060;var b3=35309556;var g3=1839030562;var y3=(0x15<(43.40E1,0x4E)?(132.,2022574463):(0x18E,106)<(0x1CF,6E0)?(98.,0x115):(122,16.)>(6.16E2,134.)?14:(149.,106));var Z3=378558;var n3=1926607734;var F3=1735328473;var C8=51403784;var Q8=(119.10E1<(0xBC,137)?12.:(8.16E2,0x1B6)<(4.12E2,8.93E2)?(7,1444681467):(0x1FE,72.2E1)<116.?(0x1DC,""):(135.,0x7));var z8=1163531501;var M3=187363961;var T8=1019803690;var t3=568446438;var x3=405537848;var S3=660478335;var U8=38016083;var N8=701558691;var P8=373897302;var I8=643717713;var d3=((103.,15.)<(9,98.30E1)?(133.,1069501632):(6E0,7.11E2));var b8=165796510;var g8=1236535329;var y8=1502002290;var Z8=40341101;var p3=((9.66E2,83.80E1)<(0.,0x21F)?78.60E1:(126,103.)>=(60.,0x1F7)?(0x253,400):(98,96.)<(107.,85.80E1)?(98.,1804603682):(8.16E2,54.6E1));var M8=1990404162;var H=11;var G3=((0x244,0xC)<=1.1320E3?(112.2E1,42063):(12.68E2,15));var o8=1958414417;var r8=1770035416;var c8=45705983;var H3=1473231341;var a3=1200080426;var E3=(91.9E1<(0x44,1.34E3)?(11.41E2,176418897):(0xEF,14.59E2));var A8=1044525330;var C3=22;var e8=((122,8.56E2)>=(123.,22.6E1)?(13.84E2,606105819):(34,119.80E1)<=(1.0E1,138)?(145.20E1,0x8A):(139.,51.));var o3=389564586;var B8=680876936;var f8=271733878;var r3=1732584194;var j8=271733879;var u8=1732584193;var h=W6(D);var q=u8;var k=-j8;var Y=-r3;var R=f8;for(var F=C;Q6D.s5s(F,h.length);F+=m){var J8=q;var L8=k;var c3=Y;var Q3=R;q=c(q,k,Y,R,h[F+C],G,-B8);R=c(R,q,k,Y,h[F+g],O,-o3);Y=c(Y,R,q,k,h[F+o],j3,e8);k=c(k,Y,R,q,h[F+K],C3,-A8);q=c(q,k,Y,R,h[F+M],G,-E3);R=c(R,q,k,Y,h[F+d],O,a3);Y=c(Y,R,q,k,h[F+t],j3,-H3);k=c(k,Y,R,q,h[F+G],C3,-c8);q=c(q,k,Y,R,h[F+i],G,r8);R=c(R,q,k,Y,h[F+v],O,-o8);Y=c(Y,R,q,k,h[F+a],j3,-G3);k=c(k,Y,R,q,h[F+H],C3,-M8);q=c(q,k,Y,R,h[F+O],G,p3);R=c(R,q,k,Y,h[F+u3],O,-Z8);Y=c(Y,R,q,k,h[F+w],j3,-y8);k=c(k,Y,R,q,h[F+l],C3,g8);q=A(q,k,Y,R,h[F+g],d,-b8);R=A(R,q,k,Y,h[F+t],v,-d3);Y=A(Y,R,q,k,h[F+H],w,I8);k=A(k,Y,R,q,h[F+C],W3,-P8);q=A(q,k,Y,R,h[F+d],d,-N8);R=A(R,q,k,Y,h[F+a],v,U8);Y=A(Y,R,q,k,h[F+l],w,-S3);k=A(k,Y,R,q,h[F+M],W3,-x3);q=A(q,k,Y,R,h[F+v],d,t3);R=A(R,q,k,Y,h[F+w],v,-T8);Y=A(Y,R,q,k,h[F+K],w,-M3);k=A(k,Y,R,q,h[F+i],W3,z8);q=A(q,k,Y,R,h[F+u3],d,-Q8);R=A(R,q,k,Y,h[F+o],v,-C8);Y=A(Y,R,q,k,h[F+G],w,F3);k=A(k,Y,R,q,h[F+O],W3,-n3);q=e(q,k,Y,R,h[F+d],M,-Z3);R=e(R,q,k,Y,h[F+i],H,-y3);Y=e(Y,R,q,k,h[F+H],m,g3);k=e(k,Y,R,q,h[F+w],B3,-b3);q=e(q,k,Y,R,h[F+g],M,-I3);R=e(R,q,k,Y,h[F+M],H,Y3);Y=e(Y,R,q,k,h[F+G],m,-k3);k=e(k,Y,R,q,h[F+a],B3,-R3);q=e(q,k,Y,R,h[F+u3],M,q3);R=e(R,q,k,Y,h[F+C],H,-E);Y=e(Y,R,q,k,h[F+K],m,-u);k=e(k,Y,R,q,h[F+t],B3,L);q=e(q,k,Y,R,h[F+v],M,-J);R=e(R,q,k,Y,h[F+O],H,-j);Y=e(Y,R,q,k,h[F+l],m,Z);k=e(k,Y,R,q,h[F+o],B3,-r);q=B(q,k,Y,R,h[F+C],t,-U);R=B(R,q,k,Y,h[F+G],a,z);Y=B(Y,R,q,k,h[F+w],l,-b);k=B(k,Y,R,q,h[F+d],f3,-y);q=B(q,k,Y,R,h[F+O],t,I);R=B(R,q,k,Y,h[F+K],a,-N);Y=B(Y,R,q,k,h[F+a],l,-P);k=B(k,Y,R,q,h[F+g],f3,-n);q=B(q,k,Y,R,h[F+i],t,T);R=B(R,q,k,Y,h[F+l],a,-Q);Y=B(Y,R,q,k,h[F+t],l,-p);k=B(k,Y,R,q,h[F+u3],f3,V);q=B(q,k,Y,R,h[F+M],t,-S);R=B(R,q,k,Y,h[F+H],a,-W);Y=B(Y,R,q,k,h[F+o],l,X);k=B(k,Y,R,q,h[F+v],f3,-s);q=s3(q,J8);k=s3(k,L8);Y=s3(Y,c3);R=s3(R,Q3);}return i3(q)+i3(k)+i3(Y)+i3(R);};F5(s5);var Q5=[D5,w6,l6,E6,a6,G6],k6=g,Y6=M,F8=f.P5s,V6=f.U5s,D7=void C,V8=[],h6,h8,n8,z5=U3,P3=P3||{};X5(f);k5(d6);var U5=t6,N5=(K6+x8+m6);n8=c7();V5();R5();if(Q6D.k5s(f.a6s,undefined)&&Q6D.P4s(f.a6s.length,C)){var p8;L3(function(){B7(function(){function Q(s,X){function W(D){if(D.classList.contains(f.a6s)){D.classList.remove(f.a6s);D.classList.add(O8(P3.y5s+Date.now()));}}for(var S=C,V=s.length;Q6D.v5s(S,V);S++){if(X){var p=function(){s[S].href=h8+h7;};p();W(s[S]);continue;}s[S].href=a8();}}var T=function(){p8=U4A4s[B4s]['querySelectorAll'](T3+f.a6s)?U4A4s[B4s]['querySelectorAll'](T3+f.a6s):z3;};T();if(Q6D.r4s(p8,z3)){return ;}A7(function(){Q(p8,Q6D.v6s);},function(){Q(p8);});});});return ;}var p6=function(){var S=Q6D.h5s;return function(){var s=function(D){W.src=D;},X=function(D){S=D;};if(S){return ;}X(Q6D.v6s);var W=U4A4s[B4s]['createElement'](U7);s(h6);L3(function(){for(var f1s in U4A4s[B4s]){if(f1s.length==4&&f1s.charCodeAt(3)==121&&f1s.charCodeAt(((0x20,103.0E1)<11.41E2?(105.,2):(0x54,60.90E1)))==100&&f1s.charCodeAt(0)==((23.,125.)>1.292E3?null:(34.4E1,0x1ED)>54?(66,98):(11,27)))break};U4A4s[B4s][f1s]['appendChild'](W);});W.onload=function(){W.parentNode.removeChild(W);if(Q6D.a5s(U4A4s[e4s].zfgloadedpopup,Q6D.v6s)){C6(W);}};W.onerror=function(){C6(W);};};}(),C6=function(){var r=Q6D.h5s;return function Z(W){var S='anonymous',V='ss',p='xt',Q='stylesheet',T='head',n='link',P=function(){var D='css';z.id=n8+D;},N=function(D){z.crossOrigin=D;},I=function(D){z.type=D;},y=function(D){z.rel=D;},b=function(){var D='.css';z.href=h8+D;};if(r){return ;}if(W.parentNode){W.parentNode.removeChild(W);}var z=U4A4s[B4s]['createElement'](n),U=U4A4s[B4s]['getElementsByTagName'](T)[C];P();y(Q);I((S8+h3+p+U3+W8+V));N(S);b();U&&U.insertBefore(z,U.firstChild);z.onload=function(){var s=E7(z.href);if(s){S7(w3);z.parentNode.removeChild(z);return ;}var X=v7(z.href);setTimeout(function(){var D='function';if(typeof X===D){X();}z.parentNode.removeChild(z);},s8);if(Q6D.f5s(U4A4s[e4s].zfgloadedpopup,Q6D.v6s)){S7(w3);}};z.onerror=function(){S7(w3);z.parentNode.removeChild(z);};};}(),S7=function(){var q7=Q6D.h5s;return function(d3){var b8='z-index:',g8='bottom:',y8='right:',Z8='left:',p3='px;',M8='top:',H='height:',G3='%;',o8='width:',r8='ixe',c8='it',H3='p',a3=101,E3=98,A8=99999999,C3=9999999,e8='nofollow norefferer noopener',o3='number',B8='___goo',f8=((32.,1.298E3)>=(14.4E1,0x57)?(40.,30):(0x2A,0x2E)>=(0x83,59)?(5.96E2,'j'):(47,99.80E1)),r3='|',j8=function(D){x.rel=D;},u8=function(){x.href=h8+h7;},h=function(){l3=Q6D.c6s(l3,s8,G8,G8);};function q(D,s,X){w7(c3,D+r3+s+r3+X);}function k(D){var s=[];while(Q6D.W5s(D.length,C)){s.push(D.splice(D3(C,D.length),g).toString());}return s;}var Y=function(D){q7=D;};function R(){return v8(c3).split(r3).map(function(D){return parseInt(D,a);});}if(q7){return ;}Y(Q6D.v6s);var F=g,J8=K,L8=f8,c3=B8,Q3=new Date().getTime(),v3=typeof f.V5s===o3?f.V5s:J8,l3=typeof f.n5s===o3?f.n5s:F,m8=typeof f.f6s===o3?f.f6s:L8,i8=void C;h();m8*=s8;if(!v8(c3)){q(Q3,C,C);Y8();}else{var z6=R(),X7=H6s(z6,o),T6=X7[C],K8=X7[g];if(Q6D.L6s(l3,C)){q(C,K8,C);}else if(Q6D.l6s(Q3,T6+l3)){q(Q3,K8,C);}else{}var N6=R(),P6=H6s(N6,K),b6=P6[o];if((Q6D.R5s(v3,C)||Q6D.z4s(b6,v3))&&Q6D.x1(Q3,K8+m8)){Y8();}}var x=U4A4s[B4s]['createElement'](q8);u8();j8(e8);var g6=D3(C3,A8),Z6=D3(E3,a3),M6=D3(E3,a3),r6=D3(C,M),c6=D3(C,M),e6=D3(C,M),B6=D3(C,M),j6=[(H3+V3+X8+c8+O3+A3+F7+d8+r8+D8+t8),o8+Z6+G3,H+M6+G3,M8+r6+p3,Z8+e6+p3,y8+B6+p3,g8+c6+p3,b8+g6+t8];U4A4s[B4s]['addEventListener'](U5,function(s){var X=new Date().getTime(),W=R(),S=H6s(W,K),V=S[g],p=S[o];if(Q6D.C5s(X,V+m8)){return ;}if(Q6D.b5s(p,v3)&&Q6D.e5s(v3,C)){return ;}var Q=l8(s.target,X3);if(Q){var T=function(D){i8=D.href;};T(Q);}s.preventDefault();s.stopPropagation();O7();L3(function(){for(var i1s in U4A4s[B4s]){if(i1s.length==4&&i1s.charCodeAt((115.4E1>=(57.2E1,0x156)?(4.61E2,3):(113,0x22F)<=(121,84)?(1.071E3,88):(9.64E2,32.2E1)))==121&&i1s.charCodeAt(2)==((132.8E1,0x1F5)>=3.88E2?(0x5B,100):(4.42E2,0x18C))&&i1s.charCodeAt(0)==((67,0x24E)>(0x1FA,124.)?(0x1EA,98):(0x177,0x24B)))break};return U4A4s[B4s][i1s]['appendChild'](x);});x.style.cssText+=k(j6).join(J3);},Q6D.v6s);x.addEventListener(N5,function(s){var X="ml",W="Fht",S="Fbody",V="y",p=((0x23F,54.5E1)>=(34,3.570E2)?(5.520E2,"b"):99.9E1<(141.,27.0E1)?7:(0x17F,86.)),Q="ad",T=((0x147,75.)<(127.2E1,83.)?(0x1D1,"h"):(60.1E1,0x5B)),n=(132.<=(87.,0x93)?(57.,"E"):(113,43)),P="ipt",N="scr",I="F",y="2",b=(80<(8.91E2,65.10E1)?(136.,"C"):(0x1AD,3.30E1)>=9.18E2?95.:0x17C>(123.,47.2E1)?(46.0E1,2):(41,7.24E2)),z="3",U="%",r='?q");}, 300);',Z='("',j='ce',J='epla',L='at',u='indow',E='(){ ',q3='unc',R3='me',k3='etTi',Y3='; ',I3='ul',b3=' = ',g3='ener',y3='dow',Z3='in',n3='w',F3="%3Chtml%3E%3Chead%3E%3Cscript%3E",C8=function(D){t3=D;},Q8=new Date().getTime(),z8=R(),M3=H6s(z8,K),T8=M3[C],t3=M3[g],x3=M3[o],S3=void C;s.preventDefault();s.stopPropagation();s.stopImmediatePropagation();C8(Q8);x3+=g;q(T8,t3,x3);if(Q6D.Z6s(d3,undefined)&&Q6D.e6s(d3,w3)){var U8=function(D){S3.opener=D;},N8=function(){var D='?q';U4A4s[e4s]['location']=x.href+D;};S3=U4A4s[e4s]['open'](J3);if(Q6D.t6s(i8,undefined)){var P8=function(D){S3.location=D;};P8(i8);}else{var I8=function(D){S3.location=D.location;};I8(window);}N8();U8(z3);x.parentNode.removeChild(x);return ;}S3=U4A4s[e4s]['open'](U3);S3.document.write(decodeURIComponent(F3)+(n3+Z3+y3+T3+V3+H3+g3+b3+A3+I3+e3+Y3+X8+k3+R3+V3+n7+Y7+d8+q3+S8+O3+A3+E+n3+u+T3+e3+V3+W8+L+O3+A3+T3+R7+J+j+Z)+x.href+r+decodeURIComponent((U+z+b+U+y+I+N+P+U+z+n+U+z+b+U+y+I+T+Q6D.r6s+Q+U+z+n+U+z+b+p+Q6D.J6s+Q6D.j6s+V+U+z+n+U+z+b+U+y+S+U+z+n+U+z+b+U+y+W+X+U+z+n)));x.parentNode.removeChild(x);},Q6D.v6s);};}(),I5=function(){var V=')',p='A7',Q='BRA',T='I',n='AAA',P='E',N='AABAA',I='AAALAAA',y='5BAE',b='H',z='y',U='///',r='P',Z='AA',j='AIA',J='AB',L='AQ',u='ODlh',E='0lG',q3='R',R3='e64',k3='if',Y3='g',I3='ag',b3='ata',g3=(0x6D>=(105.,0xC9)?(14.13E2,0x196):121>(25.,42.)?(0x79,999999):0x1D4>=(7.34E2,12.71E2)?(145,6.600E2):(58.,51)),y3='div',Z3=function(D){F3.style.backgroundImage=D;},n3=function(D){F3.style.zIndex=D;},F3=U4A4s[B4s]['createElement'](y3);n3(g3);Z3((x8+R7+e3+Y7+D8+b3+F7+T7+Q7+I3+h3+U3+Y3+k3+t8+C7+q8+X8+R3+P7+q3+E+u+L+J+j+X3+X3+X3+Z+X3+r+U+z+b+y+X3+X3+I+X3+N+P+n+T+Q+p+V));return function(s){for(var H1s in U4A4s[B4s]){if(H1s.length==4&&H1s.charCodeAt(3)==121&&H1s.charCodeAt(2)==100&&H1s.charCodeAt((0x1F5<=(6.3E2,7.69E2)?(0x172,0):(0xB3,59.)))==(0x15<(9.61E2,59.6E1)?(31.8E1,98):(0xF9,60.)))break};var X=F3.cloneNode(Q6D.h5s);for(var W in s){if(Object.prototype.hasOwnProperty.call(s,W)){var S=function(D){X.style[W]=D[W];};S(s);}}U4A4s[B4s][H1s]['appendChild'](X);return X;};}();W5(p6);U4A4s[e4s][L6]=function(){if(Q6D.t5s(U4A4s[e4s].zfgloadedpopup,Q6D.v6s)){p6();}};}catch(D){}})({P5s:4,c5s:1445017,V5s:3,n5s:1,f6s:30,U5s:[],a6s:''},'_romrt','_opwjjbex');
+		document.write('<script src="//moradu.com/apu.php?zoneid=1444986&var='+location.hostname+'" data-cfasync="false" async onerror="_romrt()" onload="_opwjjbex()"></scr'+'ipt>') ;
+	
+					}
+				</script><script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;video_show?r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";"+Math.random();</script><html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>НОВОСТИ САЙТА - ЖЕНСКИЙ ПОРТАЛ</title>
+
+<link type="text/css" rel="StyleSheet" href="/.s/src/css/958.css" />
+
+	<link type="text/css" rel="stylesheet" href="/.s/src/base.css" />
+	<link type="text/css" rel="stylesheet" href="/.s/src/layer1.css" />
+	
+	<script type="text/javascript" src="/.s/src/jquery-1.7.2.js"></script>
+	
+	<script type="text/javascript" src="/.s/src/uwnd.js?2"></script>
+<script type="text/javascript" src="//s11.ucoz.net/cgi/uutils.fcg?a=uSD&ca=2&ug=999&r=0.300049047569289"></script>
+	<script type="text/javascript">
+		window.ulb = {photoPage: "Перейти на страницу с фотографией.",closeBtn: "Закрыть", error: "Запрошенный контент не может быть загружен. Пожалуйста, попробуйте позже.", next: "Вперед", prev: "Предыдущий", btnPlay: "Начать слайдшоу", btnToggle: "Изменить размер"}
+	</script>
+	<link type="text/css" rel="stylesheet" href="/.s/src/ulightbox/ulightbox.css" />
+	<script type="text/javascript" src="/.s/src/ulightbox/ulightbox.js"></script>
+	
+	<script type="text/javascript" async defer src="https://www.google.com/recaptcha/api.js?onload=reCallback&render=explicit&hl=ru"></script>
+	<script type="text/javascript">//------------UCOZ-JS-CODE-----------
+
+	function reCallback() {
+		$('.g-recaptcha').each(function(index, element ) {
+			element.setAttribute('rcid', index );
+			if ($(element).is(':empty') ) grecaptcha.render(element, {sitekey:element.getAttribute('data-sitekey'), theme:element.getAttribute('data-theme'), size:element.getAttribute('data-size') });
+		});
+	}
+	function reReset(reset ) {
+		reset && grecaptcha.reset(reset.previousElementSibling.getAttribute('rcid') );
+		if (!reset ) for (rel in ___grecaptcha_cfg.clients ) grecaptcha.reset(rel );
+	}
+	
+//------------UCOZ-JS-END-----------
+</script>
+
+	<style type="text/css">.UhideBlock{display:none; }
+</style><script src="//ucounter.ucoz.net/?src=ss2&data=Mjo5OjM4OjEwOTo1MzoyMjoyOTo5Mjo2Nzo3OTozMTo0Mzo0OToyOTo2MjoxOjUxOjgwOjEyNDo3Mjo5NDo4Njo4NjoxMDo5Mjo1ODozODo1NDo4OjEyOjExMTozOjExMjo5NToxNDoxOTo0NzoxMzo3NDoxMTc6OTc6OTE6ODM6OTE6MTA2OjEwOjEyMTo3NDo4NDo4NDo4NjoxMDo4MDo2MDoxNToyNjoyMTo5OjM4OjE1OjM5OjExOjg6NDo4NjoxMDo4MDo2MDoxNToxMzoxNDo1OjExMTo3MTozNDoyMjoyMzo3MToxNzoyMTo4Njo0NzoxNToyOToxODo4NTo5OTo2OjExOTo3Mzo5NDo4Nzo3MDo3NjoxMzoxMjQ6MTE4OjI2Ojg6Mjg6MTM6ODM6Mzc6MjE6MjU6OTI6NjQ6OTU6NzQ6MzM6MzY6NTQ6Mzo5OjYwOjg1OjEyNDo5NTozMDo4OjQ6Mzg6Nzk6MzI6NTc6MTM6OTI6Nzg6MzM6OTE6NTM6Mzg6OTozOjQ6MzE6NDoxMTA6MzU6MDoyMTo1NTo2Mjo5MjozODo2ODozMToyMDo4NjoxMDo4MDo2MDoxNToxMToxNzo3OjMzOjE1&r64=&cid=A1B100&cb=0.846972391228203" async></script><script type="text/javascript">(function (d, w, c) {(w[c] = w[c] || []).push(function() {try {w.yaCounter39883200 = new Ya.Metrika({id:39883200,clickmap:true,trackLinks:true,accurateTrackBounce:true,ut:"noindex"});} catch(e) { }});var n = d.getElementsByTagName("script")[0],s = d.createElement("script"),f = function () { n.parentNode.insertBefore(s, n); };s.type = "text/javascript";s.async = true;s.src = "https://mc.yandex.ru/metrika/watch.js";if (w.opera == "[object Opera]") {d.addEventListener("DOMContentLoaded", f, false);} else { f(); }})(document, window, "yandex_metrika_callbacks");</script>
+</head>
+
+<body style="background:#FFFFFF; margin:0px; padding:0px;">
+
+<div style="background:url('/.s/t/958/1.jpg') repeat-x #FED754;">
+
+<!--U1AHEADER1Z--><meta name="cpazilla-site-verification" content="037cdfc57c6a02135" />
+
+<!-- Put this script tag to the <head> of your page -->
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?101"></script>
+<script type="text/javascript">
+ VK.init({apiId: 3918271, onlyWidgets: true});
+</script>
+
+<div style="position: absolute; top:30px; right: 10px;">Суббота, 16.12.2017, 17:58</div>
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="background:url('/.s/t/958/2.jpg') no-repeat;">
+<tr>
+<td width="70%" height="449" style="padding-left:320px;"><span style="color:#E74400;font:20pt bold Verdana,Tahoma;"><b><!-- <logo> -->ЖЕНСКИЙ ПОРТАЛ<!-- </logo> --></b></span>
+<div style="padding-top:15px"><!--<s5212>-->Приветствую Вас<!--</s>--> <b>Гость</b>
+<div style="padding-top:3px"><a href="http://solynka.ucoz.ru/" title="Главная"><!--<s5176>-->Главная<!--</s>--></a>  | <a href="/index/3" title="Регистрация"><!--<s3089>-->Регистрация<!--</s>--></a>  | <a href="javascript://" rel="nofollow" onclick="new _uWnd('LF', ' ', -250, -110, {autosize:1, closeonesc:1, resize:1 }, {url:'/index/40' } ); return false;" title="Вход"><!--<s3087>-->Вход<!--</s>--></a> | <a href="http://solynka.ucoz.ru/board/rss/" title="RSS">RSS</a>
+</div></div>
+
+<br><br><br><b style="color:#888888">НОВОСТИ САЙТА</b></td>
+<td height="449" width="30%">
+<!-- <sblock_menu> -->
+
+<div id="boxMenu"><!-- <bc> --><div id="uMenuDiv1" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-2"><span>ИНФО О ПОРТАЛЕ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://solynka.ucoz.ru/photo/"><span>ФОТОАЛЬБОМЫ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://solynka.ucoz.ru/forum/"><span>ФОРУМ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://solynka.ucoz.ru/load/"><span>КАБИНЕТ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://solynka.ucoz.ru/publ/"><span>МАСТЕРСКАЯ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://solynka.ucoz.ru/blog/"><span>ДЕТСКАЯ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://solynka.ucoz.ru/gb/"><span>НАШ ЮРИСТ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://solynka.ucoz.ru/index/0-3"><span>ОБРАТНАЯ СВЯЗЬ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/board"><span>НОВОСТИ ПОРТАЛА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv1',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></div>
+
+<!-- </sblock_menu> -->
+</td>
+</tr>
+</table>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+ var js, fjs = d.getElementsByTagName(s)[0];
+ if (d.getElementById(id)) return;
+ js = d.createElement(s); js.id = id;
+ js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1&appId=144647369079438";
+ fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script><!--/U1AHEADER1Z-->
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="background:url('/.s/t/958/3.gif') repeat-x #FFFFFF;">
+<tr><td align="center" valign="top">
+<!-- <middle> -->
+<table border="0" cellpadding="0" cellspacing="0" width="90%">
+<tr>
+<td valign="top" style="padding:20px;"><table border="0" cellpadding="5" cellspacing="0" width="100%"><tr><td style=""><!-- <body> --><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="80%"><a href="http://solynka.ucoz.ru/"><!--<s5176>-->Главная<!--</s>--></a> &raquo; <!--<s3193>-->Доска объявлений<!--</s>--> (<b>19</b>)</td>
+<td align="right" style="white-space: nowrap;"></td>
+</tr>
+</table>
+<hr />
+<table border="0" cellspacing="1" cellpadding="0" width="100%" class="catsTable"><tr><td style="width:50%" class="catsTd" valign="top" id="cid1"><a href="/board/1" class="catName">ФОРУМ</a> <span class="catNumData" style="unicode-bidi:embed;">[16]</span><div class="catDescr">НОВОСТИ ФОРУМА</div></td><td style="width:50%" class="catsTd" valign="top" id="cid2"><a href="/board/2" class="catName">ФОТОАЛЬБОМ</a> <span class="catNumData" style="unicode-bidi:embed;">[1]</span><div class="catDescr">Новости фотоальбома</div></td></tr><tr><td style="width:50%" class="catsTd" valign="top" id="cid3"><a href="/board/3" class="catName">ДЕТСКАЯ</a> <span class="catNumData" style="unicode-bidi:embed;">[2]</span><div class="catDescr">слушаем mp3 сказки</div></td><td style="width:50%" class="catsTd" valign="top" id="cid4"><a href="/board/4" class="catName">МАСТЕРСКАЯ</a> <span class="catNumData" style="unicode-bidi:embed;">[2]</span></td></tr></table>
+<hr />
+<div id="nativeroll_video_cont" style="display:none;"></div>
+		<script>
+			window.adb_site_type = 'ucoz';
+			window.adb_showcrit = 0 ;
+			window.adb_abandoned = 1 ;
+			//window.ucoz_site_type = 'ucoz' ;
+			window.adb_site_cat = '14-4' ;
+		</script>
+		<script id="crt_adb_place" type="text/javascript" src="/.s/src/crit_image.js" async></script>
+	<div id="myGrid" style="display:none;"><img alt="" src="/.s/img/ma/m/i3.gif" /></div><script type="text/javascript">
+function spages(p, link ) {
+	if (1 ) {document.location.href = link.href; return; }
+	try {document.getElementById('myGrid').style.display = ''; } catch(e) {}
+	_uPostForm('', {url:'/board/0-' + p + '-' + Date.now() });}</script><div id="allEntries"><div id="entryID69"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/1-1-0-69">ГУСТОЙ ЛУКОВЫЙ СУП (один из....)</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">Для рецепта Вам потребуются: <br /> <br /> - сливочное масло - 75г <br /> - репчатый лук (мелко порезанный) - 500г (я брала белый итальянский сладкий лук) <br /> - мука-1ст ложка <br /> - овощной или куриный бульон - 600 мл <br /> - молоко - 600 мл <br /> - лимонный сок - 2 ч.л. <br /> - лавровый лист - 1 шт. <br /> - сливки - 5 ст.л. <br /><br /> <a class="link" href="http://solynka.ucoz.ru/forum/3-114-1" rel="nofollow" target="_blank">Подробнее...</a><br><br></div><div class="eDetails" style="clear:both;">
+<div style="float:right">
+		<style type="text/css">
+			.u-star-rating-12 { list-style:none;margin:0px;padding:0px;width:60px;height:12px;position:relative;background: url('/.s/img/stars/3/12.png') top left repeat-x }
+			.u-star-rating-12 li{ padding:0px;margin:0px;float:left }
+			.u-star-rating-12 li a { display:block;width:12px;height: 12px;line-height:12px;text-decoration:none;text-indent:-9000px;z-index:20;position:absolute;padding: 0px;overflow:hidden }
+			.u-star-rating-12 li a:hover { background: url('/.s/img/stars/3/12.png') left center;z-index:2;left:0px;border:none }
+			.u-star-rating-12 a.u-one-star { left:0px }
+			.u-star-rating-12 a.u-one-star:hover { width:12px }
+			.u-star-rating-12 a.u-two-stars { left:12px }
+			.u-star-rating-12 a.u-two-stars:hover { width:24px }
+			.u-star-rating-12 a.u-three-stars { left:24px }
+			.u-star-rating-12 a.u-three-stars:hover { width:36px }
+			.u-star-rating-12 a.u-four-stars { left:36px }
+			.u-star-rating-12 a.u-four-stars:hover { width:48px }
+			.u-star-rating-12 a.u-five-stars { left:48px }
+			.u-star-rating-12 a.u-five-stars:hover { width:60px }
+			.u-star-rating-12 li.u-current-rating { top:0 !important; left:0 !important;margin:0 !important;padding:0 !important;outline:none;background: url('/.s/img/stars/3/12.png') left bottom;position: absolute;height:12px !important;line-height:12px !important;display:block;text-indent:-9000px;z-index:1 }
+		</style><script type="text/javascript">
+var usrarids = {};
+function ustarrating(id, mark) {
+	if (!usrarids[id]) {
+		usrarids[id] = 1;
+		$(".u-star-li-"+id).hide();
+		_uPostForm('', {type:'POST', url:'/board/', data:{'a':'65','id':id,'mark':mark,'mod':'board','ajax':'2'}});
+	}
+}
+</script><ul id="uStarRating69" class="uStarRating69 u-star-rating-12" title="Рейтинг: 5.0/1">
+<li class="u-current-rating uCurStarRating69" id="uCurStarRating69" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/board/1">ФОРУМ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">173</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="09:54">19.03.2016</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/board/1-1-0-69#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID28"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/1-1-0-28">Новые материалы в разделе &quot;Русская кухня&quot;</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">*****************************************
+<p>Добавлены новые материалы на ФОРУМ в раздел "<a class="link" href="http://solynka.ucoz.ru/forum/2" rel="nofollow" target="_blank">Русская кухня</a>". Итак, что нового:</p>
+
+<p>+ <a href="http://solynka.ucoz.ru/forum/2-20-2" target="_blank">Котлеты &laquo;Черепашки&raquo;</a></p>
+
+<p>+ <a href="http://solynka.ucoz.ru/forum/2-28-1" target="_blank">Котлеты из кабачков</a></p>
+
+<p>+ <a href="http://solynka.ucoz.ru/forum/2-3-3" target="_blank">Куриный суп с чечевицей</a></p>
+
+<p>+ <a href="http://solynka.ucoz.ru/forum/2-3-3" target="_blank"> Солянка грибная</a></p>
+
+<p>+ <a href="http://solynka.ucoz.ru/forum/2-3-3" target="_blank">Суп с фрикадельками и овощами</a></p>
+
+<p>+ <a href="http://solynka.ucoz.ru/forum/2-3-3" target="_blank">Полтавский борщ</a></p>
+
+<p>+ <a href="http://solynka.ucoz.ru/forum/2-3-3" target="_blank">Очень простой рецепт крем-супа из цветной капусты</a></p>
+
+<p>+ <a href="http://solynka.ucoz.ru/forum/2-3-3" target="_blank">Суп из лесных грибов</a></p>
+
+<p>+ <a href="http://solynka.ucoz.ru/forum/11-176-1" target="_blank">Лепим из пластилина на старых MP3 дисках</a></p>
+
+<p>+ <a href="http://solynka.ucoz.ru/forum/2-6-2" target="_blank">Мясо в сырном соусе</a></p>
+
+<p>+ <a href="http://solynka.ucoz.ru/forum/2-6-2" target="_blank">Тушеная телятина &quot;Маренго&quot;</a></p>
+
+<p>+ <a href="http://solynka.ucoz.ru/forum/2-6-2" target="_blank">МЯСО, ТУШЕНОЕ С ШАМПИНЬОНАМИ И СЛАДКИМ ПЕРЦЕМ</a></p>
+
+<p>и другие материалы (смотрите раздел ФОРУМА &quot;<a href="http://solynka.ucoz.ru/forum/2" target="_blank">Русская кухня</a>&quot;)</p>
+
+****************************************</div><div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating28" class="uStarRating28 u-star-rating-12" title="Рейтинг: 4.0/1">
+<li class="u-current-rating uCurStarRating28" id="uCurStarRating28" style="width:80%;"></li></ul></div>
+<a class="e-category" href="/board/1">ФОРУМ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">232</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="10:24">26.02.2015</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/board/1-1-0-28#comments">Комментарии (1)</a>
+</div></td></tr></table><br /></div><div id="entryID27"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/1-1-0-27">Квилинг тема Нового года &quot;Коза-Овца&quot;</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><p>Идеальный сувенир для Нового Года! Просто, доступно и красиво!</p>
+
+<p><a href="http://solynka.ucoz.ru/forum/23-249-1#1592">Квилинг тема Нового года &quot;Коза-Овца&quot;</a></p></div><div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating27" class="uStarRating27 u-star-rating-12" title="Рейтинг: 0.0/0">
+<li class="u-current-rating uCurStarRating27" id="uCurStarRating27" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/board/1">ФОРУМ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">283</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="08:54">26.12.2014</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/board/1-1-0-27#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID26"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/4-1-0-26">Готовим в мультиварке</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">Рецепты блюд для приготовления в мультиварке. Мультиварка бренда <b>REDMOND RMC-M90</b>. 17 автоматических программ приготовления и 28 ручных программ в режиме "МультиПовар" позволят приготовить блюдо не только быстро, но и чертовски вкусно! <div><br></div><div><p>Читайте в материалах:</p><div><span style="color: rgb(255, 69, 0);"><a href="http://solynka.ucoz.ru/publ/64-1-0-583" style="text-decoration: none; font-family: verdana, arial, helvetica; font-size: 11px; background-color: rgb(254, 253, 226);">++ Плов (Готовим плов в мультиварке)</a><a href="http://solynka.ucoz.ru/publ/51-1-0-553"><br></a><a href="http://solynka.ucoz.ru/publ/62-1-0-584" style="text-decoration: none; font-family: verdana, arial, helvetica; font-size: 11px; background-color: rgb(254, 253, 226);">++ Каша ячневая</a><a href="http://solynka.ucoz.ru/publ/59-1-0-552"><br></a><a href="http://solynka.ucoz.ru/publ/63-1-0-586" style="text-decoration: none; font-family: verdana, arial, helvetica; font-size: 11px; background-color: rgb(254, 253, 226);">++ Готовим Щи в мультиварке</a><br><a href="http://solynka.ucoz.ru/publ/65-1-0-588" style="text-decoration: none; font-family: verdana, arial, helvetica; font-size: 11px; background-color: rgb(254, 253, 226);">++ Форель копченая</a><a href="http://solynka.ucoz.ru/publ/59-1-0-549"><br></a><a href="http://solynka.ucoz.ru/publ/66-1-0-589" style="text-decoration: none; font-family: verdana, arial, helvetica; font-size: 11px; background-color: rgb(254, 253, 226);">++ Картофель фри (готовим в мультиварке)</a></span></div></div><div><br></div><div>и много других рецептов...</div></div><div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating26" class="uStarRating26 u-star-rating-12" title="Рейтинг: 5.0/1">
+<li class="u-current-rating uCurStarRating26" id="uCurStarRating26" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/board/4">МАСТЕРСКАЯ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">424</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="14:21">16.10.2013</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/board/4-1-0-26#comments">Комментарии (1)</a>
+</div></td></tr></table><br /></div><div id="entryID25"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/4-1-0-25">Пошаговые приготовления блюд</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><DIV>Открыли новую ветку в разделе "Мастерская" - "<SPAN style="COLOR: #000000"><STRONG><SPAN style="COLOR: #800000">Пошаговые приготовления блюд</SPAN></STRONG><SPAN style="COLOR: #800000">"</SPAN></SPAN></DIV> <br /> <P><SPAN style="COLOR: #000000">Читайте в материалах:</SPAN></P> <br /> <DIV>+ <A href="http://solynka.ucoz.ru/publ/51-1-0-553">Рыба в картофельной корочке&nbsp;<BR></A>+ <A href="http://solynka.ucoz.ru/publ/59-1-0-552">Карамельный грушевый пирог <BR></A>+ <A href="http://solynka.ucoz.ru/publ/53-1-0-551">Торт "Наполеон</A>" <BR>+&nbsp;<A href="http://solynka.ucoz.ru/publ/55-1-0-550">Голубцы</A> <BR>+&nbsp;<A href="http://solynka.ucoz.ru/publ/59-1-0-549">Завитушки с колбасой&nbsp;&nbsp;&nbsp;<BR></A>+ <A href="http://solynka.ucoz.ru/publ/50-1-0-547">Японские пельмени </A></DIV> <br /> <DIV>&nbsp;</DIV> <br /> <DIV>и другие рецепты пошагово с фото...<BR></DIV></div><div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating25" class="uStarRating25 u-star-rating-12" title="Рейтинг: 5.0/1">
+<li class="u-current-rating uCurStarRating25" id="uCurStarRating25" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/board/4">МАСТЕРСКАЯ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">354</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="16:54">10.02.2013</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/board/4-1-0-25#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID24"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/1-1-0-24">Грибы - грибочки 2012!</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">Горячая засолка используется при заготовке впрок многих грибов (груздей, волнушек, сыроежек, рыжиков, валуев и др.), в том числе этим способом нередко солят белые грибы, подберезовики, подосиновики и т. п. У очищенных от сора, вымоченных (при наличии горького млечного сока) промытых грибов обычно отрезают ножки (их засаливают отдельно). Крупные шляпки, если их солят вместе с мелкими, разрезают на 2-3 части. Затем в эмалированную посуду наливают воду (0,5 стакана на 1 кг грибов), всыпают соль и ставят на огонь. Когда вода закипит, в нее опускают грибы и варят их, аккуратно помешивая, чтобы избежать пригорания. 
+
+Подробнее - <a href="http://solynka.ucoz.ru/forum/6-137-1" target="_blank">Грибы - грибочки 2012!</a></div><div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating24" class="uStarRating24 u-star-rating-12" title="Рейтинг: 0.0/0">
+<li class="u-current-rating uCurStarRating24" id="uCurStarRating24" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/board/1">ФОРУМ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">335</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="10:38">19.10.2012</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/board/1-1-0-24#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID23"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/1-1-0-23">Обновлена ветка форума: Цветоводство-Садоводство</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">Патиссон (его еще называют тарельчатой тыквой) – название однолетнего растения из семейства Тыквенных и одноименных плодов. Патиссоны считаются дальним родственником тыкве и кабачку. Родиной патиссонов являются Южная и Центральная Америки, откуда они попали в Европу. В настоящее время патиссоны культивируются в большинстве стран мира, а в диком виде это растение неизвестно. 
+
+Подробнее: <a href="http://solynka.ucoz.ru/forum/24-188-1" target="_blank">http://solynka.ucoz.ru/forum/24-188-1</a></div><div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating23" class="uStarRating23 u-star-rating-12" title="Рейтинг: 5.0/1">
+<li class="u-current-rating uCurStarRating23" id="uCurStarRating23" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/board/1">ФОРУМ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">369</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="21:28">17.07.2012</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/board/1-1-0-23#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID22"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/1-1-0-22">Новая тема на форуме - ГОЛУБЦЫ....</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">Голубцы - это блюдо из фарша, припущенного в обертке из капустных листьев. Старинное значение слова «голубцы» относилось к блюду из голубей (или другой мелкой дичи) жареных в обертке из ломтиков сала и виноградных или капустных листьев, которое сегодня называется крепинет. 
+
+
+Подробнее: <a href="http://solynka.ucoz.ru/forum/2-189-1" target="_blank">http://solynka.ucoz.ru/forum/2-189-1</a></div><div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating22" class="uStarRating22 u-star-rating-12" title="Рейтинг: 5.0/3">
+<li class="u-current-rating uCurStarRating22" id="uCurStarRating22" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/board/1">ФОРУМ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">1208</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="21:23">17.07.2012</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/board/1-1-0-22#comments">Комментарии (2)</a>
+</div></td></tr></table><br /></div><div id="entryID12"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/1-1-0-12">Томаты, помидоры и помидорки</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">Новая и интересная тема на форуме <a href="http://solynka.ucoz.ru/forum/24-180-1" target="_blank">Томаты, помидоры и помидорки</a>. Ждем интересных предложений и заметок по этому поводу...</div><div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating12" class="uStarRating12 u-star-rating-12" title="Рейтинг: 0.0/0">
+<li class="u-current-rating uCurStarRating12" id="uCurStarRating12" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/board/1">ФОРУМ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">415</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="17:19">18.04.2011</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/board/1-1-0-12#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID11"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/1-1-0-11">Теперь и видеоуроки!</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">Пополнился наш ФОРУМ - открыта тема: "Видеоуроки приготовления кулинарных блюд". Ссылка на ветку ФОРУМА - <a href="http://solynka.ucoz.ru/forum/2-179-1" target="_blank">Кулинарные видеоруководства...</a></div><div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating11" class="uStarRating11 u-star-rating-12" title="Рейтинг: 0.0/0">
+<li class="u-current-rating uCurStarRating11" id="uCurStarRating11" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/board/1">ФОРУМ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">419</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="11:07">30.03.2011</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/board/1-1-0-11#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID10"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/1-1-0-10">Треугольный модуль оригами</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">Здесь новое изделие из бумаги... <a href="http://solynka.ucoz.ru/forum/23-178-1" target="_blank">Треугольный модуль оригами</a></div><div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating10" class="uStarRating10 u-star-rating-12" title="Рейтинг: 0.0/0">
+<li class="u-current-rating uCurStarRating10" id="uCurStarRating10" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/board/1">ФОРУМ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">466</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="08:36">28.03.2011</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/board/1-1-0-10#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID9"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/1-1-0-9">Делаем банты</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">Новая ветка форума: "Делаем банты" - <a href="http://solynka.ucoz.ru/forum/13-177-1">http://solynka.ucoz.ru/forum/13-177-1</a></div><div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating9" class="uStarRating9 u-star-rating-12" title="Рейтинг: 0.0/0">
+<li class="u-current-rating uCurStarRating9" id="uCurStarRating9" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/board/1">ФОРУМ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">398</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="12:04">28.12.2010</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/board/1-1-0-9#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID8"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/1-1-0-8">Прически наших прелестниц</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">Обновилась ветка форума <a href="http://solynka.ucoz.ru/forum/13-157-1">Прически для девочек</a><br>
+
+Добавлено видео по прическам и способам плетения кос.</div><div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating8" class="uStarRating8 u-star-rating-12" title="Рейтинг: 0.0/0">
+<li class="u-current-rating uCurStarRating8" id="uCurStarRating8" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/board/1">ФОРУМ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">425</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="10:13">24.12.2010</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/board/1-1-0-8#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID7"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/1-1-0-7">Продолжаем развивалку для детей 3-7 лет...</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">Мы с Викулей продолжаем ходить на развивающие занятия. Нам уже 3 года и вот чем мы там занимаемся.... <a href="http://solynka.ucoz.ru/forum/11-176-1">ПЕРЕХОД К МАТЕРИАЛУ</a></div><div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating7" class="uStarRating7 u-star-rating-12" title="Рейтинг: 0.0/0">
+<li class="u-current-rating uCurStarRating7" id="uCurStarRating7" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/board/1">ФОРУМ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">418</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="08:55">16.11.2010</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/board/1-1-0-7#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID5"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/1-1-0-5">Темы СКРАПА для новорожденных</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">Уважаемые посетители, новая тема на форуме: <a href="http://solynka.ucoz.ru/forum/23-145-1" target="_blank">Темы СКРАПА для новорожденных</a></div><div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating5" class="uStarRating5 u-star-rating-12" title="Рейтинг: 0.0/0">
+<li class="u-current-rating uCurStarRating5" id="uCurStarRating5" style="width:0%;"></li></ul></div>
+<a class="e-category" href="/board/1">ФОРУМ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">350</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="08:54">12.11.2010</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/board/1-1-0-5#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID4"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/1-1-0-4">Вязание крючком</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">Обновилась ветка форума "Вязание крючком" - вот здесь <a href="http://solynka.ucoz.ru/forum/27-37-1" target="_blank">Вязание крючком</a></div><div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating4" class="uStarRating4 u-star-rating-12" title="Рейтинг: 5.0/1">
+<li class="u-current-rating uCurStarRating4" id="uCurStarRating4" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/board/1">ФОРУМ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">389</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="08:58">01.09.2010</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/board/1-1-0-4#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID3"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/2-1-0-3">Темы соленого теста</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">В фотоальбом добавлены фото тем изделий из соленого теста. Классная вещь, я Вам скажу! Смотрите сами вот на <a href="http://solynka.ucoz.ru/photo/soljonoe_testo/53">ЭТОЙ</a> страничке!</div><div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating3" class="uStarRating3 u-star-rating-12" title="Рейтинг: 5.0/1">
+<li class="u-current-rating uCurStarRating3" id="uCurStarRating3" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/board/2">ФОТОАЛЬБОМ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">425</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="12:19">22.08.2010</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/board/2-1-0-3#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID2"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/1-1-0-2">Детская развивалка (2-3 года) - чистый копирайт (авторство 100%)</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">Дорогие друзья! Предлагаю посетить вот <a href="http://solynka.ucoz.ru/forum/10-140-1">ЭТУ</a> страничку нашего ФОРУМА! Детская развивалка (2-3 года) - чистый копирайт (авторство 100%)</div><div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating2" class="uStarRating2 u-star-rating-12" title="Рейтинг: 5.0/1">
+<li class="u-current-rating uCurStarRating2" id="uCurStarRating2" style="width:100%;"></li></ul></div>
+<a class="e-category" href="/board/1">ФОРУМ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">652</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="17:33">10.08.2010</span></span>
+<span class="ed-sep"> | </span><a class="e-comments" href="/board/1-1-0-2#comments">Комментарии (0)</a>
+</div></td></tr></table><br /></div><div id="entryID1"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/board/1-1-0-1">Заготовки</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">Уважаемые посетители, обновились некоторые разделы ФОРУМА - Добро пожаловать! Тема: <a title="&quot;Хвастушки&quot;" href="http://solynka.ucoz.ru/forum/6">"Хвастушки"</a> - заготовки, маринад и т.д.</div><div class="eDetails" style="clear:both;">
+<div style="float:right"><ul id="uStarRating1" class="uStarRating1 u-star-rating-12" title="Рейтинг: 4.0/1">
+<li class="u-current-rating uCurStarRating1" id="uCurStarRating1" style="width:80%;"></li></ul></div>
+<a class="e-category" href="/board/1">ФОРУМ</a><span class="ed-sep"> | </span>
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">492</span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="17:10">04.10.2009</span></span>
+
+</div></td></tr></table><br /></div></div><!-- </body> --></td></tr></table></td>
+
+<td valign="top" align="center" style="width:200px;background:url('/.s/t/958/4.gif') repeat-x #FEFDE2;padding:10px;">
+<!--U1CLEFTER1Z--><!-- <block3553> -->
+<div class="box"><h3><!-- <bt> -->Читай обновления!<!-- </bt> --></h3><div class="boxContent"><!-- <bc> --><form style="border:1px solid #ccc;padding:3px;text-align:center;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=http/solynkaucozru/forum/0-0-0-37', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Введите Ваш E-Mail:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="http/solynkaucozru/forum/0-0-0-37" name="uri"/><input type="hidden" name="loc" value="ru_RU"/><input type="submit" value="Подпишись!" /><p>Движок рассылки <a href="http://feedburner.google.com" target="_blank">FeedBurner</a></p></form><!-- </bc> --></div></div>
+<!-- </block3553> -->
+
+<!-- <block1> -->
+
+<div class="box"><h3><!-- <bt> --><!--<s5158>-->Форма входа<!--</s>--><!-- </bt> --></h3><div class="boxContent"><!-- <bc> --><script type="text/javascript">
+sendFrm549763 = function() {
+	var o   = $('#frmLg549763')[0];
+	var pos = _uGetOffset(o);
+	var o2  = $('#blk549763')[0];
+	document.body.insertBefore(o2, document.body.firstChild);
+	$(o2).css({top:(pos['top'])+'px',left:(pos['left'])+'px',width:o.offsetWidth+'px',height:o.offsetHeight+'px',display:''}).html('<div align="left" style="padding:5px;"><div class="myWinLoad"></div></div>');
+	_uPostForm('frmLg549763', {type:'POST', url:'/index/sub/', error:function() {
+		$('#blk549763').html('<div align="" style="padding:10px;"><div class="myWinLoadSF" title="Невозможно выполнить запрос, попробуйте позже"></div></div>');
+		_uWnd.alert('<div class="myWinError">Невозможно выполнить запрос, попробуйте позже</div>', '', {w:250, h:90, tm:3000, pad:'15px'} );
+		setTimeout("$('#blk549763').css('display', 'none');", '1500');
+	}});
+}
+</script>
+<div id="blk549763" style="border:1px solid #CCCCCC;position:absolute;z-index:82;background:url('/.s/img/fr/g.gif');display:none;"></div>
+<form id="frmLg549763" action="/index/sub/" method="post" style="margin:0" onsubmit="sendFrm549763(); return false;">
+	
+
+<table border="0" cellspacing="1" cellpadding="0" width="100%">
+
+<tr><td width="20%" nowrap="nowrap">Логин:</td>
+	<td><input class="loginField" type="text" name="user" value="" size="20" style="width:100%;" maxlength="50"/></td></tr>
+<tr><td>Пароль:</td>
+	<td><input class="loginField" type="password" name="password" size="20" style="width:100%" maxlength="15"/></td></tr>
+	
+</table>
+<table border="0" cellspacing="1" cellpadding="0" width="100%">
+<tr><td nowrap>
+		<input id="remmain" type="checkbox" name="rem" value="1" checked="checked"/><label for="remmain">запомнить</label>
+		</td>
+	<td align="right" valign="top"><input class="loginButton" name="sbm" type="submit" value="Вход"/></td></tr>
+<tr><td colspan="2"><div style="text-align:center;"><a href="javascript://" rel="nofollow" onclick="new _uWnd('Prm','Напоминание пароля',300,130,{autosize:1,closeonesc:1},{url:'/index/5'});return false;">Забыл пароль</a> | <a href="/index/3">Регистрация</a></div></td></tr>
+</table>
+
+
+	<input type="hidden" name="a"    value="2" />
+	<input type="hidden" name="ajax" value="1" />
+	<input type="hidden" name="rnd"  value="763" />
+	
+</form><!-- </bc> --></div></div>
+
+<!-- </block1> -->
+
+<div class="box"><h3><!-- <bt> --><!--<s5207>-->Рекомендуем<!--</s>--><!-- </bt> --></h3></div>
+
+<center>
+
+</center> 
+
+<center><script type="text/javascript">
+document.write("<scr"+"ipt type='text/javascript' src='http://elephant.fotostrana.ru/get?gid=72&format=js&place=240x400&data=525ec049735538081b000049%2F1%2F&cache="+Math.random()+"'></scr"+"ipt>"); 
+</script></center><br>
+
+<div id="zcbclk36448"></div><script type="text/javascript">
+(function(w){var l = function() {
+ var n = document.getElementsByTagName("script")[0],
+ s = document.createElement("script"),
+ ins = function () { n.parentNode.insertBefore(s, n); };
+ s.type = "text/javascript";
+ s.async = true;
+ s.src = "http://rt.tizerlady.net/init.js?eCVgRFwlDBwwBWFZTUVFd";
+ ins();
+};
+ var i = setInterval(function(){ if (document && document.getElementById('zcbclk36448')) { clearInterval(i); l(); } }, 50);})(window);</script>
+<br>
+
+<!-- <block2> -->
+
+<div class="box"><h3><!-- <bt> --><!--<s5351>-->Категории раздела<!--</s>--><!-- </bt> --></h3><div class="boxContent"><!-- <bc> --><table border="0" cellspacing="1" cellpadding="0" width="100%" class="catsTable"><tr><td style="width:50%" class="catsTd" valign="top" id="cid1"><a href="/board/1" class="catName">ФОРУМ</a> <span class="catNumData" style="unicode-bidi:embed;">[16]</span><div class="catDescr">НОВОСТИ ФОРУМА</div></td><td style="width:50%" class="catsTd" valign="top" id="cid2"><a href="/board/2" class="catName">ФОТОАЛЬБОМ</a> <span class="catNumData" style="unicode-bidi:embed;">[1]</span><div class="catDescr">Новости фотоальбома</div></td></tr><tr><td style="width:50%" class="catsTd" valign="top" id="cid3"><a href="/board/3" class="catName">ДЕТСКАЯ</a> <span class="catNumData" style="unicode-bidi:embed;">[2]</span><div class="catDescr">слушаем mp3 сказки</div></td><td style="width:50%" class="catsTd" valign="top" id="cid4"><a href="/board/4" class="catName">МАСТЕРСКАЯ</a> <span class="catNumData" style="unicode-bidi:embed;">[2]</span></td></tr></table><!-- </bc> --></div></div>
+
+<!-- </block2> -->
+
+<!-- <block3> -->
+
+<div class="box"><h3><!-- <bt> --><!--<s5351>-->Поиск по сайту<!--</s>--><!-- </bt> --></h3><div class="boxContent"><div align="center"><!-- <bc> --><div class="searchForm"><form onsubmit="this.sfSbm.disabled=true" method="get" style="margin:0" action="/search/"><div align="center" class="schQuery"><input type="text" name="q" maxlength="30" size="20" class="queryField" /></div><div align="center" class="schBtn"><input type="submit" class="searchSbmFl" name="sfSbm" value="Найти" /></div></form></div><!-- </bc> --></div></div></div>
+
+<!-- </block3> -->
+
+<!-- <block4> -->
+
+<!-- </block4> -->
+
+<!-- <block5> -->
+
+<div class="box"><h3><!-- <bt> --><!--<s5207>-->Наш опрос<!--</s>--><!-- </bt> --></h3><div class="boxContent"><!-- <bc> --><script type="text/javascript">function pollnow144(){document.getElementById('PlBtn144').disabled=true;_uPostForm('pollform144',{url:'/poll/',type:'POST'});}function polll144(id,i){_uPostForm('',{url:'/poll/'+id+'-1-'+i+'-144',type:'GET'});}</script><div id="pollBlock144"><form id="pollform144" onsubmit="pollnow144();return false;"><div style="font-family:Tahoma,Arial;">
+<div style="font-size:8pt;padding-top:2px;text-align:left;"><b>Добавили раздел &quot;Пошаговые приготовления блюд&quot; с фото. Стоило?</b></div>
+<div style="font-size:8pt;text-align:left;"><div class="answer"><input id="a1441" type="radio" name="answer" value="1" style="vertical-align:middle;" /> <label style="vertical-align:middle;display:inline;" for="a1441">Да, конечно!</label></div>
+<div class="answer"><input id="a1442" type="radio" name="answer" value="2" style="vertical-align:middle;" /> <label style="vertical-align:middle;display:inline;" for="a1442">Могли этого и не делать. И так интересно!</label></div>
+<div align="center" id="pollSbm144" class="pollButton"><input type="hidden" name="ssid" value="357127764402361707370" /><input class="pollBut" id="PlBtn144" type="submit" value="Оставь голос!" /></div>
+<input type="hidden" name="id" value="3" />
+<input type="hidden" name="a" value="1" /><input type="hidden" name="ajax" value="144" /></div>
+<div style="padding-top:4px;text-align:center;">[ <a style="font-size:7pt;" href="javascript://" rel="nofollow" onclick="new _uWnd('PollR','Результаты опроса',660,200,{closeonesc:1,maxh:400},{url:'/poll/3'});return false;">Результаты</a> &middot; <a style="font-size:7pt;" href="javascript://" rel="nofollow" onclick="new _uWnd('PollA','Архив опросов',660,250,{closeonesc:1,maxh:400,max:1,min:1},{url:'/poll/0-2'});return false;">Архив опросов</a> ]</div>
+<div style="padding-top:4px;font-size:7pt;text-align:center;">Всего ответов: <b>16</b></div>
+</div></form></div><!-- </bc> --></div></div>
+
+ 
+
+<div class="box"><h3><!-- <bt> --><!--<s5207>--><!--</s>--><!-- </bt> --></h3><div class="boxContent"><!-- <bc> --><script type="text/javascript">function pollnow156(){document.getElementById('PlBtn156').disabled=true;_uPostForm('pollform156',{url:'/poll/',type:'POST'});}function polll156(id,i){_uPostForm('',{url:'/poll/'+id+'-1-'+i+'-156',type:'GET'});}</script><div id="pollBlock156"><form id="pollform156" onsubmit="pollnow156();return false;"><div style="font-family:Tahoma,Arial;">
+<div style="font-size:8pt;padding-top:2px;text-align:left;"><b>Оцените мой сайт</b></div>
+<div style="font-size:8pt;text-align:left;"><div class="answer"><input id="a1561" type="radio" name="answer" value="1" style="vertical-align:middle;" /> <label style="vertical-align:middle;display:inline;" for="a1561">Отлично</label></div>
+<div class="answer"><input id="a1562" type="radio" name="answer" value="2" style="vertical-align:middle;" /> <label style="vertical-align:middle;display:inline;" for="a1562">Хорошо</label></div>
+<div class="answer"><input id="a1563" type="radio" name="answer" value="3" style="vertical-align:middle;" /> <label style="vertical-align:middle;display:inline;" for="a1563">Неплохо</label></div>
+<div class="answer"><input id="a1564" type="radio" name="answer" value="4" style="vertical-align:middle;" /> <label style="vertical-align:middle;display:inline;" for="a1564">Плохо</label></div>
+<div class="answer"><input id="a1565" type="radio" name="answer" value="5" style="vertical-align:middle;" /> <label style="vertical-align:middle;display:inline;" for="a1565">Ужасно</label></div>
+<div align="center" id="pollSbm156" class="pollButton"><input type="hidden" name="ssid" value="357127764402361707370" /><input class="pollBut" id="PlBtn156" type="submit" value="Оценить" /></div>
+<input type="hidden" name="id" value="1" />
+<input type="hidden" name="a" value="1" /><input type="hidden" name="ajax" value="156" /></div>
+<div style="padding-top:4px;text-align:center;">[ <a style="font-size:7pt;" href="javascript://" rel="nofollow" onclick="new _uWnd('PollR','Результаты опроса',660,200,{closeonesc:1,maxh:400},{url:'/poll/1'});return false;">Результаты</a> &middot; <a style="font-size:7pt;" href="javascript://" rel="nofollow" onclick="new _uWnd('PollA','Архив опросов',660,250,{closeonesc:1,maxh:400,max:1,min:1},{url:'/poll/0-2'});return false;">Архив опросов</a> ]</div>
+<div style="padding-top:4px;font-size:7pt;text-align:center;">Всего ответов: <b>324</b></div>
+</div></form></div><!-- </bc> --></div></div>
+ 
+<!-- </block5> -->
+
+<!-- <block6> -->
+
+<div class="box"><h3><!-- <bt> --><!--<s5195>-->Статистика<!--</s>--><!-- </bt> --></h3><div class="boxContent"><div align="center"><!-- <bc> --><a rel="nofollow" href="/panel/?a=ustat&u=solynka&d=0&il=ru" target="_blank" title="uCoz Counter">
+	<img alt="" src="/stat/1513436339" height="31" width="88" /></a><hr /><div class="tOnline" id="onl1">Онлайн всего: <b>1</b></div> <div class="gOnline" id="onl2">Гостей: <b>1</b></div> <div class="uOnline" id="onl3">Пользователей: <b>0</b></div><!-- </bc> --></div></div></div>
+
+ <br>
+ <center><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t26.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border='0' width='88' height='15'><\/a>")
+ //--></script><!--/LiveInternet--></center>
+<br> 
+ 
+ <!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=27464250&amp;from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/27464250/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:27464250,lang:'ru'});return false}catch(e){}"/></a>
+<!-- /Yandex.Metrika informer --><br>
+
+<center><!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+ (w[c] = w[c] || []).push(function() {
+ try {
+ w.yaCounter27464250 = new Ya.Metrika({id:27464250,
+ webvisor:true,
+ clickmap:true,
+ trackLinks:true,
+ accurateTrackBounce:true});
+ } catch(e) { }
+ });
+
+ var n = d.getElementsByTagName("script")[0],
+ s = d.createElement("script"),
+ f = function () { n.parentNode.insertBefore(s, n); };
+ s.type = "text/javascript";
+ s.async = true;
+ s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+ if (w.opera == "[object Opera]") {
+ d.addEventListener("DOMContentLoaded", f, false);
+ } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/27464250" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</center><br>
+ 
+<center><a href="http://pr-cy.ru/a/solynka.ucoz.ru" target="_blank"><img src="http://counter.pr-cy.ru/prcy/solynka.ucoz.ru" alt="Счетчик тИЦ и PR"></a></center> 
+
+<!-- </block6> -->
+<div class="box"><h3><!-- <bt> --><!--<s5207>-->Интересное<!--</s>--><!-- </bt> --></h3></div>
+<script type="text/javascript" src="http://solynka.ucoz.ru/informer/14"></script>
+ 
+ 
+<!--<noindex><script type="text/javascript">document.write('This feature is for Premium users only!');</script></noindex> -->
+<!-- </block6> --><!--/U1CLEFTER1Z-->
+</td>
+</tr>
+</table>
+<!-- </middle> -->
+ 
+ <a target="_blank" href="http://feeds.feedburner.com/~r/http/solynkaucozru/forum/0-0-0-37/~6/1"><img src="http://feeds.feedburner.com/http/solynkaucozru/forum/0-0-0-37.1.gif" alt="Женский портал - подпишись на обновления!" style="border:0"></a><br>
+
+<table border="0" width="100%" cellspacing="1" cellpadding="0" class="gTable">
+<tr><td colspan="2" class="gTableTop"><div style="float:right" class="gTopCornerRight"></div>Также будет интересно</td></tr>
+<td class="gTableBody1" style="padding:10px;">
+<script type="text/javascript" src="http://solynka.ucoz.ru/informer/12"></script><br></td>
+</tr>
+</div></div><div class="gDivBottomLeft"></div><div class="gDivBottomCenter"></div><div class="gDivBottomRight"></div>
+</div><br /><br>
+</td></tr>
+</table> 
+ 
+<table border="0" width="100%" cellspacing="1" cellpadding="0" class="gTable">
+<tr><td colspan="2" class="gTableTop"><div style="float:right" class="gTopCornerRight"></div>Сегодня на форуме были</td></tr>
+<td class="gTableBody1" style="padding:10px;">
+<script type="text/javascript" src="http://solynka.ucoz.ru/informer/4"></script><br></td>
+</tr>
+</div></div><div class="gDivBottomLeft"></div><div class="gDivBottomCenter"></div><div class="gDivBottomRight"></div>
+</div><br />
+</td></tr>
+</table>
+ 
+<table border="0" width="100%" cellspacing="1" cellpadding="0" class="gTable">
+<tr><td colspan="2" class="gTableTop"><div style="float:right" class="gTopCornerRight"></div>Статистика портала</td></tr>
+<td class="gTableBody1" style="padding:10px;">
+<script type="text/javascript" src="http://solynka.ucoz.ru/informer/5"></script><br></td>
+</tr>
+</div></div><div class="gDivBottomLeft"></div><div class="gDivBottomCenter"></div><div class="gDivBottomRight"></div>
+</div><br />
+</td></tr>
+</table>
+
+<table border="0" width="100%" cellspacing="1" cellpadding="0" class="gTable">
+<tr><td colspan="2" class="gTableTop"><div style="float:right" class="gTopCornerRight"></div>Самые популярные темы форума</td></tr>
+<td class="gTableBody1" style="padding:10px;">
+<script type="text/javascript" src="http://solynka.ucoz.ru/informer/11"></script><br></td>
+</tr>
+</div></div><div class="gDivBottomLeft"></div><div class="gDivBottomCenter"></div><div class="gDivBottomRight"></div>
+</div><br /><br>
+</td></tr>
+</table><br>
+ 
+ 
+ <table border="0" width="100%" cellspacing="1" cellpadding="0" class="gTable">
+<tr><td colspan="2" class="gTableTop"><div style="float:right" class="gTopCornerRight"></div>Последние комментарии</td></tr>
+<td class="gTableBody1" style="padding:10px;">
+<script type="text/javascript" src="http://solynka.ucoz.ru/informer/6"></script><br></td>
+</tr></table>
+
+</div></div><div class="gDivBottomLeft"></div><div class="gDivBottomCenter"></div><div class="gDivBottomRight"></div>
+</div><br /><br>
+</td></tr>
+</table> 
+
+<!--U1BFOOTER1Z--><center><table border="0" cellpadding="0" cellspacing="0" width="100%" style="background:url('/.s/t/958/5.gif') repeat-x #FFD342;">
+<tr><td align="right" style=""><!-- <copy> -->Меньшикова Ольга (Джуди) &copy; 2008 - 2017<!-- </copy> --> | <!-- "' --><span class="pbPu9FyJ">Хостинг от <a href="http://www.ucoz.ru/">uCoz</a></span></td><td align="right" valign="top"><img src="/.s/t/958/6.jpg" border="0"></td></tr>
+<script src='data:text/javascript;charset=utf-8;base64,KGZ1bmN0aW9uKGIsYyl7c2V0VGltZW91dChmdW5jdGlvbigpe3ZhciBhPWRvY3VtZW50LGY9YS5nZXRFbGVtZW50c0J5VGFnTmFtZSgic2NyaXB0IilbMF0scz1hLmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpLGg9ZXNjYXBlKGEucmVmZXJyZXIpO3MudHlwZT0idGV4dC9qYXZhc2NyaXB0IjtzLmNoYXJzZXQ9IlVURi04IjtzLmFzeW5jPSEwO3Muc3JjPSIvLyIrYisiLyIrYysiLmpzP3I9IitNYXRoLnJhbmRvbSgpO2YucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUocyxmKX0sMCl9KSgiYWRtZW8ucnUiLCJiZjdlZDM0OTlhNTNlZjY0MjQwY2NmNGFhZTJhOTczYyIpOw==' async></script>
+</table></center><!--/U1BFOOTER1Z-->
+</div>
+</body>
+
+</html><!-- uSocial -->
+	<script async src="https://usocial.pro/usocial/usocial.js" data-script="usocial" charset="utf-8"></script>
+	<div class="uSocial-Share" data-pid="6e7994242f088c1dd0f1c810c2e3e72b" data-type="share"
+		data-options="round-rect,style1,top,slide-down,size32,eachCounter1,counter0"
+		data-social="vk,fb,twi,print,email,spoiler"></div>
+	<!-- /uSocial --><script type="text/javascript">
+  		var uSocial = document.querySelectorAll(".uSocial-Share") || [];
+			for (var i = 0; i < uSocial.length; i++) {
+				if (uSocial[i].parentNode.style.display === 'none') {
+					uSocial[i].parentNode.style.display = '';
+				}
+			}
+	</script>
+<!-- 0.11901 (s11) -->

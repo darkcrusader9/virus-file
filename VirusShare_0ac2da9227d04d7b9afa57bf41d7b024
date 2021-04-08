@@ -1,0 +1,1128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="robots" content="noindex, follow" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1.0, width=device-width">
+<title>CERTIFIED WINNER CLAIM FORM</title>
+<style>
+@charset "utf-8";
+@font-face {
+	font-family: 'OCR A Std';
+ 	src:url('https://f-pinid.a.ssl.fastly.net//fonts/OCRAStd.otf?#iefix') format('opentype');}
+
+body {
+	background-color:#fff;
+	font-family:Arial, Helvetica, sans-serif;}
+
+#language1 { 
+	font-size:13px;
+	font-weight:bold;
+	text-align:center;
+	margin:auto;
+	display:table;}
+	
+#language2 { 
+	font-size:11px;
+	font-weight:bold;
+	text-align:center;
+	margin:auto;
+	display:none;}
+
+.languagetext, #language1 a, #language2 a {
+	color:#000; 
+    white-space:nowrap; 
+    text-decoration:none;}
+
+.space1 {
+	height:16px;}
+
+#container {
+	width:100%;
+	max-width:850px;
+	min-width:320px;
+	background-image:url(https://f-pinid.a.ssl.fastly.net///images/en/default/register/CertifiedWinnerRSP/bgtile_min.png);
+	background-position:top center;
+	background-repeat:repeat;
+	margin:auto;
+	padding:25px 0;
+	text-align:center;}
+
+#whitebox {
+	width:90%;
+	margin:auto;
+	background-color:#fff;
+	padding:10px 0;}
+
+#topcontent {
+	width:96%;
+	margin:auto;
+	padding-top:10px;
+	padding-bottom:14px;}
+
+.address {
+	font-size:11px;
+	margin:auto;
+	text-align:left;
+	float:left;}
+
+.barcode {
+	font-size:11px;
+	margin:auto;
+	text-align:right;
+	}
+
+#borderbox {
+	width:96%;
+	margin:auto;
+	border:1px solid #000;
+	padding:10px 0;}
+	
+#titlecontent {
+	width:100%;
+	margin:auto;
+    /* 
+    * prototype skin CertifiedWinner uses variable font-size
+    * font-size: 34px;
+    */
+	text-align:center;}
+
+.topnumber {
+	font-family:"OCR A Std", "Courier New", Courier, monospace;
+	font-size:12px;
+	vertical-align:middle;}
+
+.maintitle {
+	font-size: 34px; /* dyn */
+	font-weight:bold;
+	vertical-align:middle;}
+
+.line {
+	width:100%;
+	height:1px;
+    background-color: #000;}
+	
+#content2 {
+	width:100%;
+	text-align:center;
+	margin:auto;
+	display:table;}
+	
+#content2mobile {
+	width:100%;
+	text-align:center;
+	margin:auto;
+	display:none;}
+	
+.bullets {
+	width:45%;
+	text-align:left;
+	line-height:20px;
+	float:left;}
+
+.prizemain {
+	font-size:13px;
+	font-weight:bold;}
+	
+.prizevalue {
+	font-size:11px;
+	font-style:italic;}
+
+#explanation {
+	width:54.5%;
+	text-align:left;
+	float:left;}
+	
+.explainationtext {
+	font-size:13px;
+	background-color:#fff000;}
+	
+#authorized {
+	width:54.5%;
+	text-align:left;
+	float:left;}
+
+.authorizedtext {
+	font-size:13px;
+	vertical-align:top;}
+	
+.dottedline {
+    border-top: 1px dashed #000;
+	height:1px;}
+	
+.dottedlinetall {
+    background-image:url(https://f-pinid.a.ssl.fastly.net///images/en/default/register/CertifiedWinnerRSP/dottedlinetalltile_min.png);
+    background-repeat:repeat-y;
+	float:left;
+	width:.5%;
+	height:150px;}
+
+.clear {
+	clear:both;}
+	
+.sectiona {
+	width:94%;
+	margin:auto;
+	text-align:left;
+	padding-top:8px;}
+	
+#sectionacode {
+	width:94%;
+	margin:auto;
+	text-align:right;
+	padding-top:8px;}
+
+#sectionaprize {
+	width:94%;
+	margin:auto;
+	text-align:center;
+	padding-top:8px;
+	font-family:"OCR A Std", "Courier New", Courier, monospace;
+	font-size:40px;}
+
+.code {
+	font-size:11px;}
+
+.sectionheader {
+	font-size:20px;
+	font-weight:bold;}
+	
+.sectiontext {
+	font-size:13px;}
+	
+.space2 {
+	height:8px;}
+
+.space3 {
+	height:18px;}
+
+.space4 {
+	height:6px;}
+	
+#formborder {
+	width:96%;
+	margin:auto;
+	text-align:left;
+	background-color:#959595;
+	padding:4px;}
+	
+#form {
+	width:100%;
+	margin:auto;
+	text-align:left;	
+	background-color:#fff;}
+	
+#formtop {
+	width:94%;
+	margin:auto;
+	text-align:left;}
+	
+.formtoptext {
+	font-size:13px;
+	font-weight:bold;
+	text-align:center;}
+
+#formmiddle {
+	width:94%;
+	margin:auto;
+	text-align:left;}
+	
+.formmiddletext {
+	font-size:12px;
+	text-align:center;}
+	
+.formletter {
+	font-size:12px;
+	font-weight:bold;
+	text-align:center;
+	padding-left:8px;}
+	
+.formtitle {
+	font-size:12px;
+	text-align:center;}
+	
+.formcontent {
+	width:100%;
+	margin:auto;}
+
+.wideformbox {
+	width:49.9%;
+	display:block;
+	float:left;
+	margin:auto;
+	text-align:left;}
+
+.narrowformbox {
+	width:33.2%;
+	display:block;
+	float:left;
+	margin:auto;
+	text-align:left;}
+	
+.input_info input {
+	color:#000;
+	background:#d7d7d7;
+	border:none;
+	margin-left:22px;}
+
+.input_info select {
+    margin-left:22px;}
+
+.input_info .wideform {
+	height:22px;
+	width:320px;
+	margin:0;
+	padding-bottom:8px;}
+	
+.input_info .wideform input {
+	height:22px;
+	width:320px;}
+	
+.input_info .narrowform {
+	height:22px;
+	width:203px;
+	margin:0;
+	padding-bottom:8px;}
+
+.input_info .narrowform input, .input_info .narrowform select {
+	height:22px;
+	width:203px;}
+	
+.linetall {
+    background-color: #000;
+	float:left;
+	width:1px;
+	height:50px;}
+
+.dottedlinersp {
+    border-top: 1px dashed #000;
+	height:1px;
+	width:100%;
+	display:none;}
+
+.bottomtext {
+	font-size:12px;}
+	
+.claim_now_btn {
+	display: block;
+	width: 50%;
+	margin: 15px auto;
+	padding: 6px 0;
+	border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px; 
+	border: 1px solid #353535;
+	text-align: center;
+	/* font-size: 38px; */
+	font-size: 38px; /* dyn */
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #000;
+	/* Button Gradient */
+	background: #c7c6d7; /* Old browsers */
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjN2M2ZDciIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(top,  #fff 0%, #c7c6d7 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fff), color-stop(100%,#c7c6d7)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #fff 0%,#c7c6d7 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #fff 0%,#c7c6d7 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #fff 0%,#c7c6d7 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #fff 0%,#c7c6d7 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff', endColorstr='#c7c6d7',GradientType=0 ); /* IE6-8 */
+    cursor: hand;
+    cursor: pointer;}
+	
+.buttontext {	
+	font-size:30px;}
+	
+#security {
+	width:100%;
+    padding-top:10px;
+	margin:auto;}
+	
+#footer {
+	width:100%;
+	max-width:850px;
+	min-width:320px;
+	margin:auto;
+	text-align:left;}
+
+.footer1 {
+	font-size:13px;}
+
+.footer2 {
+	font-size:12px;}
+	
+@media only screen and (max-width: 834px) {
+.dottedlinetall {
+	height:188px;}
+.input_info .wideform {
+	width:280px;}
+.input_info .wideform input {
+	width:280px;}
+.input_info .narrowform {
+	width:180px;}
+.input_info .narrowform input, .input_info .narrowform select {
+	width:180px;}}
+
+@media only screen and (max-width: 750px) {
+.input_info .wideform {
+	width:250px;}
+.input_info .wideform input {
+	width:250px;}
+.input_info .narrowform {
+	width:160px;}
+.input_info .narrowform input, .input_info .narrowform select {
+	width:160px;}}
+
+@media only screen and (max-width: 680px) {
+.input_info .wideform {
+	width:220px;}
+.input_info .wideform input {
+	width:220px;}
+.input_info .narrowform {
+	width:134px;}
+.input_info .narrowform input, .input_info .narrowform select {
+	width:134px;}}
+	
+@media only screen and (max-width: 600px) {
+#language1 {
+	display:none;}
+#language2 {
+	display:table;}
+.space1 {
+	height:10px;}
+#container {
+	padding:18px 0;}
+#whitebox {
+	width:98%;
+	min-width:310px;
+	padding:8px 0;}
+#topcontent {
+	width:96%}
+#borderbox {
+	width:98%;
+	min-width:300px;
+	padding:6px 0;}
+.topnumber {
+	padding-bottom:2px;}
+.maintitle {
+	font-size: 34px; /* dyn */
+	line-height:30px;
+	padding-bottom:4px;}
+#content2 {
+	display:none;}
+#content2mobile {
+	display:table;}
+.bullets {
+	width:94%;
+	float:none;
+	margin:auto;
+	padding-top:6px;}
+.prizemain {
+	font-size:15px;
+	font-weight:bold;}	
+.prizevalue {
+	font-size:12px;
+	font-style:italic;}
+#explanation {
+	width:86%;
+	float:none;	
+	margin:auto;
+	padding-bottom:4px;}
+.explainationtext {
+	font-size:15px;}
+#authorized {
+	display:none;}
+.wideformbox {
+	width:100%;
+	float:none;}
+.narrowformbox {
+	width:100%;
+	float:none;}
+.input_info .wideform {
+	width:440px;}
+.input_info .wideform input {
+	width:440px;}
+.input_info .narrowform {
+	width:440px;}
+.input_info .narrowform input, .input_info .narrowform select {
+	width:440px;}
+.linetall {
+	display:none;}
+.dottedlinersp {
+	display:table;}
+.claim_now_btn {
+	width:90%;
+	font-size: 38px; /* dyn */}
+#footer {
+	width:96%;
+	min-width:310px;}
+.footer1 {
+	font-size:12px;}
+.footer2 {
+	width:96%;
+	font-size:11px;}}
+
+@media only screen and (max-width: 538px) {
+.input_info .wideform {
+	width:370px;}
+.input_info .wideform input {
+	width:370px;}
+.input_info .narrowform {
+	width:370px;}
+.input_info .narrowform input, .input_info .narrowform select {
+	width:370px;}}
+	
+@media only screen and (max-width: 450px) {
+.input_info .wideform {
+	width:320px;}
+.input_info .wideform input {
+	width:320px;}
+.input_info .narrowform {
+	width:320px;}
+.input_info .narrowform input, .input_info .narrowform select {
+	width:320px;}}
+
+@media only screen and (max-width: 400px) {
+.input_info .wideform {
+	width:260px;}
+.input_info .wideform input {
+	width:260px;}
+.input_info .narrowform {
+	width:260px;}
+.input_info .narrowform input, .input_info .narrowform select {
+	width:260px;}}
+</style>
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+
+   _gaq.push(['_setAccount', 'UA-2349802-18']);
+   _gaq.push(['_setDomainName', 'freelotto.com']);
+   _gaq.push(['_trackPageview']);
+   (function() {
+     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+   })();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-2349802-17', 'freelotto.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body>
+
+<div id="language1"> <a onClick= " FL.changeLanguage('en');" class="active" href="#">English</a> || 
+ <a onClick= " FL.changeLanguage('es');" class="inactive" href="#">Español</a> || 
+ <a onClick= " FL.changeLanguage('fr');" class="inactive" href="#">Français</a> || 
+ <a onClick= " FL.changeLanguage('no');" class="inactive" href="#">Norsk</a> || 
+ <a onClick= " FL.changeLanguage('pt');" class="inactive" href="#">Português</a> || 
+ <a onClick= " FL.changeLanguage('pt-br');" class="inactive" href="#">Português do Brasil</a> || 
+ <a onClick= " FL.changeLanguage('ru');" class="inactive" href="#">Русский</a> || 
+ <a onClick= " FL.changeLanguage('fi');" class="inactive" href="#">Suomi</a> || 
+ <a onClick= " FL.changeLanguage('sv');" class="inactive" href="#">Svenska</a></div>
+<div id="language2"> <a onClick= " FL.changeLanguage('en');" class="active" href="#">English</a> || 
+ <a onClick= " FL.changeLanguage('es');" class="inactive" href="#">Español</a> || 
+ <a onClick= " FL.changeLanguage('fr');" class="inactive" href="#">Français</a> || 
+ <a onClick= " FL.changeLanguage('no');" class="inactive" href="#">Norsk</a> || 
+ <a onClick= " FL.changeLanguage('pt');" class="inactive" href="#">Português</a> || 
+ <a onClick= " FL.changeLanguage('pt-br');" class="inactive" href="#">Português do Brasil</a> || 
+ <a onClick= " FL.changeLanguage('ru');" class="inactive" href="#">Русский</a> || 
+ <a onClick= " FL.changeLanguage('fi');" class="inactive" href="#">Suomi</a> || 
+ <a onClick= " FL.changeLanguage('sv');" class="inactive" href="#">Svenska</a></div>
+
+<div class="space1"></div>
+<div id="container">
+	<div id="whitebox">
+		<div id="topcontent">
+			<div class="address">PlasmaNet Inc.<br />P.O. BOX 4562,<br />NEW YORK, NY 10163</div>
+            <div class="barcode">
+            	<img src="https://f-pinid.a.ssl.fastly.net///images/en/default/register/CertifiedWinnerRSP/barcode_min.png" width="170" height="16" alt="barcode" style="padding-bottom:10px;" /><br />Respond by: December 10th, 2017</div></div>
+    	<div id="borderbox">
+        	<div id="titlecontent">
+            	<div class="topnumber headline_digits">201312</div>
+            	<div class="maintitle">CERTIFIED WINNER CLAIM FORM</div>
+            </div>
+            <div class="line"></div>
+			<div id="content2">
+				<div class="bullets">
+                	<table width="100%" align="center" cellpadding="6" cellspacing="0" border="0">
+                    	<tr>
+                        	<td align="left">
+                            	<font class="prizemain">&bull; Samsung 65" 3D LED Smart TV</font></td>
+                        </tr>
+                    	<tr>
+                        	<td align="left">
+                            	<font class="prizemain">&bull; Dell Inspiron Laptop Computer</font></td>
+                        </tr>
+                    	<tr>
+                        	<td align="left">
+                            	<font class="prizemain">&bull; Apple iPad Mini</font></td>
+                        </tr>
+                    	<tr>
+                        	<td align="left">
+                            	<font class="prizemain">&bull; $50.00 SkyAuction Savings Certificate</font></td>
+                        </tr>
+                    </table></div>
+                <div class="dottedlinetall"></div>
+                <div id="explanation">
+                	<table width="100%" align="center" cellpadding="10" cellspacing="0" border="0">
+                    	<tr>
+                        	<td align="left">
+                            	<font class="explainationtext">Use the form below to claim your prize. You are a guaranteed winner of one of the prizes listed to the left.</font></td>
+                        </tr>
+                    </table></div>
+                <div id="authorized">
+                    <div class="dottedline"></div>
+                    <table width="100%" align="center" cellpadding="10" cellspacing="0" border="0">
+                    	<tr>
+                        	<td align="left">
+                            	<font class="authorizedtext">Authorized by:&nbsp;&nbsp;</font> <img src="https://f-pinid.a.ssl.fastly.net///images/en/default/register/CertifiedWinnerRSP/stamps_min.png" width="224" height="76" alt="B. Kelleher" /></td>
+                        </tr>
+                    </table></div>
+            </div>
+            
+            <div id="content2mobile">
+				<div class="bullets">
+                    <font class="prizemain">&bull; Samsung 65" 3D LED Smart TV</font><br />
+                    <font class="prizemain">&bull; Dell Inspiron Laptop Computer</font><br />
+                    <font class="prizemain">&bull; Apple iPad Mini</font><br />
+                    <font class="prizemain">&bull; $50.00 SkyAuction Savings Certificate</font></div>
+                <div class="space2"></div>
+                <div class="dottedline"></div>
+                <div class="space2"></div>
+                <div id="explanation">
+                    <font class="explainationtext">Use the form below to claim your prize. You are a guaranteed winner of one of the prizes listed above.</font></div>
+                <div class="space2"></div>
+            </div>
+            
+            <div class="clear"></div>
+            <div class="line"></div>
+            <div id="sectionacode">
+            	<font class="code">Code No. PSN20121205</font></div>
+			<div class="sectiona">
+                <font class="sectiontext"><strong>Section</strong></font> <font class="sectionheader"> A: Grand Prize Value Disclosure</font><br />
+                <div class="space2"></div>
+				<font class="sectiontext">You have been directed to this prize claim form because you are a verified and confirmed winner of one of the prizes listed above. The Grand Prize value is:</font><br />
+                <div id="sectionaprize">$3,500.00</div>
+                <div class="space2"></div>
+                <div class="space3"></div>
+            </div>
+            <div class="clear"></div>
+            <div class="line"></div>
+            <div class="sectiona">
+            	<div class="space2"></div>
+                <font class="sectiontext"><strong>Section</strong></font> <font class="sectionheader"> B: Claim Information</font><br />
+                <div class="space2"></div>
+                <font class="sectiontext">Note: You are a guaranteed winner of one of the prizes listed above. Fill out the form below to claim your prize.</font><br />
+                <div class="space3"></div>
+            </div>
+        </div>
+        <div class="clear"></div>      	
+
+<form class="input_info" name="formreg" id="formreg" method="post">
+        <div id="formborder">
+            <div id="form">
+
+    <input type="hidden" name="noepu" value="1" />
+
+    <input type="hidden" name="source" value="1066287" />
+
+    <input type="hidden" name="sweepsid" value="215" />
+
+    <input type="hidden" name="tid" value="645998058" />
+
+    <input type="hidden" name="affiliateid" value="1514" />
+
+    <input type="hidden" name="process" value="1" />
+
+    <input type="hidden" name="skin" value="CertifiedWinnerRSP" />
+
+            	<div id="formtop">
+                    <div class="space2"></div>
+                        <font class="formtoptext">Failure to complete this form in its entirety may result in forfeiture of your prize.</font>
+                    <div class="space2"></div>
+                </div>
+                <div class="clear"></div>
+                <div class="dottedline"></div>
+                <div class="formcontent">
+                	<div class="wideformbox">
+                    	<font class="formletter">a</font>&nbsp;&nbsp;&nbsp;<label class="formtitle" for="firstname">First Name</label><br />
+                        <p class="wideform"><input type="text" id="firstname" name="firstname" value=""/></p></div>
+                    <div class="dottedlinersp"></div>
+                    <div class="linetall"></div>
+                    <div class="wideformbox">
+                    	<font class="formletter">b</font>&nbsp;&nbsp;&nbsp;<label class="formtitle" for="lastname">Last Name</label><br />
+                        <p class="wideform"><input type="text" id="lastname" name="lastname" value=""/></p></div>
+                </div>
+                <div class="clear"></div>
+                <div class="dottedline"></div>
+                <div class="formcontent">
+                	<div class="narrowformbox">
+                    	<font class="formletter">c</font>&nbsp;&nbsp;&nbsp;<label class="formtitle" for="address">Address1</label><br />
+                        <p class="narrowform"><input type="text" id="address" name="address" value=""/></p></div>
+                    <div class="dottedlinersp"></div>
+                    <div class="linetall"></div>
+                    <div class="narrowformbox">
+                    	<font class="formletter">d</font>&nbsp;&nbsp;&nbsp;<label class="formtitle" for="address2">Address2</label><br />
+                        <p class="narrowform"><input type="text" id="address2" name="address2" value=""/></p></div>
+                    <div class="dottedlinersp"></div>
+                    <div class="linetall"></div>
+                    <div class="narrowformbox">
+                    	<font class="formletter">e</font>&nbsp;&nbsp;&nbsp;<label class="formtitle" for="city">City</label><br />
+                        <p class="narrowform"><input type="text" id="city" name="city" value=""/></p></div>
+                </div>
+                <div class="clear"></div>
+                <div class="dottedline"></div>
+                <div class="formcontent">
+                	<div class="narrowformbox">
+                    	<font class="formletter">f</font>&nbsp;&nbsp;&nbsp;<label class="formtitle" for="zipcode">Postal Code</label><br />
+                        <p class="narrowform"><input type="text" id="zipcode" name="zipcode" value=""/></p></div>
+                    <div class="dottedlinersp"></div>
+                    <div class="linetall"></div>
+                    <div class="narrowformbox">
+                        <font class="formletter">g</font>&nbsp;&nbsp;&nbsp;<label class="formtitle" id="statelabel" for="state">State</label><label class="formtitle" id="otherregionlabel" for="otheregion" style="display: none;">Region</label>
+                        <p class="narrowform">
+                        <select id="state" name="state"></select>
+                        <input type="hidden" id="chosenstate" name="chosenstate" value="" />
+                        <input type="text" style="display:none;" id="otherregion" name="otherregion" value=""/>
+						</p>
+					</div>
+                    <div class="dottedlinersp"></div>
+                    <div class="linetall"></div>
+                    <div class="narrowformbox">
+                    	<font class="formletter">h</font>&nbsp;&nbsp;&nbsp;<label class="formtitle" for="country">Country</label><br />
+                        <p class="narrowform">
+                        <select id="country" name="country">
+                        <option value='United States' selected='selected'> United States </option>
+<option value='Canada'> Canada </option>
+<option value='ax'> Aland Islands </option>
+<option value='al'> Albania </option>
+<option value='dz'> Algeria </option>
+<option value='as'> American Samoa </option>
+<option value='ad'> Andorra </option>
+<option value='ao'> Angola </option>
+<option value='ai'> Anguilla </option>
+<option value='aq'> Antarctica </option>
+<option value='ag'> Antigua and Barbuda </option>
+<option value='ar'> Argentina </option>
+<option value='am'> Armenia </option>
+<option value='aw'> Aruba </option>
+<option value='au'> Australia </option>
+<option value='at'> Austria </option>
+<option value='az'> Azerbaijan </option>
+<option value='bs'> Bahamas </option>
+<option value='bh'> Bahrain </option>
+<option value='bd'> Bangladesh </option>
+<option value='bb'> Barbados </option>
+<option value='by'> Belarus </option>
+<option value='be'> Belgium </option>
+<option value='bz'> Belize </option>
+<option value='bj'> Benin </option>
+<option value='bm'> Bermuda </option>
+<option value='bt'> Bhutan </option>
+<option value='bo'> Bolivia </option>
+<option value='ba'> Bosnia and Herzegovina </option>
+<option value='bw'> Botswana </option>
+<option value='br'> Brazil </option>
+<option value='io'> British Indian Ocean Territory </option>
+<option value='bn'> Brunei Darussalam </option>
+<option value='bg'> Bulgaria </option>
+<option value='bf'> Burkina Faso </option>
+<option value='bi'> Burundi </option>
+<option value='kh'> Cambodia </option>
+<option value='cm'> Cameroon </option>
+<option value='cv'> Cape Verde </option>
+<option value='ky'> Cayman Islands </option>
+<option value='cf'> Central African Republic </option>
+<option value='td'> Chad </option>
+<option value='cl'> Chile </option>
+<option value='cn'> China </option>
+<option value='cx'> Christmas Island </option>
+<option value='cc'> Cocos (Keeling) Islands </option>
+<option value='co'> Colombia </option>
+<option value='km'> Comoros </option>
+<option value='cg'> Congo </option>
+<option value='cd'> Congo, The Democratic Republic of the </option>
+<option value='ck'> Cook Islands </option>
+<option value='cr'> Costa Rica </option>
+<option value='ci'> Cote d'Ivoire </option>
+<option value='hr'> Croatia </option>
+<option value='cy'> Cyprus </option>
+<option value='cz'> Czech Republic </option>
+<option value='dk'> Denmark </option>
+<option value='dj'> Djibouti </option>
+<option value='dm'> Dominica </option>
+<option value='do'> Dominican Republic </option>
+<option value='ec'> Ecuador </option>
+<option value='eg'> Egypt </option>
+<option value='sv'> El Salvador </option>
+<option value='gq'> Equatorial Guinea </option>
+<option value='er'> Eritrea </option>
+<option value='ee'> Estonia </option>
+<option value='et'> Ethiopia </option>
+<option value='fk'> Falkland Islands (Malvinas) </option>
+<option value='fo'> Faroe Islands </option>
+<option value='fj'> Fiji </option>
+<option value='fi'> Finland </option>
+<option value='fr'> France </option>
+<option value='gf'> French Guiana </option>
+<option value='pf'> French Polynesia </option>
+<option value='tf'> French Southern Territories </option>
+<option value='ga'> Gabon </option>
+<option value='gm'> Gambia </option>
+<option value='ge'> Georgia </option>
+<option value='de'> Germany </option>
+<option value='gh'> Ghana </option>
+<option value='gi'> Gibraltar </option>
+<option value='gr'> Greece </option>
+<option value='gl'> Greenland </option>
+<option value='gd'> Grenada </option>
+<option value='gp'> Guadeloupe </option>
+<option value='gu'> Guam </option>
+<option value='gt'> Guatemala </option>
+<option value='gg'> Guernsey </option>
+<option value='gn'> Guinea </option>
+<option value='gw'> Guinea-Bissau </option>
+<option value='gy'> Guyana </option>
+<option value='ht'> Haiti </option>
+<option value='hm'> Heard Island and Mcdonald Islands </option>
+<option value='va'> Holy See (Vatican City State) </option>
+<option value='hn'> Honduras </option>
+<option value='hk'> Hong Kong </option>
+<option value='hu'> Hungary </option>
+<option value='is'> Iceland </option>
+<option value='in'> India </option>
+<option value='id'> Indonesia </option>
+<option value='ie'> Ireland </option>
+<option value='im'> Isle of Man </option>
+<option value='il'> Israel </option>
+<option value='it'> Italy </option>
+<option value='jm'> Jamaica </option>
+<option value='jp'> Japan </option>
+<option value='je'> Jersey </option>
+<option value='jo'> Jordan </option>
+<option value='kz'> Kazakhstan </option>
+<option value='ke'> Kenya </option>
+<option value='ki'> Kiribati </option>
+<option value='kr'> Korea, Republic of </option>
+<option value='kw'> Kuwait </option>
+<option value='kg'> Kyrgyzstan </option>
+<option value='la'> Lao People's Democratic Republic </option>
+<option value='lv'> Latvia </option>
+<option value='lb'> Lebanon </option>
+<option value='ls'> Lesotho </option>
+<option value='lr'> Liberia </option>
+<option value='li'> Liechtenstein </option>
+<option value='lt'> Lithuania </option>
+<option value='lu'> Luxembourg </option>
+<option value='mo'> Macau </option>
+<option value='mk'> Macedonia, The Former Yugoslav Republic of </option>
+<option value='mg'> Madagascar </option>
+<option value='mw'> Malawi </option>
+<option value='my'> Malaysia </option>
+<option value='mv'> Maldives </option>
+<option value='ml'> Mali </option>
+<option value='mt'> Malta </option>
+<option value='mh'> Marshall Islands </option>
+<option value='mq'> Martinique </option>
+<option value='mr'> Mauritania </option>
+<option value='mu'> Mauritius </option>
+<option value='yt'> Mayotte </option>
+<option value='mx'> Mexico </option>
+<option value='fm'> Micronesia, Federated States of </option>
+<option value='md'> Moldova, Republic of </option>
+<option value='mc'> Monaco </option>
+<option value='mn'> Mongolia </option>
+<option value='me'> Montenegro </option>
+<option value='ms'> Montserrat </option>
+<option value='ma'> Morocco </option>
+<option value='mz'> Mozambique </option>
+<option value='mm'> Myanmar </option>
+<option value='na'> Namibia </option>
+<option value='nr'> Nauru </option>
+<option value='np'> Nepal </option>
+<option value='nl'> Netherlands </option>
+<option value='an'> Netherlands Antilles </option>
+<option value='nc'> New Caledonia </option>
+<option value='nz'> New Zealand </option>
+<option value='ni'> Nicaragua </option>
+<option value='ne'> Niger </option>
+<option value='ng'> Nigeria </option>
+<option value='nu'> Niue </option>
+<option value='nf'> Norfolk Island </option>
+<option value='mp'> Northern Mariana Islands </option>
+<option value='no'> Norway </option>
+<option value='om'> Oman </option>
+<option value='pk'> Pakistan </option>
+<option value='pw'> Palau </option>
+<option value='ps'> Palestinian Territory, Occupied </option>
+<option value='pa'> Panama </option>
+<option value='pg'> Papua New Guinea </option>
+<option value='py'> Paraguay </option>
+<option value='pe'> Peru </option>
+<option value='ph'> Philippines </option>
+<option value='pn'> Pitcairn </option>
+<option value='pl'> Poland </option>
+<option value='pt'> Portugal </option>
+<option value='qa'> Qatar </option>
+<option value='re'> Reunion </option>
+<option value='ro'> Romania </option>
+<option value='ru'> Russian Federation </option>
+<option value='rw'> Rwanda </option>
+<option value='sh'> Saint Helena </option>
+<option value='kn'> Saint Kitts and Nevis </option>
+<option value='lc'> Saint Lucia </option>
+<option value='pm'> Saint Pierre and Miquelon </option>
+<option value='vc'> Saint Vincent and the Grenadines </option>
+<option value='ws'> Samoa </option>
+<option value='sm'> San Marino </option>
+<option value='st'> Sao Tome and Principe </option>
+<option value='sa'> Saudi Arabia </option>
+<option value='sn'> Senegal </option>
+<option value='rs'> Serbia </option>
+<option value='sc'> Seychelles </option>
+<option value='sl'> Sierra Leone </option>
+<option value='sg'> Singapore </option>
+<option value='sk'> Slovakia </option>
+<option value='si'> Slovenia </option>
+<option value='sb'> Solomon Islands </option>
+<option value='so'> Somalia </option>
+<option value='za'> South Africa </option>
+<option value='gs'> South Georgia and the South Sandwich Islands </option>
+<option value='es'> Spain </option>
+<option value='lk'> Sri Lanka </option>
+<option value='sr'> Suriname </option>
+<option value='sj'> Svalbard and Jan Mayen </option>
+<option value='sz'> Swaziland </option>
+<option value='se'> Sweden </option>
+<option value='ch'> Switzerland </option>
+<option value='sy'> Syrian Arab Republic </option>
+<option value='tw'> Taiwan, Province of China </option>
+<option value='tj'> Tajikistan </option>
+<option value='tz'> Tanzania, United Republic of </option>
+<option value='th'> Thailand </option>
+<option value='tl'> Timor-Leste </option>
+<option value='tg'> Togo </option>
+<option value='tk'> Tokelau </option>
+<option value='to'> Tonga </option>
+<option value='tt'> Trinidad and Tobago </option>
+<option value='tn'> Tunisia </option>
+<option value='tr'> Turkey </option>
+<option value='tm'> Turkmenistan </option>
+<option value='tc'> Turks and Caicos Islands </option>
+<option value='tv'> Tuvalu </option>
+<option value='ug'> Uganda </option>
+<option value='ua'> Ukraine </option>
+<option value='ae'> United Arab Emirates </option>
+<option value='uk'> United Kingdom </option>
+<option value='um'> United States Minor Outlying Islands </option>
+<option value='uy'> Uruguay </option>
+<option value='uz'> Uzbekistan </option>
+<option value='vu'> Vanuatu </option>
+<option value='ve'> Venezuela </option>
+<option value='vn'> Viet Nam </option>
+<option value='vg'> Virgin Islands, British </option>
+<option value='vi'> Virgin Islands, U.S. </option>
+<option value='wf'> Wallis and Futuna </option>
+<option value='eh'> Western Sahara </option>
+<option value='ye'> Yemen </option>
+<option value='yu'> Yugoslavia </option>
+<option value='zm'> Zambia </option>
+<option value='zw'> Zimbabwe </option>
+
+                        </select>
+                        </p></div>
+                </div>
+                <div class="clear"></div>
+                <div class="line"></div>
+                <div id="formmiddle">
+                    <div class="space2"></div>
+                        <font class="formmiddletext">Your prize notification and FreeLotto entry confirmations, daily results and sponsored advertising messages will be sent by e-mail only from FreeLotto:</font>
+                    <div class="space2"></div>
+                </div>
+                <div class="clear"></div>
+                <div class="line"></div>
+                <div class="formcontent">
+                	<div class="wideformbox">
+                    	<font class="formletter">i</font>&nbsp;&nbsp;&nbsp;<label class="formtitle" for="email">Email</label><br />
+                        <p class="wideform"><input type="text" id="email" name="email" value=""/></p></div>
+                    <div class="dottedlinersp"></div>
+                    <div class="linetall"></div>
+                    <div class="wideformbox">
+                    	<font class="formletter">j</font>&nbsp;&nbsp;&nbsp;<label class="formtitle" for="email2">Confirm Email</label><br />
+                        <p class="wideform"><input type="text" id="email2" name="email2" value=""/></p></div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>        
+        <div class="clear"></div>
+    	<div id="borderbox">
+        	<div class="sectiona">
+            	<div class="space2"></div>
+                <font class="bottomtext">This confirmation is contingent upon meeting the age and residency requirement. These prizes are being offered by FreeLotto.com as part of a worldwide publicity campaign. Offer is valid for a limited time.</font><br />
+            </div>
+            <div id="button">
+                <div class="space2"></div>
+                <button type="submit" class="claim_now_btn">CLAIM NOW</button>
+            </div>
+            <div class="sectiona">
+                <font class="bottomtext">
+                
+                By clicking on <strong>&ldquo;CLAIM NOW&rdquo;</strong> above, I acknowledge that I have read the <a href="/rules.asp?lang=en" target="_blank">Official Rules</a>,  <a href="/rules.asp?lang=en&rules=FlatTVSweepstakes" target="_blank">Sweepstakes Rules</a> and <a target="_blank" href="/privacy.asp?lang=en">FreeLotto Privacy Policy</a> and agree to be bound by them.
+                </font><br />
+                <div class="space2"></div>
+            </div>
+            <div class="line"></div>
+       	    <div id="security">
+                <img src="https://f-pinid.a.ssl.fastly.net///images/en/default/register/CertifiedWinnerRSP/senderscore_min.png" width="62" height="62" alt="senderscore" />
+                <script src="//sealserver.trustkeeper.net/compliance/seal_js.php?code=573aebfa59bfcc15516aa10a75f09b9b&style=normal&size=105x54&language=en"></script>
+                
+
+<div style="display: inline-block;">
+
+<!--- DO NOT EDIT - GlobalSign SSL Site Seal Code - DO NOT EDIT ---><table width=115 border=0 cellspacing=0 cellpadding=0 title="CLICK TO VERIFY: This site uses a GlobalSign SSL Certificate to secure your personal information." ><tr><td><span id="ss_img_wrapper_gmogs_image_125-50_en_blue"><a href="https://www.globalsign.com/" target=_blank title="GlobalSign Site Seal" rel="nofollow"><img alt="SSL" border=0 id="ss_img" src="//seal.globalsign.com/SiteSeal/images/gs_noscript_125-50_en.gif"></a></span><script type="text/javascript" src="//seal.globalsign.com/SiteSeal/gmogs_image_125-50_en_blue.js"></script></td></tr></table><!--- DO NOT EDIT - GlobalSign SSL Site Seal Code - DO NOT EDIT --->
+
+</div>
+
+                
+            </div>
+        </div>
+</form>
+    </div>
+</div>
+<div class="space1"></div>
+<div id="footer">
+    <font class="footer1">
+Why are we giving away these AMAZING PRIZES?<br /><br />
+
+As part of a worldwide publicity campaign, we're giving away a <strong>FREE</strong> award valued up to $3,500.00. <strong>This is NOT a joke!</strong> By entering this sweepstakes you will also have joined <strong>FreeLotto.com.</strong> With daily opportunities to win over $11,000,000.00, <strong>FreeLotto</strong> is the ultimate destination for winning free money online! Since 1999, <strong>FreeLotto</strong> has awarded OVER $104,000,000.00, created 26 millionaires, and YOU COULD BE NEXT. <strong>This is a limited time offer so act fast and act now.</strong><br /><br />
+
+After you've processed your claim you'll be notified of exactly what your prize is and we will arrange delivery to you. This is totally free, we even pay the shipping. But you've got to act fast.<br /><br />
+
+Best of all, after you process your claim you will have joined   FreeLotto&reg; - where you'll get a free chance at winning over $11 million in daily prizes.  We've already awarded over $104 million in prizes, and you can become our next millionaire!<br /> <br />
+
+This promotion is sponsored by FreeLotto&reg; and is not associated with any of the above listed brands. The above listed trademarks are the property of their respective owners. This promotion is in no way affiliated with Samsung, Dell, Apple, or Sky Auction. No purchase is necessary to enter.<br /><br />
+    </font>
+
+    <div class="footer2">
+        <p>Copyright &copy; 1999-2017 PlasmaNet, Inc. All rights reserved. Reproduction in whole or in part in any form or medium without the express written permission of PlasmaNet, Inc. is prohibited. PlasmaNet, Inc., www.freelotto.com, their agencies and advertisers are not responsible for any incorrect or inaccurate information or formatting, whether caused by internet users or by any of the equipment, programming or software associated with or utilized in connection with the Sweepstakes. Void where prohibited. PlasmaNet, Inc. is not responsible for any errors or omissions.</p>
+        <p>
+            PlasmaNet Inc. PO Box 4562, Grand Central Station, New York, NY 10163, USA.
+	</div>
+</div>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+            <script type="text/javascript">
+                window.jQuery || document.write('<script src="https://f-pinid.a.ssl.fastly.net/xmljs/jquery-1.7.2/jquery.min.85360-ssl.js"><'+'/script>');
+            </script>
+<script type="text/javascript" src="https://f-pinid.a.ssl.fastly.net/xmljs/FL.85360-ssl.js"></script>
+<script type="text/javascript" src="https://f-pinid.a.ssl.fastly.net/xmljs/countrystate.min.85360-ssl.js?lang=en"></script>
+<script type="text/javascript" src="https://f-pinid.a.ssl.fastly.net/xmljs/reg_skins.85360-ssl.js?lang=en"></script>
+<script type="text/javascript" src="https://f-pinid.a.ssl.fastly.net/xmljs/flzipcode.min.85360-ssl.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+            <script type="text/javascript">
+                window.swfobject || document.write('<script src="https://f-pinid.a.ssl.fastly.net/xmljs/swfobject.2.2.85360-ssl.js"><'+'/script>');
+            </script>
+<script type="text/javascript" src="https://f-pinid.a.ssl.fastly.net/xmljs/epu.85360-ssl.js?noepu=1&showsspop=&popid=&partner=1066287"></script>
+
+<img src="/offer.asp?offer=14999&r=0.768977168600241" border="0" height="0" />
+<img src="/offer.asp?offer=10670975&id=" width="0" height="0" border="0" alt=""/>
+
+
+
+
+
+<!-- Tag for Activity Group: Free Landing Page FL Tag, Activity Name: Free Landing Page FL Tag, Activity ID: 3584428 -->
+<!-- Expected URL: https://www.freelotto.com/offer.asp -->
+
+<!--
+Activity ID: 3584428
+Activity Name: Free Landing Page FL Tag
+Activity Group Name: Free Landing Page FL Tag
+-->
+
+<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: Free Landing Page FL Tag
+URL of the webpage where the tag is expected to be placed: https://www.freelotto.com/offer.asp
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 06/15/2016
+-->
+<script type="text/javascript">
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="https://4917130.fls.doubleclick.net/activityi;src=4917130;type=landi0;cat=landi0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script>
+<noscript>
+<iframe src="https://4917130.fls.doubleclick.net/activityi;src=4917130;type=landi0;cat=landi0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+
+<script type="text/javascript">
+(function(){"use strict";var e=null,b="4.0.0",
+n="12563",
+additional="",
+t,r,i;try{t=top.document.referer!==""?encodeURIComponent(top.document.referrer.substring(0,2048)):""}catch(o){t=document.referrer!==null?document.referrer.toString().substring(0,2048):""}try{r=window&&window.top&&document.location&&window.top.location===document.location?document.location:window&&window.top&&window.top.location&&""!==window.top.location?window.top.location:document.location}catch(u){r=document.location}try{i=parent.location.href!==""?encodeURIComponent(parent.location.href.toString().substring(0,2048)):""}catch(a){try{i=r!==null?encodeURIComponent(r.toString().substring(0,2048)):""}catch(f){i=""}}var l,c=document.createElement("script"),h=null,p=document.getElementsByTagName("script"),d=Number(p.length)-1,v=document.getElementsByTagName("script")[d];if(typeof l==="undefined"){l=Math.floor(Math.random()*1e17)}h="dx.steelhousemedia.com/spx?"+"dxver="+b+"&shaid="+n+"&tdr="+t+"&plh="+i+"&cb="+l+additional;c.type="text/javascript";c.src=("https:"===document.location.protocol?"https://":"http://")+h;v.parentNode.insertBefore(c,v)})()
+</script>
+
+<script type="text/javascript">
+$("#formreg").submit(function(e){
+        msg = errormsg(); 
+        if(msg == null) { 
+            doepu = 0; 
+            showsspop = 0; 
+            return true; 
+        } 
+        alert(msg); 
+        return false;
+    });
+</script>
+
+<div style="display:none">
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 997036998;
+        var google_conversion_page_url = 'http://www.freelotto.com/register.asp?A=&affiliateid=1514&noepu=1&partner=1066287&skin=CertifiedWinnerRSP&tid=645998058&utm_campaign=EveryoneWinsTV&utm_content=CertifiedWinnerRSP&utm_medium=Display&utm_source=Adsimilis_DQ&utm_term=CPA';
+        var google_conversion_referrer_url = '';
+        var google_conversion_label = "Bnp7COL25gYQxqe22wM";
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/997036998/?value=0&amp;label=Bnp7COL25gYQxqe22wM&amp;guid=ON&amp;script=0"/>
+        </div>
+    </noscript>
+</div>
+
+<div style="display:none">
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 997036998;
+        var google_conversion_page_url = 'http://www.freelotto.com/register.asp?A=&affiliateid=1514&noepu=1&partner=1066287&skin=CertifiedWinnerRSP&tid=645998058&utm_campaign=EveryoneWinsTV&utm_content=CertifiedWinnerRSP&utm_medium=Display&utm_source=Adsimilis_DQ&utm_term=CPA';
+        var google_conversion_referrer_url = '';
+        var google_conversion_label = "h8M6CLLIwQMQxqe22wM";
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/997036998/?value=0&amp;label=h8M6CLLIwQMQxqe22wM&amp;guid=ON&amp;script=0"/>
+        </div>
+    </noscript>
+</div>
+</body>
+</html>

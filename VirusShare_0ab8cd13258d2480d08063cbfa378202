@@ -1,0 +1,1064 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!-- start: showthread -->
+<html xml:lang="it" lang="it" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Dressing</title>
+<!-- start: headerinclude -->
+<link rel="alternate" type="application/rss+xml" title="Ultime discussioni (RSS 2.0)" href="http://www.pratomoscaclub.it/forum/syndication.php" />
+<link rel="alternate" type="application/atom+xml" title="Ultime discussioni (Atom 1.0)" href="http://www.pratomoscaclub.it/forum/syndication.php?type=atom1.0" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<script type="text/javascript" src="http://www.pratomoscaclub.it/forum/jscripts/jquery.js?ver=1806"></script>
+<script type="text/javascript" src="http://www.pratomoscaclub.it/forum/jscripts/jquery.plugins.min.js?ver=1806"></script>
+<script type="text/javascript" src="http://www.pratomoscaclub.it/forum/jscripts/general.js?ver=1810"></script>
+
+<link type="text/css" rel="stylesheet" href="http://www.pratomoscaclub.it/forum/cache/themes/theme9/global.css" />
+<link type="text/css" rel="stylesheet" href="http://www.pratomoscaclub.it/forum/cache/themes/theme1/star_ratings.css" />
+<link type="text/css" rel="stylesheet" href="http://www.pratomoscaclub.it/forum/cache/themes/theme1/showthread.css" />
+<link type="text/css" rel="stylesheet" href="http://www.pratomoscaclub.it/forum/cache/themes/theme9/css3.css" />
+
+<script type="text/javascript">
+<!--
+	lang.unknown_error = "Si è verificato un errore sconosciuto.";
+
+	lang.select2_match = "E' disponibile solo un risultato, premi invio per selezionarlo.";
+	lang.select2_matches = "{1} risultati disponibili, usa i tasti freccia su e freccia giù per spostarti.";
+	lang.select2_nomatches = "Nessun risultato";
+	lang.select2_inputtooshort_single = "Inserisci uno o più caratteri";
+	lang.select2_inputtooshort_plural = "Inserisci {1} o più caratteri";
+	lang.select2_inputtoolong_single = "Cancella un carattere";
+	lang.select2_inputtoolong_plural = "Cancella {1} caratteri";
+	lang.select2_selectiontoobig_single = "Puoi selezionare solo un oggetto";
+	lang.select2_selectiontoobig_plural = "Puoi selezionare solo {1} oggetti";
+	lang.select2_loadmore = "Carico altri risultati…";
+	lang.select2_searching = "Ricerca in corso…";
+
+	var cookieDomain = "";
+	var cookiePath = "/";
+	var cookiePrefix = "";
+	var cookieSecureFlag = "0";
+	var deleteevent_confirm = "Sei sicuro di voler cancellare questo evento?";
+	var removeattach_confirm = "Sei sicuro di voler rimuovere da questo messaggio l'allegato selezionato?";
+	var loading_text = 'Caricamento... <br />Attendere...';
+	var saving_changes = 'Salvataggio delle modifiche in corso...';
+	var use_xmlhttprequest = "1";
+	var my_post_key = "72a5cce0aa17486beb460e176f557467";
+	var rootpath = "http://www.pratomoscaclub.it/forum";
+	var imagepath = "http://www.pratomoscaclub.it/forum/images/pmc";
+  	var yes_confirm = "Si";
+	var no_confirm = "No";
+	var MyBBEditor = null;
+	var spinner_image = "http://www.pratomoscaclub.it/forum/images/pmc/spinner.gif";
+	var spinner = "<img src='" + spinner_image +"' alt='' />";
+	var modal_zindex = 9999;
+// -->
+</script>
+<!-- end: headerinclude -->
+<script type="text/javascript">
+<!--
+	var quickdelete_confirm = "Sei sicuro di voler cancellare questo messaggio?";
+	var quickrestore_confirm = "Sei sicuro di voler ripristinare questo messaggio?";
+	var allowEditReason = "1";
+	lang.save_changes = "Salva modifiche";
+	lang.cancel_edit = "Annulla modifiche";
+	lang.quick_edit_update_error = "Si è verificato un errore durante la modifica del messaggio:";
+	lang.quick_reply_post_error = "Si è verificato un errore durante l'invio della risposta:";
+	lang.quick_delete_error = "Si è verificato un errore durante la cancellazione del messaggio:";
+	lang.quick_delete_success = "Il messaggio è stato cancellato correttamente.";
+	lang.quick_delete_thread_success = "La discussione è stata cancellata con successo.";
+	lang.quick_restore_error = "Si è verificato un errore durante il ripristino della risposta:";
+	lang.quick_restore_success = "Il messaggio è stato ripristinato con successo.";
+	lang.editreason = "Motivo modifica";
+// -->
+</script>
+<!-- jeditable (jquery) -->
+<script type="text/javascript" src="http://www.pratomoscaclub.it/forum/jscripts/report.js?ver=1804"></script>
+<script src="http://www.pratomoscaclub.it/forum/jscripts/jeditable/jeditable.min.js"></script>
+<script type="text/javascript" src="http://www.pratomoscaclub.it/forum/jscripts/thread.js?ver=1809"></script>
+</head>
+<body>
+	<!-- start: header -->
+<div id="container">
+		<a name="top" id="top"></a>
+		<div id="header">
+			<div id="logo">
+				<div class="wrapper">
+					<a href="http://www.pratomoscaclub.it/forum/index.php"><img src="http://www.pratomoscaclub.it/forum/images/pmc/marchio-pmc.png" alt="Forum del Prato Mosca Club: la pesca a mosca in provincia di Prato" title="Forum del Prato Mosca Club: la pesca a mosca in provincia di Prato" /></a>
+					<ul class="menu top_links">
+						
+						
+						
+						
+						<li><a href="http://www.pratomoscaclub.it/forum/misc.php?action=help" class="help">Aiuto</a></li>
+					</ul>
+				</div>
+			</div>
+			<div id="panel">
+				<div class="upper">
+					<div class="wrapper">
+						
+						<!-- start: header_welcomeblock_guest -->
+						<!-- Continuation of div(class="upper") as opened in the header template -->
+						<span class="welcome">Benvenuto ospite! <a href="http://www.pratomoscaclub.it/forum/member.php?action=login" onclick="$('#quick_login').modal({ fadeDuration: 250, keepelement: true, zIndex: (typeof modal_zindex !== 'undefined' ? modal_zindex : 9999) }); return false;" class="login">Login</a> <a href="http://www.pratomoscaclub.it/forum/member.php?action=register" class="register">Registrati</a></span>
+					</div>
+				</div>
+				<div class="modal" id="quick_login" style="display: none;">
+					<form method="post" action="http://www.pratomoscaclub.it/forum/member.php">
+						<input name="action" type="hidden" value="do_login" />
+						<input name="url" type="hidden" value="" />
+						<input name="quick_login" type="hidden" value="1" />
+						<table width="100%" cellspacing="0" cellpadding="5" border="0" class="tborder">
+							<tr>
+								<td class="thead" colspan="2"><strong>Login</strong></td>
+							</tr>
+							<tr>
+								<td class="trow1" width="25%"><strong>Nome utente:</strong></td>
+								<td class="trow1"><input name="quick_username" id="quick_login_username" type="text" value="" class="textbox initial_focus" /></td>
+							</tr>
+							<tr>
+								<td class="trow2"><strong>Password:</strong></td>
+								<td class="trow2">
+									<input name="quick_password" id="quick_login_password" type="password" value="" class="textbox" /> <a href="http://www.pratomoscaclub.it/forum/member.php?action=lostpw" class="lost_password">Password dimenticata?</a>
+								</td>
+							</tr>
+							<tr>
+								<td class="trow1">&nbsp;</td>
+								<td class="trow1 remember_me">
+									<input name="quick_remember" id="quick_login_remember" type="checkbox" value="yes" class="checkbox" checked="checked" />
+									<label for="quick_login_remember">Ricordami</label>
+								</td>
+							</tr>
+							<tr>
+								<td class="trow2" colspan="2">
+									<div align="center"><input name="submit" type="submit" class="button" value="Login" /></div>
+								</td>
+							</tr>
+						</table>
+					</form>
+				</div>
+				<script type="text/javascript">
+					$("#quick_login input[name='url']").val($(location).attr('href'));
+				</script>
+<!-- end: header_welcomeblock_guest -->
+					<!-- </div> in header_welcomeblock_member and header_welcomeblock_guest -->
+				<!-- </div> in header_welcomeblock_member and header_welcomeblock_guest -->
+			</div>
+		</div>
+		<div id="content">
+			<div class="wrapper">
+				
+				
+				
+				
+				
+				
+				
+				<!-- start: nav -->
+
+<div class="navigation">
+<!-- start: nav_bit -->
+<a href="http://www.pratomoscaclub.it/forum/index.php">Forum del Prato Mosca Club: la pesca a mosca in provincia di Prato</a><!-- start: nav_sep -->
+&rsaquo;
+<!-- end: nav_sep -->
+<!-- end: nav_bit --><!-- start: nav_bit -->
+<a href="forumdisplay.php?fid=1">Prato Mosca Club</a><!-- start: nav_sep -->
+&rsaquo;
+<!-- end: nav_sep -->
+<!-- end: nav_bit --><!-- start: nav_bit -->
+<a href="forumdisplay.php?fid=2">La piazza: discussioni libere</a><!-- start: nav_dropdown -->
+ <img src="http://www.pratomoscaclub.it/forum/images/pmc/arrow_down.png" alt="v" title="" class="pagination_breadcrumb_link" id="breadcrumb_multipage" /><!-- start: multipage_breadcrumb -->
+<div id="breadcrumb_multipage_popup" class="pagination pagination_breadcrumb" style="display: none;">
+<!-- start: multipage_page_link_current -->
+ <a href="forumdisplay.php?fid=2" class="pagination_current">1</a>
+<!-- end: multipage_page_link_current --><!-- start: multipage_page -->
+<a href="forumdisplay.php?fid=2&amp;page=2" class="pagination_page">2</a>
+<!-- end: multipage_page --><!-- start: multipage_page -->
+<a href="forumdisplay.php?fid=2&amp;page=3" class="pagination_page">3</a>
+<!-- end: multipage_page --><!-- start: multipage_page -->
+<a href="forumdisplay.php?fid=2&amp;page=4" class="pagination_page">4</a>
+<!-- end: multipage_page --><!-- start: multipage_page -->
+<a href="forumdisplay.php?fid=2&amp;page=5" class="pagination_page">5</a>
+<!-- end: multipage_page --><!-- start: multipage_end -->
+...  <a href="forumdisplay.php?fid=2&amp;page=7" class="pagination_last">7</a>
+<!-- end: multipage_end --><!-- start: multipage_nextpage -->
+<a href="forumdisplay.php?fid=2&amp;page=2" class="pagination_next">Prossimo &raquo;</a>
+<!-- end: multipage_nextpage -->
+</div>
+<script type="text/javascript">
+// <!--
+	if(use_xmlhttprequest == "1")
+	{
+		$("#breadcrumb_multipage").popupMenu();
+	}
+// -->
+</script>
+<!-- end: multipage_breadcrumb -->
+<!-- end: nav_dropdown -->
+<!-- end: nav_bit --><!-- start: nav_sep_active -->
+<br /><img src="http://www.pratomoscaclub.it/forum/images/pmc/nav_bit.png" alt="" />
+<!-- end: nav_sep_active --><!-- start: nav_bit_active -->
+<span class="active">Dressing</span>
+<!-- end: nav_bit_active -->
+</div>
+<!-- end: nav -->
+				<br />
+<!-- end: header -->
+	
+	
+	<div class="float_left">
+		<!-- start: multipage -->
+<div class="pagination">
+<span class="pages">Pagine (3):</span>
+<!-- start: multipage_page_current -->
+ <span class="pagination_current">1</span>
+<!-- end: multipage_page_current --><!-- start: multipage_page -->
+<a href="showthread.php?tid=929&amp;page=2" class="pagination_page">2</a>
+<!-- end: multipage_page --><!-- start: multipage_page -->
+<a href="showthread.php?tid=929&amp;page=3" class="pagination_page">3</a>
+<!-- end: multipage_page --><!-- start: multipage_nextpage -->
+<a href="showthread.php?tid=929&amp;page=2" class="pagination_next">Prossimo &raquo;</a>
+<!-- end: multipage_nextpage -->
+</div>
+<!-- end: multipage -->
+	</div>
+	<div class="float_right">
+		
+	</div>
+	
+	<table border="0" cellspacing="0" cellpadding="5" class="tborder tfixed clear">
+		<tr>
+			<td class="thead">
+				<div class="float_right">
+					<span class="smalltext"><strong><a href="javascript:void(0)" id="thread_modes">Modi discussione</a></strong></span>
+				</div>
+				<div>
+					<strong>Dressing</strong>
+				</div>
+			</td>
+		</tr>
+<tr><td id="posts_container">
+	<div id="posts">
+		<!-- start: postbit -->
+
+<a name="pid17322" id="pid17322"></a>
+<div class="post " style="" id="post_17322">
+<div class="post_author">
+	<!-- start: postbit_avatar -->
+<div class="author_avatar"><a href="member.php?action=profile&amp;uid=95"><img src="http://www.pratomoscaclub.it/forum/uploads/avatars/avatar_95.jpg?dateline=1420447919" alt="" width="61" height="70" /></a></div>
+<!-- end: postbit_avatar -->
+	<div class="author_information">
+			<strong><span class="largetext"><a href="http://www.pratomoscaclub.it/forum/member.php?action=profile&amp;uid=95">dan</a></span></strong> <!-- start: postbit_offline -->
+<img src="http://www.pratomoscaclub.it/forum/images/pmc/buddy_offline.png" title="Offline" alt="Offline" class="buddy_status" />
+<!-- end: postbit_offline --><br />
+			<span class="smalltext">
+				Senior Member<br />
+				<img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><br />
+				
+			</span>
+	</div>
+	<div class="author_statistics">
+		<!-- start: postbit_author_user -->
+
+	Messaggi: 669<br />
+	Discussioni: 15<br />
+	Registrato: Oct 2010
+	
+<!-- end: postbit_author_user -->
+	</div>
+</div>
+<div class="post_content">
+	<div class="post_head">
+		<!-- start: postbit_posturl -->
+<div class="float_right" style="vertical-align: top">
+<strong><a href="showthread.php?tid=929&amp;pid=17322#pid17322" title="Dressing">#1</a></strong>
+
+</div>
+<!-- end: postbit_posturl -->
+		
+		<span class="post_date">22-02-2012, 01:25 PM <span class="post_edit" id="edited_by_17322"></span></span>
+		
+	</div>
+	<div class="post_body scaleimages" id="pid_17322">
+		C'è qualche buon anima che mi consiglia un dressing per la leuctra fusca?<br />
+
+	</div>
+	
+	<!-- start: postbit_signature -->
+<div class="signature scaleimages">
+ L'uomo coraggioso ama sentire la natura sulla pelle. L'uomo saggio ama usare l'ombrello quando piove! 
+</div>
+<!-- end: postbit_signature -->
+	<div class="post_meta" id="post_meta_17322">
+		
+	</div>
+</div>
+<div class="post_controls">
+	<div class="postbit_buttons author_buttons float_left">
+		
+	</div>
+	<div class="postbit_buttons post_management_buttons float_right">
+		<!-- start: postbit_quote -->
+<a href="newreply.php?tid=929&amp;replyto=17322" title="Cita questo messaggio nella tua risposta" class="postbit_quote"><span>Rispondi</span></a>
+<!-- end: postbit_quote -->
+	</div>
+</div>
+</div>
+<!-- end: postbit --><!-- start: postbit -->
+
+<a name="pid17324" id="pid17324"></a>
+<div class="post " style="" id="post_17324">
+<div class="post_author">
+	<!-- start: postbit_avatar -->
+<div class="author_avatar"><a href="member.php?action=profile&amp;uid=6"><img src="http://www.pratomoscaclub.it/forum/uploads/avatars/avatar_6.png?dateline=1397509972" alt="" width="54" height="70" /></a></div>
+<!-- end: postbit_avatar -->
+	<div class="author_information">
+			<strong><span class="largetext"><a href="http://www.pratomoscaclub.it/forum/member.php?action=profile&amp;uid=6">moscardazia</a></span></strong> <!-- start: postbit_offline -->
+<img src="http://www.pratomoscaclub.it/forum/images/pmc/buddy_offline.png" title="Offline" alt="Offline" class="buddy_status" />
+<!-- end: postbit_offline --><br />
+			<span class="smalltext">
+				Posting Freak<br />
+				<img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><br />
+				
+			</span>
+	</div>
+	<div class="author_statistics">
+		<!-- start: postbit_author_user -->
+
+	Messaggi: 4,052<br />
+	Discussioni: 147<br />
+	Registrato: Nov 2006
+	
+<!-- end: postbit_author_user -->
+	</div>
+</div>
+<div class="post_content">
+	<div class="post_head">
+		<!-- start: postbit_posturl -->
+<div class="float_right" style="vertical-align: top">
+<strong><a href="showthread.php?tid=929&amp;pid=17324#pid17324" title="RE: Dressing">#2</a></strong>
+
+</div>
+<!-- end: postbit_posturl -->
+		
+		<span class="post_date">22-02-2012, 02:00 PM <span class="post_edit" id="edited_by_17324"></span></span>
+		
+	</div>
+	<div class="post_body scaleimages" id="pid_17324">
+		Tenente Dan... la leuctra è semplice da imitare !<br />
+<br />
+Il corpicino lo fai con una piuma di cdc bagnata e ritorta, come ala usa una piattina perlata (cristal flash o similari) debitamente oscurata sul lato superiore (basta passarci un pennarello indelebile), a seguito giri in testa una piuma di cdc...!<br />
+<br />
+1 minuto ad imitazione, non di più !<br />
+<br />
+Buona pesca<br />
+<br />
+Ps: se non hai la piattina, o come vuoi chiamarla dammi uno squillo, ne ho qualche quintale <img src="http://www.pratomoscaclub.it/forum/images/smilies/smile.gif" alt="Smile" title="Smile" class="smilie smilie_1" />
+	</div>
+	
+	
+	<div class="post_meta" id="post_meta_17324">
+		
+	</div>
+</div>
+<div class="post_controls">
+	<div class="postbit_buttons author_buttons float_left">
+		
+	</div>
+	<div class="postbit_buttons post_management_buttons float_right">
+		<!-- start: postbit_quote -->
+<a href="newreply.php?tid=929&amp;replyto=17324" title="Cita questo messaggio nella tua risposta" class="postbit_quote"><span>Rispondi</span></a>
+<!-- end: postbit_quote -->
+	</div>
+</div>
+</div>
+<!-- end: postbit --><!-- start: postbit -->
+
+<a name="pid17328" id="pid17328"></a>
+<div class="post " style="" id="post_17328">
+<div class="post_author">
+	<!-- start: postbit_avatar -->
+<div class="author_avatar"><a href="member.php?action=profile&amp;uid=464"><img src="http://www.pratomoscaclub.it/forum/uploads/avatars/avatar_464.jpg?dateline=1398353986" alt="" width="60" height="70" /></a></div>
+<!-- end: postbit_avatar -->
+	<div class="author_information">
+			<strong><span class="largetext"><a href="http://www.pratomoscaclub.it/forum/member.php?action=profile&amp;uid=464">ivano</a></span></strong> <!-- start: postbit_offline -->
+<img src="http://www.pratomoscaclub.it/forum/images/pmc/buddy_offline.png" title="Offline" alt="Offline" class="buddy_status" />
+<!-- end: postbit_offline --><br />
+			<span class="smalltext">
+				Posting Freak<br />
+				<img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><br />
+				
+			</span>
+	</div>
+	<div class="author_statistics">
+		<!-- start: postbit_author_user -->
+
+	Messaggi: 3,206<br />
+	Discussioni: 179<br />
+	Registrato: Nov 2006
+	
+<!-- end: postbit_author_user -->
+	</div>
+</div>
+<div class="post_content">
+	<div class="post_head">
+		<!-- start: postbit_posturl -->
+<div class="float_right" style="vertical-align: top">
+<strong><a href="showthread.php?tid=929&amp;pid=17328#pid17328" title="RE: Dressing">#3</a></strong>
+
+</div>
+<!-- end: postbit_posturl -->
+		
+		<span class="post_date">22-02-2012, 02:42 PM <span class="post_edit" id="edited_by_17328"></span></span>
+		
+	</div>
+	<div class="post_body scaleimages" id="pid_17328">
+		condivido...imitazione perfetta. fanne qualcuna bella impennata con 2 piume di cdc e qualcuna più leggera...e sei a posto!
+	</div>
+	
+	
+	<div class="post_meta" id="post_meta_17328">
+		
+	</div>
+</div>
+<div class="post_controls">
+	<div class="postbit_buttons author_buttons float_left">
+		
+	</div>
+	<div class="postbit_buttons post_management_buttons float_right">
+		<!-- start: postbit_quote -->
+<a href="newreply.php?tid=929&amp;replyto=17328" title="Cita questo messaggio nella tua risposta" class="postbit_quote"><span>Rispondi</span></a>
+<!-- end: postbit_quote -->
+	</div>
+</div>
+</div>
+<!-- end: postbit --><!-- start: postbit -->
+
+<a name="pid17330" id="pid17330"></a>
+<div class="post " style="" id="post_17330">
+<div class="post_author">
+	<!-- start: postbit_avatar -->
+<div class="author_avatar"><a href="member.php?action=profile&amp;uid=42"><img src="http://www.pratomoscaclub.it/forum/uploads/avatars/avatar_42.jpg?dateline=1363864654" alt="" width="60" height="70" /></a></div>
+<!-- end: postbit_avatar -->
+	<div class="author_information">
+			<strong><span class="largetext"><a href="http://www.pratomoscaclub.it/forum/member.php?action=profile&amp;uid=42">tagaloa</a></span></strong> <!-- start: postbit_offline -->
+<img src="http://www.pratomoscaclub.it/forum/images/pmc/buddy_offline.png" title="Offline" alt="Offline" class="buddy_status" />
+<!-- end: postbit_offline --><br />
+			<span class="smalltext">
+				Posting Freak<br />
+				<img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><br />
+				
+			</span>
+	</div>
+	<div class="author_statistics">
+		<!-- start: postbit_author_user -->
+
+	Messaggi: 2,985<br />
+	Discussioni: 43<br />
+	Registrato: Feb 2008
+	
+<!-- end: postbit_author_user -->
+	</div>
+</div>
+<div class="post_content">
+	<div class="post_head">
+		<!-- start: postbit_posturl -->
+<div class="float_right" style="vertical-align: top">
+<strong><a href="showthread.php?tid=929&amp;pid=17330#pid17330" title="RE: Dressing">#4</a></strong>
+
+</div>
+<!-- end: postbit_posturl -->
+		
+		<span class="post_date">22-02-2012, 02:54 PM <span class="post_edit" id="edited_by_17330"></span></span>
+		
+	</div>
+	<div class="post_body scaleimages" id="pid_17330">
+		che hai intenzione di andare in friuli..........avverti prima ehhhh mi raccomando<br />
+<br />
+grande mosca!<br />
+<br />
+non è una leuctra ma anche in versione chiara ha il suo perchè
+	</div>
+	
+	<!-- start: postbit_signature -->
+<div class="signature scaleimages">
+Io, sono il vostro nuovo Presidente. D'ora in avanti la lingua ufficiale del Bananas sarà lo svedese! Silenzio. A partire da ora tutti i cittadini saranno tenuti a cambiarsi la biancheria ogni 30 minuti! La biancheria sarà portata sugli indumenti. Per poter controllare. 
+</div>
+<!-- end: postbit_signature -->
+	<div class="post_meta" id="post_meta_17330">
+		
+	</div>
+</div>
+<div class="post_controls">
+	<div class="postbit_buttons author_buttons float_left">
+		
+	</div>
+	<div class="postbit_buttons post_management_buttons float_right">
+		<!-- start: postbit_quote -->
+<a href="newreply.php?tid=929&amp;replyto=17330" title="Cita questo messaggio nella tua risposta" class="postbit_quote"><span>Rispondi</span></a>
+<!-- end: postbit_quote -->
+	</div>
+</div>
+</div>
+<!-- end: postbit --><!-- start: postbit -->
+
+<a name="pid17334" id="pid17334"></a>
+<div class="post " style="" id="post_17334">
+<div class="post_author">
+	<!-- start: postbit_avatar -->
+<div class="author_avatar"><a href="member.php?action=profile&amp;uid=95"><img src="http://www.pratomoscaclub.it/forum/uploads/avatars/avatar_95.jpg?dateline=1420447919" alt="" width="61" height="70" /></a></div>
+<!-- end: postbit_avatar -->
+	<div class="author_information">
+			<strong><span class="largetext"><a href="http://www.pratomoscaclub.it/forum/member.php?action=profile&amp;uid=95">dan</a></span></strong> <!-- start: postbit_offline -->
+<img src="http://www.pratomoscaclub.it/forum/images/pmc/buddy_offline.png" title="Offline" alt="Offline" class="buddy_status" />
+<!-- end: postbit_offline --><br />
+			<span class="smalltext">
+				Senior Member<br />
+				<img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><br />
+				
+			</span>
+	</div>
+	<div class="author_statistics">
+		<!-- start: postbit_author_user -->
+
+	Messaggi: 669<br />
+	Discussioni: 15<br />
+	Registrato: Oct 2010
+	
+<!-- end: postbit_author_user -->
+	</div>
+</div>
+<div class="post_content">
+	<div class="post_head">
+		<!-- start: postbit_posturl -->
+<div class="float_right" style="vertical-align: top">
+<strong><a href="showthread.php?tid=929&amp;pid=17334#pid17334" title="RE: Dressing">#5</a></strong>
+
+</div>
+<!-- end: postbit_posturl -->
+		
+		<span class="post_date">22-02-2012, 04:38 PM <span class="post_edit" id="edited_by_17334"></span></span>
+		
+	</div>
+	<div class="post_body scaleimages" id="pid_17334">
+		Grazie ragazzi, stasera mi metto al morsetto!<br />
+La piattina flash che ho io è larga 2mm può andare?<br />
+Per adesso niente Friuli,ma intanto preparo... comunque è un insettino che svolazza anche nelle nostre zone <img src="http://www.pratomoscaclub.it/forum/images/smilies/wink.gif" alt="Wink" title="Wink" class="smilie smilie_2" /><br />
+<br />
+
+	</div>
+	
+	<!-- start: postbit_signature -->
+<div class="signature scaleimages">
+ L'uomo coraggioso ama sentire la natura sulla pelle. L'uomo saggio ama usare l'ombrello quando piove! 
+</div>
+<!-- end: postbit_signature -->
+	<div class="post_meta" id="post_meta_17334">
+		
+	</div>
+</div>
+<div class="post_controls">
+	<div class="postbit_buttons author_buttons float_left">
+		
+	</div>
+	<div class="postbit_buttons post_management_buttons float_right">
+		<!-- start: postbit_quote -->
+<a href="newreply.php?tid=929&amp;replyto=17334" title="Cita questo messaggio nella tua risposta" class="postbit_quote"><span>Rispondi</span></a>
+<!-- end: postbit_quote -->
+	</div>
+</div>
+</div>
+<!-- end: postbit --><!-- start: postbit -->
+
+<a name="pid17335" id="pid17335"></a>
+<div class="post " style="" id="post_17335">
+<div class="post_author">
+	<!-- start: postbit_avatar -->
+<div class="author_avatar"><a href="member.php?action=profile&amp;uid=97"><img src="http://www.pratomoscaclub.it/forum/uploads/avatars/avatar_97.jpg?dateline=1329999727" alt="" width="70" height="47" /></a></div>
+<!-- end: postbit_avatar -->
+	<div class="author_information">
+			<strong><span class="largetext"><a href="http://www.pratomoscaclub.it/forum/member.php?action=profile&amp;uid=97">assessore</a></span></strong> <!-- start: postbit_offline -->
+<img src="http://www.pratomoscaclub.it/forum/images/pmc/buddy_offline.png" title="Offline" alt="Offline" class="buddy_status" />
+<!-- end: postbit_offline --><br />
+			<span class="smalltext">
+				Senior Member<br />
+				<img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><br />
+				
+			</span>
+	</div>
+	<div class="author_statistics">
+		<!-- start: postbit_author_user -->
+
+	Messaggi: 393<br />
+	Discussioni: 18<br />
+	Registrato: Oct 2010
+	
+<!-- end: postbit_author_user -->
+	</div>
+</div>
+<div class="post_content">
+	<div class="post_head">
+		<!-- start: postbit_posturl -->
+<div class="float_right" style="vertical-align: top">
+<strong><a href="showthread.php?tid=929&amp;pid=17335#pid17335" title="RE: Dressing">#6</a></strong>
+
+</div>
+<!-- end: postbit_posturl -->
+		
+		<span class="post_date">22-02-2012, 05:02 PM <span class="post_edit" id="edited_by_17335"></span></span>
+		
+	</div>
+	<div class="post_body scaleimages" id="pid_17335">
+		è vero dan, vola anche da noi...<br />
+anche sul torrente agna
+	</div>
+	
+	<!-- start: postbit_signature -->
+<div class="signature scaleimages">
+<img src="http://www.pratomoscaclub.it/forum/images/smilies/bluepdt_03.gif" alt="bluepdt03" title="bluepdt03" class="smilie smilie_12" />
+</div>
+<!-- end: postbit_signature -->
+	<div class="post_meta" id="post_meta_17335">
+		
+	</div>
+</div>
+<div class="post_controls">
+	<div class="postbit_buttons author_buttons float_left">
+		<!-- start: postbit_www -->
+<a href="http://www.pratomoscaclub.it" target="_blank" title="Visita il sito web di questo utente" class="postbit_website"><span>Sito web</span></a>
+<!-- end: postbit_www -->
+	</div>
+	<div class="postbit_buttons post_management_buttons float_right">
+		<!-- start: postbit_quote -->
+<a href="newreply.php?tid=929&amp;replyto=17335" title="Cita questo messaggio nella tua risposta" class="postbit_quote"><span>Rispondi</span></a>
+<!-- end: postbit_quote -->
+	</div>
+</div>
+</div>
+<!-- end: postbit --><!-- start: postbit -->
+
+<a name="pid17348" id="pid17348"></a>
+<div class="post " style="" id="post_17348">
+<div class="post_author">
+	<!-- start: postbit_avatar -->
+<div class="author_avatar"><a href="member.php?action=profile&amp;uid=98"><img src="http://www.pratomoscaclub.it/forum/uploads/avatars/avatar_98.jpg?dateline=1326819133" alt="" width="49" height="70" /></a></div>
+<!-- end: postbit_avatar -->
+	<div class="author_information">
+			<strong><span class="largetext"><a href="http://www.pratomoscaclub.it/forum/member.php?action=profile&amp;uid=98">mana cerace</a></span></strong> <!-- start: postbit_offline -->
+<img src="http://www.pratomoscaclub.it/forum/images/pmc/buddy_offline.png" title="Offline" alt="Offline" class="buddy_status" />
+<!-- end: postbit_offline --><br />
+			<span class="smalltext">
+				Member<br />
+				<img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><br />
+				
+			</span>
+	</div>
+	<div class="author_statistics">
+		<!-- start: postbit_author_user -->
+
+	Messaggi: 212<br />
+	Discussioni: 14<br />
+	Registrato: Nov 2010
+	
+<!-- end: postbit_author_user -->
+	</div>
+</div>
+<div class="post_content">
+	<div class="post_head">
+		<!-- start: postbit_posturl -->
+<div class="float_right" style="vertical-align: top">
+<strong><a href="showthread.php?tid=929&amp;pid=17348#pid17348" title="RE: Dressing">#7</a></strong>
+
+</div>
+<!-- end: postbit_posturl -->
+		
+		<span class="post_date">23-02-2012, 12:55 AM <span class="post_edit" id="edited_by_17348"></span></span>
+		
+	</div>
+	<div class="post_body scaleimages" id="pid_17348">
+		si ma ami e colore del corpo e della piuma di cdc da girare in testa?tutto natural scuro puo' andare?amo 14-16?
+	</div>
+	
+	<!-- start: postbit_signature -->
+<div class="signature scaleimages">
+"...ci sono solo due sillabe al mondo, degne di attenzione: FI-CA!"
+</div>
+<!-- end: postbit_signature -->
+	<div class="post_meta" id="post_meta_17348">
+		
+	</div>
+</div>
+<div class="post_controls">
+	<div class="postbit_buttons author_buttons float_left">
+		
+	</div>
+	<div class="postbit_buttons post_management_buttons float_right">
+		<!-- start: postbit_quote -->
+<a href="newreply.php?tid=929&amp;replyto=17348" title="Cita questo messaggio nella tua risposta" class="postbit_quote"><span>Rispondi</span></a>
+<!-- end: postbit_quote -->
+	</div>
+</div>
+</div>
+<!-- end: postbit --><!-- start: postbit -->
+
+<a name="pid17350" id="pid17350"></a>
+<div class="post " style="" id="post_17350">
+<div class="post_author">
+	<!-- start: postbit_avatar -->
+<div class="author_avatar"><a href="member.php?action=profile&amp;uid=95"><img src="http://www.pratomoscaclub.it/forum/uploads/avatars/avatar_95.jpg?dateline=1420447919" alt="" width="61" height="70" /></a></div>
+<!-- end: postbit_avatar -->
+	<div class="author_information">
+			<strong><span class="largetext"><a href="http://www.pratomoscaclub.it/forum/member.php?action=profile&amp;uid=95">dan</a></span></strong> <!-- start: postbit_offline -->
+<img src="http://www.pratomoscaclub.it/forum/images/pmc/buddy_offline.png" title="Offline" alt="Offline" class="buddy_status" />
+<!-- end: postbit_offline --><br />
+			<span class="smalltext">
+				Senior Member<br />
+				<img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><br />
+				
+			</span>
+	</div>
+	<div class="author_statistics">
+		<!-- start: postbit_author_user -->
+
+	Messaggi: 669<br />
+	Discussioni: 15<br />
+	Registrato: Oct 2010
+	
+<!-- end: postbit_author_user -->
+	</div>
+</div>
+<div class="post_content">
+	<div class="post_head">
+		<!-- start: postbit_posturl -->
+<div class="float_right" style="vertical-align: top">
+<strong><a href="showthread.php?tid=929&amp;pid=17350#pid17350" title="RE: Dressing">#8</a></strong>
+
+</div>
+<!-- end: postbit_posturl -->
+		
+		<span class="post_date">23-02-2012, 10:02 AM <span class="post_edit" id="edited_by_17350"><!-- start: postbit_editedby -->
+<span class="edited_post">(Questo messaggio è stato modificato l'ultima volta il: 23-02-2012, 10:03 AM da <a href="http://www.pratomoscaclub.it/forum/member.php?action=profile&amp;uid=95">dan</a>.)</span>
+<!-- end: postbit_editedby --></span></span>
+		
+	</div>
+	<div class="post_body scaleimages" id="pid_17350">
+		Ieri sera ne ho fatte alcune come descritto da Marco sull'amo del 14,il 16 mi sembrava troppo piccolo. CDC marrone/grigio scuro per imitare il colore della leuctra.<br />
+Ne ho fatte anche un paio con il corpo in poly a causa del CDC schifoso che ho, ha il calamo troppo grande e rigido, ed invece di girare la piuma in testa ho utilizzato le fibre strappate e montate tipo F-fly. Non sembrano malaccio nemmeno così!
+	</div>
+	
+	<!-- start: postbit_signature -->
+<div class="signature scaleimages">
+ L'uomo coraggioso ama sentire la natura sulla pelle. L'uomo saggio ama usare l'ombrello quando piove! 
+</div>
+<!-- end: postbit_signature -->
+	<div class="post_meta" id="post_meta_17350">
+		
+	</div>
+</div>
+<div class="post_controls">
+	<div class="postbit_buttons author_buttons float_left">
+		
+	</div>
+	<div class="postbit_buttons post_management_buttons float_right">
+		<!-- start: postbit_quote -->
+<a href="newreply.php?tid=929&amp;replyto=17350" title="Cita questo messaggio nella tua risposta" class="postbit_quote"><span>Rispondi</span></a>
+<!-- end: postbit_quote -->
+	</div>
+</div>
+</div>
+<!-- end: postbit --><!-- start: postbit -->
+
+<a name="pid17352" id="pid17352"></a>
+<div class="post " style="" id="post_17352">
+<div class="post_author">
+	<!-- start: postbit_avatar -->
+<div class="author_avatar"><a href="member.php?action=profile&amp;uid=157"><img src="http://www.pratomoscaclub.it/forum/uploads/avatars/avatar_157.jpg?dateline=1330709635" alt="" width="66" height="70" /></a></div>
+<!-- end: postbit_avatar -->
+	<div class="author_information">
+			<strong><span class="largetext"><a href="http://www.pratomoscaclub.it/forum/member.php?action=profile&amp;uid=157">submeo</a></span></strong> <!-- start: postbit_offline -->
+<img src="http://www.pratomoscaclub.it/forum/images/pmc/buddy_offline.png" title="Offline" alt="Offline" class="buddy_status" />
+<!-- end: postbit_offline --><br />
+			<span class="smalltext">
+				Posting Freak<br />
+				<img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><br />
+				
+			</span>
+	</div>
+	<div class="author_statistics">
+		<!-- start: postbit_author_user -->
+
+	Messaggi: 3,949<br />
+	Discussioni: 199<br />
+	Registrato: Jan 2008
+	
+<!-- end: postbit_author_user -->
+	</div>
+</div>
+<div class="post_content">
+	<div class="post_head">
+		<!-- start: postbit_posturl -->
+<div class="float_right" style="vertical-align: top">
+<strong><a href="showthread.php?tid=929&amp;pid=17352#pid17352" title="RE: Dressing">#9</a></strong>
+
+</div>
+<!-- end: postbit_posturl -->
+		
+		<span class="post_date">23-02-2012, 11:23 AM <span class="post_edit" id="edited_by_17352"></span></span>
+		
+	</div>
+	<div class="post_body scaleimages" id="pid_17352">
+		considera che la leutrafusca è la needle fly ( mosca ago)...quindi le dimensioni devono essere piccole... nei colori giallini puoi imitare la yellow sally.. è buono anche il biot quill per le ali..
+	</div>
+	
+	
+	<div class="post_meta" id="post_meta_17352">
+		
+	</div>
+</div>
+<div class="post_controls">
+	<div class="postbit_buttons author_buttons float_left">
+		
+	</div>
+	<div class="postbit_buttons post_management_buttons float_right">
+		<!-- start: postbit_quote -->
+<a href="newreply.php?tid=929&amp;replyto=17352" title="Cita questo messaggio nella tua risposta" class="postbit_quote"><span>Rispondi</span></a>
+<!-- end: postbit_quote -->
+	</div>
+</div>
+</div>
+<!-- end: postbit --><!-- start: postbit -->
+
+<a name="pid17353" id="pid17353"></a>
+<div class="post " style="" id="post_17353">
+<div class="post_author">
+	<!-- start: postbit_avatar -->
+<div class="author_avatar"><a href="member.php?action=profile&amp;uid=98"><img src="http://www.pratomoscaclub.it/forum/uploads/avatars/avatar_98.jpg?dateline=1326819133" alt="" width="49" height="70" /></a></div>
+<!-- end: postbit_avatar -->
+	<div class="author_information">
+			<strong><span class="largetext"><a href="http://www.pratomoscaclub.it/forum/member.php?action=profile&amp;uid=98">mana cerace</a></span></strong> <!-- start: postbit_offline -->
+<img src="http://www.pratomoscaclub.it/forum/images/pmc/buddy_offline.png" title="Offline" alt="Offline" class="buddy_status" />
+<!-- end: postbit_offline --><br />
+			<span class="smalltext">
+				Member<br />
+				<img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><img src="images/star.png" border="0" alt="*" /><br />
+				
+			</span>
+	</div>
+	<div class="author_statistics">
+		<!-- start: postbit_author_user -->
+
+	Messaggi: 212<br />
+	Discussioni: 14<br />
+	Registrato: Nov 2010
+	
+<!-- end: postbit_author_user -->
+	</div>
+</div>
+<div class="post_content">
+	<div class="post_head">
+		<!-- start: postbit_posturl -->
+<div class="float_right" style="vertical-align: top">
+<strong><a href="showthread.php?tid=929&amp;pid=17353#pid17353" title="RE: Dressing">#10</a></strong>
+
+</div>
+<!-- end: postbit_posturl -->
+		
+		<span class="post_date">23-02-2012, 11:27 AM <span class="post_edit" id="edited_by_17353"><!-- start: postbit_editedby -->
+<span class="edited_post">(Questo messaggio è stato modificato l'ultima volta il: 23-02-2012, 11:29 AM da <a href="http://www.pratomoscaclub.it/forum/member.php?action=profile&amp;uid=98">mana cerace</a>.)</span>
+<!-- end: postbit_editedby --></span></span>
+		
+	</div>
+	<div class="post_body scaleimages" id="pid_17353">
+		guarda il Rosorani icche fà su amo 22<br />
+<a href="http://www.moscaclubvallesina.it/moscaclub.asp?idPag=287&amp;cont=2&amp;col=2#Leuctra" target="_blank" class="mycode_url">http://www.moscaclubvallesina.it/moscacl...=2#Leuctra</a><hr class="mycode_hr" />
+ma quando si posa sull acqua si vede come se fosse un unica ala o sbaglio cioè ha la siluette a sigaro
+	</div>
+	
+	<!-- start: postbit_signature -->
+<div class="signature scaleimages">
+"...ci sono solo due sillabe al mondo, degne di attenzione: FI-CA!"
+</div>
+<!-- end: postbit_signature -->
+	<div class="post_meta" id="post_meta_17353">
+		
+	</div>
+</div>
+<div class="post_controls">
+	<div class="postbit_buttons author_buttons float_left">
+		
+	</div>
+	<div class="postbit_buttons post_management_buttons float_right">
+		<!-- start: postbit_quote -->
+<a href="newreply.php?tid=929&amp;replyto=17353" title="Cita questo messaggio nella tua risposta" class="postbit_quote"><span>Rispondi</span></a>
+<!-- end: postbit_quote -->
+	</div>
+</div>
+</div>
+<!-- end: postbit -->
+	</div>
+</td></tr>
+		<tr>
+			<td class="tfoot">
+				
+				<div>
+					<strong>&laquo; <a href="showthread.php?tid=929&amp;action=nextoldest">Precedente</a> | <a href="showthread.php?tid=929&amp;action=nextnewest">Successivo</a> &raquo;</strong>
+				</div>
+			</td>
+		</tr>
+	</table>
+	<div class="float_left">
+		<!-- start: multipage -->
+<div class="pagination">
+<span class="pages">Pagine (3):</span>
+<!-- start: multipage_page_current -->
+ <span class="pagination_current">1</span>
+<!-- end: multipage_page_current --><!-- start: multipage_page -->
+<a href="showthread.php?tid=929&amp;page=2" class="pagination_page">2</a>
+<!-- end: multipage_page --><!-- start: multipage_page -->
+<a href="showthread.php?tid=929&amp;page=3" class="pagination_page">3</a>
+<!-- end: multipage_page --><!-- start: multipage_nextpage -->
+<a href="showthread.php?tid=929&amp;page=2" class="pagination_next">Prossimo &raquo;</a>
+<!-- end: multipage_nextpage -->
+</div>
+<!-- end: multipage -->
+	</div>
+	<div style="padding-top: 4px;" class="float_right">
+		
+	</div>
+	<br class="clear" />
+	
+	
+	
+	<br />
+	<div class="float_left">
+		<ul class="thread_tools">
+			<li class="printable"><a href="printthread.php?tid=929">Mostra modalità stampabile</a></li>
+			
+			
+			
+		</ul>
+	</div>
+
+	<div class="float_right" style="text-align: right;">
+		
+		<!-- start: forumjump_advanced -->
+<form action="forumdisplay.php" method="get">
+<span class="smalltext"><strong>Vai al forum:</strong></span>
+<select name="fid" class="forumjump">
+<option value="-4">Messaggi privati</option>
+<option value="-3">Pannello di controllo utente</option>
+<option value="-5">Chi è Online</option>
+<option value="-2">Cerca</option>
+<option value="-1">Home del forum</option>
+<!-- start: forumjump_bit -->
+<option value="1" > Prato Mosca Club</option>
+<!-- end: forumjump_bit --><!-- start: forumjump_bit -->
+<option value="2" selected="selected">-- La piazza: discussioni libere</option>
+<!-- end: forumjump_bit -->
+</select>
+<!-- start: gobutton -->
+<input type="submit" class="button" value="Vai" />
+<!-- end: gobutton -->
+</form>
+<script type="text/javascript">
+$(".forumjump").change(function() {
+	var option = $(this).val();
+
+	if(option < 0)
+	{
+		window.location = 'forumdisplay.php?fid='+option;
+	}
+	else
+	{
+		window.location = 'forumdisplay.php?fid='+option;
+	}
+});
+</script>
+<!-- end: forumjump_advanced -->
+	</div>
+	<br class="clear" />
+	<!-- start: showthread_usersbrowsing -->
+<br />
+<span class="smalltext">Utenti che stanno guardando questa discussione: 1 Ospite(i)</span>
+<br />
+<!-- end: showthread_usersbrowsing -->
+	<!-- start: footer -->
+
+	</div>
+</div>
+<div id="footer">
+	<div class="upper">
+		<div class="wrapper">
+			
+			<!-- start: footer_themeselect -->
+<div class="theme">
+<form method="POST" action="/forum/showthread.php" id="theme_select">
+	<input type="hidden" name="tid" value="929" />
+
+	<input type="hidden" name="my_post_key" value="72a5cce0aa17486beb460e176f557467" />
+	<!-- start: footer_themeselector -->
+<select name="theme" onchange="MyBB.changeTheme();">
+<optgroup label="Selezione rapida del tema">
+<!-- start: usercp_themeselector_option -->
+<option value="11">Prato Mosca Club</option>
+<!-- end: usercp_themeselector_option --><!-- start: usercp_themeselector_option -->
+<option value="12">W3-Responsive</option>
+<!-- end: usercp_themeselector_option -->
+</optgroup>
+</select>
+<!-- end: footer_themeselector -->
+	<!-- start: gobutton -->
+<input type="submit" class="button" value="Vai" />
+<!-- end: gobutton -->
+</form>
+</div>
+<!-- end: footer_themeselect -->
+			<ul class="menu bottom_links">
+				<!-- start: footer_contactus -->
+<li><a href="mailto:info@pratomoscaclub.it">Contattaci</a></li>
+<!-- end: footer_contactus -->
+				<li><a href="http://www.pratomoscaclub.it/">Prato Mosca Club</a></li>
+				<li><a href="#top">Torna all'inizio della pagina</a></li>
+				<li><a href="http://www.pratomoscaclub.it/forum/archive/index.php?thread-929.html">Modalità archivio</a></li>
+				<li><a href="http://www.pratomoscaclub.it/forum/misc.php?action=markread"></a></li>
+				<li><a href="http://www.pratomoscaclub.it/forum/misc.php?action=syndication">RSS Syndication</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="lower">
+		<div class="wrapper">
+			<span id="current_time"><strong>Orario:</strong> 19-12-2017, 11:08 AM</span>
+			<span id="copyright">
+				<!-- MyBB is free software developed and maintained by a volunteer community.
+					It would be much appreciated by the MyBB Group if you left the full copyright and "powered by" notice intact,
+					to show your support for MyBB.  If you choose to remove or modify the copyright below,
+					you may be refused support on the MyBB Community Forums.
+
+					This is free software, support us and we'll support you. -->
+				Powered by <a href="https://mybb.com" target="_blank">MyBB</a>, &copy; 2002-2017 <a href="https://mybb.com" target="_blank">MyBB Group</a>.
+				<!-- End powered by -->
+			</span>
+		</div>
+	</div>
+</div>
+<!-- The following piece of code allows MyBB to run scheduled tasks. DO NOT REMOVE --><!-- start: task_image -->
+<img src="http://www.pratomoscaclub.it/forum/task.php" width="1" height="1" alt="" />
+<!-- end: task_image --><!-- End task image code -->
+
+</div>
+<!-- end: footer -->
+	<div id="thread_modes_popup" class="popup_menu" style="display: none;"><div class="popup_item_container"><a href="showthread.php?mode=linear&amp;tid=929&amp;pid=17322#pid17322" class="popup_item">Modo lineare</a></div><div class="popup_item_container"><a href="showthread.php?mode=threaded&amp;tid=929&amp;pid=17322#pid17322" class="popup_item">Modo discussione</a></div></div>
+	<script type="text/javascript">
+	// <!--
+		if(use_xmlhttprequest == "1")
+		{
+			$("#thread_modes").popupMenu();
+		}
+	// -->
+	</script>
+	<script type="text/javascript">
+		$(".author_avatar img").error(function () {
+			$(this).unbind("error").closest('.author_avatar').remove();
+		});
+	</script>
+</body>
+</html>
+<!-- end: showthread -->

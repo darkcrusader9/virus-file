@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script type="text/javascript" src="http://static.mackeeper.com/landings/libs/jquery/jquery.min.js?mkv=1"></script>
+<script type="text/javascript" src="http://static.mackeeper.com/landings/libs/js/cookie.js?mkv=1"></script>
+<script type="text/javascript" src="http://static.mackeeper.com/landings/libs/js/loclist.js?mkv=1"></script>
+    <script type="text/javascript" src="http://static.mackeeper.com/landings/libs/alert/alerts.js?mkv=4"></script>
+
+    <script>
+        alertManager.init(
+            alertsTranslates,
+            7,
+            (typeof lang_param !== 'undefined') ? lang_param : null
+        );
+    </script>
+
+<script type="text/javascript">
+    baseLink = 'http://slowmac.me/landings/';
+    baseLinkPath = 'http://slowmac.me/landings/230/';
+    baseRelUrl = 'http://static.mackeeper.com/landings/230/?mkv=1';
+</script>
+
+    <script type="text/javascript">
+        
+        $(document).ready(function(){
+            $('.js-download').bind('click', function(e){
+                if(!$('.js-download').hasClass('js-click-done')) {
+                    var eventSubstep = $(e.currentTarget).data('substep') ? '&substep=download_button_click_' + $(e.currentTarget).data('substep') : '';
+                    $('.js-download').addClass('js-click-done');
+
+                    var eventJsDwnldIframe = document.createElement('iframe');
+                    setTimeout(function () {
+                        eventJsDwnldIframe.src = "https://event.mackeeper.com/event.php?step=Download_Button_Click" + eventSubstep + "&affid=mzb_429.36300661.1513511090.28.mzb&bundleid=29_3185111356&prodid=29&response=json";
+                        eventJsDwnldIframe.style.display = "none";
+                        document.body.appendChild(eventJsDwnldIframe);
+                    }, 850);
+                }
+            });
+
+                    });
+    </script>
+
+
+<script type="text/javascript" src="../libs/titleBlink/script.js" title="ATTN: Clean your Mac" data-default-title="MacKeeper"></script>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <link rel="shortcut icon" id="dynamic-favicon" type="image/x-icon" href="http://static.mackeeper.com/landings/favicon.png?mkv=1"/>
+
+    <title>ATTN: Clean your Mac</title>
+    <link rel="stylesheet" href="http://static.mackeeper.com/landings/libs/reset.css?mkv=1"/>
+    <link rel="stylesheet" href="http://static.mackeeper.com/landings/230/css/style.min.css?mkv=1"/>
+    <script type="text/javascript">
+        var lang_param = 'en';
+    </script>
+
+    
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KSH3PK');</script>
+<!-- End Google Tag Manager --></head>
+<!-- ZeoTranslate{MK:landings:230:index} -->
+<body lang="en">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KSH3PK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><section class="main">
+    <div class="header">
+        <div class="wrapper">
+            <i class="header__logo"></i>
+            <ul class="header__list">
+                <li class="header__list-item">Clean Mac</li>
+                <li class="header__list-item">Secure Mac</li>
+                <li class="header__list-item">Optimize Mac</li>
+            </ul>
+        </div>
+    </div>
+    <div class="wrapper">
+        <div class="half-block half-block_left">
+            <div class="ill"></div>
+            <div class="protection">
+                <div class="protection__text">Protection Recommendation</div>
+            </div>
+        </div>
+        <div class="half-block half-block_right">
+            <h3 class="title">Virus scan is recommended for Macs!</h3>
+            <!-- ZeoTranslate -->
+            <!-- ZeoTranslate{MK:landings:dates:index} -->
+            <p class="date"
+               data-days='["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]'
+               data-months='["January","February","March","April","May","June","July","August","September","October","November","December"]'
+               data-periods='["AM","PM"]'
+               data-format="l, F d, Y h:i A">Sunday, December 17, 2017 08:28 AM</p>
+            <!-- ZeoTranslate -->
+            <!-- ZeoTranslate{MK:landings:230:index} -->
+            <p class="desc desc_attention"><b>Attention:</b> Your Mac might need a virus scan after visiting the risky or suspicious websites. We recommend removing the malware because it may harm your file system and even slow down the entire OS X.</p>
+            <p class="desc">Secure your Mac while surfing the web.<br />Reduce the boot time of your Mac with advanced and easy-to-use optimization tools.</p>
+            <p class="desc">Keep your Mac fast.</p>
+            <p class="desc">Keep your Mac protected online and offline.</p>
+            <a href="/landings/download-flat/?affid=mzb_429.36300661.1513511090.28.mzb&utm_source=zrprk&utm_medium=cpm&utm_campaign=mk_zrprk_pop_kw_es_230&utm_term=&utm_content=&userDefiner=mzb_2950&epayId=29&landId=2492&trt=29_3185111356&tid_ext=india-waw-g3Zhma7V;zv6c68d373e31f11e797230a6a3845315e4198248d2c6d4dab8ab1f6bb84052f79025955e317bfc4c7da;albugineous-gnat;downloads,filehosts,movies,fun,mp3,streaming,social,fun,torrents&c3=attn&c4=flat,inst&reqid=a449a1042c12e89c9f5c6e8c218cb298" class="js-download btn">
+                <span class="btn__text">Download now</span>
+            </a>
+        </div>
+    </div>
+</section>
+<!-- ZeoTranslate -->
+<footer class="footer">
+    <!-- ZeoTranslate{MK:landings:228:index} -->
+    <div class="footer__nav">
+        <div class="wrapper">
+            <a class="js-download footer__nav-links" href="/landings/download-flat/?affid=mzb_429.36300661.1513511090.28.mzb&utm_source=zrprk&utm_medium=cpm&utm_campaign=mk_zrprk_pop_kw_es_230&utm_term=&utm_content=&userDefiner=mzb_2950&epayId=29&landId=2492&trt=29_3185111356&tid_ext=india-waw-g3Zhma7V;zv6c68d373e31f11e797230a6a3845315e4198248d2c6d4dab8ab1f6bb84052f79025955e317bfc4c7da;albugineous-gnat;downloads,filehosts,movies,fun,mp3,streaming,social,fun,torrents&c3=attn&c4=flat,inst&reqid=a449a1042c12e89c9f5c6e8c218cb298">Download</a>
+            <a class="footer__nav-links" href="http://mackeeper.com/privacy-policy?utm_source=land_230&utm_medium=landings" target="_blank">Privacy Policy</a>
+            <a class="footer__nav-links" href="http://mackeeper.com/about?utm_source=land_230&utm_medium=landings" target="_blank">Company</a>
+            <a class="footer__nav-links" href="http://mackeeper.com/eula?utm_source=land_230&utm_medium=landings" target="_blank">EULA</a>
+            <a class="footer__nav-links" href="http://mackeeper.com/remote_support?utm_source=land_230&utm_medium=landings" target="_blank">Support</a>
+            <a class="footer__nav-links" href="http://mackeeper.com/uninstall_mackeeper?utm_source=land_230&utm_medium=landings" target="_blank">Uninstall</a>
+            <a class="footer__nav-links" href="http://mackeeper.com/cookie-policy?utm_source=land_230&utm_medium=landings" target="_blank">Cookie Policy</a>
+        </div>
+    </div>
+    <!-- ZeoTranslate -->
+    <div class="footer__copy">
+        <!-- ZeoTranslate{MK:landings:205:index} -->
+        Copyright ©
+        <!-- ZeoTranslate -->
+        <!-- ZeoTranslate{MK:landings:123:index} -->
+        2017 All rights reserved.
+        <!-- ZeoTranslate -->
+    </div>
+</footer>
+
+<style>
+    @import url("http://static.mackeeper.com/landings/libs/overlay-info/css/style.min.css?mkv=1");
+</style>
+
+<div class="instruction js-instruction">
+    <div class="instruction__box">
+        <div class="instruction__steps-box">
+            <div class="instruction__step">
+                <span class="instruction__step-number">1</span>
+                <span class="instruction__step-head instruction__step-head_all">Go to the ‘Downloads’</span>
+                <span class="instruction__step-head instruction__step-head_chrome">Download</span>
+                <span class="instruction__step-body instruction__step-body_all">Open your downloads list by <br>clicking on the top right corner <br>the ‘arrow’.</span>
+                <span class="instruction__step-body instruction__step-body_chrome">When the file done downloading, <br>you'll see it at the bottom of your <br>Chrome window.</span>
+                <span class="instruction__step-bottom instruction__browser-arrow"></span>
+            </div>
+            <div class="instruction__step">
+                <span class="instruction__step-number">2</span>
+                <span class="instruction__step-head">Open the file</span>
+                <span class="instruction__step-body instruction__step-body_all">Locate and double-click the file <br>starting with ‘MacKeeper’.</span>
+                <span class="instruction__step-body instruction__step-body_chrome">Click the file starting with ‘MacKeeper’.</span>
+                <span class="instruction__step-bottom instruction__browser"></span>
+            </div>
+            <div class="instruction__step">
+                <span class="instruction__step-number">3</span>
+                <span class="instruction__step-head">Run the application</span>
+                <span class="instruction__step-body instruction__step-body_show">Confirm the installation by clicking <br><span class="instruction__frame">Continue</span> and <span class="instruction__frame">Install</span> <br>buttons.</span>
+                <span class="instruction__step-bottom">Type your password.</span>
+            </div>
+        </div>
+    </div>
+    <p class="instruction__help">If you still have difficulties with installation please call us (toll free)</p>
+    <div class="instruction__phone">
+        <span><i class="instruction__phone_flag flag_usa"></i>1 (888) 572-5876</span>
+        <span><i class="instruction__phone_flag flag_au"></i>1 (800) 462-715 </span>
+        <span><i class="instruction__phone_flag flag_uk"></i>0 (808) 189-1280</span>
+    </div>
+
+    <div class="instruction__arrow">
+        <div class="instruction__arrow-bg">
+            <div class="instruction__arrow-logo"></div>
+        </div>
+    </div>
+</div>
+
+<script src="http://static.mackeeper.com/landings/libs/overlay-info/script.js?mkv=1"></script>
+<script type="text/javascript" src="../libs/localizedDate/scripts.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('.date').localizedDate({staticDate: true});
+    });
+</script>
+
+<!--PIXEL BLOCK START-->
+<div class="pixel">
+    <!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1010020041;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1010020041/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+<script type="text/javascript" language="JavaScript">
+var axel = Math.random()+"";
+var a = axel * 10000000000000;
+document.write('<SCR'+'IPT SRC="https://ad.doubleclick.net/ddm/adj/N426403.2664803MACKEEPER/B11535539.153573767;sz=1x1;ord=' + a + ';dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?" type="text/javascript"></SCR'+'IPT>');
+</script>    <!-- Start Visit event sending -->
+<script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var eventJsDwnldIframe = document.createElement('iframe');
+            eventJsDwnldIframe.src = "https://event.mackeeper.com/event.php?step=Landing_Loaded&substep=Hit&affid=mzb_429.36300661.1513511090.28.mzb&bundleid=29_3185111356&prodid=29&response=json";
+            eventJsDwnldIframe.style.display = "none";
+            document.body.appendChild(eventJsDwnldIframe);
+        });
+
+        window.onload =  function () {
+            var eventJsDwnldIframe = document.createElement('iframe');
+            eventJsDwnldIframe.src = "https://event.mackeeper.com/event.php?step=Landing_Loaded&substep=View&affid=mzb_429.36300661.1513511090.28.mzb&bundleid=29_3185111356&prodid=29&response=json";
+            eventJsDwnldIframe.style.display = "none";
+            document.body.appendChild(eventJsDwnldIframe);
+        };
+    </script>
+<!-- End Visit event sending -->    </div>
+<!--PIXEL BLOCK END-->
+
+</body>
+</html>

@@ -1,0 +1,590 @@
+
+<!DOCTYPE html>
+<div id="iehelpDvmain" style="display:none;"></div>
+<div id="iehelpDv" style="display:none;">
+<script src="//s206.ucoz.net/cgi/uutils.fcg?a=get_preroll_cookie&r=0.349282008484778"></script>
+<script type="text/javascript" src="/abnl/?adsdata=pR!UN4ZhukutSEdHpfmVI0^HRvw;O!;6hA09myRZF9y9ztXw8AbEBwak64XW1!DDn9nS3sfKC8GUqmrfNNk5IUTWGjTxK5YHpb10LkKqPLP!448qrE3V5rCcsYwMEwn9Okm;icWbQry^Kv5KnJc0eG!hISc1w7Y1hcuPdKk!KZDfqQn3wecWZ;lxrz4c951KhXLiQcRPDSyz!vtOZb^PC7RIstlBBFWD;lZbgVskVREbwh4f4rTMsuelOYdRsGz9azSITcSs7xfz6FMcrsCLfBqpj^UqtBjqHfSfhJBmQh3mzTitz;3wk4KVVlVW4plP3ZzajWxdSrl0xFiajs^;me3U!mbzjzSsfIiH9j9lS8BjsEayPPZCV7UPuDplAQUdKrZtrxOQpaftTgy3LH!rQVCIGpTZjg77tRz!D2ztMCg!PC4T2tmjyqqjjhbO12R9rCaxOCdfGJbssu^DwMDv4pdwxWN543KerZV9kTfVxjVl"></script>
+</div>
+<script type="text/javascript">
+function waitForIframe(triesCount){
+	if( triesCount > 10 ) return;
+	if(typeof resizeDiv == 'function' && !resizeDiv(triesCount==10 ? 1 : 0)) return setTimeout(function() { waitForIframe(triesCount + 1); }, 500);
+};
+document.write('<scr'+'ipt type="text/javascript">waitForIframe(0);</scr'+'ipt>');
+</script><html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>Гостевая книга - Персональный сайт</title>
+
+<link type="text/css" rel="StyleSheet" href="/.s/src/css/971.css" />
+
+	<link type="text/css" rel="stylesheet" href="/.s/src/base.css" />
+	<link type="text/css" rel="stylesheet" href="/.s/src/layer1.css" />
+	
+	<script type="text/javascript" src="/.s/src/jquery-1.10.2.js"></script>
+	
+	<script type="text/javascript" src="/.s/src/uwnd.js?2"></script>
+<script type="text/javascript" src="//s206.ucoz.net/cgi/uutils.fcg?a=uSD&ca=2&ug=999&r=0.220343528257693"></script>
+	<script type="text/javascript">
+		window.ulb = {photoPage: "Перейти на страницу с фотографией.",closeBtn: "Закрыть", error: "Запрошенный контент не может быть загружен. Пожалуйста, попробуйте позже.", next: "Вперед", prev: "Предыдущий", btnPlay: "Начать слайдшоу", btnToggle: "Изменить размер"}
+	</script>
+	<link type="text/css" rel="stylesheet" href="/.s/src/ulightbox/ulightbox.css" />
+	<script type="text/javascript" src="/.s/src/ulightbox/ulightbox.js"></script>
+	
+	<script type="text/javascript" async defer src="https://www.google.com/recaptcha/api.js?onload=reCallback&render=explicit&hl=ru"></script>
+	<script type="text/javascript">//------------UCOZ-JS-CODE-----------
+
+	function reCallback() {
+		$('.g-recaptcha').each(function(index, element ) {
+			element.setAttribute('rcid', index );
+			if ($(element).is(':empty') ) grecaptcha.render(element, {sitekey:element.getAttribute('data-sitekey'), theme:element.getAttribute('data-theme'), size:element.getAttribute('data-size') });
+		});
+	}
+	function reReset(reset ) {
+		reset && grecaptcha.reset(reset.previousElementSibling.getAttribute('rcid') );
+		if (!reset ) for (rel in ___grecaptcha_cfg.clients ) grecaptcha.reset(rel );
+	}
+	
+//------------UCOZ-JS-END-----------
+</script>
+
+	<style type="text/css">.UhideBlock{display:none; }
+</style>
+<script type="text/javascript">//<!--
+	function uSocialLogin(t) {
+		var params = { 'vkontakte':{ 'width':790, 'height':400 }, 'ok':{ 'width':710, 'height':390 }, 'facebook':{ 'width':950, 'height':520 }, 'yandex':{ 'width':870, 'height':515 }, 'google':{ 'width':700, 'height':600 }, 'twitter':{ 'width':800, 'height':400 } };
+		var ref = escape(location.protocol + '//' + ('eminem-site.narod.ru' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+		// var ref = escape(location.href);
+		window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+		return false;
+	}
+//--></script>
+
+<link type="text/css" rel="stylesheet" href="/.s/src/social.css" /><script src="//ucounter.ucoz.net/?src=ss2&data=Mjo5OjM4OjEwOTo1MzoyMjoyOTo5Mjo4NjoyNjo4ODo2MDoxNTowOjA6MTA6MTExOjIwOjUwOjI4OjMxOjIzOjQ3OjE2OjkzOjExNzo5ODo4OTo4Nzo3ODo0OTo2NDozMDoxMzozMDo5Mjo2NTo3NDoxNToxMjU6OTY6ODA6ODI6OTE6MTA2OjE6MTAzOjEwOjQ6MjE6NDc6MTA6Nzc6NDE6MzY6ODQ6NzoyNjo1NTo4NzoxMDM6MTA6NDoyMTo0NzoyOTo4NjozNzoxMDk6NzowOjI2OjYxOjg2OjEwMzoyNDoxOjE0OjIzOjM4Ojc3OjU5OjEwOTo3OToxODoxOjM4OjEwOTozMjoyOToxOjIxOjc3Ojk1Ojc0OjMzOjM2OjU0OjM6OTo2MDo4NToxMjQ6OTU6MzA6ODo0OjM4Ojc5OjMyOjU3OjEzOjkyOjc4OjMzOjkxOjUzOjM4Ojk6Mzo0OjMxOjQ6MTEwOjM1OjA6MjE6NTU6NjI6OTI6Mzg6Njg6MzE6MjA6ODY6MTA6ODA6NjA6MTU6MTE6MTc6NzozMzoxNQ==&r64=&cid=A1B100&cb=0.750511526447642" async></script><script type="text/javascript">(function (d, w, c) {(w[c] = w[c] || []).push(function() {try {w.yaCounter39883200 = new Ya.Metrika({id:39883200,clickmap:true,trackLinks:true,accurateTrackBounce:true,ut:"noindex"});} catch(e) { }});var n = d.getElementsByTagName("script")[0],s = d.createElement("script"),f = function () { n.parentNode.insertBefore(s, n); };s.type = "text/javascript";s.async = true;s.src = "https://mc.yandex.ru/metrika/watch.js";if (w.opera == "[object Opera]") {d.addEventListener("DOMContentLoaded", f, false);} else { f(); }})(document, window, "yandex_metrika_callbacks");</script>
+</head>
+
+<body style="background-color:#FFFFFF; margin:0;padding:0;">
+<div id="utbr8214" rel="s206"></div>
+
+<!--U1AHEADER1Z-->
+<div style="background:url('/.s/t/971/1.gif') top repeat-x #FFFFFF;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="101" height="22"><img src="/.s/t/971/2.gif" border="0"></td><td width="505" height="22"><img src="/.s/t/971/3.gif" border="0"></td><td align="right" style="font-size:10px;padding-right:10px;">Четверг, 14.12.2017</td></tr>
+<tr><td width="101" height="74"><img src="/.s/t/971/4.gif" border="0"></td><td width="505" style="background:url('/.s/t/971/5.gif');padding-bottom:20px;"><span style="color:#969595;font:20pt bold Verdana,Tahoma;"><!-- <logo> -->Мой сайт<!-- </logo> --></span></td><td></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" height="23">
+<tr><td width="32"><img src="/.s/t/971/6.gif" border="0"></td><td style="background:url('/.s/t/971/7.gif') #B0E300;font-size:10px;" class="topLink"><a href="http://eminem-site.narod.ru/" title="Главная"><!--<s5176>-->Главная<!--</s>--></a>  | <a href="/register" title="Регистрация"><!--<s3089>-->Регистрация<!--</s>--></a>  | <a href="javascript://" rel="nofollow" onclick="new _uWnd('LF',' ',-250,-110,{autosize:1,closeonesc:1,resize:1},{url:'/index/40'});return false;" title="Вход"><!--<s3087>-->Вход<!--</s>--></a></td><td width="27"><img src="/.s/t/971/8.gif" border="0"></td><td align="right" class="topLink" style="padding-right:10px;font-size:10px;"><!--<s5212>-->Приветствую Вас<!--</s>--> <b>Гость</b> </td></tr>
+</table>
+</div>
+<!--/U1AHEADER1Z-->
+
+<!-- <middle> -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+ 
+<td valign="top" style="padding:3px">
+
+<!--U1CLEFTER1Z-->
+
+<!-- <block1> -->
+
+<table border="0" cellpadding="0" cellspacing="2" width="203">
+<tr><td height="21" style="background:url('/.s/t/971/9.gif') #D4DFF7;padding-left:30px;"><b><!-- <bt> --><!--<s5184>-->Меню сайта<!--</s>--><!-- </bt> --></b></td></tr>
+<tr><td style="background:#F1F1F1;padding:5px;border:1px solid #A7A6A6;"><!-- <bc> --><div id="uMenuDiv1" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/"><span>Главная страница</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-2"><span>Информация о сайте</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/gb"><span>Гостевая книга</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-3"><span>Обратная связь</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv1',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr>
+</table>
+
+<!-- </block1> -->
+
+<!-- <block2> -->
+
+<!-- </block2> -->
+
+<!-- <block3> -->
+
+<!-- </block3> -->
+
+<!-- <block4> -->
+
+<!-- </block4> -->
+
+<!-- <block5> -->
+
+<!-- </block5> -->
+
+<!-- <block6> -->
+
+<table border="0" cellpadding="0" cellspacing="2" width="203">
+<tr><td height="21" style="background:url('/.s/t/971/9.gif') #D4DFF7;padding-left:30px;"><b><!-- <bt> --><!--<s5195>-->Статистика<!--</s>--><!-- </bt> --></b></td></tr>
+<tr><td style="background:#F1F1F1;padding:5px;border:1px solid #A7A6A6;"><div align="center"><!-- <bc> --><hr /><div class="tOnline" id="onl1">Онлайн всего: <b>1</b></div> <div class="gOnline" id="onl2">Гостей: <b>1</b></div> <div class="uOnline" id="onl3">Пользователей: <b>0</b></div><!-- </bc> --></div></td></tr>
+</table>
+
+<!-- </block6> -->
+
+<!-- <block7> -->
+
+<table border="0" cellpadding="0" cellspacing="2" width="203">
+<tr><td height="21" style="background:url('/.s/t/971/9.gif') #D4DFF7;padding-left:30px;"><b><!-- <bt> --><!--<s5158>-->Форма входа<!--</s>--><!-- </bt> --></b></td></tr>
+<tr><td style="background:#F1F1F1;padding:5px;border:1px solid #A7A6A6;"><!-- <bc> --><div id="uidLogForm" align="center"><a href="javascript://" onclick="window.open('https://login.uid.me/?site=oeminem-site&ref='+escape(location.protocol + '//' + ('eminem-site.narod.ru' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' )))),'uidLoginWnd','width=580,height=450,resizable=yes,titlebar=yes');return false;" class="login-with uid" title="Войти через uID" rel="nofollow"><i></i></a><a href="javascript://" onclick="return uSocialLogin('vkontakte');" class="login-with vkontakte" title="Войти через ВКонтакте" rel="nofollow"><i></i></a><a href="javascript://" onclick="return uSocialLogin('ok');" class="login-with ok" title="Войти через Однокласcники" rel="nofollow"><i></i></a><a href="javascript://" onclick="return uSocialLogin('facebook');" class="login-with facebook" title="Войти через Facebook" rel="nofollow"><i></i></a><a href="javascript://" onclick="return uSocialLogin('yandex');" class="login-with yandex" title="Войти через Яндекс" rel="nofollow"><i></i></a><a href="javascript://" onclick="return uSocialLogin('google');" class="login-with google" title="Войти через Google+" rel="nofollow"><i></i></a><a href="javascript://" onclick="return uSocialLogin('twitter');" class="login-with twitter" title="Войти через Twitter" rel="nofollow"><i></i></a></div><!-- </bc> --></td></tr>
+</table>
+
+<!-- </block7> -->
+
+<!--/U1CLEFTER1Z-->
+</td>
+
+
+<td valign="top" width="80%" style="padding-top:5px">
+<table border="0" cellpadding="10" cellspacing="0" width="100%" style="border:1px solid #D7D7D7;"><tr><td style="background:#F8F8F8;"><!-- <body> --><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="80%"><a href="http://eminem-site.narod.ru/"><!--<s5176>-->Главная<!--</s>--></a> &raquo; <!--<s3197>-->Гостевая книга<!--</s>--></td>
+<td align="right" style="white-space: nowrap;">[ <a href="#sign"><!--<s5205>-->Добавить запись<!--</s>--></a>  ]</td>
+</tr>
+</table><hr />
+<div id="nativeroll_video_cont" style="display:none;"></div>
+		<script>
+			window.adb_site_type = 'narod';
+			window.adb_showcrit = 0 ;
+			window.adb_abandoned = 1 ;
+			window.ucoz_site_type = 'narod' ;
+		</script>
+		<script id="crt_adb_place" type="text/javascript" src="/.s/src/crit_image.js" async></script>
+	<div id="myGrid" style="display:none;"><img alt="" src="/.s/img/ma/m/i3.gif" /></div>
+<script type="text/javascript">
+function ban_item(id) {
+	if (confirm('Вы действительно хотите активировать данный материал?') ) {
+		var img = document.getElementById('bi'+id);
+		img.src = '/.s/img/fr/EmnAjax.gif';
+		_uPostForm('', {url:'/gb/'+id+'-10'});
+	}
+}
+
+function del_item(id, as_spam) {
+	if (confirm('Вы подтверждаете удаление?') ) {
+		var img = document.getElementById('dib'+id);
+		img.src = '/.s/img/fr/EmnAjax.gif';
+		_uPostForm('', {url:'/index/92-9-'+id+'-134661046105526253451?as_spam='+(as_spam ? '1' : '0')} );
+	}
+}
+
+function spages(p) {
+	if (1) {
+		document.location.href = '/gb/'+p+'';
+		return;
+	}
+	try {
+		document.getElementById('myGrid').style.display = '';
+	} catch(e) {}
+	_uPostForm('', {url:'/gb/'+p+'-0-1-69438'+''});
+}
+
+function gbsafe(f) {
+	if (document.getElementById('gbsbm') ) {
+		document.getElementById('gbsbm').disabled = true;
+	} else {
+		try {
+			document.addform.submit.disabled = true;
+		} catch(e) {}
+	}
+	if (document.getElementById('eMessage') ) {
+		document.getElementById('eMessage').innerHTML = '<span style="color:#8B8B8B"><img src="/.s/img/ma/m/i2.gif" border="0" align="absmiddle" width="13" height="13"> Идет передача данных...</span>';
+	}
+	_uPostForm('acform', {type:'POST', url:'/gb/'});
+}
+</script>
+<div class="csTop" style="padding-bottom:7px;">
+<div id="pagesBlock1" style="float:right;">Страницы: <a class="swchItem" href="/gb/1" onclick="spages('1');return false;"><span>&laquo;</span></a> <a class="swchItem" href="/gb/1" onclick="spages('1');return false;"><span>1</span></a> <b class="swchItemA"><span>2</span></b> <a class="swchItem" href="/gb/3" onclick="spages('3');return false;"><span>3</span></a> <a class="swchItem" href="/gb/4" onclick="spages('4');return false;"><span>4</span></a> <span class="swchItemDots"><span>...</span></span> <a class="swchItem" href="/gb/51" onclick="spages('51');return false;"><span>51</span></a> <a class="swchItem" href="/gb/52" onclick="spages('52');return false;"><span>52</span></a>  <a class="swchItem" href="/gb/3" onclick="spages('3');return false;"><span>&raquo;</span></a></div>
+<div id="numEntries">Показано <b class="csNum">16</b>-<b class="csNum">30</b> из <b class="cNum">768</b> сообщений</div></div>
+<div id="newEntryT"></div><div id="allEntries"><div id="entryID918" class="report-spam-target " style=""><table border="0" cellpadding="0" cellspacing="0" width="100%" class="cBlock1"><tr><td style="padding:3px;"><div style="float:right;font-size:11px;font-family:Arial,sans-serif;"><span style="color:gray;"><b>0</b></span> &nbsp;<img alt="" src="/.s/img/icon/thumbu_.png" align="absmiddle" width="13" border="0" title="Хороший пост"> <img alt="" src="/.s/img/icon/thumbd_.png" width="13" align="absmiddle" border="0" title="Плохой пост"> <span id="report-spam-wrap-918" class="report-spam-wrap"><a class="report-spam-btn" data-message-id="918" data-not-spam="0" href="javascript://">Спам</a></span></div>
+<div class="cTop" style="text-align:left;"><span style="width:18px;"><b>753</b>.</span> <b>vivian</b>
+
+ &nbsp; <span class="cDate" style="font-size:7pt;unicode-bidi:embed;">(28.08.2008 09:20)</span>
+<a href="javascript://" rel="nofollow" onclick="window.top.location.href='mai'+'lto:'+'fai'+'rymis'+'t@hotmail.com';return false;" title="Email">E-mail</a>
+
+</div>
+<div class="cMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">thanks for attention, penis health videos,  %))), chippendale dancers pictures,  50090, sex videosu,  dcv, torrent vivid video,  puvy, ace hotel portland,  1889, antea fuck video,  &gt;:], fetish downloadable videos,  fusbot, coco video nude,  ayic, anal raw video,  68509,</div>
+<div class="cDetails">  </div></td></tr></table><br />
+</div><div id="entryID917" class="report-spam-target " style=""><table border="0" cellpadding="0" cellspacing="0" width="100%" class="cBlock2"><tr><td style="padding:3px;"><div style="float:right;font-size:11px;font-family:Arial,sans-serif;"><span style="color:gray;"><b>0</b></span> &nbsp;<img alt="" src="/.s/img/icon/thumbu_.png" align="absmiddle" width="13" border="0" title="Хороший пост"> <img alt="" src="/.s/img/icon/thumbd_.png" width="13" align="absmiddle" border="0" title="Плохой пост"> <span id="report-spam-wrap-917" class="report-spam-wrap"><a class="report-spam-btn" data-message-id="917" data-not-spam="0" href="javascript://">Спам</a></span></div>
+<div class="cTop" style="text-align:left;"><span style="width:18px;"><b>752</b>.</span> <b>breann</b>
+
+ &nbsp; <span class="cDate" style="font-size:7pt;unicode-bidi:embed;">(28.08.2008 09:20)</span>
+<a href="javascript://" rel="nofollow" onclick="window.top.location.href='mai'+'lto:'+'rac'+'helac'+'70@hotmail.com';return false;" title="Email">E-mail</a>
+
+</div>
+<div class="cMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">i love this, homemade insect repellent,  517, lesbion video clips,  fwh, layouts for guilds,  :-PPP, sittin in a bar,  8OO, painting abs plastic,  zwqwx, video voyeur home,  :DDD, monthly site submission web,  msm,</div>
+<div class="cDetails">  </div></td></tr></table><br />
+</div><div id="entryID916" class="report-spam-target " style=""><table border="0" cellpadding="0" cellspacing="0" width="100%" class="cBlock1"><tr><td style="padding:3px;"><div style="float:right;font-size:11px;font-family:Arial,sans-serif;"><span style="color:gray;"><b>0</b></span> &nbsp;<img alt="" src="/.s/img/icon/thumbu_.png" align="absmiddle" width="13" border="0" title="Хороший пост"> <img alt="" src="/.s/img/icon/thumbd_.png" width="13" align="absmiddle" border="0" title="Плохой пост"> <span id="report-spam-wrap-916" class="report-spam-wrap"><a class="report-spam-btn" data-message-id="916" data-not-spam="0" href="javascript://">Спам</a></span></div>
+<div class="cTop" style="text-align:left;"><span style="width:18px;"><b>751</b>.</span> <b>ninette</b>
+
+ &nbsp; <span class="cDate" style="font-size:7pt;unicode-bidi:embed;">(28.08.2008 05:44)</span>
+<a href="javascript://" rel="nofollow" onclick="window.top.location.href='mai'+'lto:'+'tee'+'pu200'+'0@hotmail.com';return false;" title="Email">E-mail</a>
+
+</div>
+<div class="cMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">nice page, videos 3gp porno,  08671, marilyn monroe stag film,  7402, ice cream cone clipart,  :O, xtrememac microblast,  lknbux, video review stripper,  =-PP, freevideosex,  06498, travel air mystery ship,  erctna,</div>
+<div class="cDetails">  </div></td></tr></table><br />
+</div><div id="entryID904" class="report-spam-target " style=""><table border="0" cellpadding="0" cellspacing="0" width="100%" class="cBlock2"><tr><td style="padding:3px;"><div style="float:right;font-size:11px;font-family:Arial,sans-serif;"><span style="color:gray;"><b>0</b></span> &nbsp;<img alt="" src="/.s/img/icon/thumbu_.png" align="absmiddle" width="13" border="0" title="Хороший пост"> <img alt="" src="/.s/img/icon/thumbd_.png" width="13" align="absmiddle" border="0" title="Плохой пост"> <span id="report-spam-wrap-904" class="report-spam-wrap"><a class="report-spam-btn" data-message-id="904" data-not-spam="0" href="javascript://">Спам</a></span></div>
+<div class="cTop" style="text-align:left;"><span style="width:18px;"><b>750</b>.</span> <b>nadiya</b>
+
+ &nbsp; <span class="cDate" style="font-size:7pt;unicode-bidi:embed;">(27.08.2008 09:36)</span>
+<a href="javascript://" rel="nofollow" onclick="window.top.location.href='mai'+'lto:'+'por'+'ro9@h'+'otmail.com';return false;" title="Email">E-mail</a>
+
+</div>
+<div class="cMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">thanks for attention, pee pant video,  btywig, airfare europe wholesale,  93522, crossdressers kissing video,  =((, yooung video models,  &gt;:-(, teacher attendance sheet,  vui, basement jaxx head,  &gt;:-], adult entertainment guide,  05229, one more time daft,  995, tacoma criminal defense lawyer,  mqrx,</div>
+<div class="cDetails">  </div></td></tr></table><br />
+</div><div id="entryID901" class="report-spam-target " style=""><table border="0" cellpadding="0" cellspacing="0" width="100%" class="cBlock1"><tr><td style="padding:3px;"><div style="float:right;font-size:11px;font-family:Arial,sans-serif;"><span style="color:gray;"><b>0</b></span> &nbsp;<img alt="" src="/.s/img/icon/thumbu_.png" align="absmiddle" width="13" border="0" title="Хороший пост"> <img alt="" src="/.s/img/icon/thumbd_.png" width="13" align="absmiddle" border="0" title="Плохой пост"> <span id="report-spam-wrap-901" class="report-spam-wrap"><a class="report-spam-btn" data-message-id="901" data-not-spam="0" href="javascript://">Спам</a></span></div>
+<div class="cTop" style="text-align:left;"><span style="width:18px;"><b>749</b>.</span> <b>sybill</b>
+
+ &nbsp; <span class="cDate" style="font-size:7pt;unicode-bidi:embed;">(27.08.2008 06:28)</span>
+<a href="javascript://" rel="nofollow" onclick="window.top.location.href='mai'+'lto:'+'pho'+'donna'+'@hotmail.com';return false;" title="Email">E-mail</a>
+
+</div>
+<div class="cMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">thank you for your work, black sabbath solitude,  xkaet, red headed milfs,  =-(((, amateur uploaded videos,  &gt;:-[[, mortgage foreclosure michigan,  452, duke nukem manhatten project no cd crack,  8PPP, mumps outbreak in midwest,  485776, naked boobs videos,  rsvco, jessica mcclintock homecoming dresses,  &gt;:-[[[,</div>
+<div class="cDetails">  </div></td></tr></table><br />
+</div><div id="entryID900" class="report-spam-target " style=""><table border="0" cellpadding="0" cellspacing="0" width="100%" class="cBlock2"><tr><td style="padding:3px;"><div style="float:right;font-size:11px;font-family:Arial,sans-serif;"><span style="color:gray;"><b>0</b></span> &nbsp;<img alt="" src="/.s/img/icon/thumbu_.png" align="absmiddle" width="13" border="0" title="Хороший пост"> <img alt="" src="/.s/img/icon/thumbd_.png" width="13" align="absmiddle" border="0" title="Плохой пост"> <span id="report-spam-wrap-900" class="report-spam-wrap"><a class="report-spam-btn" data-message-id="900" data-not-spam="0" href="javascript://">Спам</a></span></div>
+<div class="cTop" style="text-align:left;"><span style="width:18px;"><b>748</b>.</span> <b>adeline</b>
+
+ &nbsp; <span class="cDate" style="font-size:7pt;unicode-bidi:embed;">(27.08.2008 06:27)</span>
+<a href="javascript://" rel="nofollow" onclick="window.top.location.href='mai'+'lto:'+'mrm'+'ike31'+'6@hotmail.com';return false;" title="Email">E-mail</a>
+
+</div>
+<div class="cMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">good job, cable tv descrambling,  102, crack for my muvee maker,  9970, teen blonde videos,  cmnsqo, boston medical center jobs,  %PP, download mature video,  qxuajh,</div>
+<div class="cDetails">  </div></td></tr></table><br />
+</div><div id="entryID899" class="report-spam-target " style=""><table border="0" cellpadding="0" cellspacing="0" width="100%" class="cBlock1"><tr><td style="padding:3px;"><div style="float:right;font-size:11px;font-family:Arial,sans-serif;"><span style="color:gray;"><b>0</b></span> &nbsp;<img alt="" src="/.s/img/icon/thumbu_.png" align="absmiddle" width="13" border="0" title="Хороший пост"> <img alt="" src="/.s/img/icon/thumbd_.png" width="13" align="absmiddle" border="0" title="Плохой пост"> <span id="report-spam-wrap-899" class="report-spam-wrap"><a class="report-spam-btn" data-message-id="899" data-not-spam="0" href="javascript://">Спам</a></span></div>
+<div class="cTop" style="text-align:left;"><span style="width:18px;"><b>747</b>.</span> <b>ceciley</b>
+
+ &nbsp; <span class="cDate" style="font-size:7pt;unicode-bidi:embed;">(27.08.2008 05:19)</span>
+<a href="javascript://" rel="nofollow" onclick="window.top.location.href='mai'+'lto:'+'pin'+'kbear'+'18@hotmail.com';return false;" title="Email">E-mail</a>
+
+</div>
+<div class="cMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">thank you for your work, video post tgp,  771, serene aquarium crack,  0425, free young porn,  2607, redhead breasts video,  cvs, best zero turn mower,  rfqeb,</div>
+<div class="cDetails">  </div></td></tr></table><br />
+</div><div id="entryID898" class="report-spam-target " style=""><table border="0" cellpadding="0" cellspacing="0" width="100%" class="cBlock2"><tr><td style="padding:3px;"><div style="float:right;font-size:11px;font-family:Arial,sans-serif;"><span style="color:gray;"><b>0</b></span> &nbsp;<img alt="" src="/.s/img/icon/thumbu_.png" align="absmiddle" width="13" border="0" title="Хороший пост"> <img alt="" src="/.s/img/icon/thumbd_.png" width="13" align="absmiddle" border="0" title="Плохой пост"> <span id="report-spam-wrap-898" class="report-spam-wrap"><a class="report-spam-btn" data-message-id="898" data-not-spam="0" href="javascript://">Спам</a></span></div>
+<div class="cTop" style="text-align:left;"><span style="width:18px;"><b>746</b>.</span> <b>alston</b>
+
+ &nbsp; <span class="cDate" style="font-size:7pt;unicode-bidi:embed;">(27.08.2008 05:19)</span>
+<a href="javascript://" rel="nofollow" onclick="window.top.location.href='mai'+'lto:'+'rec'+'mal@h'+'otmail.com';return false;" title="Email">E-mail</a>
+
+</div>
+<div class="cMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">good job, virtuallab data recovery,  1641, lesbian video search,  %), cutler hammer contactors,  bjzrff, kennedy space center discount,  1360, propane bottle refill,  0853, little panty videos,  =-OOO, temporal arteritis biopsy,  30434,</div>
+<div class="cDetails">  </div></td></tr></table><br />
+</div><div id="entryID897" class="report-spam-target " style=""><table border="0" cellpadding="0" cellspacing="0" width="100%" class="cBlock1"><tr><td style="padding:3px;"><div style="float:right;font-size:11px;font-family:Arial,sans-serif;"><span style="color:gray;"><b>0</b></span> &nbsp;<img alt="" src="/.s/img/icon/thumbu_.png" align="absmiddle" width="13" border="0" title="Хороший пост"> <img alt="" src="/.s/img/icon/thumbd_.png" width="13" align="absmiddle" border="0" title="Плохой пост"> <span id="report-spam-wrap-897" class="report-spam-wrap"><a class="report-spam-btn" data-message-id="897" data-not-spam="0" href="javascript://">Спам</a></span></div>
+<div class="cTop" style="text-align:left;"><span style="width:18px;"><b>745</b>.</span> <b>christina</b>
+
+ &nbsp; <span class="cDate" style="font-size:7pt;unicode-bidi:embed;">(27.08.2008 03:16)</span>
+<a href="javascript://" rel="nofollow" onclick="window.top.location.href='mai'+'lto:'+'eri'+'n_cur'+'rin@hotmail.com';return false;" title="Email">E-mail</a>
+
+</div>
+<div class="cMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">i love this, women orgasim videos,  =-PP, free porn movie without membership,  8-DDD, funnel cake trailer,  94902, crackle painting techniques,  212972, us navy captain ouimette,  061, bra fetish videos,  &gt;:OOO,</div>
+<div class="cDetails">  </div></td></tr></table><br />
+</div><div id="entryID896" class="report-spam-target " style=""><table border="0" cellpadding="0" cellspacing="0" width="100%" class="cBlock2"><tr><td style="padding:3px;"><div style="float:right;font-size:11px;font-family:Arial,sans-serif;"><span style="color:gray;"><b>0</b></span> &nbsp;<img alt="" src="/.s/img/icon/thumbu_.png" align="absmiddle" width="13" border="0" title="Хороший пост"> <img alt="" src="/.s/img/icon/thumbd_.png" width="13" align="absmiddle" border="0" title="Плохой пост"> <span id="report-spam-wrap-896" class="report-spam-wrap"><a class="report-spam-btn" data-message-id="896" data-not-spam="0" href="javascript://">Спам</a></span></div>
+<div class="cTop" style="text-align:left;"><span style="width:18px;"><b>744</b>.</span> <b>cathleen</b>
+
+ &nbsp; <span class="cDate" style="font-size:7pt;unicode-bidi:embed;">(27.08.2008 03:16)</span>
+<a href="javascript://" rel="nofollow" onclick="window.top.location.href='mai'+'lto:'+'ray'+'azion'+'@hotmail.com';return false;" title="Email">E-mail</a>
+
+</div>
+<div class="cMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">great site, david gilmore pink floyd,  :-DD, quilters heritage celebration,  %], egyptian symbol for friendship,  =]]], adult flash free game porn,  99203, international education jobs,  511714, hawking wireless print server,  giuu, tony yayo thoughts of a predicate felon,  %-PP, activated carbon water filter,  02540,</div>
+<div class="cDetails">  </div></td></tr></table><br />
+</div><div id="entryID884" class="report-spam-target " style=""><table border="0" cellpadding="0" cellspacing="0" width="100%" class="cBlock1"><tr><td style="padding:3px;"><div style="float:right;font-size:11px;font-family:Arial,sans-serif;"><span style="color:gray;"><b>0</b></span> &nbsp;<img alt="" src="/.s/img/icon/thumbu_.png" align="absmiddle" width="13" border="0" title="Хороший пост"> <img alt="" src="/.s/img/icon/thumbd_.png" width="13" align="absmiddle" border="0" title="Плохой пост"> <span id="report-spam-wrap-884" class="report-spam-wrap"><a class="report-spam-btn" data-message-id="884" data-not-spam="0" href="javascript://">Спам</a></span></div>
+<div class="cTop" style="text-align:left;"><span style="width:18px;"><b>743</b>.</span> <b>bobina</b>
+
+ &nbsp; <span class="cDate" style="font-size:7pt;unicode-bidi:embed;">(26.08.2008 19:57)</span>
+<a href="javascript://" rel="nofollow" onclick="window.top.location.href='mai'+'lto:'+'ste'+'phane'+'beaulieu@hotmail.com';return false;" title="Email">E-mail</a>
+
+</div>
+<div class="cMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">thanks for attention, hentai video mp4,  =-[[, mortgage loan marketing,  nebs, emmitt till funeral,  8-OO, howard hughes autopsy,  dwht, prop 87 california,  5398, matt hoffman bmx,  eztrc, mla letter format,  036781, pubic hair styling,  lzpssm,</div>
+<div class="cDetails">  </div></td></tr></table><br />
+</div><div id="entryID881" class="report-spam-target " style=""><table border="0" cellpadding="0" cellspacing="0" width="100%" class="cBlock2"><tr><td style="padding:3px;"><div style="float:right;font-size:11px;font-family:Arial,sans-serif;"><span style="color:gray;"><b>0</b></span> &nbsp;<img alt="" src="/.s/img/icon/thumbu_.png" align="absmiddle" width="13" border="0" title="Хороший пост"> <img alt="" src="/.s/img/icon/thumbd_.png" width="13" align="absmiddle" border="0" title="Плохой пост"> <span id="report-spam-wrap-881" class="report-spam-wrap"><a class="report-spam-btn" data-message-id="881" data-not-spam="0" href="javascript://">Спам</a></span></div>
+<div class="cTop" style="text-align:left;"><span style="width:18px;"><b>742</b>.</span> <b>jennings</b>
+
+ &nbsp; <span class="cDate" style="font-size:7pt;unicode-bidi:embed;">(26.08.2008 14:54)</span>
+<a href="javascript://" rel="nofollow" onclick="window.top.location.href='mai'+'lto:'+'kbr'+'ock31'+'3@hotmail.com';return false;" title="Email">E-mail</a>
+
+</div>
+<div class="cMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">good job, slutty nurse video,  8-(((, monika die mieterin,  npncxr, mood videos spanking,  fgsm, african sluts video,  759759, mobile navigator 2.01 crack,  smui,</div>
+<div class="cDetails">  </div></td></tr></table><br />
+</div><div id="entryID872" class="report-spam-target " style=""><table border="0" cellpadding="0" cellspacing="0" width="100%" class="cBlock1"><tr><td style="padding:3px;"><div style="float:right;font-size:11px;font-family:Arial,sans-serif;"><span style="color:gray;"><b>0</b></span> &nbsp;<img alt="" src="/.s/img/icon/thumbu_.png" align="absmiddle" width="13" border="0" title="Хороший пост"> <img alt="" src="/.s/img/icon/thumbd_.png" width="13" align="absmiddle" border="0" title="Плохой пост"> <span id="report-spam-wrap-872" class="report-spam-wrap"><a class="report-spam-btn" data-message-id="872" data-not-spam="0" href="javascript://">Спам</a></span></div>
+<div class="cTop" style="text-align:left;"><span style="width:18px;"><b>741</b>.</span> <b>maryangelyn</b>
+
+ &nbsp; <span class="cDate" style="font-size:7pt;unicode-bidi:embed;">(26.08.2008 03:17)</span>
+<a href="javascript://" rel="nofollow" onclick="window.top.location.href='mai'+'lto:'+'SLA'+'MMER5'+'109@aol.com';return false;" title="Email">E-mail</a>
+
+</div>
+<div class="cMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">good job, designer fabric store,  214604, bitch please ii,  =]]], big cock blow,  =]], free pornstar gauge movies,  rmxyj, livingston cellars,  emvd, rave bust video,  897,</div>
+<div class="cDetails">  </div></td></tr></table><br />
+</div><div id="entryID871" class="report-spam-target " style=""><table border="0" cellpadding="0" cellspacing="0" width="100%" class="cBlock2"><tr><td style="padding:3px;"><div style="float:right;font-size:11px;font-family:Arial,sans-serif;"><span style="color:gray;"><b>0</b></span> &nbsp;<img alt="" src="/.s/img/icon/thumbu_.png" align="absmiddle" width="13" border="0" title="Хороший пост"> <img alt="" src="/.s/img/icon/thumbd_.png" width="13" align="absmiddle" border="0" title="Плохой пост"> <span id="report-spam-wrap-871" class="report-spam-wrap"><a class="report-spam-btn" data-message-id="871" data-not-spam="0" href="javascript://">Спам</a></span></div>
+<div class="cTop" style="text-align:left;"><span style="width:18px;"><b>740</b>.</span> <b>lorenza</b>
+
+ &nbsp; <span class="cDate" style="font-size:7pt;unicode-bidi:embed;">(26.08.2008 03:17)</span>
+<a href="javascript://" rel="nofollow" onclick="window.top.location.href='mai'+'lto:'+'ran'+'dysla'+'dy@hotmail.com';return false;" title="Email">E-mail</a>
+
+</div>
+<div class="cMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">great site, wireless compact usb adapter,  xle, missy model video,  460, grand circle travel company,  =-O, nude horse videos,  161, broadband internet provider uk,  :-DDD, sweedish meatball recipe,  &gt;:-[, mmf videos free,  &gt;:-]]], ruled by secrecy,  %-PPP, daily candid video,  0294,</div>
+<div class="cDetails">  </div></td></tr></table><br />
+</div><div id="entryID870" class="report-spam-target " style=""><table border="0" cellpadding="0" cellspacing="0" width="100%" class="cBlock1"><tr><td style="padding:3px;"><div style="float:right;font-size:11px;font-family:Arial,sans-serif;"><span style="color:gray;"><b>0</b></span> &nbsp;<img alt="" src="/.s/img/icon/thumbu_.png" align="absmiddle" width="13" border="0" title="Хороший пост"> <img alt="" src="/.s/img/icon/thumbd_.png" width="13" align="absmiddle" border="0" title="Плохой пост"> <span id="report-spam-wrap-870" class="report-spam-wrap"><a class="report-spam-btn" data-message-id="870" data-not-spam="0" href="javascript://">Спам</a></span></div>
+<div class="cTop" style="text-align:left;"><span style="width:18px;"><b>739</b>.</span> <b>margarette</b>
+
+ &nbsp; <span class="cDate" style="font-size:7pt;unicode-bidi:embed;">(25.08.2008 22:59)</span>
+<a href="javascript://" rel="nofollow" onclick="window.top.location.href='mai'+'lto:'+'ste'+'tner1'+'@hotmail.com';return false;" title="Email">E-mail</a>
+
+</div>
+<div class="cMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;">well done, elvis faked his death,  208, latina sexy video,  ioirn, teen counseling services,  =-[[[, adult fisting videos,  fzt, oneida stainless silverware,  18098, definition of financial planning,  %-DD, operations process improvement,  &gt;:DDD,</div>
+<div class="cDetails">  </div></td></tr></table><br />
+</div></div><div id="newEntryB"></div>
+<div id="pagesBlock2" align="center"><a class="swchItem1" href="/gb/1" onclick="spages('1');return false;"><span>1-15</span></a> <b class="swchItemA1"><span>16-30</span></b> <a class="swchItem1" href="/gb/3" onclick="spages('3');return false;"><span>31-45</span></a> <a class="swchItem1" href="/gb/4" onclick="spages('4');return false;"><span>46-60</span></a> <span class="swchItemDots"><span>...</span></span> <a class="swchItem1" href="/gb/51" onclick="spages('51');return false;"><span>751-765</span></a> <a class="swchItem1" href="/gb/52" onclick="spages('52');return false;"><span>766-768</span></a> </div><br />
+<form method="post" name="addform" id="acform" style="margin:0px" action="/gb/" onsubmit="gbsafe('acform');return false;"> <script type="text/javascript">var _y8M=''; function _dS(s){ var i;var r=""; var l=s.length-1; var k=s.substr(l,1); for (i=0;i<l;i++){ c=s.charCodeAt(i)-k;  if(c<32){ c=127-(32-c);} r+=String.fromCharCode(c); } return r;} _y8M=_dS('Ansuzy%y~ujB\'mniijs\'%sfrjB\'xtx\'%{fqzjB\'8=7;::975;\'%4C5');</script><a name="sign"></a><table border="0" width="100%" cellspacing="1" cellpadding="2" class="commTable">
+<tr><td class="commTd2" colspan="2"><div class="commError" id="eMessage" align="center"></div></td></tr>
+
+<tr><td class="commTd1" width="15%" nowrap>Имя *:</td><td class="commTd2"><input class="commFl" id="gbF7" type="text" name="name" value="" size="30" maxlength="60" /></td></tr>
+<tr><td class="commTd1">Email *:</td><td class="commTd2"><input class="commFl" id="gbF1" type="text" name="email" value="" size="30" maxlength="60" /></td></tr>
+<tr><td class="commTd1">WWW:</td><td class="commTd2"><input class="commFl" id="gbF2" type="text" name="url" value="" size="30" maxlength="70" /></td></tr>
+
+
+
+
+
+<tr><td class="commTd2" colspan="2"><div style="padding-bottom:2px"></div><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top"><textarea id="message" class="commFl" rows="10" cols="40" name="message"></textarea></td><td width="5%" valign="top" align="center" style="padding-left:3px;"><script type="text/javascript">function emoticon(code,nm){if (code != ""){var txtarea=document.getElementById(nm);code = ' ' + code + ' ';if (document.selection) {txtarea.focus();var txtContent = txtarea.value;var str = document.selection.createRange();if (str.text == ""){str.text = code;} else if (txtContent.indexOf(str.text) != -1){str.text = code + str.text;} else {txtarea.value = txtContent + code;}}else{txtarea.value = txtarea.value + code;}}}</script><table border="0" cellpadding="2"  class="smiles" onmouseover="document.getElementById('asmltrzBvDr').style.display='';" onmouseout="document.getElementById('asmltrzBvDr').style.display='none';"><tr><td class="sml1" align="center"><a href="javascript://" rel="nofollow" onclick="emoticon('>(','message');return false;"><img alt="" style="margin:0;padding:0;border:0;" src="/.s/sm/1/angry.gif" title="angry" /></a></td><td class="sml1" align="center"><a href="javascript://" rel="nofollow" onclick="emoticon(':D','message');return false;"><img alt="" style="margin:0;padding:0;border:0;" src="/.s/sm/1/biggrin.gif" title="biggrin" /></a></td><td class="sml1" align="center"><a href="javascript://" rel="nofollow" onclick="emoticon('B)','message');return false;"><img alt="" style="margin:0;padding:0;border:0;" src="/.s/sm/1/cool.gif" title="cool" /></a></td></tr><tr><td class="sml1" align="center"><a href="javascript://" rel="nofollow" onclick="emoticon(':\'(','message');return false;"><img alt="" style="margin:0;padding:0;border:0;" src="/.s/sm/1/cry.gif" title="cry" /></a></td><td class="sml1" align="center"><a href="javascript://" rel="nofollow" onclick="emoticon('&lt;_&lt;','message');return false;"><img alt="" style="margin:0;padding:0;border:0;" src="/.s/sm/1/dry.gif" title="dry" /></a></td><td class="sml1" align="center"><a href="javascript://" rel="nofollow" onclick="emoticon('^_^','message');return false;"><img alt="" style="margin:0;padding:0;border:0;" src="/.s/sm/1/happy.gif" title="happy" /></a></td></tr><tr><td class="sml1" align="center"><a href="javascript://" rel="nofollow" onclick="emoticon(':(','message');return false;"><img alt="" style="margin:0;padding:0;border:0;" src="/.s/sm/1/sad.gif" title="sad" /></a></td><td class="sml1" align="center"><a href="javascript://" rel="nofollow" onclick="emoticon(':)','message');return false;"><img alt="" style="margin:0;padding:0;border:0;" src="/.s/sm/1/smile.gif" title="smile" /></a></td><td class="sml1" align="center"><a href="javascript://" rel="nofollow" onclick="emoticon(':o','message');return false;"><img alt="" style="margin:0;padding:0;border:0;" src="/.s/sm/1/surprised.gif" title="surprised" /></a></td></tr><tr><td class="sml1" align="center"><a href="javascript://" rel="nofollow" onclick="emoticon(':p','message');return false;"><img alt="" style="margin:0;padding:0;border:0;" src="/.s/sm/1/tongue.gif" title="tongue" /></a></td><td class="sml1" align="center"><a href="javascript://" rel="nofollow" onclick="emoticon('%)','message');return false;"><img alt="" style="margin:0;padding:0;border:0;" src="/.s/sm/1/wacko.gif" title="wacko" /></a></td><td class="sml1" align="center"><a href="javascript://" rel="nofollow" onclick="emoticon(';)','message');return false;"><img alt="" style="margin:0;padding:0;border:0;" src="/.s/sm/1/wink.gif" title="wink" /></a></td></tr><tr id="asmltrzBvDr" style="display:none;"><td colspan="3" align="center" id="allSmiles" nowrap><a href="javascript://" rel="nofollow" onclick="new _uWnd('Sml',' ',-250,-350,{autosize:0,closeonesc:1,resize:0},{url:'/index/35-1-0'});return false;">Все смайлы</a></td></tr></table></td></tr></table></td></tr>
+<tr><td class="commTd1">Код *:</td><td class="commTd2">
+	<div class="recaptcha-wrapper normal">
+		<div id="recaptcha_gb-add_6Lc1AwsUAA" class="g-recaptcha" data-sitekey="6Lc1AwsUAAAAAGadEk6g-P38_t5uXCR9bMwtGwl_" data-theme="light" data-size="normal" ></div>
+		<span data-reset onclick="reReset(this )"></span>
+	</div>
+	<script type="text/javascript">
+		if (window.grecaptcha ) {
+			$('.g-recaptcha').each(function (index, element ) {
+				if ($(element).is(':empty') ) grecaptcha.render(element, {sitekey:element.getAttribute('data-sitekey'), theme:element.getAttribute('data-theme'), size:element.getAttribute('data-size') });
+			});
+		}
+	</script></td></tr>
+<tr><td class="commTd2" colspan="2" align="center"><input class="commSbmFl" type="submit" id="gbsbm" value="Добавить комментарий" /></td></tr>
+</table>
+<input type="hidden" name="a" value="8" /><script type="text/javascript">document.write(_y8M)</script></form><script type="text/javascript">
+		if( !window.uCoz ) window.uCoz = {};
+		if( !uCoz.spam ) uCoz.spam = {};
+		if( !uCoz.spam.sign ) uCoz.spam.sign = {};
+
+		if( !uCoz.spam.config ) uCoz.spam.config = {};
+
+		uCoz.spam.config.scopeID  = 1;
+		uCoz.spam.config.idPrefix = 'entryID';
+
+		uCoz.spam.sign.spam            = 'Спам';
+		uCoz.spam.sign.notSpam         = 'Не спам';
+		uCoz.spam.sign.hidden          = 'Спам-сообщение скрыто.';
+		uCoz.spam.sign.shown           = 'Спам-сообщение показано.';
+		uCoz.spam.sign.show            = 'Показать';
+		uCoz.spam.sign.hide            = 'Скрыть';
+		uCoz.spam.sign.admSpam         = 'Разрешить жалобы';
+		uCoz.spam.sign.admSpamTitle    = 'Разрешить пользователям сайта помечать это сообщение как спам';
+		uCoz.spam.sign.admNotSpam      = 'Это не спам';
+		uCoz.spam.sign.admNotSpamTitle = 'Пометить как не-спам, запретить пользователям жаловаться на это сообщение';
+
+		
+
+		uCoz.spam.moderPanelNotSpamClick = function(elem) {
+			var waitImg = $('<img align="absmiddle" src="/.s/img/fr/EmnAjax.gif">');
+			var elem = $(elem);
+			elem.find('img').hide();
+			elem.append(waitImg);
+			var messageID = elem.attr('data-message-id');
+			var notSpam   = elem.attr('data-not-spam') ? 0 : 1; // invert - 'data-not-spam' should contain CURRENT 'notspam' status!
+			$.post('/index/', {
+				a          : 101,
+				scope_id   : uCoz.spam.config.scopeID,
+				message_id : messageID,
+				not_spam   : notSpam
+			}).then(function(response) {
+				waitImg.remove();
+				elem.find('img').show();
+				if( response.error ) {
+					alert(response.error);
+					return;
+				};
+				if( response.status == 'admin_message_not_spam' ) {
+					elem.attr('data-not-spam', true).find('img').attr('src', '/.s/img/spamfilter/notspam-active.gif');
+					$('#del-as-spam-' + messageID).hide();
+				} else {
+					elem.removeAttr('data-not-spam').find('img').attr('src', '/.s/img/spamfilter/notspam.gif');
+					$('#del-as-spam-' + messageID).show();
+				};
+				//console.log(response);
+			});
+			return false;
+		};
+
+
+		uCoz.spam.report = function(scopeID, messageID, notSpam, callback, context) {
+			return $.post('/index/', {
+				a: 101,
+				scope_id   : scopeID,
+				message_id : messageID,
+				not_spam   : notSpam
+			}).then(function(response) {
+				if( callback ) {
+					callback.call(context || window, response, context);
+				} else {
+					window.console && console.log && console.log('uCoz.spam.report: message #' + messageID, response);
+				};
+			});
+		};
+
+		uCoz.spam.reportDOM = function(event) {
+			if( event.preventDefault ) event.preventDefault();
+			var elem      = $(this);
+			if( elem.hasClass('spam-report-working') ) return false;
+			var scopeID   = uCoz.spam.config.scopeID;
+			var messageID = elem.attr('data-message-id');
+			var notSpam   = elem.attr('data-not-spam');
+			var target    = elem.parents('.report-spam-target').eq(0);
+			var height    = target.outerHeight(true);
+			var margin    = target.css('margin-left');
+			elem.html('<img src="/.s/img/wd/1/ajaxs.gif">').addClass('report-spam-working');
+			uCoz.spam.report(scopeID, messageID, notSpam, function(response, context) {
+				context.elem.text('').removeClass('report-spam-working');
+				window.console && console.log && console.log(response); // DEBUG
+				response.warning && window.console && console.warn && console.warn( 'uCoz.spam.report: warning: ' + response.warning, response );
+				if( response.warning && !response.status ) {
+					// non-critical warnings, may occur if user reloads cached page:
+					if( response.warning == 'already_reported' ) response.status = 'message_spam';
+					if( response.warning == 'not_reported'     ) response.status = 'message_not_spam';
+				};
+				if( response.error ) {
+					context.target.html('<div style="height: ' + context.height + 'px; line-height: ' + context.height + 'px; color: red; font-weight: bold; text-align: center;">' + response.error + '</div>');
+				} else if( response.status ) {
+					if( response.status == 'message_spam' ) {
+						context.elem.text(uCoz.spam.sign.notSpam).attr('data-not-spam', '1');
+						var toggle = $('#report-spam-toggle-wrapper-' + response.message_id);
+						if( toggle.length ) {
+							toggle.find('.report-spam-toggle-text').text(uCoz.spam.sign.hidden);
+							toggle.find('.report-spam-toggle-button').text(uCoz.spam.sign.show);
+						} else {
+							toggle = $('<div id="report-spam-toggle-wrapper-' + response.message_id + '" class="report-spam-toggle-wrapper" style="' + (context.margin ? 'margin-left: ' + context.margin : '') + '"><span class="report-spam-toggle-text">' + uCoz.spam.sign.hidden + '</span> <a class="report-spam-toggle-button" data-target="#' + uCoz.spam.config.idPrefix + response.message_id + '" href="javascript://">' + uCoz.spam.sign.show + '</a></div>').hide().insertBefore(context.target);
+							uCoz.spam.handleDOM(toggle);
+						};
+						context.target.addClass('report-spam-hidden').fadeOut('fast', function() {
+							toggle.fadeIn('fast');
+						});
+					} else if( response.status == 'message_not_spam' ) {
+						context.elem.text(uCoz.spam.sign.spam).attr('data-not-spam', '0');
+						$('#report-spam-toggle-wrapper-' + response.message_id).fadeOut('fast');
+						$('#' + uCoz.spam.config.idPrefix + response.message_id).removeClass('report-spam-hidden').show();
+					} else if( response.status == 'admin_message_not_spam' ) {
+						elem.text(uCoz.spam.sign.admSpam).attr('title', uCoz.spam.sign.admSpamTitle).attr('data-not-spam', '0');
+					} else if( response.status == 'admin_message_spam' ) {
+						elem.text(uCoz.spam.sign.admNotSpam).attr('title', uCoz.spam.sign.admNotSpamTitle).attr('data-not-spam', '1');
+					} else {
+						alert('uCoz.spam.report: unknown status: ' + response.status);
+					};
+				} else {
+					context.target.remove(); // no status returned by the server - remove message (from DOM).
+				};
+			}, { elem: elem, target: target, height: height, margin: margin });
+			return false;
+		};
+
+		uCoz.spam.handleDOM = function(within) {
+			within = $(within || 'body');
+			within.find('.report-spam-wrap').each(function() {
+				var elem = $(this);
+				elem.parent().prepend(elem);
+			});
+			within.find('.report-spam-toggle-button').not('.report-spam-handled').click(function(event) {
+				if( event.preventDefault ) event.preventDefault();
+				var elem    = $(this);
+				var wrapper = elem.parents('.report-spam-toggle-wrapper');
+				var text    = wrapper.find('.report-spam-toggle-text');
+				var target  = elem.attr('data-target');
+				target      = $(target);
+				target.slideToggle('fast', function() {
+					if( target.is(':visible') ) {
+						wrapper.addClass('report-spam-toggle-shown');
+						text.text(uCoz.spam.sign.shown);
+						elem.text(uCoz.spam.sign.hide);
+					} else {
+						wrapper.removeClass('report-spam-toggle-shown');
+						text.text(uCoz.spam.sign.hidden);
+						elem.text(uCoz.spam.sign.show);
+					};
+				});
+				return false;
+			}).addClass('report-spam-handled');
+			within.find('.report-spam-remove').not('.report-spam-handled').click(function(event) {
+				if( event.preventDefault ) event.preventDefault();
+				var messageID = $(this).attr('data-message-id');
+				del_item(messageID, 1);
+				return false;
+			}).addClass('report-spam-handled');
+			within.find('.report-spam-btn').not('.report-spam-handled').click(uCoz.spam.reportDOM).addClass('report-spam-handled');
+			window.console && console.log && console.log('uCoz.spam.handleDOM: done.');
+            try { if (uCoz.manageCommentControls) { uCoz.manageCommentControls() } } catch(e) { window.console && console.log && console.log('manageCommentControls: fail.'); }
+			return this;
+		};
+	 uCoz.spam.handleDOM();</script><!-- </body> --></td></tr></table>
+</td>
+
+<td valign="top" style="padding:3px">
+<!--U1DRIGHTER1Z-->
+
+<!-- <block8> -->
+
+<!-- </block8> -->
+
+<!-- <block9> -->
+
+<!-- </block9> -->
+
+<!-- <block10> -->
+
+<table border="0" cellpadding="0" cellspacing="2" width="203">
+<tr><td height="21" style="background:url('/.s/t/971/9.gif') #D4DFF7;padding-left:30px;"><b><!-- <bt> --><!--<s3163>-->Поиск<!--</s>--><!-- </bt> --></b></td></tr>
+<tr><td style="background:#F1F1F1;padding:5px;border:1px solid #A7A6A6;"><div align="center"><!-- <bc> --><div class="searchForm"><form onsubmit="this.sfSbm.disabled=true" method="get" style="margin:0" action="/search/"><div align="center" class="schQuery"><input type="text" name="q" maxlength="30" size="20" class="queryField" /></div><div align="center" class="schBtn"><input type="submit" class="searchSbmFl" name="sfSbm" value="Найти" /></div></form></div><!-- </bc> --></div></td></tr>
+</table>
+
+<!-- </block10> -->
+
+<!-- <block11> -->
+
+<!-- </block11> -->
+
+<!-- <block12> -->
+
+<!-- </block12> -->
+
+<!-- <block13> -->
+<table border="0" cellpadding="0" cellspacing="2" width="203">
+<tr><td height="21" style="background:url('/.s/t/971/9.gif') #D4DFF7;padding-left:30px;"><b><!-- <bt> --><!--<s5204>-->Друзья сайта<!--</s>--><!-- </bt> --></b></td></tr>
+<tr><td style="background:#F1F1F1;padding:5px;border:1px solid #A7A6A6;"><!-- <bc> --><!--<s1546>--><li><a href="http://www.ucoz.ru/" target="_blank">Создать сайт</a></li>
+<li><a href="http://blog.ucoz.ru/" target="_blank">Официальный блог</a></li>
+<li><a href="http://forum.ucoz.ru/" target="_blank">Сообщество uCoz</a></li>
+<li><a href="http://faq.ucoz.ru/" target="_blank">FAQ по системе</a></li>
+<li><a href="http://manual.ucoz.net/" target="_blank">Инструкции для uCoz</a></li>
+<li><a href="http://all-projects.ucoz.ru/" target="_blank">Все проекты компании</a></li><!--</s>--><!-- </bc> --></td></tr>
+</table>
+<!-- </block13> -->
+
+<!--/U1DRIGHTER1Z-->
+
+</td>
+
+</tr>
+</table>
+<!-- </middle> -->
+
+<!--U1BFOOTER1Z-->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td align="center" height="23" style="background:url('/.s/t/971/10.gif') #CCCCCC;"><!-- <copy> -->Copyright MyCorp &copy; 2017<!-- </copy> --></td></tr>
+<tr><td align="center" height="45" style="background:#B5DC54;"><!-- "' --><span class="pbmDPkq1">Сделать <a href="http://www.ucoz.ru/">бесплатный сайт</a> с <a href="http://www.ucoz.ru/">uCoz</a></span></td></tr>
+</table>
+<!--/U1BFOOTER1Z-->
+
+</body>
+
+</html>
+
+
+
+<!-- 0.02066 (s206) -->

@@ -1,0 +1,3822 @@
+<!DOCTYPE html>
+<html class='v2' dir='ltr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/3213516723-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<meta content='width=1100' name='viewport'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='http://piecesofmylife-victoriag.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://piecesofmylife-victoriag.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="The Very Savvy Snail - Atom" href="http://piecesofmylife-victoriag.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="The Very Savvy Snail - RSS" href="http://piecesofmylife-victoriag.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="The Very Savvy Snail - Atom" href="https://www.blogger.com/feeds/34801933/posts/default" />
+<link rel="me" href="https://www.blogger.com/profile/04126779620245499655" />
+<link rel="openid.server" href="https://www.blogger.com/openid-server.g" />
+<link rel="openid.delegate" href="http://piecesofmylife-victoriag.blogspot.com/" />
+<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/771816573-ieretrofit.js"></script>
+<![endif]-->
+<meta content='http://piecesofmylife-victoriag.blogspot.com/' property='og:url'/>
+<meta content='The Very Savvy Snail' property='og:title'/>
+<meta content='striving to integrate bits and pieces of creative enticement into my everyday life:  vintage bits and baubles, embellishments, ephemera, textiles, and forgotten cast-offs, anything and everything that lends itself to becoming something anew...' property='og:description'/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>The Very Savvy Snail</title>
+<style type='text/css'>@font-face{font-family:'Droid Serif';font-style:normal;font-weight:400;src:local('Droid Serif Regular'),local('DroidSerif-Regular'),url(//fonts.gstatic.com/s/droidserif/v8/0AKsP294HTD-nvJgucYTaJ0EAVxt0G0biEntp43Qt6E.ttf)format('truetype');}</style>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Simple
+Designer: Blogger
+URL:      www.blogger.com
+----------------------------------------------- */
+
+/* Content
+----------------------------------------------- */
+body {
+font: normal normal 14px Droid Serif;
+color: #000000;
+background: #66bbdd none repeat scroll top left;
+padding: 0 40px 40px 40px;
+}
+html body .region-inner {
+min-width: 0;
+max-width: 100%;
+width: auto;
+}
+h2 {
+font-size: 22px;
+}
+a:link {
+text-decoration:none;
+color: #2288bb;
+}
+a:visited {
+text-decoration:none;
+color: #888888;
+}
+a:hover {
+text-decoration:underline;
+color: #33aaff;
+}
+.body-fauxcolumn-outer .fauxcolumn-inner {
+background: transparent url(https://resources.blogblog.com/blogblog/data/1kt/simple/body_gradient_tile_light.png) repeat scroll top left;
+_background-image: none;
+}
+.body-fauxcolumn-outer .cap-top {
+position: absolute;
+z-index: 1;
+height: 400px;
+width: 100%;
+}
+.body-fauxcolumn-outer .cap-top .cap-left {
+width: 100%;
+background: transparent url(https://resources.blogblog.com/blogblog/data/1kt/simple/gradients_light.png) repeat-x scroll top left;
+_background-image: none;
+}
+.content-outer {
+-moz-box-shadow: 0 0 40px rgba(0, 0, 0, .15);
+-webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .15);
+-goog-ms-box-shadow: 0 0 10px #333333;
+box-shadow: 0 0 40px rgba(0, 0, 0, .15);
+margin-bottom: 1px;
+}
+.content-inner {
+padding: 10px 10px;
+}
+.content-inner {
+background-color: #ffffff;
+}
+/* Header
+----------------------------------------------- */
+.header-outer {
+background: transparent none repeat-x scroll 0 -400px;
+_background-image: none;
+}
+.Header h1 {
+font: normal normal 60px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #3399bb;
+text-shadow: -1px -1px 1px rgba(0, 0, 0, .2);
+}
+.Header h1 a {
+color: #3399bb;
+}
+.Header .description {
+font-size: 140%;
+color: #666666;
+}
+.header-inner .Header .titlewrapper {
+padding: 22px 30px;
+}
+.header-inner .Header .descriptionwrapper {
+padding: 0 30px;
+}
+/* Tabs
+----------------------------------------------- */
+.tabs-inner .section:first-child {
+border-top: 1px solid #eeeeee;
+}
+.tabs-inner .section:first-child ul {
+margin-top: -1px;
+border-top: 1px solid #eeeeee;
+border-left: 0 solid #eeeeee;
+border-right: 0 solid #eeeeee;
+}
+.tabs-inner .widget ul {
+background: #f5f5f5 url(https://resources.blogblog.com/blogblog/data/1kt/simple/gradients_light.png) repeat-x scroll 0 -800px;
+_background-image: none;
+border-bottom: 1px solid #eeeeee;
+margin-top: 0;
+margin-left: -30px;
+margin-right: -30px;
+}
+.tabs-inner .widget li a {
+display: inline-block;
+padding: .6em 1em;
+font: normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #3399bb;
+border-left: 1px solid #ffffff;
+border-right: 1px solid #eeeeee;
+}
+.tabs-inner .widget li:first-child a {
+border-left: none;
+}
+.tabs-inner .widget li.selected a, .tabs-inner .widget li a:hover {
+color: #000000;
+background-color: #eeeeee;
+text-decoration: none;
+}
+/* Columns
+----------------------------------------------- */
+.main-outer {
+border-top: 0 solid #eeeeee;
+}
+.fauxcolumn-left-outer .fauxcolumn-inner {
+border-right: 1px solid #eeeeee;
+}
+.fauxcolumn-right-outer .fauxcolumn-inner {
+border-left: 1px solid #eeeeee;
+}
+/* Headings
+----------------------------------------------- */
+div.widget > h2,
+div.widget h2.title {
+margin: 0 0 1em 0;
+font: normal bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #000000;
+}
+/* Widgets
+----------------------------------------------- */
+.widget .zippy {
+color: #999999;
+text-shadow: 2px 2px 1px rgba(0, 0, 0, .1);
+}
+.widget .popular-posts ul {
+list-style: none;
+}
+/* Posts
+----------------------------------------------- */
+h2.date-header {
+font: normal bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+}
+.date-header span {
+background-color: transparent;
+color: #000000;
+padding: inherit;
+letter-spacing: inherit;
+margin: inherit;
+}
+.main-inner {
+padding-top: 30px;
+padding-bottom: 30px;
+}
+.main-inner .column-center-inner {
+padding: 0 15px;
+}
+.main-inner .column-center-inner .section {
+margin: 0 15px;
+}
+.post {
+margin: 0 0 25px 0;
+}
+h3.post-title, .comments h4 {
+font: normal normal 22px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+margin: .75em 0 0;
+}
+.post-body {
+font-size: 110%;
+line-height: 1.4;
+position: relative;
+}
+.post-body img, .post-body .tr-caption-container, .Profile img, .Image img,
+.BlogList .item-thumbnail img {
+padding: 2px;
+background: #ffffff;
+border: 1px solid #eeeeee;
+-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+-webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+}
+.post-body img, .post-body .tr-caption-container {
+padding: 5px;
+}
+.post-body .tr-caption-container {
+color: #000000;
+}
+.post-body .tr-caption-container img {
+padding: 0;
+background: transparent;
+border: none;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+}
+.post-header {
+margin: 0 0 1.5em;
+line-height: 1.6;
+font-size: 90%;
+}
+.post-footer {
+margin: 20px -2px 0;
+padding: 5px 10px;
+color: #666666;
+background-color: #f9f9f9;
+border-bottom: 1px solid #eeeeee;
+line-height: 1.6;
+font-size: 90%;
+}
+#comments .comment-author {
+padding-top: 1.5em;
+border-top: 1px solid #eeeeee;
+background-position: 0 1.5em;
+}
+#comments .comment-author:first-child {
+padding-top: 0;
+border-top: none;
+}
+.avatar-image-container {
+margin: .2em 0 0;
+}
+#comments .avatar-image-container img {
+border: 1px solid #eeeeee;
+}
+/* Comments
+----------------------------------------------- */
+.comments .comments-content .icon.blog-author {
+background-repeat: no-repeat;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
+}
+.comments .comments-content .loadmore a {
+border-top: 1px solid #999999;
+border-bottom: 1px solid #999999;
+}
+.comments .comment-thread.inline-thread {
+background-color: #f9f9f9;
+}
+.comments .continue {
+border-top: 2px solid #999999;
+}
+/* Accents
+---------------------------------------------- */
+.section-columns td.columns-cell {
+border-left: 1px solid #eeeeee;
+}
+.blog-pager {
+background: transparent none no-repeat scroll top center;
+}
+.blog-pager-older-link, .home-link,
+.blog-pager-newer-link {
+background-color: #ffffff;
+padding: 5px;
+}
+.footer-outer {
+border-top: 0 dashed #bbbbbb;
+}
+/* Mobile
+----------------------------------------------- */
+body.mobile  {
+background-size: auto;
+}
+.mobile .body-fauxcolumn-outer {
+background: transparent none repeat scroll top left;
+}
+.mobile .body-fauxcolumn-outer .cap-top {
+background-size: 100% auto;
+}
+.mobile .content-outer {
+-webkit-box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+}
+.mobile .tabs-inner .widget ul {
+margin-left: 0;
+margin-right: 0;
+}
+.mobile .post {
+margin: 0;
+}
+.mobile .main-inner .column-center-inner .section {
+margin: 0;
+}
+.mobile .date-header span {
+padding: 0.1em 10px;
+margin: 0 -10px;
+}
+.mobile h3.post-title {
+margin: 0;
+}
+.mobile .blog-pager {
+background: transparent none no-repeat scroll top center;
+}
+.mobile .footer-outer {
+border-top: none;
+}
+.mobile .main-inner, .mobile .footer-inner {
+background-color: #ffffff;
+}
+.mobile-index-contents {
+color: #000000;
+}
+.mobile-link-button {
+background-color: #2288bb;
+}
+.mobile-link-button a:link, .mobile-link-button a:visited {
+color: #ffffff;
+}
+.mobile .tabs-inner .section:first-child {
+border-top: none;
+}
+.mobile .tabs-inner .PageList .widget-content {
+background-color: #eeeeee;
+color: #000000;
+border-top: 1px solid #eeeeee;
+border-bottom: 1px solid #eeeeee;
+}
+.mobile .tabs-inner .PageList .widget-content .pagelist-arrow {
+border-left: 1px solid #eeeeee;
+}
+
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+body {
+min-width: 960px;
+}
+.content-outer, .content-fauxcolumn-outer, .region-inner {
+min-width: 960px;
+max-width: 960px;
+_width: 960px;
+}
+.main-inner .columns {
+padding-left: 0;
+padding-right: 310px;
+}
+.main-inner .fauxcolumn-center-outer {
+left: 0;
+right: 310px;
+/* IE6 does not respect left and right together */
+_width: expression(this.parentNode.offsetWidth -
+parseInt("0") -
+parseInt("310px") + 'px');
+}
+.main-inner .fauxcolumn-left-outer {
+width: 0;
+}
+.main-inner .fauxcolumn-right-outer {
+width: 310px;
+}
+.main-inner .column-left-outer {
+width: 0;
+right: 100%;
+margin-left: -0;
+}
+.main-inner .column-right-outer {
+width: 310px;
+margin-right: -310px;
+}
+#layout {
+min-width: 0;
+}
+#layout .content-outer {
+min-width: 0;
+width: 800px;
+}
+#layout .region-inner {
+min-width: 0;
+width: auto;
+}
+body#layout div.add_widget {
+padding: 8px;
+}
+body#layout div.add_widget a {
+margin-left: 32px;
+}
+--></style>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=34801933&amp;zx=211b6ed4-ab80-4bd7-a806-ac175e04866d' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=34801933&amp;zx=211b6ed4-ab80-4bd7-a806-ac175e04866d' rel='stylesheet'/></noscript>
+</head>
+<body class='loading variant-pale'>
+<div class='navbar section' id='navbar' name='Navbar'><div class='widget Navbar' data-version='1' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d34801933\x26blogName\x3dThe+Very+Savvy+Snail\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttp://piecesofmylife-victoriag.blogspot.com/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttp://piecesofmylife-victoriag.blogspot.com/\x26vt\x3d741762984311328641',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div itemscope='itemscope' itemtype='http://schema.org/Blog' style='display: none;'>
+<meta content='The Very Savvy Snail' itemprop='name'/>
+</div>
+<div class='body-fauxcolumns'>
+<div class='fauxcolumn-outer body-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content'>
+<div class='content-fauxcolumns'>
+<div class='fauxcolumn-outer content-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content-outer'>
+<div class='content-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left content-fauxborder-left'>
+<div class='fauxborder-right content-fauxborder-right'></div>
+<div class='content-inner'>
+<header>
+<div class='header-outer'>
+<div class='header-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left header-fauxborder-left'>
+<div class='fauxborder-right header-fauxborder-right'></div>
+<div class='region-inner header-inner'>
+<div class='header section' id='header' name='Header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title'>
+The Very Savvy Snail
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>striving to integrate bits and pieces of creative enticement into my everyday life:  vintage bits and baubles, embellishments, ephemera, textiles, and forgotten cast-offs, anything and everything that lends itself to becoming something anew...</span></p>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='header-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</header>
+<div class='tabs-outer'>
+<div class='tabs-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left tabs-fauxborder-left'>
+<div class='fauxborder-right tabs-fauxborder-right'></div>
+<div class='region-inner tabs-inner'>
+<div class='tabs no-items section' id='crosscol' name='Cross-Column'></div>
+<div class='tabs no-items section' id='crosscol-overflow' name='Cross-Column 2'></div>
+</div>
+</div>
+<div class='tabs-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='main-outer'>
+<div class='main-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left main-fauxborder-left'>
+<div class='fauxborder-right main-fauxborder-right'></div>
+<div class='region-inner main-inner'>
+<div class='columns fauxcolumns'>
+<div class='fauxcolumn-outer fauxcolumn-center-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-left-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-right-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<!-- corrects IE6 width calculation -->
+<div class='columns-inner'>
+<div class='column-center-outer'>
+<div class='column-center-inner'>
+<div class='main section' id='main' name='Main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Thursday, January 30, 2014</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://4.bp.blogspot.com/-s41ibA3R4U8/UuqMCaXxwYI/AAAAAAAAAgA/DXOq2-heO6k/s1600/12224060576_c98ecdce5c_b.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='1089163675704938081' itemprop='postId'/>
+<a name='1089163675704938081'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-1089163675704938081' itemprop='description articleBody'>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-s41ibA3R4U8/UuqMCaXxwYI/AAAAAAAAAgA/DXOq2-heO6k/s1600/12224060576_c98ecdce5c_b.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://4.bp.blogspot.com/-s41ibA3R4U8/UuqMCaXxwYI/AAAAAAAAAgA/DXOq2-heO6k/s1600/12224060576_c98ecdce5c_b.jpg" width="480" /></a></div>
+I love Valentine papers and colors...just had to dip into my stash and make up this sweet little pocket in my PL book. &nbsp;I'm doing the smaller book this year and it's so much easier for me! &nbsp;I can't believe I'm actually up to date and forging ahead with the next holiday. &nbsp;Goodbye big cumbersome PL book! &nbsp;2014 brings the smaller, more do-able version! &nbsp;Hooray for simplicity! 
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2014/01/i-love-valentine-papers-and-colors.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2014/01/i-love-valentine-papers-and-colors.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2014-01-30T11:55:00-05:00'>11:55 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=1089163675704938081' onclick=''>
+2 comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=1089163675704938081' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=1089163675704938081&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Friday, January 24, 2014</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://2.bp.blogspot.com/-MQh1zfMtOns/UuLSwHhO-MI/AAAAAAAAAcw/Z0_v8K6X5aU/s1600/photo+2.JPG' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='8427975909404807038' itemprop='postId'/>
+<a name='8427975909404807038'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://piecesofmylife-victoriag.blogspot.com/2014/01/starting-new-class.html'>Starting a new class!</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8427975909404807038' itemprop='description articleBody'>
+at <a href="http://www.onlinecardclasses.com/">OnlineCardClasses...Stenciled</a>. &nbsp;Just watched the videos, printed out the PDF and I'm ready to play with stencils, inks, embossing powder, and mists! <br />
+<br />
+And I'm back with my first stenciled card using a few ideas from class. &nbsp;So many things to try! <br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-MQh1zfMtOns/UuLSwHhO-MI/AAAAAAAAAcw/Z0_v8K6X5aU/s1600/photo+2.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://2.bp.blogspot.com/-MQh1zfMtOns/UuLSwHhO-MI/AAAAAAAAAcw/Z0_v8K6X5aU/s1600/photo+2.JPG" width="480" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-LAavXVfDwDA/UuLSvp590eI/AAAAAAAAAcs/a3C0uE_ApfQ/s1600/photo+3.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://4.bp.blogspot.com/-LAavXVfDwDA/UuLSvp590eI/AAAAAAAAAcs/a3C0uE_ApfQ/s1600/photo+3.JPG" width="480" /></a></div>
+<br />
+and then an attempt at the embossing technique...didn't go so well. &nbsp;I'm wondering if embossing powder has a shelf life and if mine has exceeded it. &nbsp;I could not get areas to emboss. &nbsp;So after a third try I just cut away the areas of embossing that looked okay and hodge-podged a card together with the remnants...not a keeper...<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-Qi3W4VbhgD4/UuMKkW8auEI/AAAAAAAAAdE/becfaFVBwEY/s1600/ugly.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="http://3.bp.blogspot.com/-Qi3W4VbhgD4/UuMKkW8auEI/AAAAAAAAAdE/becfaFVBwEY/s1600/ugly.JPG" width="480" /></a></div>
+<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2014/01/starting-new-class.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2014/01/starting-new-class.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2014-01-24T11:39:00-05:00'>11:39 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=8427975909404807038' onclick=''>
+3 comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=8427975909404807038' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=8427975909404807038&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Monday, December 30, 2013</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://1.bp.blogspot.com/-BKjy6i4BHkE/UsGrnaXoclI/AAAAAAAAAP8/gLU2Xk9yvDs/s400/IMG_5075.JPG' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='2457875777681737765' itemprop='postId'/>
+<a name='2457875777681737765'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-2457875777681737765' itemprop='description articleBody'>
+Going thru my FB groups this morning and found a post by <a href="http://lasteve1.blogspot.com/search/label/freebies%20and%20tutorials">LindaAnne</a> with pics of her wonderful DecemberDaily 2013. &nbsp;Clicked on her blog and found such great pics, ideas, and lots of journaling! &nbsp;I am sorely lacking in the journaling department...just never know what to say. &nbsp;For now I have to just let the pics tell the story unless I insert a word or two, otherwise I'd get nowhere getting my PL and DD pages done. &nbsp;So, anyway, going thru LindaAnne's blog I came across a little freebie (she has more!) that I knew I'd want to use pronto, speedy quick! &nbsp;Love the little Polaroid frame template she is giving away...I was able to use in PSE9 without any problem whatsoever and here are my results from one photo: <br />
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://1.bp.blogspot.com/-BKjy6i4BHkE/UsGrnaXoclI/AAAAAAAAAP8/gLU2Xk9yvDs/s1600/IMG_5075.JPG" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="400" src="http://1.bp.blogspot.com/-BKjy6i4BHkE/UsGrnaXoclI/AAAAAAAAAP8/gLU2Xk9yvDs/s400/IMG_5075.JPG" width="300" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">see the little gray line to cut out around!</td></tr>
+</tbody></table>
+Sorry about the blurriness...too much morning coffee in too short of timeframe...<br />
+<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2013/12/going-thru-my-fb-groups-this-morning.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2013/12/going-thru-my-fb-groups-this-morning.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2013-12-30T12:23:00-05:00'>12:23 PM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=2457875777681737765' onclick=''>
+1 comment:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=2457875777681737765' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=2457875777681737765&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Sunday, December 29, 2013</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://1.bp.blogspot.com/-1OwZDWuonkE/UsDWSbH7UCI/AAAAAAAAAJA/Ap71zpz496o/s320/IMG_4032.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='1601334149152245684' itemprop='postId'/>
+<a name='1601334149152245684'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://piecesofmylife-victoriag.blogspot.com/2013/12/its-been-far-too-long-away-from-my-blog.html'>The last few days of 2013...</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-1601334149152245684' itemprop='description articleBody'>
+It's been far too long away from my blog. &nbsp;With the new year about to begin I'm feeling that I should begin again on this blog. &nbsp;So many things I want to do this coming year, so many things I don't want to forget...I can record it here.<br />
+<br />
+This past year has been a very busy one...a granddaughter who turned 10, another who turned 1. &nbsp;A daughter's wedding preparation for January 2014 and another daughter's new pregnancy. &nbsp;A lot of wonderful things for 2014 already in motion. <br />
+<br />
+And so it begins. <br />
+<br />
+A few things on the list to (try) do these last few days of 2013:<br />
+<br />
+Finish up December Daily - print pics, insert in page protectors, journal and embellish<br />
+Card challenges...maybe start one or two of these...could be fun<br />
+Cut snowflakes for the upcoming wedding on my Cameo<br />
+Take down Christmas decorations/tree - planned for Jan 1 during football game(s)<br />
+Get busy with some knitting projects<br />
+<br />
+Enough for the next few days? &nbsp;Yep, probably. &nbsp;So let's get going.<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-1OwZDWuonkE/UsDWSbH7UCI/AAAAAAAAAJA/Ap71zpz496o/s1600/IMG_4032.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="http://1.bp.blogspot.com/-1OwZDWuonkE/UsDWSbH7UCI/AAAAAAAAAJA/Ap71zpz496o/s320/IMG_4032.jpg" width="320" /></a></div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<span id="goog_319905858"></span><span id="goog_319905859"></span><br />
+<br />
+<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2013/12/its-been-far-too-long-away-from-my-blog.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2013/12/its-been-far-too-long-away-from-my-blog.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2013-12-29T21:13:00-05:00'>9:13 PM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=1601334149152245684' onclick=''>
+1 comment:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=1601334149152245684' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=1601334149152245684&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Thursday, November 03, 2011</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://1.bp.blogspot.com/-CMCv6XMHMr4/TrLHoyuhQ3I/AAAAAAAAADc/Z3O-3lsXlXY/s400/538Smith.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='5348335251606001289' itemprop='postId'/>
+<a name='5348335251606001289'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5348335251606001289' itemprop='description articleBody'>
+<span class="Apple-style-span" style="color: rgb(34, 34, 34); font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 12px; line-height: 16px; "><h2 class="date-header" style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; position: relative; font: normal normal bold 11px/normal Arial, Tahoma, Helvetica, FreeSans, sans-serif; color: rgb(0, 0, 0); text-transform: uppercase; min-height: 0px; "><span style="background-color: transparent; color: rgb(34, 34, 34); padding: inherit; letter-spacing: inherit; margin: inherit; ">THURSDAY, 3 NOVEMBER 2011</span></h2><div class="date-posts"><div class="post-outer"><div class="post hentry" style="position: relative; min-height: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 25px; margin-left: 0px; "><a name="1538081951300762715"></a><h3 class="post-title entry-title" style="margin-top: 0.75em; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; position: relative; font: normal normal normal 22px/normal Arial, Tahoma, Helvetica, FreeSans, sans-serif; ">Wedding FaLaLaLa</h3><div class="post-header" style="line-height: 1.6; margin-top: 0px; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; font-size: 11px; "><div class="post-header-line-1"></div></div><div class="post-body entry-content" id="post-body-1538081951300762715" style="width: 640px; font-size: 13px; line-height: 1.4; position: relative; "><a href="http://1.bp.blogspot.com/-CMCv6XMHMr4/TrLHoyuhQ3I/AAAAAAAAADc/Z3O-3lsXlXY/s1600/538Smith.jpg" style="text-decoration: none; color: rgb(34, 136, 187); "><img alt="" border="0" id="BLOGGER_PHOTO_ID_5670814384438461298" src="http://1.bp.blogspot.com/-CMCv6XMHMr4/TrLHoyuhQ3I/AAAAAAAAADc/Z3O-3lsXlXY/s400/538Smith.jpg" style="border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-width: initial; border-color: initial; position: relative; padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: rgb(255, 255, 255); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-color: rgb(238, 238, 238); border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); border-left-color: rgb(238, 238, 238); -webkit-box-shadow: rgba(0, 0, 0, 0.0976562) 1px 1px 5px; box-shadow: rgba(0, 0, 0, 0.0976562) 1px 1px 5px; display: block; margin-top: 0px; margin-right: auto; margin-bottom: 10px; margin-left: auto; text-align: center; cursor: pointer; width: 400px; height: 267px; background-position: initial initial; background-repeat: initial initial; " /></a><br /><br /><br /><br />Beautiful! An absolutely wonderful wedding on the beach followed a short time later with a superb reception back home...<div><br /></div><div></div><br /><br /><br /><br /><a href="http://1.bp.blogspot.com/-ZNTKH8eXliM/TrLGCnJmy8I/AAAAAAAAAC4/8ENU3xyMEYE/s1600/cards1.jpg" style="text-decoration: none; color: rgb(34, 136, 187); "><img alt="" border="0" id="BLOGGER_PHOTO_ID_5670812628984187842" src="http://1.bp.blogspot.com/-ZNTKH8eXliM/TrLGCnJmy8I/AAAAAAAAAC4/8ENU3xyMEYE/s400/cards1.jpg" style="border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-width: initial; border-color: initial; position: relative; padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: rgb(255, 255, 255); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-color: rgb(238, 238, 238); border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); border-left-color: rgb(238, 238, 238); -webkit-box-shadow: rgba(0, 0, 0, 0.0976562) 1px 1px 5px; box-shadow: rgba(0, 0, 0, 0.0976562) 1px 1px 5px; display: block; margin-top: 0px; margin-right: auto; margin-bottom: 10px; margin-left: auto; text-align: center; cursor: pointer; width: 400px; height: 266px; background-position: initial initial; background-repeat: initial initial; " /></a><br /><br /><a href="http://3.bp.blogspot.com/-TD7bfLnPYSY/TrLGmqak9sI/AAAAAAAAADQ/1kDXFYJvP24/s1600/cupcake.jpg" style="text-decoration: none; color: rgb(34, 136, 187); "><img alt="" border="0" id="BLOGGER_PHOTO_ID_5670813248335967938" src="http://3.bp.blogspot.com/-TD7bfLnPYSY/TrLGmqak9sI/AAAAAAAAADQ/1kDXFYJvP24/s400/cupcake.jpg" style="border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-width: initial; border-color: initial; position: relative; padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: rgb(255, 255, 255); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-color: rgb(238, 238, 238); border-right-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); border-left-color: rgb(238, 238, 238); -webkit-box-shadow: rgba(0, 0, 0, 0.0976562) 1px 1px 5px; box-shadow: rgba(0, 0, 0, 0.0976562) 1px 1px 5px; display: block; margin-top: 0px; margin-right: auto; margin-bottom: 10px; margin-left: auto; text-align: center; cursor: pointer; width: 400px; height: 266px; background-position: initial initial; background-repeat: initial initial; " /></a><br /><br /><br />Lovely, absolutely lovely...<div style="clear: both; "></div></div><div class="post-footer" style="line-height: 1.6; margin-top: 20px; margin-right: -2px; margin-bottom: 0px; margin-left: -2px; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; color: rgb(102, 102, 102); background-color: rgb(249, 249, 249); border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(238, 238, 238); font-size: 11px; "></div></div></div></div></span>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2011/11/thursday-3-november-2011-wedding.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2011/11/thursday-3-november-2011-wedding.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2011-11-03T12:58:00-04:00'>12:58 PM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=5348335251606001289' onclick=''>
+1 comment:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=5348335251606001289' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=5348335251606001289&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Friday, June 03, 2011</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://photo.blogpressapp.com/photos/11/06/03/s_3168.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='1334812927298582996' itemprop='postId'/>
+<a name='1334812927298582996'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://piecesofmylife-victoriag.blogspot.com/2011/06/flowers-for-4th.html'>Flowers for the 4th</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-1334812927298582996' itemprop='description articleBody'>
+<br /><br /><center><a href='http://photo.blogpressapp.com/show_photo.php?p=11/06/03/3168.jpg'><img border="0" height="281" src="http://photo.blogpressapp.com/photos/11/06/03/s_3168.jpg" style="margin:5px" width="210"></a></center><br />- Posted using BlogPress from my iPhone<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2011/06/flowers-for-4th.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2011/06/flowers-for-4th.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2011-06-03T18:06:00-04:00'>6:06 PM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=1334812927298582996' onclick=''>
+No comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=1334812927298582996' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=1334812927298582996&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Thursday, April 28, 2011</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://photo.blogpressapp.com/photos/11/04/28/s_3047.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='50300110179145255' itemprop='postId'/>
+<a name='50300110179145255'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://piecesofmylife-victoriag.blogspot.com/2011/04/in-progress.html'>In Progress</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-50300110179145255' itemprop='description articleBody'>
+Inspired by an email this morning...happily clicked over to the <a href="http://www.scarletlime.com/">ScarletLime</a> website and watched a few new-to-me videos by Christy Tomlinson on <a href="http://www.scarletlime.com/projects.html">masking/ stenciling</a> (scroll down to the 3 videos on this). Yep, grabbed my attention, went to my craft store for a few new goodies and spent a bit if time on this:  <br /><br /><center><a href='http://photo.blogpressapp.com/show_photo.php?p=11/04/28/3047.jpg'><img border="0" height="281" src="http://photo.blogpressapp.com/photos/11/04/28/s_3047.jpg" style="margin:5px" width="210"></a></center><br />And this:<br /><br /><center><a href='http://photo.blogpressapp.com/show_photo.php?p=11/04/28/3048.jpg'><img border="0" height="281" src="http://photo.blogpressapp.com/photos/11/04/28/s_3048.jpg" style="margin:5px" width="210"></a></center><br />Ah, the fun!!!  More tomorrow, have to add some squiggles and words.<div>By the way, pick up some paper doll books!  Awesome to work with (I think!), inexpensive and I may, just maybe, I will add my husband's head on top of the paper doll for his Father's Day card.  <br /><br />- Posted using BlogPress from my iPhone<br /></div><br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2011/04/in-progress.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2011/04/in-progress.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2011-04-28T19:35:00-04:00'>7:35 PM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=50300110179145255' onclick=''>
+No comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=50300110179145255' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=50300110179145255&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Tuesday, March 01, 2011</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://photo.blogpressapp.com/photos/11/03/01/s_751.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='7361100629977138088' itemprop='postId'/>
+<a name='7361100629977138088'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-7361100629977138088' itemprop='description articleBody'>
+<br /><br /><center><a href='http://photo.blogpressapp.com/show_photo.php?p=11/03/01/751.jpg'><img border="0" height="281" src="http://photo.blogpressapp.com/photos/11/03/01/s_751.jpg" style="margin:5px" width="210"></a></center><br />- Posted using BlogPress from my iPhone<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2011/03/posted-using-blogpress-from-my-iphone.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2011/03/posted-using-blogpress-from-my-iphone.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2011-03-01T09:46:00-05:00'>9:46 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=7361100629977138088' onclick=''>
+No comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=7361100629977138088' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=7361100629977138088&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='3440707561220534043' itemprop='postId'/>
+<a name='3440707561220534043'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://piecesofmylife-victoriag.blogspot.com/2011/03/mail-day.html'>Mail Day!</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-3440707561220534043' itemprop='description articleBody'>
+An exceptional mail day today!  A package from Sarah, LadyDanio on Ravelry/Etsy, arrived!  Take a look:<br /><br /><br /><br /><br />- Posted using BlogPress from my iPad<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2011/03/mail-day.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2011/03/mail-day.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2011-03-01T09:44:00-05:00'>9:44 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=3440707561220534043' onclick=''>
+No comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=3440707561220534043' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=3440707561220534043&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Monday, February 07, 2011</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://photo.blogpressapp.com/photos/11/02/07/s_3299.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='5346337281856609651' itemprop='postId'/>
+<a name='5346337281856609651'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://piecesofmylife-victoriag.blogspot.com/2011/02/it-arrived.html'>It&#39;s arrived!</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5346337281856609651' itemprop='description articleBody'>
+Such excitement over a phone...but yes, that little iPhone box was quite fun to open!<br /><br /><center><a href='http://photo.blogpressapp.com/show_photo.php?p=11/02/07/3299.jpg'><img border="0" height="400" src="http://photo.blogpressapp.com/photos/11/02/07/s_3299.jpg" style="margin:5px" width="400"></a></center><br />- Posted using BlogPress from my iPhone<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2011/02/it-arrived.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2011/02/it-arrived.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2011-02-07T23:26:00-05:00'>11:26 PM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=5346337281856609651' onclick=''>
+No comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=5346337281856609651' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=5346337281856609651&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Thursday, January 13, 2011</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://4.bp.blogspot.com/_6wzCHvbfVuE/TS8ZAiDEuUI/AAAAAAAAACg/k91sRwbr2F8/s400/lamp211211.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='1154340497304028449' itemprop='postId'/>
+<a name='1154340497304028449'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-1154340497304028449' itemprop='description articleBody'>
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_6wzCHvbfVuE/TS8ZAiDEuUI/AAAAAAAAACg/k91sRwbr2F8/s1600/lamp211211.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5561691561756244290" src="http://4.bp.blogspot.com/_6wzCHvbfVuE/TS8ZAiDEuUI/AAAAAAAAACg/k91sRwbr2F8/s400/lamp211211.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 400px; height: 291px;" /></a>Is this not the most beautiful globe lamp?  Happened across it just last night on the Apartment Therapy website and I think it's just incredibly beautiful...you have to check the <a href="http://shannonsouth.wordpress.com/2011/01/10/upcycled-doily-lamp/">post from Shannon South, the designer</a> of this...there is an awesome "lit" photo that captures the doily shadows floating across the walls and ceiling...love it!  I do think I will have to try this on a smaller scale...make a frame and build upon it with doilies...<a href="http://www.apartmenttherapy.com/ny/lighting/shannons-handmade-upcycled-vintage-doily-lamp--136704"></a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2011/01/is-this-not-most-beautiful-globe-lamp.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2011/01/is-this-not-most-beautiful-globe-lamp.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2011-01-13T10:22:00-05:00'>10:22 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=1154340497304028449' onclick=''>
+1 comment:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=1154340497304028449' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=1154340497304028449&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Tuesday, January 04, 2011</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='6054467742165725360' itemprop='postId'/>
+<a name='6054467742165725360'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://piecesofmylife-victoriag.blogspot.com/2011/01/happened-upon-this-clip-on-another.html'>Random surfing...</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-6054467742165725360' itemprop='description articleBody'>
+<object height="390" width="640"><param name="movie" value="http://www.youtube.com/v/PQ9lcuxV78A&hl=en_US&feature=player_embedded&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/PQ9lcuxV78A&hl=en_US&feature=player_embedded&version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></embed></object><br /><br />Happened upon this clip on another ROD'er's blog...I've never seen this sprite of a girl...have you?  Love her style!<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2011/01/happened-upon-this-clip-on-another.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2011/01/happened-upon-this-clip-on-another.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2011-01-04T10:26:00-05:00'>10:26 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=6054467742165725360' onclick=''>
+No comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=6054467742165725360' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=6054467742165725360&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Saturday, January 01, 2011</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://blogpress.w18.net/photos/10/12/31/s_4279.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='6372869708357352156' itemprop='postId'/>
+<a name='6372869708357352156'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://piecesofmylife-victoriag.blogspot.com/2011/01/best-class-in-world.html'>The best class in the world!</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-6372869708357352156' itemprop='description articleBody'>
+<br /><br /><br /><br /><center><a href='http://blogpress.w18.net/photos/10/12/31/4279.jpg'><img border="0" height="244" src="http://blogpress.w18.net/photos/10/12/31/s_4279.jpg" style="margin:5px" width="190"></a></center><br /><a target="_blank" href="http://dispatchfromla.typepad.com/dispatch_from_la/rotdoci.html">Remains of the Day</a><br />Way back in October I signed up for the Remains of the Day class with Mary Ann Moss...an online class with oodles of videos, and an overflowing cornucopia of creativity...I spent many nights glued to the videos, absorbing, sifting, contemplating my journal...<br />Soon I was putting together pages and pages, layering this and that, adding embellishments and so on...<br />Then the usual happened...the need to do chores, go to work, sleep...and then: the Holidays were upon me...<br />But now!!!  Yes, now, with the arrival of 2011 there will be time, yes indeedy...<br /><br />- Posted using BlogPress from my iPad<br /><br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2011/01/best-class-in-world.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2011/01/best-class-in-world.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2011-01-01T00:25:00-05:00'>12:25 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=6372869708357352156' onclick=''>
+No comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=6372869708357352156' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=6372869708357352156&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='1326149348471217057' itemprop='postId'/>
+<a name='1326149348471217057'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://piecesofmylife-victoriag.blogspot.com/2011/01/happy-2011.html'>Happy 2011 !!!</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-1326149348471217057' itemprop='description articleBody'>
+Looking forward to a year of peace, contentment and good health. <br /><br /><br />- Posted using BlogPress from my iPad<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2011/01/happy-2011.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2011/01/happy-2011.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2011-01-01T00:09:00-05:00'>12:09 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=1326149348471217057' onclick=''>
+No comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=1326149348471217057' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=1326149348471217057&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Thursday, December 23, 2010</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='5736090507386186217' itemprop='postId'/>
+<a name='5736090507386186217'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5736090507386186217' itemprop='description articleBody'>
+*Sigh*<br />Could it really be all this time since I've posted???  So much has gone on...but nevermind...we will start anew and possibly with a smattering of pics from the past year...but soon, yes, soon, an updated post with the current projects and delights.
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2010/12/sigh-could-it-really-be-all-this-time.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2010/12/sigh-could-it-really-be-all-this-time.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2010-12-23T10:32:00-05:00'>10:32 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=5736090507386186217' onclick=''>
+1 comment:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=5736090507386186217' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=5736090507386186217&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Friday, February 12, 2010</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://3.bp.blogspot.com/_6wzCHvbfVuE/S3WET1hIs9I/AAAAAAAAACM/JFVs8W51FX4/s400/teal+w+green+net+wbg+etsy.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='747652400360388879' itemprop='postId'/>
+<a name='747652400360388879'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-747652400360388879' itemprop='description articleBody'>
+<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_6wzCHvbfVuE/S3WET1hIs9I/AAAAAAAAACM/JFVs8W51FX4/s1600-h/teal+w+green+net+wbg+etsy.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5437397601438184402" src="http://3.bp.blogspot.com/_6wzCHvbfVuE/S3WET1hIs9I/AAAAAAAAACM/JFVs8W51FX4/s400/teal+w+green+net+wbg+etsy.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 400px; height: 300px;" /></a><br />I've just updated my Etsy shop by deactivating a Snippet Bloom and sending it over to the HeartsForHaiti Etsy shop...I've been keeping an eye on that shop, buying up from various Etsy donators and now giving one of my blooms for listing.  I think it will take a day or so before it's listed...I hope it sells quickly and adds much needed dollars to the cause.  My little sweet Savannah's birthday is today, and I can't help but be overwhelmed, thinking how much we have in our life here...and how little they have in Haiti.  I have been donating here and there, when I can, since the earthquake...and I know many of you have as well...but we need to keep donating...so please, do your part, as you can...this will take time, money and thoughts of goodwill and prayer.
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2010/02/ive-just-updated-my-etsy-shop-by.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2010/02/ive-just-updated-my-etsy-shop-by.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2010-02-12T11:27:00-05:00'>11:27 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=747652400360388879' onclick=''>
+No comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=747652400360388879' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=747652400360388879&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Monday, January 25, 2010</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://farm5.static.flickr.com/4055/4304433380_81201c021f.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='2041360250920066256' itemprop='postId'/>
+<a name='2041360250920066256'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-2041360250920066256' itemprop='description articleBody'>
+Here we are...almost the end of January 2010 already! I have oodles of pics to share, projects done recently and not-so-recently, stretching back to Halloween.  So, here's the update for January:<br /><br />While skipping merrily along in <span class="blsp-spelling-error" id="SPELLING_ERROR_0">blogland</span>, came across a few pics/posts referencing button bouquets...what an addiction this is proving to be!  Here's a first-run trial of a little Valentine's Day Button Bouquet...going to add this to my Valentine's Day tree with some others...quick, easy, inexpensive, so many uses!  Could use the sweet little bouquets on packages, tied around a greeting card, adorning headbands, well, you get the idea...have a go at it, you'll love them!  Many, many references and tutorials on the web, check it out!<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://farm5.static.flickr.com/4055/4304433380_81201c021f.jpg"><img alt="" border="0" src="http://farm5.static.flickr.com/4055/4304433380_81201c021f.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 500px; height: 375px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://farm3.static.flickr.com/2778/4303689509_4047c7359a.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2778/4303689509_4047c7359a.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 500px; height: 375px;" /></a><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://farm3.static.flickr.com/2781/4304433588_a88e8a0c18.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2781/4304433588_a88e8a0c18.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 375px; height: 500px;" /></a><br /><br />Just a sampling of packaging, I love to try new ideas out, and this little gift was for my hairdresser...(contents:  Snippets Bloom, available on my <span class="blsp-spelling-error" id="SPELLING_ERROR_1">Etsy</span>)<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://farm5.static.flickr.com/4016/4303690461_88e17b335e_b.jpg"><img alt="" border="0" src="http://farm5.static.flickr.com/4016/4303690461_88e17b335e_b.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 500px; height: 375px;" /></a><br />January 24, cast on for a scrap-yarn blanket...working with an anything-goes palette...different fibers, different colors...from a <span class="blsp-spelling-error" id="SPELLING_ERROR_2">Ravelry</span> pattern find "Sediment Scraps Blanket".<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://farm5.static.flickr.com/4019/4303689799_73e969a227.jpg"><img alt="" border="0" src="http://farm5.static.flickr.com/4019/4303689799_73e969a227.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 500px; height: 375px;" /></a>Up-close, a new spin, various fibers, and sequins...I love sequins!<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://farm3.static.flickr.com/2643/4176164497_73e11604e8_b.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2643/4176164497_73e11604e8_b.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 500px; height: 375px;" /></a>Super sweet baby sweater!  Buttons are still not attached, as I'm still deciding on which buttons to use...I don't have immediate plans for the sweater, so I'll probably let it be until I have a baby gift deadline.<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://farm3.static.flickr.com/2458/4047725572_caf5126229.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2458/4047725572_caf5126229.jpg" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 500px; height: 375px;" /></a><br />And!  Finally I'm updating with pics of Halloween costume extravaganza!  Picture of the headpiece...<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_6wzCHvbfVuE/S13yjEAHMgI/AAAAAAAAAB8/Pf9Zvx3-SKg/s1600-h/PB050649.JPG"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5430763409862242818" src="http://3.bp.blogspot.com/_6wzCHvbfVuE/S13yjEAHMgI/AAAAAAAAAB8/Pf9Zvx3-SKg/s400/PB050649.JPG" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px; height: 300px;" /></a><br />and of my sweet Winter Fairy...<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_6wzCHvbfVuE/S133_jswI7I/AAAAAAAAACE/9eiusd0f50o/s1600-h/PA281548.JPG"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5430769396965450674" src="http://2.bp.blogspot.com/_6wzCHvbfVuE/S133_jswI7I/AAAAAAAAACE/9eiusd0f50o/s400/PA281548.JPG" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 300px; height: 400px;" /></a><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://farm5.static.flickr.com/4019/4303689799_73e969a227.jpg"><br /></a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2010/01/here-we-are.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2010/01/here-we-are.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2010-01-25T14:21:00-05:00'>2:21 PM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=2041360250920066256' onclick=''>
+1 comment:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=2041360250920066256' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=2041360250920066256&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Thursday, December 10, 2009</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://farm3.static.flickr.com/2484/4174627916_9fc2441168_b.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='3773546355232046267' itemprop='postId'/>
+<a name='3773546355232046267'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-3773546355232046267' itemprop='description articleBody'>
+Holiday preparations have begun...this little village (more pics to follow) complete with sketched Santa and his helper :-)<br /><br /><a href="http://farm3.static.flickr.com/2484/4174627916_9fc2441168_b.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2484/4174627916_9fc2441168_b.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 768px; height: 1024px;" /></a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2009/12/holiday-preparations-have-begun.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/12/holiday-preparations-have-begun.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2009-12-10T11:04:00-05:00'>11:04 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=3773546355232046267' onclick=''>
+1 comment:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=3773546355232046267' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=3773546355232046267&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Saturday, October 03, 2009</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://farm3.static.flickr.com/2637/3984215760_b85598ab52.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='8565945301774178573' itemprop='postId'/>
+<a name='8565945301774178573'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8565945301774178573' itemprop='description articleBody'>
+To start with, some October delights...<br /><br /><a href="http://farm3.static.flickr.com/2637/3984215760_b85598ab52.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2637/3984215760_b85598ab52.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 500px; height: 375px;" /></a><br /><br />Lovely isn't it?  Zig and Zag Blanket using sock yarn scraps...ahhhhhhh....<br /><br /><a href="http://farm4.static.flickr.com/3450/3984215626_5876f45ef5.jpg"><img alt="" border="0" src="http://farm4.static.flickr.com/3450/3984215626_5876f45ef5.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 375px; height: 500px;" /></a><br /><br />October.  Already.  So much that I want to accomplish.  I need to make a list...next post I'll start in on that.  For now, a couple pictures to share from this week...<br /><br />This weekend ventured out to a small Fiber Festival outside of Marshall, MI...and met Dani (of Pumpkinhaus) and Emily (of Bricolage Studio)...from Dani's booth I picked up one of her lovely little yellow spindles, and two delicious handspun yarns...<br /><br />from Emily's booth I treated myself to a pair of fabulous little ear ornaments and also a cute little crocheted basket to hang from my spinning wheel...<br /><br />I also had purchased an e-book from Lee Meredith of Leethal (on Ravelry)...here's the link to her e-book <a href="http://www.leethal.net/patterns/gameknitting.html">Game Knitting</a>.  And let me tell you, I'm having such fun with this!  I started last night using Desperate Housewives as my gameshow of choice...and I need to start lists for others I watch...should I intermingle my shows with my projects or have a designated project for each show???  Hmmmmmmm......without further delay, here's my DH project...<br /><br /><a href="http://farm3.static.flickr.com/2462/3984215236_540ce031c8.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2462/3984215236_540ce031c8.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 375px; height: 500px;" /></a><br /><br />In betwen knitting I've just gotten started on the Halloween 09 costume for Savvy...can you guess what she will be this year?<br /><br /><a href="http://www.flickr.com/photos/nonaofsav/3984215494/" title="halloween costume preview 1 by scrapnona, on Flickr"><img alt="halloween costume preview 1" height="500" src="http://farm4.static.flickr.com/3441/3984215494_e983f05ff1.jpg" width="375" /></a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2009/10/to-start-with-some-october-delights.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/10/to-start-with-some-october-delights.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2009-10-03T23:54:00-04:00'>11:54 PM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=8565945301774178573' onclick=''>
+7 comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=8565945301774178573' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=8565945301774178573&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Wednesday, September 30, 2009</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://counters.gigya.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEyNTQzMTY2NjU3NTAmcHQ9MTI1NDMxNjc2NjQ1MyZwPTg1NjUxJmQ9Jmc9MSZvPTMzYzhhZTI5ZWQ1MjQ*YWZiNjQ1NDM3NmI1Njg*NzFlJm9mPTA=.gif' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='8220241752448452241' itemprop='postId'/>
+<a name='8220241752448452241'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8220241752448452241' itemprop='description articleBody'>
+<img border="0" height="0" src="http://counters.gigya.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEyNTQzMTY2NjU3NTAmcHQ9MTI1NDMxNjc2NjQ1MyZwPTg1NjUxJmQ9Jmc9MSZvPTMzYzhhZTI5ZWQ1MjQ*YWZiNjQ1NDM3NmI1Njg*NzFlJm9mPTA=.gif" style="visibility:hidden;width:0px;height:0px;" width="0" /><a href="http://www.dumpr.net/photo/0a81e53c6e55a091/"><img alt="Digital Camera Fun" border="0" src="http://www.dumpr.net/static/d0/0a81e53c6e55a091_o.jpg"></a><br />Created with <a href="http://www.dumpr.net">dumpr.net</a> - <a href="http://www.dumpr.net">photo fun</a><br /><br /><br />Well, isn't this neat???  Found it on GardenBell's Flickr pics...just a photo manipulation using my pretty little Zig and Zag Blanket photo...
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2009/09/created-with-dumpr.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/09/created-with-dumpr.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2009-09-30T09:21:00-04:00'>9:21 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=8220241752448452241' onclick=''>
+1 comment:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=8220241752448452241' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=8220241752448452241&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Monday, September 28, 2009</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://farm3.static.flickr.com/2632/3889540077_1cda53e003.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='849336877078927859' itemprop='postId'/>
+<a name='849336877078927859'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-849336877078927859' itemprop='description articleBody'>
+Silly me...while scrolling thru my blog I realized I had never posted photos from my Milkweed Shawl!  I am so very pleased with it...there was a lot of new techniques in this shawl for me...lace, yes, I did it!, blocking with wires and pins!, knitting with sock yarn on larger needles (a'la lace style)...and I did it all!  Quite impressed with myself :-)  <br /><br /><a href="http://farm3.static.flickr.com/2632/3889540077_1cda53e003.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2632/3889540077_1cda53e003.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 500px; height: 375px;" /></a><br /><br />Okay, now I see why I never posted a pic...I don't have a shot of it off the blocking wires...I'll take care of that in the next few days...lovely it is!  <br /><br />And, I have a couple other spindle yarn photos to share:<br /><br />This one just started on my new spindle addition, a Trindle...<br /><br /><a href="http://farm3.static.flickr.com/2673/3920800342_2e8e589890.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2673/3920800342_2e8e589890.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 500px; height: 390px;" /></a><br /><br />This delightful spin...<br /><br /><a href="http://farm3.static.flickr.com/2565/3903978233_0048842607.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2565/3903978233_0048842607.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 375px; height: 500px;" /></a><br /><br />from these two single plys...<br /><br /><a href="http://farm3.static.flickr.com/2652/3903978445_490a1e5692.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2652/3903978445_490a1e5692.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 500px; height: 375px;" /></a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2009/09/silly-me.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/09/silly-me.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2009-09-28T09:55:00-04:00'>9:55 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=849336877078927859' onclick=''>
+No comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=849336877078927859' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=849336877078927859&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Saturday, September 26, 2009</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://farm3.static.flickr.com/2595/3923627218_6ef447031a.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='5065340568813131366' itemprop='postId'/>
+<a name='5065340568813131366'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5065340568813131366' itemprop='description articleBody'>
+Wow!  Hard to believe that it's been about 6 weeks since last post!  Must get up to speed...the h-o-l-i-d-a-y-s will be here before we know it...yikes!<br /><br />Current works: <br /> <br /><a href="http://farm3.static.flickr.com/2595/3923627218_6ef447031a.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2595/3923627218_6ef447031a.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 500px; height: 375px;" /></a><br /><br />*Spinning, spinning, 2 spindles in progress and wheel spins...I am so pleased with my handspun collection...growing by leaps and bounds!  <br /><br /><a href="http://farm4.static.flickr.com/3525/3953049495_88e3067152.jpg"><img alt="" border="0" src="http://farm4.static.flickr.com/3525/3953049495_88e3067152.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 500px; height: 375px;" /></a><br /><br />*Zig and Zag Blanket...ah, this is such a treat to work on!  Each and every color change is so invigorating!  Very difficult to put it down...keep wanting to knit one more row and get to another color...<br /><br />*Learning to make pom-poms!  Followed <a href="http://belladia.typepad.com/bella_dia/2006/03/post_1.html">this post here</a>...<br /><br />*Halloween costume in the making...pics of supplies soon, then you guess what it will be!<br /><br />*Recycling a wool sweater...then over-dyeing it...can't wait to see what happens...destined to become a hat.<br /><br />*Snippets...more in the making...new colors, new trimmings...soon to go to Etsy.
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2009/09/wow-hard-to-believe-that-its-been-about.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/09/wow-hard-to-believe-that-its-been-about.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2009-09-26T17:44:00-04:00'>5:44 PM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=5065340568813131366' onclick=''>
+2 comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=5065340568813131366' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=5065340568813131366&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Monday, August 10, 2009</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://farm3.static.flickr.com/2631/3798503207_d462e98dc6.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='615636339353344370' itemprop='postId'/>
+<a name='615636339353344370'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-615636339353344370' itemprop='description articleBody'>
+Some projects getting done.  Yes, a lot of little things needed finishing, and one by one, it's happening.  I'm glad.  I've finished up a garden of <a href="http://www.etsy.com/shop.php?user_id=51751">Snippet Blooms</a>.  <br />Here's one of the blooms...<br /><br /><a href="http://farm3.static.flickr.com/2631/3798503207_d462e98dc6.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2631/3798503207_d462e98dc6.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 500px; height: 375px;" /></a><br /><br />Two are sold, 4 are/will be added to Etsy.  I really enjoy the process of doing them, manipulating bits and pieces of fabrics, one of my loves.  <br /><br />Some knitting coming along too.  The Milkweed Shawl is currently on hold.  I really want to get back to it, but it's a tough knit for me...the lace pattern is no longer repetitive, it changes every couple rows, so it requires much concentration from me...not always able to concentrate like that, at least til everyone's in bed for the night.  So, I needed something that wasn't so restrictive for a bit:  started the Aestlight Shawl KAL (via The Backwards Loop/Ravelry)...in a Miss Babs sock weight yarn, Ironweed Days colorway, purchased from a fellow Raveler's stash...now I'm almost (4 rows away) from being done with the inner garter stitch triangle section.  Ah, I will be glad to be done with that portion and move to the first border section.  I'm going to have to figure out how far I can go with my skein of yarn...before switching out to a complimentary color (awaiting Miss Babs' word on that one).  Oh!  And I have blocking wires now!  Had ordered them from KnitPicks when the Milkweed Shawl was started...so they'll be used eventually anyway!<br /><br />Beginnings of Aestlight Shawl...<br /><br /><a href="http://farm4.static.flickr.com/3437/3803901111_b50d13400e.jpg"><img alt="" border="0" src="http://farm4.static.flickr.com/3437/3803901111_b50d13400e.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 500px; height: 375px;" /></a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2009/08/some-projects-getting-done.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/08/some-projects-getting-done.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2009-08-10T00:17:00-04:00'>12:17 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=615636339353344370' onclick=''>
+6 comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=615636339353344370' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=615636339353344370&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Friday, July 24, 2009</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://farm4.static.flickr.com/3512/3752890620_95f9cfa2b4_o.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='3318003794726002666' itemprop='postId'/>
+<a name='3318003794726002666'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-3318003794726002666' itemprop='description articleBody'>
+I am so entranced by this:<br /><br /><a href="http://farm4.static.flickr.com/3512/3752890620_95f9cfa2b4_o.jpg"><img alt="" border="0" src="http://farm4.static.flickr.com/3512/3752890620_95f9cfa2b4_o.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 340px; height: 340px;" /></a><br /><br />I've longed for a Blythe doll for many years now...just could never justify a doll and clothing collection in my ummm...*later* years... but now, well I must give in to the need! She is on her way to me and I should have her in my hands this next week!  Possibly crazy/silly of me, I know, but exciting!<br /><br />I had to have her though, and now I have my sweet granddaughter to share her with...she'll be very well dressed and much loved I'm sure.
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2009/07/i-am-so-entranced-by-this-ive-longed.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/07/i-am-so-entranced-by-this-ive-longed.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2009-07-24T13:25:00-04:00'>1:25 PM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=3318003794726002666' onclick=''>
+4 comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=3318003794726002666' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=3318003794726002666&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Labels:
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/blythe' rel='tag'>blythe</a>,
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/doll' rel='tag'>doll</a>,
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/lounging%20lovely' rel='tag'>lounging lovely</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Thursday, July 23, 2009</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://bighugelabs.com/thumbs/3c6eb3e5290f7222dde4e397952aeeeb/mosaice792d28d19b6d8aa002765431b665a37339b536f.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='8600637676247471362' itemprop='postId'/>
+<a name='8600637676247471362'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8600637676247471362' itemprop='description articleBody'>
+A little trial from BigHugeLabs...mosaic maker...<a href="http://bighugelabs.com/photos/3c6eb3e5290f7222dde4e397952aeeeb/mosaice792d28d19b6d8aa002765431b665a37339b536f"><img alt="Image hosted @ bighugelabs.com" src="http://bighugelabs.com/thumbs/3c6eb3e5290f7222dde4e397952aeeeb/mosaice792d28d19b6d8aa002765431b665a37339b536f.jpg" /></a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2009/07/little-trial-from-bighugelabs.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/07/little-trial-from-bighugelabs.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2009-07-23T00:12:00-04:00'>12:12 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=8600637676247471362' onclick=''>
+No comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=8600637676247471362' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=8600637676247471362&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Wednesday, July 22, 2009</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://farm3.static.flickr.com/2459/3745804003_371ddce27b.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='792721075925211986' itemprop='postId'/>
+<a name='792721075925211986'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-792721075925211986' itemprop='description articleBody'>
+Wednesday's update on my current work, a custom Snippet Bloom:<br /><br /><a href="http://farm3.static.flickr.com/2459/3745804003_371ddce27b.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2459/3745804003_371ddce27b.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 375px; height: 500px;" /></a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2009/07/wednesdays-update-on-my-current-work.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/07/wednesdays-update-on-my-current-work.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2009-07-22T11:38:00-04:00'>11:38 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=792721075925211986' onclick=''>
+4 comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=792721075925211986' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=792721075925211986&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Tuesday, July 21, 2009</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://farm4.static.flickr.com/3509/3743018793_6994f050e3_o.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='121660552323472912' itemprop='postId'/>
+<a name='121660552323472912'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-121660552323472912' itemprop='description articleBody'>
+Bloom in progress:<br /><br /><a href="http://farm4.static.flickr.com/3509/3743018793_6994f050e3_o.jpg"><img alt="" border="0" src="http://farm4.static.flickr.com/3509/3743018793_6994f050e3_o.jpg" style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 741px; height: 1000px;" /></a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2009/07/bloom-in-progress.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/07/bloom-in-progress.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2009-07-21T15:07:00-04:00'>3:07 PM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=121660552323472912' onclick=''>
+2 comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=121660552323472912' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=121660552323472912&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://farm3.static.flickr.com/2434/3742075901_5ea467ffe0.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='7345177972388765271' itemprop='postId'/>
+<a name='7345177972388765271'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-7345177972388765271' itemprop='description articleBody'>
+A better evening last night, making up some Snippet Blooms for my Etsy shop...I (hooray!) sold a custom bloom a couple days ago and am making up a few for my customer to choose from.  I'm having some trouble sending out messages via etsy with clickable pics though...very frustrating, but I've inquired on a few etsy forums so I'm sure it'll be figured out one way or another...In the meantime, I'm posting the two Snippet Blooms here...<br /><br /><a href="http://farm3.static.flickr.com/2434/3742075901_5ea467ffe0.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2434/3742075901_5ea467ffe0.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 500px; height: 375px;" /></a><br /><a href="http://farm3.static.flickr.com/2472/3742075907_44765083c5.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2472/3742075907_44765083c5.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 500px; height: 375px;" /></a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2009/07/better-evening-last-night-making-up.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/07/better-evening-last-night-making-up.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2009-07-21T09:23:00-04:00'>9:23 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=7345177972388765271' onclick=''>
+2 comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=7345177972388765271' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=7345177972388765271&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Monday, July 20, 2009</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://farm4.static.flickr.com/3446/3741013209_4145d9d1df.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='4220787909549415192' itemprop='postId'/>
+<a name='4220787909549415192'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-4220787909549415192' itemprop='description articleBody'>
+Hectic, stressful past few days.  I came home from work today and the house was quiet but I really needed to de-stress a bit...so headed up to my spinning wheel and did a quick little spin.  I love the state of being I can get into when I'm not overly concerned about fiber thickness...just kinda let my hands do the work and let my mind recover from the past few days...<br />This is about 60 yds, and I have more of the roving to spin...but I needed to spin and ply, just needed the end result to calm my soul.<br /><br /><a href="http://farm4.static.flickr.com/3446/3741013209_4145d9d1df.jpg"><img alt="" border="0" src="http://farm4.static.flickr.com/3446/3741013209_4145d9d1df.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 375px; height: 500px;" /></a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2009/07/hectic-stressful-past-few-days.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/07/hectic-stressful-past-few-days.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2009-07-20T23:59:00-04:00'>11:59 PM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=4220787909549415192' onclick=''>
+4 comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=4220787909549415192' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=4220787909549415192&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Labels:
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/fiber' rel='tag'>fiber</a>,
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/roving' rel='tag'>roving</a>,
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/spinning' rel='tag'>spinning</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Tuesday, July 14, 2009</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://farm4.static.flickr.com/3518/3721180804_f1174787d4_o.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='8809588415288850598' itemprop='postId'/>
+<a name='8809588415288850598'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8809588415288850598' itemprop='description articleBody'>
+Time just goes by so quickly in the summertime doesn't it?  I think it's been only a few days since I've posted, and wham!  Days and days have gone by!  <br />Here's a sneak peek at a project I start tomorrow!  The <a href="http://www.ravelry.com/projects/nonaofsav/milkweed-shawl">Milkweed Shawl</a> KAL is beginning July 15...and I bought some lovely yarn from Stef at The Backwards Loop...take a look:<br /><br /><a href="http://farm4.static.flickr.com/3518/3721180804_f1174787d4_o.jpg"><img alt="" border="0" src="http://farm4.static.flickr.com/3518/3721180804_f1174787d4_o.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 257px; height: 272px;" /></a><br /><br />I am planning on the extensive use of lifelongs along the way...I just cannot "unknit" lace patterns...no way, no how...I'd have to rip the whole thing out...so, luckily I found a fab way for using lifelines...a fellow Ravelers hint...<br /><br />So for now I'm off to wind the yarn for this, get my needles out and ready to cast on.  I'm about half done with a little shrug for my granddaughter, pics to come of that soon.
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2009/07/time-just-goes-by-so-quickly-in.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/07/time-just-goes-by-so-quickly-in.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2009-07-14T13:17:00-04:00'>1:17 PM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=8809588415288850598' onclick=''>
+No comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=8809588415288850598' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=8809588415288850598&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Labels:
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/beckon' rel='tag'>beckon</a>,
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/duncan' rel='tag'>duncan</a>,
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/kal' rel='tag'>kal</a>,
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/knitting' rel='tag'>knitting</a>,
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/Ravelry' rel='tag'>Ravelry</a>,
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/shawl' rel='tag'>shawl</a>,
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/TheBackwardsLoop' rel='tag'>TheBackwardsLoop</a>,
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/three%20irish%20girls' rel='tag'>three irish girls</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Wednesday, July 08, 2009</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://farm3.static.flickr.com/2501/3701333789_61e9e6004f.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='6963797609645714970' itemprop='postId'/>
+<a name='6963797609645714970'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-6963797609645714970' itemprop='description articleBody'>
+My "miraculous" Mara shawl is all but done!  And I love it...I have a few ends to weave in and then I'll do a nice blocking this weekend...but I do love it...so soft and squishy!  I only call it miraculous because I think if I would've been doing this alone I would have given up in frustration and frogged it long ago.  I don't know why, just had a lot of issues with the yarn-overs...I think maybe because of course being a shawl, the triangular nature of the pattern, along with the yarn-overs maybe compounded the problem.  But because I did this via a knit-a-long on Ravelry, well, that saved me...so nice to have the online knitting community to bounce questions off of, what a difference it makes!  Ah well, all is good now, I'm so happy to have the shawl off the needles...so without further ado here is my Mara shawl...<br /><br /><a href="http://farm3.static.flickr.com/2501/3701333789_61e9e6004f.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2501/3701333789_61e9e6004f.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 500px; height: 375px;" /></a><br /><br />now I'm awaiting my yarn for the next KAL I've joined...this time the <a href="http://www.ravelry.com/patterns/library/milkweed-shawl">Milkweed Shawl by Laura Chau</a>...can't wait!
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2009/07/my-miraculous-mara-shawl-is-all-but.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/07/my-miraculous-mara-shawl-is-all-but.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2009-07-08T15:17:00-04:00'>3:17 PM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=6963797609645714970' onclick=''>
+9 comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=6963797609645714970' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=6963797609645714970&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+Labels:
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/knitting' rel='tag'>knitting</a>,
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/mara%20shawl' rel='tag'>mara shawl</a>,
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/milkweed%20shawl' rel='tag'>milkweed shawl</a>,
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/Ravelry' rel='tag'>Ravelry</a>,
+<a href='http://piecesofmylife-victoriag.blogspot.com/search/label/yarn-over' rel='tag'>yarn-over</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Friday, July 03, 2009</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://farm3.static.flickr.com/2443/3685001736_be7e39c10e.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='6122025756784616371' itemprop='postId'/>
+<a name='6122025756784616371'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-6122025756784616371' itemprop='description articleBody'>
+What an awesome mail day today!!!  The mailman brought a large box to the door...and I thought, no, not my basket already!  But, yes!!!  Indeed it was my package from Jennie (<a href="http://www.etsy.com/shop.php?user_id=5414990">sosorosey</a>)!  I had to do a quick photo shoot of it since the presentation was just so cute!  Tied up with fabric strips from my basket...and her card on top tied with a darling little silver heart that says "made with love".  I didn't even open the project keeper til just now to see the other little crochet bowl I had ordered and it is darling!  Pics of that to follow tomorrow :-)  Jennie also included a little magnet and a sweet little gift...Thanks so very much Jennie, you are awesome Etsy seller!  The very best to work with...I am just thrilled and will be back for more!<br /><br /><a href="http://farm3.static.flickr.com/2443/3685001736_be7e39c10e.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2443/3685001736_be7e39c10e.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 500px; height: 375px;" /></a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2009/07/what-awesome-mail-day-today-mailman.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/07/what-awesome-mail-day-today-mailman.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2009-07-03T13:32:00-04:00'>1:32 PM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=6122025756784616371' onclick=''>
+8 comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=6122025756784616371' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=6122025756784616371&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Tuesday, June 30, 2009</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://farm3.static.flickr.com/2503/3675701482_d55a2afa24_o.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='1808795707672925486' itemprop='postId'/>
+<a name='1808795707672925486'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-1808795707672925486' itemprop='description articleBody'>
+Something new for today, and it's just for me!  I came across any etsy seller, <a href="http://www.etsy.com/shop.php?user_id=5414990">sosorosey</a>, who took custom orders for Lidded Project Keepers...now, I always need somewhere to stash my projects, so the name certainly spoke volumes to me!  <a href="http://www.etsy.com/shop.php?user_id=5414990">Jennie of sosorosey</a> was a dream to work with online...she patiently chose combinations from her recycled fabric goodies and sent me fabric selection possibilities from which to choose...then sent "in progress" photos while she crocheted the keeper!  A totally awesome experience, great fun!  My keeper is complete and is shipping to me tomorrow!  Here's a photo of the top of the keeper...<br /><br /><a href="http://farm3.static.flickr.com/2503/3675701482_d55a2afa24_o.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2503/3675701482_d55a2afa24_o.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 430px; height: 430px;" /></a><br /><br />Lovely isn't it???  And now I've asked for a custom keeper that'll be given as a holiday gift for a certain someone...can't say here...shhhhhhh
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2009/06/something-new-for-today-and-its-just.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/06/something-new-for-today-and-its-just.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2009-06-30T11:45:00-04:00'>11:45 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=1808795707672925486' onclick=''>
+5 comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=1808795707672925486' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=1808795707672925486&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Monday, June 29, 2009</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='http://farm3.static.flickr.com/2566/3671410403_0d10849d32.jpg' itemprop='image_url'/>
+<meta content='34801933' itemprop='blogId'/>
+<meta content='6893309972588781954' itemprop='postId'/>
+<a name='6893309972588781954'></a>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-6893309972588781954' itemprop='description articleBody'>
+*edit 11:30am - I've completed the rose brooch...let me know what you think!<br /><br /><a href="http://farm3.static.flickr.com/2566/3671410403_0d10849d32.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2566/3671410403_0d10849d32.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 500px; height: 375px;" /></a><br /><br />A few project photos to share...<br />So far I've gotten just a few rows of the first ribbing done on the Mara shawl.  This yarn really is beautiful to knit with, I've enjoyed the process of this one...<br /><br /><a href="http://farm3.static.flickr.com/2601/3671886902_19baef2318_b.jpg"><img alt="" border="0" src="http://farm3.static.flickr.com/2601/3671886902_19baef2318_b.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 500px; height: 375px;" /></a><br /><br />Part of a swap on Ravelry...I made a few cards and am sending out one of my fabric roses too...the roses will be intro'd to <a href="http://www.etsy.com/shop.php?user_id=51751">my Etsy shop</a> soon.  <br /><br /><br /><a href="http://www.flickr.com/photos/nonaofsav/3671886908/" title="fabric rose and card by scrapnona, on Flickr"><img alt="fabric rose and card" height="375" src="http://farm4.static.flickr.com/3338/3671886908_45807260e2_b.jpg" width="500" /></a><br /><br />And this is my <a href="http://rosylittlethings.com/janemarketbagpattern.html">Jane Market Bag</a>, pattern by <a href="http://www.rosylittlethings.typepad.com/">Alicia Paulson</a>...I had fun making this, though adding the little top-stitched corner edges made me nervous!  All in all it was a very straight-forward pattern, I had no trouble interpreting it, no problem at all.  I am thinking of making a couple for Christmas gifts this year.  Christmas already???  Yep, gotta start thinking about it...I'd love to be able to make the majority of my gifts this year.  <br /> <br /><a href="http://www.flickr.com/photos/nonaofsav/3671886920/" title="Market Bag by scrapnona, on Flickr"><img alt="Market Bag" height="500" src="http://farm3.static.flickr.com/2428/3671886920_685724836c_b.jpg" width="375" /></a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/04126779620245499655' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' title='author profile'>
+<span itemprop='name'>VictoriaG</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://piecesofmylife-victoriag.blogspot.com/2009/06/few-project-photos-to-share.html' itemprop='url'/>
+<a class='timestamp-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/06/few-project-photos-to-share.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2009-06-29T09:18:00-04:00'>9:18 AM</abbr></a>
+</span>
+<span class='reaction-buttons'>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment.g?blogID=34801933&postID=6893309972588781954' onclick=''>
+3 comments:
+    </a>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=34801933&postID=6893309972588781954' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1693641158'>
+<a href='https://www.blogger.com/post-edit.g?blogID=34801933&postID=6893309972588781954&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://piecesofmylife-victoriag.blogspot.com/search?updated-max=2009-06-29T09:18:00-04:00&amp;max-results=50' id='Blog1_blog-pager-older-link' title='Older Posts'>Older Posts</a>
+</span>
+<a class='home-link' href='http://piecesofmylife-victoriag.blogspot.com/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='http://piecesofmylife-victoriag.blogspot.com/feeds/posts/default' target='_blank' type='application/atom+xml'>Posts (Atom)</a>
+</div>
+</div>
+<script type='text/javascript'>
+    window.___gcfg = { 'lang': 'en' };
+  </script>
+</div></div>
+</div>
+</div>
+<div class='column-left-outer'>
+<div class='column-left-inner'>
+<aside>
+</aside>
+</div>
+</div>
+<div class='column-right-outer'>
+<div class='column-right-inner'>
+<aside>
+<div class='sidebar section' id='sidebar-right-1'><div class='widget Image' data-version='1' id='Image2'>
+<h2>OnlineCardClasses</h2>
+<div class='widget-content'>
+<a href='http://onlinecardclasses.com/stenciled/wp-content/uploads/2014/01/STN_participant.png'>
+<img alt='OnlineCardClasses' height='174' id='Image2_img' src='http://4.bp.blogspot.com/-9BV9LXMNVP8/UuKYj_TMNBI/AAAAAAAAAcg/rt0E7u_neE0/s1600/STN_participant.png' width='200'/>
+</a>
+<br/>
+<span class='caption'>Stenciled</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=34801933&widgetType=Image&widgetId=Image2&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image2"));' target='configImage2' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' data-version='1' id='Image1'>
+<h2>Remains of the Day</h2>
+<div class='widget-content'>
+<a href='http://dispatchfromla.typepad.com/dispatch_from_la/rotdoci.html'>
+<img alt='Remains of the Day' height='200' id='Image1_img' src='http://1.bp.blogspot.com/-fyRvnCeWbM4/UsDw9j2Q6eI/AAAAAAAAAL8/LZbZTTUzBpU/s1600/6a00d8341bf79853ef0147e0c02b0f970b-150wi.jpg' width='150'/>
+</a>
+<br/>
+<span class='caption'>with Mary Ann Moss</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=34801933&widgetType=Image&widgetId=Image1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image1"));' target='configImage1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML3'>
+<h2 class='title'>Send me a note...</h2>
+<div class='widget-content'>
+Please click on my profile to find my email address!
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=34801933&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML3"));' target='configHTML3' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML4'>
+<h2 class='title'>My Etsy Shop - please stay tuned for 2014 opening!</h2>
+<div class='widget-content'>
+<a href="http://www.etsy.com/shop.php?user_id=51751">The Very Savvy Snail</a>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=34801933&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML4"));' target='configHTML4' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+<div class='widget LinkList' data-version='1' id='LinkList1'>
+<h2>Favorite Blogs of Mine</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://www.allsorts.typepad.com/'>Allsorts</a></li>
+<li><a href='http://heatherbailey.typepad.com/heather_bailey/'>Hello My Name Is Heather</a></li>
+<li><a href='http://lasteve1.blogspot.com'>LindaAnne.My Passion Is...</a></li>
+<li><a href='http://attic24.typepad.com/weblog/'>attic24</a></li>
+<li><a href='http://www.buttonjunkie.blogspot.com'>button junkie</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=34801933&widgetType=LinkList&widgetId=LinkList1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList1"));' target='configLinkList1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<h2>Blog Archive</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2014/'>
+2014
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2014/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+<ul class='posts'>
+<li><a href='http://piecesofmylife-victoriag.blogspot.com/2014/01/i-love-valentine-papers-and-colors.html'>I love Valentine papers and colors...just had to d...</a></li>
+<li><a href='http://piecesofmylife-victoriag.blogspot.com/2014/01/starting-new-class.html'>Starting a new class!</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2013/'>
+2013
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2013/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2011/'>
+2011
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2011/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2011/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2011/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2011/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2011/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2011/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2010/'>
+2010
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2010/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2010/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2010/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/'>
+2009
+</a>
+<span class='post-count' dir='ltr'>(44)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='http://piecesofmylife-victoriag.blogspot.com/2009/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=34801933&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target='configBlogArchive1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+<table border='0' cellpadding='0' cellspacing='0' class='section-columns columns-2'>
+<tbody>
+<tr>
+<td class='first columns-cell'>
+<div class='sidebar no-items section' id='sidebar-right-2-1'>
+</div>
+</td>
+<td class='columns-cell'>
+<div class='sidebar no-items section' id='sidebar-right-2-2'></div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class='sidebar section' id='sidebar-right-3'><div class='widget Profile' data-version='1' id='Profile1'>
+<h2>About Me</h2>
+<div class='widget-content'>
+<dl class='profile-datablock'>
+<dt class='profile-data'>
+<a class='profile-name-link g-profile' href='https://www.blogger.com/profile/04126779620245499655' rel='author' style='background-image: url(//www.blogger.com/img/logo-16.png);'>
+VictoriaG
+</a>
+</dt>
+</dl>
+<a class='profile-link' href='https://www.blogger.com/profile/04126779620245499655' rel='author'>View my complete profile</a>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=34801933&widgetType=Profile&widgetId=Profile1&action=editWidget&sectionId=sidebar-right-3' onclick='return _WidgetManager._PopupConfig(document.getElementById("Profile1"));' target='configProfile1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div></div>
+</aside>
+</div>
+</div>
+</div>
+<div style='clear: both'></div>
+<!-- columns -->
+</div>
+<!-- main -->
+</div>
+</div>
+<div class='main-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<footer>
+<div class='footer-outer'>
+<div class='footer-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left footer-fauxborder-left'>
+<div class='fauxborder-right footer-fauxborder-right'></div>
+<div class='region-inner footer-inner'>
+<div class='foot no-items section' id='footer-1'></div>
+<table border='0' cellpadding='0' cellspacing='0' class='section-columns columns-2'>
+<tbody>
+<tr>
+<td class='first columns-cell'>
+<div class='foot no-items section' id='footer-2-1'></div>
+</td>
+<td class='columns-cell'>
+<div class='foot no-items section' id='footer-2-2'></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- outside of the include in order to lock Attribution widget -->
+<div class='foot section' id='footer-3' name='Footer'><div class='widget Attribution' data-version='1' id='Attribution1'>
+<div class='widget-content' style='text-align: center;'>
+Simple theme. Powered by <a href='https://www.blogger.com' target='_blank'>Blogger</a>.
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=34801933&widgetType=Attribution&widgetId=Attribution1&action=editWidget&sectionId=footer-3' onclick='return _WidgetManager._PopupConfig(document.getElementById("Attribution1"));' target='configAttribution1' title='Edit'>
+<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+</div>
+<div class='footer-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</footer>
+<!-- content -->
+</div>
+</div>
+<div class='content-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<script type='text/javascript'>
+    window.setTimeout(function() {
+        document.body.className = document.body.className.replace('loading', '');
+      }, 10);
+  </script>
+<script src='https://apis.google.com/js/plusone.js' type='text/javascript'></script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2060351197-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY7vUqMk4j92NXnSIzDUfHPYmcHnKg:1513601546386';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d34801933','//piecesofmylife-victoriag.blogspot.com/','34801933');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '34801933', 'title': 'The Very Savvy Snail', 'url': 'http://piecesofmylife-victoriag.blogspot.com/', 'canonicalUrl': 'http://piecesofmylife-victoriag.blogspot.com/', 'homepageUrl': 'http://piecesofmylife-victoriag.blogspot.com/', 'searchUrl': 'http://piecesofmylife-victoriag.blogspot.com/search', 'canonicalHomepageUrl': 'http://piecesofmylife-victoriag.blogspot.com/', 'blogspotFaviconUrl': 'http://piecesofmylife-victoriag.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22The Very Savvy Snail - Atom\x22 href\x3d\x22http://piecesofmylife-victoriag.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22The Very Savvy Snail - RSS\x22 href\x3d\x22http://piecesofmylife-victoriag.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22The Very Savvy Snail - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/34801933/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/04126779620245499655\x22 /\x3e\n', 'openIdOpTag': '\x3clink rel\x3d\x22openid.server\x22 href\x3d\x22https://www.blogger.com/openid-server.g\x22 /\x3e\n\x3clink rel\x3d\x22openid.delegate\x22 href\x3d\x22http://piecesofmylife-victoriag.blogspot.com/\x22 /\x3e\n', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/771816573-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/0dd3924c44dde034', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Google+', 'key': 'googlePlus', 'shareMessage': 'Share to Google+', 'target': 'googleplus'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'The Very Savvy Snail'}}, {'name': 'features', 'data': {'lazy_images': 'false', 'unsupported_browser_message': 'false', 'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'Simple', 'localizedName': 'Simple', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': false, 'variant': 'pale', 'variantId': 'pale'}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'The Very Savvy Snail', 'description': 'striving to integrate bits and pieces of creative enticement into my everyday life:  vintage bits and baubles, embellishments, ephemera, textiles, and forgotten cast-offs, anything and everything that lends itself to becoming something anew...', 'url': 'http://piecesofmylife-victoriag.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'useNgc': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/415201697-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image2', 'sidebar-right-1', null, document.getElementById('Image2'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image1', 'sidebar-right-1', null, document.getElementById('Image1'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar-right-1', null, document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'sidebar-right-1', null, document.getElementById('HTML4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'sidebar-right-1', null, document.getElementById('LinkList1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar-right-1', null, document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar-right-3', null, document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer-3', null, document.getElementById('Attribution1'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>
